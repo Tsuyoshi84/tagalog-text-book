@@ -13,7 +13,6 @@ on:
       - ready_for_review
     paths:
       - "**/*.*"
-      - "!**/*.md"
       - "!.cursorrules"
       - "!.cursor/**"
       - "!.vscode/**"
