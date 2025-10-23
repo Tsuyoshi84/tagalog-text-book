@@ -149,7 +149,7 @@ Hokkien Chinese has significantly influenced Manila Tagalog:
 
 | Tagalog | Hokkien Origin | English |
 | ------- | -------------- | ------- |
-| *Suki* | 熟 (siōk) | Regular customer |
+| *Suki* | 熟 (sio̍k) | Regular customer |
 | *Ate* | 阿姐 (a-tsi) | Older sister (but also native Tagalog) |
 | *Kuya* | 哥哥 (ko-ko) | Older brother (but also native Tagalog) |
 | *Pansit* | 便食 (piān-si̍t) | Noodles |
@@ -184,8 +184,8 @@ Spanish loanwords vary in usage by region and generation:
 
 **Example:**
 
-- *Nag-meet kami sa coffee shop, tapos nag-discuss ng project.*  
-  (We met at the coffee shop, then discussed the project.)
+- *Nag-meet kami sa mall, tapos nag-shopping.*  
+  (We met at the mall, then went shopping.)
 
 **Rural Areas:**
 - More pure Tagalog usage

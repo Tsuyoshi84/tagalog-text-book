@@ -293,7 +293,7 @@ Modern Philippines exhibits complex language use:
 
 **Example:**
 
-- *Nag-meeting kami kanina about sa project, tapos na-discuss na namin yung timeline.*  
+- *Nag-meeting kami kanina about sa project, tapos nag-discuss na kami ng timeline.*  
   (We had a meeting earlier about the project, and we already discussed the timeline.)
 
 See also: [Taglish](../expressions/taglish.md)
