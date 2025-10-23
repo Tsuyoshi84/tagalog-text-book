@@ -4,7 +4,7 @@ description: "Learn how Tagalog verbs use different focus markers like -um-, mag
 outline: [2, 3]
 ---
 
-## Tagalog Verb Focus System
+# Tagalog Verb Focus System
 
 ## Overview
 
