@@ -102,9 +102,11 @@ Meaning: Achieved through good timing or luck rather than effort.
 
 Literal: Rotten tomato
 
-Meaning: Old maid, unmarried woman past typical marriage age (considered offensive).
+Meaning: Old maid, unmarried woman past typical marriage age.
 
-- Usage note: This idiom is outdated and offensive; avoid using it.
+::: warning Offensive Term
+This idiom is outdated and offensive; avoid using it.
+:::
 
 ---
 

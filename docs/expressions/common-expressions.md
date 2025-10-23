@@ -592,7 +592,10 @@ Very. / Extremely. (used before adjectives)
 ### English
 Very. / Extremely. (prefix for adjectives)
 
-Example: *Napakaganda.* (Very beautiful.)
+Example:
+
+- *Napakaganda.*  
+  (Very beautiful.)
 
 ---
 
