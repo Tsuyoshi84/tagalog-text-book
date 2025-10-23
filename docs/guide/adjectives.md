@@ -53,11 +53,15 @@ When adjectives modify nouns, they are connected with linkers (*na* or *-ng*).
 
 ### Adjective + Linker + Noun
 
-| After Vowel (*na*) | After Consonant (*-ng*) |
-| ------------------ | ----------------------- |
-| *magandang bahay* | *magandang bahay* |
-| *maliit na bata* | *maliit na bata* |
-| *masarap na pagkain* | *masarap na pagkain* |
+| After Vowel (attach *-ng*) | After Consonant (separate *na*) |
+| -------------------------- | ------------------------------- |
+| *maganda* + *-ng* → *magandang bahay* | *maliit na bata* |
+| *malaki* + *-ng* → *malaking isda* | *masarap na pagkain* |
+| *bayan* → drop final *n* + *-ng* → *bayang tahimik* | *mabilis na kotse* |
+
+::: tip Linker Rules
+Use *-ng* when the preceding word ends in a vowel; attach directly (e.g., *maganda* → *magandang bahay*). Use *na* as a separate word when the preceding word ends in a consonant other than *n* (e.g., *maliit na bata*). If the word ends in *n*, drop *n* before adding *-ng* (e.g., *bayan* → *bayang tahimik*; *daan* → *daang mahaba*).
+:::
 
 Examples:
 
@@ -139,7 +143,7 @@ Color adjectives describe appearance:
 | *kulay-abo* | gray |
 | *kulay-kahel* | orange |
 | *lila* | purple |
-| *kayumanggi* | brown (skin tone) |
+| *kayumanggi*[^kayumanggi] | brown (skin tone) |
 | *kulay-kape* | brown (coffee-colored) |
 
 Examples:
@@ -154,6 +158,8 @@ Examples:
 ::: info Spanish Influence
 Some colors are borrowed from Spanish: *rosas* (pink), *gris* (gray), though Tagalog alternatives exist.
 :::
+
+[^kayumanggi]: *Kayumanggi* traditionally refers to a natural medium brown Filipino skin tone. It is a neutral descriptive term and should be used respectfully.
 
 ## Degrees of Comparison
 
@@ -211,9 +217,11 @@ Use *kasing-* or *sing-* prefix:
   (The car is as fast as the wind.)
 
 ::: tip Comparison Summary
+
 - Comparative: *mas* + adjective + *kaysa*
 - Superlative: *pinaka-* + adjective
 - Equality: *kasing-* / *sing-* + adjective
+
 :::
 
 ## Intensifiers
@@ -436,6 +444,6 @@ Tagalog adjectives are characterized by:
 6. Connection to nouns via linkers (*na* / *-ng*)
 7. Extensive borrowing from Spanish and English
 
-Mastering adjectives enables rich and precise description in Tagalog.
+Understanding adjective patterns enables precise and culturally appropriate description in Tagalog.
 
-See also: [Nouns](./nouns.md), [Sentence Structure](./sentence-structure.md), [Particles](./particles.md)
+See also: [Nouns](./nouns.md), [Sentence Structure](./sentence-structure.md), [Particles](./particles.md), [Parts of Speech](./parts-of-speech.md)
