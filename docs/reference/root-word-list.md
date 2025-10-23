@@ -107,7 +107,7 @@ This reference lists common Tagalog root words organized by category. Root words
 |------|---------|------------------|---------|-------------|
 | *bago* | new/change | *magbago* | *Nagbago ang panahon.* | The weather changed. |
 | *sira* | break/damage | *masira* | *Nasira ang telebisyon.* | The TV broke. |
-| *putol* | cut | *pumutas* | *Pumutol siya ng papel.* | He/She cut paper. |
+| *putol* | cut | *pumutol* | *Pumutol siya ng papel.* | He/She cut paper. |
 | *basag* | break (brittle) | *mabasag* | *Nabasag ang baso.* | The glass broke. |
 | *bukas* | open | *magbukas* | *Nagbukas siya ng pinto.* | He/She opened the door. |
 | *sara* | close | *magsara* | *Nagsara ang tindahan.* | The store closed. |

@@ -243,7 +243,7 @@ Causative affixes indicate that the subject causes someone else to perform an ac
 | Affix | Function | Example Root | Noun | English |
 |-------|----------|--------------|------|---------|
 | *mang-* | Forms noun for person who habitually does action | *isda* | *mangingisda* | fisherman |
-| *mang-* | Same pattern | *ani* | *magsasaka* | farmer |
+| *mang-* | Same pattern | *saka* | *magsasaka* | farmer |
 | *mang-* | Same pattern | *gulo* | *mánguguló* | troublemaker |
 
 ## Adjective-Forming Affixes
