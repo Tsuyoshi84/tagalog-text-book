@@ -4,15 +4,12 @@ layout: home
 
 hero:
   name: "Tagalog Text Book"
-  text: "Tagalog Text Book for Everyone"
-  tagline: My great project tagline
+  text: "Master Tagalog with Clarity"
+  tagline: Precise grammar, practical usage, cultural context.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Start Learning
+      link: /guide
 
 features:
   - title: Comprehensive Grammar Guide
