@@ -71,8 +71,8 @@ Use *Hindi po* when speaking to elders or in formal situations: *Hindi po ako ku
   (Is there anyone inside? - No one.)
 
 ::: info *Wala* vs. *Walang*
-Use *walang* before nouns: *Walang tubig* (No water).
-Use *wala* alone or with pronouns: *Wala ako.* (I don't have any.)
+Use *walang* before the noun being negated: *Walang tubig* (No water).
+Use *wala* when followed by a pronoun or when standing alone: *Wala ako.* (I don't have any.) / *Wala siyang pera.* (He/She doesn't have money.)
 :::
 
 ## *Hindi* vs. *Wala*

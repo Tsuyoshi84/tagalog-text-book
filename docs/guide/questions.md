@@ -179,9 +179,10 @@ Asks about location or direction.
   (Where is he/she?)
 
 ::: info *Saan* vs. *Nasaan*
-*Nasaan* (nasa + saan) specifically asks "where is/are" for current location.
-- *Saan ka pupunta?* (Where are you going?)
-- *Nasaan ang susi?* (Where are the keys?)
+*Nasaan* is a contraction of *nasa* (locative marker meaning "at/in") + *saan* (where). It specifically asks "where is/are" for current location.
+- *Saan ka pupunta?* (Where are you going?) - directional
+- *Nasaan ang susi?* (Where are the keys?) - current location
+- *Nasa* means "is at/in," so *Nasaan* literally asks "is at where?"
 :::
 
 ### Directional Questions
@@ -512,7 +513,7 @@ Match the response to the question type:
 ## Regional Variations
 
 ::: details Dialectal Differences
-Some regions may use variant question forms or different word order preferences. The forms presented here represent standard Manila Tagalog.
+Some regions may use variant question forms or different word order preferences. For example, some areas use *diin* instead of *saan* for "where," or *pila* instead of *ilan* for "how many" (influenced by regional languages). The forms presented here represent standard Manila Tagalog.
 :::
 
 ## Common Errors

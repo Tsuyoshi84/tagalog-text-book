@@ -139,6 +139,8 @@ Introduces past time clauses:
 
 ::: warning *Nang* vs. *Ng*
 Don't confuse *nang* (when/how) with *ng* (case marker). They're pronounced the same but have different functions.
+- *nang* = when (time) or how (manner)
+- *ng* = case marker for non-topic nouns
 :::
 
 #### *Habang* (While)
@@ -441,8 +443,9 @@ Some regions prefer certain connectors over others. For example, *kasi* is unive
 
 ### Confusing *Nang* and *Ng*
 
-- Incorrect: *Kumain ako ng makauwi.* (case marker)
-- Correct: *Kumain ako nang makauwi.* (when)
+- Incorrect: *Kumain ako ng makauwi.* (incorrect - *ng* is a case marker, not a temporal conjunction)
+- Correct: *Kumain ako nang makauwi.* (when I got home)
+- Also correct: *Kumain ako nang mabilis.* (ate quickly - manner)
 
 ### Overusing *Kasi*
 
