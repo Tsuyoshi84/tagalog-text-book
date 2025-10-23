@@ -83,8 +83,12 @@ Examples:
   (Mother is in the kitchen.)
 - *Ibigay mo kay Pedro.*  
   (Give it to Pedro.)
-- *Nakita ko sila sa kina Rosa.*  
+- *Nakita ko sila kay Rosa.*  
   (I saw them at Rosa's place.)
+
+::: info Kay vs. Kina
+*Kay* marks a single personal name; *kina* marks multiple personal names: *kina Maria at Ana*.
+:::
 
 ## Linkers
 
@@ -92,10 +96,12 @@ Linkers connect modifiers to nouns and link clauses. They have two forms dependi
 
 ### Linker Forms
 
-| Form | After | Example |
-| ---- | ----- | ------- |
-| *-ng* | Consonant | *malaking bahay* (big house) |
-| *na* | Vowel | *maganda na dalaga* (beautiful lady) |
+| Form | Follows word ending in | Example |
+| ---- | ---------------------- | ------- |
+| *-ng* (attached) | Vowel | *magandang dalaga* (beautiful lady) |
+| *na* (separate) | Consonant | *mataas na puno* (tall tree) |
+
+Use attached *-ng* after a word ending in a vowel (write it without a space). Use separate *na* after a word ending in a consonant. The linker creates smooth connection between a modifier and the noun or clause that follows.
 
 ### Adjective-Noun Connection
 
@@ -105,6 +111,8 @@ Linkers connect modifiers to nouns and link clauses. They have two forms dependi
   (kind child)
 - *masarap na pagkain*  
   (delicious food)
+- *magandang bahay*  
+  (beautiful house)
 
 ### Numeral-Noun Connection
 
@@ -130,6 +138,10 @@ Linkers also connect clauses:
   (I know that you already ate.)
 - *Sabi niya'y mahal niya ako.*  
   (He/She said that he/she loves me.)
+
+::: info Contraction Pattern
+*Kong* = *ko + ng*; *niya'y* = *niya + ay*; *ako'y* = *ako + ay*.
+:::
 
 ::: tip Contraction
 *Na* often contracts with preceding words: *niya + ay* → *niya'y*, *ako + ay* → *ako'y*.
@@ -178,7 +190,7 @@ Examples:
 
 More examples:
 
-- *Pupunta ka sa pista ba?*  
+- *Pupunta ka ba sa pista?*  
   (Will you go to the festival?)
 - *Mahal mo ba ako?*  
   (Do you love me?)
@@ -300,6 +312,7 @@ Means "also" or "too":
 
 ::: info *Din* vs. *Rin*
 Use *din* after consonants, *rin* after vowels:
+
 - *Kumain din* (after *n*)
 - *Ako rin* (after *o*)
 :::
