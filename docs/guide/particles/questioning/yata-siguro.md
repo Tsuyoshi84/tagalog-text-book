@@ -600,7 +600,7 @@ Master subtle nuances, complex combinations, and natural conversation flow.
 #### Pattern 1: Layered Inference
 
 - *Pagod yata siya kasi ang tahimik niya.*  
-  (He/she's probably tired because he's/she's so quiet.)
+  (He/she is probably tired because he/she is so quiet.)
 - *Hindi siguro siya pupunta kasi umulan.*  
   (He/she probably won't come because it rained.)
 - *Gutom na yata ako, kumakalam na ang tiyan ko.*  
@@ -627,7 +627,7 @@ Master subtle nuances, complex combinations, and natural conversation flow.
 #### Pattern 4: Complex Observations
 
 - *Malapit na yata siyang dumating kasi nag-text na siya.*  
-  (He's/she's probably about to arrive because he/she already texted.)
+  (He/she is probably about to arrive because he/she already texted.)
 - *Matanda na siguro ang building na ito kasi luma na ang design.*  
   (This building is probably old because the design is dated.)
 
@@ -702,7 +702,7 @@ Choose *yata*/*siguro* (uncertainty) or *pala* (discovery):
 3. *Matanda ___ siya.* (You're guessing based on appearance)  
    → *Matanda yata siya.* or *Matanda siguro siya.* (He/she is probably old.)
 4. *Matanda ___ siya!* (You just found out their age)  
-   → *Matanda pala siya!* (Oh, he's/she's old! - discovered)
+   → *Matanda pala siya!* (Oh, he/she is old! - discovered)
 
 ### Exercise 3: Polite Corrections
 
