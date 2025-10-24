@@ -201,9 +201,9 @@ Asks about continued state affecting multiple subjects:
 
 Expresses stronger disbelief or surprise:
 
-- *Totoo talaga ba?*  
+- *Totoo ba talaga?*
   (Is it really true?)
-- *Pupunta ka talaga ba?*  
+- *Pupunta ka ba talaga?*
   (Are you really going?)
 
 ### *Lang* + *Ba* (Just/Only? - Limiting Question)
