@@ -95,14 +95,14 @@ When the preceding word ends with a vowel sound, use *raw*:
 
 | Preceding Word | Ends With | Particle | Example | Translation |
 | -------------- | --------- | -------- | ------- | ----------- |
-| *siya* | vowel "a" | *raw* | *Sakit raw ng ulo niya.* | His/her head supposedly hurts. |
-| *ako* | vowel "o" | *raw* | *Pupunta raw ako.* (quoted) | I'm supposedly going. |
-| *sila* | vowel "a" | *raw* | *Umuwi na raw sila.* | They supposedly went home. |
-| *kayo* | vowel "o" | *raw* | *Gutom raw kayo.* | You all are supposedly hungry. |
-| *si Ana* | vowel "a" | *raw* | *Abala raw si Ana.* | Ana is supposedly busy. |
-| *Juan* | consonant "n" | *daw* | *Galing daw si Juan.* | Juan supposedly came. |
-| *tao* | vowel "o" | *raw* | *Mabait raw ang tao.* | The person is supposedly kind. |
-| *nila* | vowel "a" | *raw* | *Bahay raw nila ito.* | This is supposedly their house. |
+| *siya* | vowel "a" | *raw* | *Siya raw ang darating.* | He/she is supposedly the one coming. |
+| *ako* | vowel "o" | *raw* | *Ako raw ang tinawag nila.* | I'm supposedly the one they called. |
+| *kayo* | vowel "o" | *raw* | *Kayo raw ang bahala dito.* | You all are supposedly in charge here. |
+| *sila* | vowel "a" | *raw* | *Sila raw ang nagdesisyon.* | They supposedly made the decision. |
+| *Juan* | consonant "n" | *daw* | *Juan daw ang tumawag.* | Juan supposedly made the call. |
+| *gutom* | consonant "m" | *daw* | *Gutom daw sila.* | They are supposedly hungry. |
+| *mabait* | consonant "t" | *daw* | *Mabait daw ang guro.* | The teacher is supposedly kind. |
+| *sakit* | consonant "t" | *daw* | *Sakit daw ng ulo niya.* | His/her head supposedly hurts. |
 
 ::: warning Common Confusion
 Native speakers sometimes interchange *daw* and *raw* in rapid speech, but the phonetic rule is the standard. As a learner, following the rule will sound more natural.
@@ -116,11 +116,11 @@ Native speakers sometimes interchange *daw* and *raw* in rapid speech, but the p
 
 Commonly placed after the verb in the sentence:
 
-- *Uuwi daw siya ngayon.*  
+- *Uuwi raw siya ngayon.*
   (He/she is supposedly going home now.)
-- *Bumili raw sila ng bagong kotse.*  
-  (They supposedly bought a new car.)
-- *Natulog na daw ang bata.*  
+- *Bumalik daw sila kagabi.*
+  (They supposedly came back last night.)
+- *Natulog na raw ang bata.*
   (The child supposedly already slept.)
 
 ### After the Subject
