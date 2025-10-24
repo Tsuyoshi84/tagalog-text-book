@@ -142,11 +142,11 @@ Expresses deferral or "not yet":
 
 Asks about priority or sequence:
 
-- *Kumain ka muna ba?*  
+- *Kumain ka ba muna?*
   (Will you eat first?)
-- *Dito muna ba tayo?*  
+- *Dito ba muna tayo?*
   (Should we be here first?)
-- *Ano muna ba ang gagawin natin?*  
+- *Ano ba muna ang gagawin natin?*
   (What should we do first?)
 
 ### *Muna* + *Ako/Ka/Siya* (I/You/He/She First)
@@ -484,7 +484,7 @@ Focus on basic priority and simple "first" statements.
 
 - *Ano muna?*  
   (What first?)
-- *Kumain ka muna ba?*  
+- *Kumain ka ba muna?*
   (Will you eat first?)
 - *Saan muna tayo?*  
   (Where should we go first?)
@@ -621,7 +621,7 @@ Key points about *muna*:
 - **Primary functions**: Prioritization (first, before something else), temporary state (for now), deferral (not yet, later)
 - **Position**: Enclitic - follows the word it modifies
 - **Key difference**: Unlike *na* (already) or *pa* (still), *muna* focuses on sequence and temporary actions
-- **Common combinations**: *muna ba* (first?), *huwag muna* (not yet), *sandali muna* (wait a moment), *ito/dito muna* (this/here for now)
+- **Common combinations**: *ba muna* (first?), *huwag muna* (not yet), *sandali muna* (wait a moment), *ito/dito muna* (this/here for now)
 - **Cultural role**: Reflects Filipino values of deference, flexibility, indirect communication, and adaptive sequencing
 - **Learning focus**: Master basic "first" priority meaning, then temporary states, then cultural deference patterns
 
