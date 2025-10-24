@@ -77,11 +77,12 @@ docs/
 
 ## 🧭 General Policy
 
-- The site’s tone is **neutral, educational, and concise** — like a textbook.
+- The site's tone is **neutral, educational, and concise** — like a textbook.
 - Use **English explanations** with **Tagalog examples**.
 - Every Tagalog example must include an **English translation**.
-- Avoid redundancy; link related topics using relative Markdown links (`../verbs/affixes.md`).
+- Link related topics using relative Markdown links (`../verbs/affixes.md`).
 - Maintain consistency across all pages.
+- Avoid redundancy.
 
 ---
 
@@ -100,6 +101,8 @@ description: "Learn how Tagalog verbs use different focus markers like -um-, mag
 outline: [2, 3]
 ---
 ````
+
+---
 
 - Add `#` title after frontmatter.
 - Use `##` for main sections and `###` for subsections.
@@ -171,16 +174,21 @@ Project overview, contributors, and license.
 - Translate Tagalog examples into English below each line.
 - Use **tables** for structured comparisons.
 - Use **Oxford commas**.
-- Avoid personal tone or filler text.
 - Write in **present tense** and **third person**.
-- Do not use “I”, “we”, or “you”.
+- Avoid personal tone or filler text.
+- Do not use "I", "we", or "you".
+- Use emojis effectively to improve readability when appropriate:
+  - ❌ Wrong example / ✅ Correct example
+  - 📝 Notes or important points
+  - ⚠️ Warnings or cautions
+  - 💡 Tips or insights
 
 ---
 
 ## 🌐 Navigation Rules
 
 - Each directory includes an `index.md` summarizing its contents.
-- Add “See also” links to related topics.
+- Add "See also" links to related topics.
   Example: `See also: [Verb Aspect](./aspect.md)`
 - Match sidebar structure with this folder layout.
 
@@ -210,7 +218,7 @@ AI agents (Copilot, Cursor, ChatGPT, CodeRabbit, etc.) must:
 1. Follow this file as the **single source of truth**.
 2. Automatically generate Markdown pages from this structure.
 3. Use consistent terms (`focus`, `aspect`, `affix`).
-4. Never generate filler like “TBD” or “Lorem ipsum”.
+4. Never generate filler like "TBD" or "Lorem ipsum".
 5. Automatically link new files in `index.md`.
 6. Respect grammar accuracy and cultural sensitivity.
 
@@ -218,7 +226,7 @@ AI agents (Copilot, Cursor, ChatGPT, CodeRabbit, etc.) must:
 
 ## 🧠 Examples
 
-✅ **Good**
+**Good**
 
 ```md
 ## Object-Focus Verbs
@@ -229,7 +237,7 @@ Example:
   (The mango was eaten by Maria.)
 ```
 
-❌ **Bad**
+**Bad**
 
 ```md
 This section will be written later.
@@ -418,17 +426,17 @@ See also: [Verb Aspect](./aspect.md), [Affixes](./affixes.md)
 
 ### 14. Prohibited Patterns
 
-- No placeholder text (never write “TBD”).
+- No placeholder text (never write "TBD").
 - No raw HTML unless needed for width / alt attributes.
 - No first-person narrative.
 
 ### 15. Quality Checklist Before Commit
 
-- [ ] Frontmatter present
-- [ ] Tagalog examples italic + translation
-- [ ] Table columns aligned with spec
-- [ ] “See also” links included where relevant
-- [ ] No redundant explanation duplicated elsewhere
+- Frontmatter present
+- Tagalog examples italic + translation
+- Table columns aligned with spec
+- "See also" links included where relevant
+- No redundant explanation duplicated elsewhere
 
 ---
 
