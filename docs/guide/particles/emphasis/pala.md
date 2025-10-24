@@ -152,7 +152,7 @@ Expresses understanding the reason for something:
   (So that's why you're late - traffic.)
 - *Kaya pala mainit, walang aircon.*  
   (I see why it's hot - no air conditioning.)
-- *Kaya pala pala hindi siya dumating, may sakit.*  
+- *Kaya pala hindi siya dumating, may sakit.*  
   (So that's why he/she didn't come - sick.)
 
 ### *Oo Pala* (Oh Yes, That's Right)
