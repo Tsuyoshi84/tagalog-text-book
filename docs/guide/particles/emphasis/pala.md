@@ -174,7 +174,7 @@ Expresses realization about a situation:
   (Oh, so that's what happened.)
 - *Ganyan pala ang sistema.*  
   (So that's how the system works.)
-- *Ganon pala ba?*  
+- *Ganon ba pala?*  
   (Is that how it is?)
 
 ### *Saan Pala* / *Sino Pala* / *Ano Pala* (Question + Realization)
@@ -188,13 +188,13 @@ Asks while realizing you need to know:
 - *Ano pala ang pangalan mo?*  
   (What's your name again? - realized I should know)
 
-### *Pala* + *Ba* (Surprised Question)
+### *Ba* + *Pala* (Surprised Question)
 
 Adds surprise to a question:
 
-- *Nandito ka pala ba?*  
+- *Nandito ka ba pala?*  
   (Oh, you're here? - surprised and questioning)
-- *Totoo pala ba ito?*  
+- *Totoo ba pala ito?*  
   (So this is true? - surprised realization)
 
 ## Nuances and Tone
@@ -504,7 +504,7 @@ Express relief, disappointment, or other emotions:
   (Oh yes by the way, how is Juan doing now?)
 - *Kaya pala ganyan, alam ko na pala.*  
   (So that's why it's like that, now I understand.)
-- *Dito ka pala ba talaga nakatira?*  
+- *Dito ka ba pala talaga nakatira?*  
   (Do you really live here? - surprised question)
 
 #### Pattern 4: Natural Conversation Flow
