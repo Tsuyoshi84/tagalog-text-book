@@ -10,315 +10,72 @@ Tagalog greetings vary by time of day, formality level, and relationship between
 
 ## Basic Greetings
 
-### Tagalog
-*Kumusta?*
-
-### English
-How are you?
-
----
-
-### Tagalog
-*Kumusta ka?*
-
-### English
-How are you? (informal)
-
----
-
-### Tagalog
-*Kumusta po kayo?*
-
-### English
-How are you? (formal/respectful)
-
----
-
-### Tagalog
-*Mabuti naman.*
-
-### English
-I'm fine.
-
----
-
-### Tagalog
-*Mabuti naman, salamat.*
-
-### English
-I'm fine, thank you.
-
----
-
-### Tagalog
-*Okay lang.*
-
-### English
-I'm okay.
+| Tagalog | English |
+| ------- | ------- |
+| *Kumusta?* | How are you? |
+| *Kumusta ka?* | How are you? (informal) |
+| *Kumusta po kayo?* | How are you? (formal/respectful) |
+| *Mabuti naman.* | I'm fine. |
+| *Mabuti naman, salamat.* | I'm fine, thank you. |
+| *Okay lang.* | I'm okay. |
 
 ## Time-Based Greetings
 
-### Tagalog
-*Magandang umaga.*
-
-### English
-Good morning.
-
----
-
-### Tagalog
-*Magandang umaga po.*
-
-### English
-Good morning. (formal)
-
----
-
-### Tagalog
-*Magandang tanghali.*
-
-### English
-Good noon.
-
----
-
-### Tagalog
-*Magandang hapon.*
-
-### English
-Good afternoon.
-
----
-
-### Tagalog
-*Magandang gabi.*
-
-### English
-Good evening.
-
----
-
-### Tagalog
-*Magandang gabi po.*
-
-### English
-Good evening. (formal)
+| Tagalog | English |
+| ------- | ------- |
+| *Magandang umaga.* | Good morning. |
+| *Magandang umaga po.* | Good morning. (formal) |
+| *Magandang tanghali.* | Good noon. |
+| *Magandang hapon.* | Good afternoon. |
+| *Magandang gabi.* | Good evening. |
+| *Magandang gabi po.* | Good evening. (formal) |
 
 ## Introductions
 
-### Tagalog
-*Ako si Maria.*
-
-### English
-I am Maria.
-
----
-
-### Tagalog
-*Ano ang pangalan mo?*
-
-### English
-What is your name?
-
----
-
-### Tagalog
-*Ano po ang pangalan ninyo?*
-
-### English
-What is your name? (formal)
-
----
-
-### Tagalog
-*Ikinagagalak kong makilala ka.*
-
-### English
-Pleased to meet you.
-
----
-
-### Tagalog
-*Ikinagagalak ko pong makilala kayo.*
-
-### English
-Pleased to meet you. (formal)
-
----
-
-### Tagalog
-*Saan ka galing?*
-
-### English
-Where are you from?
-
----
-
-### Tagalog
-*Taga-saan ka?*
-
-### English
-Where are you from? (colloquial)
+| Tagalog | English |
+| ------- | ------- |
+| *Ako si Maria.* | I am Maria. |
+| *Ano ang pangalan mo?* | What is your name? |
+| *Ano po ang pangalan ninyo?* | What is your name? (formal) |
+| *Ikinagagalak kong makilala ka.* | Pleased to meet you. |
+| *Ikinagagalak ko pong makilala kayo.* | Pleased to meet you. (formal) |
+| *Saan ka galing?* | Where are you from? |
+| *Taga-saan ka?* | Where are you from? (colloquial) |
 
 ## Partings
 
-### Tagalog
-*Paalam.*
-
-### English
-Goodbye.
-
----
-
-### Tagalog
-*Paalam po.*
-
-### English
-Goodbye. (formal)
-
----
-
-### Tagalog
-*Sige.*
-
-### English
-Okay/Bye. (casual)
-
----
-
-### Tagalog
-*Ingat.*
-
-### English
-Take care.
-
----
-
-### Tagalog
-*Ingat ka.*
-
-### English
-Take care. (informal)
-
----
-
-### Tagalog
-*Hanggang sa muli.*
-
-### English
-Until we meet again.
-
----
-
-### Tagalog
-*Kita tayo bukas.*
-
-### English
-See you tomorrow.
-
----
-
-### Tagalog
-*Mamaya na lang.*
-
-### English
-See you later.
+| Tagalog | English |
+| ------- | ------- |
+| *Paalam.* | Goodbye. |
+| *Paalam po.* | Goodbye. (formal) |
+| *Sige.* | Okay/Bye. (casual) |
+| *Ingat.* | Take care. |
+| *Ingat ka.* | Take care. (informal) |
+| *Hanggang sa muli.* | Until we meet again. |
+| *Kita tayo bukas.* | See you tomorrow. |
+| *Mamaya na lang.* | See you later. |
 
 ## Gratitude and Apologies
 
-### Tagalog
-*Salamat.*
-
-### English
-Thank you.
-
----
-
-### Tagalog
-*Salamat po.*
-
-### English
-Thank you. (formal)
-
----
-
-### Tagalog
-*Maraming salamat.*
-
-### English
-Thank you very much.
-
----
-
-### Tagalog
-*Walang anuman.*
-
-### English
-You're welcome.
-
----
-
-### Tagalog
-*Pasensya na.*
-
-### English
-Sorry/Excuse me.
-
----
-
-### Tagalog
-*Pasensya na po.*
-
-### English
-Sorry/Excuse me. (formal)
-
----
-
-### Tagalog
-*Patawad.*
-
-### English
-I'm sorry. (seeking forgiveness)
-
----
-
-### Tagalog
-*Sori.* / *Sorry.*
-
-### English
-Sorry. (borrowed English word, common in casual speech)
+| Tagalog | English |
+| ------- | ------- |
+| *Salamat.* | Thank you. |
+| *Salamat po.* | Thank you. (formal) |
+| *Maraming salamat.* | Thank you very much. |
+| *Walang anuman.* | You're welcome. |
+| *Pasensya na.* | Sorry/Excuse me. |
+| *Pasensya na po.* | Sorry/Excuse me. (formal) |
+| *Patawad.* | I'm sorry. (seeking forgiveness) |
+| *Sori.* / *Sorry.* | Sorry. (borrowed English word, common in casual speech) |
 
 ## Polite Expressions
 
-### Tagalog
-*Excuse me po.*
-
-### English
-Excuse me. (getting attention)
-
----
-
-### Tagalog
-*Paumanhin po.*
-
-### English
-Excuse me/Pardon me. (formal apology)
-
----
-
-### Tagalog
-*Pwede po?*
-
-### English
-May I? (asking permission)
-
----
-
-### Tagalog
-*Oo, sige.*
-
-### English
-Yes, go ahead.
+| Tagalog | English |
+| ------- | ------- |
+| *Excuse me po.* | Excuse me. (getting attention) |
+| *Paumanhin po.* | Excuse me/Pardon me. (formal apology) |
+| *Pwede po?* | May I? (asking permission) |
+| *Oo, sige.* | Yes, go ahead. |
 
 ::: tip Cultural Note
 Adding *po* and *ho* shows respect and is expected when speaking to elders, authority figures, or strangers. Omitting these particles when appropriate can be considered rude.[^po]

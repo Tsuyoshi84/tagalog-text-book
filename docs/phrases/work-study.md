@@ -10,851 +10,164 @@ Professional and educational phrases for workplace communication, academic setti
 
 ## Office and Workplace
 
-### Tagalog
-*Magandang umaga sa inyong lahat.*
-
-### English
-Good morning to all of you.
-
----
-
-### Tagalog
-*Pasensya na, nale-late ako.*
-
-### English
-Sorry, I'm running late.
-
----
-
-### Tagalog
-*Ano ang schedule ko ngayon?*
-
-### English
-What is my schedule today?
-
----
-
-### Tagalog
-*May meeting ba tayo?*
-
-### English
-Do we have a meeting?
-
----
-
-### Tagalog
-*Anong oras ang meeting?*
-
-### English
-What time is the meeting?
-
----
-
-### Tagalog
-*Saan ang meeting?*
-
-### English
-Where is the meeting?
-
----
-
-### Tagalog
-*May report ako.*
-
-### English
-I have a report.
-
----
-
-### Tagalog
-*Tapos na ang report ko.*
-
-### English
-My report is finished.
-
----
-
-### Tagalog
-*Kailan ang deadline?*
-
-### English
-When is the deadline?
-
----
-
-### Tagalog
-*Pwede bang i-extend ang deadline?*
-
-### English
-Can the deadline be extended?
+| Tagalog | English |
+| ------- | ------- |
+| *Magandang umaga sa inyong lahat.* | Good morning to all of you. |
+| *Pasensya na, nale-late ako.* | Sorry, I'm running late. |
+| *Ano ang schedule ko ngayon?* | What is my schedule today? |
+| *May meeting ba tayo?* | Do we have a meeting? |
+| *Anong oras ang meeting?* | What time is the meeting? |
+| *Saan ang meeting?* | Where is the meeting? |
+| *May report ako.* | I have a report. |
+| *Tapos na ang report ko.* | My report is finished. |
+| *Kailan ang deadline?* | When is the deadline? |
+| *Pwede bang i-extend ang deadline?* | Can the deadline be extended? |
 
 ## Professional Communication
 
-### Tagalog
-*Pwede ko bang makausap si...?*
-
-### English
-Can I speak with...?
-
----
-
-### Tagalog
-*Nandito ba si...?*
-
-### English
-Is...here?
-
----
-
-### Tagalog
-*Pwede mo ba siyang pagtawagan?*
-
-### English
-Can you call him/her?
-
----
-
-### Tagalog
-*Wala siya ngayon.*
-
-### English
-He/She is not here now.
-
----
-
-### Tagalog
-*Bumalik ka na lang mamaya.*
-
-### English
-Just come back later.
-
----
-
-### Tagalog
-*May mensahe ka ba?*
-
-### English
-Do you have a message?
-
----
-
-### Tagalog
-*Pwede mo bang sabihin sa kanya na...*
-
-### English
-Can you tell him/her that...
-
----
-
-### Tagalog
-*Papunta na ako.*
-
-### English
-I'm on my way.
-
----
-
-### Tagalog
-*Nandito na ako.*
-
-### English
-I'm here now.
-
----
-
-### Tagalog
-*Naghihintay ako.*
-
-### English
-I'm waiting.
+| Tagalog | English |
+| ------- | ------- |
+| *Pwede ko bang makausap si...?* | Can I speak with...? |
+| *Nandito ba si...?* | Is...here? |
+| *Pwede mo ba siyang pagtawagan?* | Can you call him/her? |
+| *Wala siya ngayon.* | He/She is not here now. |
+| *Bumalik ka na lang mamaya.* | Just come back later. |
+| *May mensahe ka ba?* | Do you have a message? |
+| *Pwede mo bang sabihin sa kanya na...* | Can you tell him/her that... |
+| *Papunta na ako.* | I'm on my way. |
+| *Nandito na ako.* | I'm here now. |
+| *Naghihintay ako.* | I'm waiting. |
 
 ## Job-Related
 
-### Tagalog
-*Naghahanap ako ng trabaho.*
-
-### English
-I'm looking for work.
-
----
-
-### Tagalog
-*May opening ba kayo?*
-
-### English
-Do you have openings?
-
----
-
-### Tagalog
-*May bakante ba?*
-
-### English
-Are there vacancies?
-
----
-
-### Tagalog
-*Anong position?*
-
-### English
-What position?
-
----
-
-### Tagalog
-*Ano ang qualifications?*
-
-### English
-What are the qualifications?
-
----
-
-### Tagalog
-*Magkano ang sweldo?*
-
-### English
-How much is the salary?
-
----
-
-### Tagalog
-*May benefits ba?*
-
-### English
-Are there benefits?
-
----
-
-### Tagalog
-*Kailan ako makakapag-start?*
-
-### English
-When can I start?
-
----
-
-### Tagalog
-*Gusto ko pong mag-apply.*
-
-### English
-I would like to apply.
-
----
-
-### Tagalog
-*Nag-submit na ako ng resume.*
-
-### English
-I already submitted my resume.
+| Tagalog | English |
+| ------- | ------- |
+| *Naghahanap ako ng trabaho.* | I'm looking for work. |
+| *May opening ba kayo?* | Do you have openings? |
+| *May bakante ba?* | Are there vacancies? |
+| *Anong position?* | What position? |
+| *Ano ang qualifications?* | What are the qualifications? |
+| *Magkano ang sweldo?* | How much is the salary? |
+| *May benefits ba?* | Are there benefits? |
+| *Kailan ako makakapag-start?* | When can I start? |
+| *Gusto ko pong mag-apply.* | I would like to apply. |
+| *Nag-submit na ako ng resume.* | I already submitted my resume. |
 
 ## Workplace Requests
 
-### Tagalog
-*Pwede mo ba akong tulungan?*
-
-### English
-Can you help me?
-
----
-
-### Tagalog
-*Patulong naman.*
-
-### English
-Please help me.
-
----
-
-### Tagalog
-*Pakicheck nga ito.*
-
-### English
-Please check this.
-
----
-
-### Tagalog
-*Pakireview ng report ko.*
-
-### English
-Please review my report.
-
----
-
-### Tagalog
-*Paki-print nga ito.*
-
-### English
-Please print this.
-
----
-
-### Tagalog
-*Paki-forward ng email.*
-
-### English
-Please forward the email.
-
----
-
-### Tagalog
-*Paki-schedule ng meeting.*
-
-### English
-Please schedule a meeting.
-
----
-
-### Tagalog
-*Paki-cancel ang appointment.*
-
-### English
-Please cancel the appointment.
-
----
-
-### Tagalog
-*Paki-remind ako.*
-
-### English
-Please remind me.
+| Tagalog | English |
+| ------- | ------- |
+| *Pwede mo ba akong tulungan?* | Can you help me? |
+| *Patulong naman.* | Please help me. |
+| *Pakicheck nga ito.* | Please check this. |
+| *Pakireview ng report ko.* | Please review my report. |
+| *Paki-print nga ito.* | Please print this. |
+| *Paki-forward ng email.* | Please forward the email. |
+| *Paki-schedule ng meeting.* | Please schedule a meeting. |
+| *Paki-cancel ang appointment.* | Please cancel the appointment. |
+| *Paki-remind ako.* | Please remind me. |
 
 ## School and Classes
 
-### Tagalog
-*Anong oras ang klase?*
-
-### English
-What time is the class?
-
----
-
-### Tagalog
-*Nasaan ang silid-aralan?*
-
-### English
-Where is the classroom?
-
----
-
-### Tagalog
-*Sino ang guro?*
-
-### English
-Who is the teacher?
-
----
-
-### Tagalog
-*May klase ba ngayon?*
-
-### English
-Is there class today?
-
----
-
-### Tagalog
-*Suspended ang klase.*
-
-### English
-Classes are suspended.
-
----
-
-### Tagalog
-*Absent ako kahapon.*
-
-### English
-I was absent yesterday.
-
----
-
-### Tagalog
-*May assignment ba?*
-
-### English
-Is there homework?
-
----
-
-### Tagalog
-*Kailan ang exam?*
-
-### English
-When is the exam?
-
----
-
-### Tagalog
-*Ano ang topic ngayon?*
-
-### English
-What is today's topic?
-
----
-
-### Tagalog
-*Hindi ko naintindihan.*
-
-### English
-I didn't understand.
-
----
-
-### Tagalog
-*Pwede ninyong ulitin?*
-
-### English
-Can you repeat it?
-
----
-
-### Tagalog
-*Paki-explain ulit.*
-
-### English
-Please explain again.
+| Tagalog | English |
+| ------- | ------- |
+| *Anong oras ang klase?* | What time is the class? |
+| *Nasaan ang silid-aralan?* | Where is the classroom? |
+| *Sino ang guro?* | Who is the teacher? |
+| *May klase ba ngayon?* | Is there class today? |
+| *Suspended ang klase.* | Classes are suspended. |
+| *Absent ako kahapon.* | I was absent yesterday. |
+| *May assignment ba?* | Is there homework? |
+| *Kailan ang exam?* | When is the exam? |
+| *Ano ang topic ngayon?* | What is today's topic? |
+| *Hindi ko naintindihan.* | I didn't understand. |
+| *Pwede ninyong ulitin?* | Can you repeat it? |
+| *Paki-explain ulit.* | Please explain again. |
 
 ## Student Interactions
 
-### Tagalog
-*Nakuha mo na ba ang assignment?*
-
-### English
-Did you get the assignment?
-
----
-
-### Tagalog
-*Tapos ka na ba?*
-
-### English
-Are you done?
-
----
-
-### Tagalog
-*Hindi pa ako tapos.*
-
-### English
-I'm not done yet.
-
----
-
-### Tagalog
-*Tara, mag-aral tayo.*
-
-### English
-Come on, let's study.
-
----
-
-### Tagalog
-*Tulungan mo ako.*
-
-### English
-Help me.
-
----
-
-### Tagalog
-*Pwede mo ba akong turuan?*
-
-### English
-Can you teach me?
-
----
-
-### Tagalog
-*Hindi ko alam ang sagot.*
-
-### English
-I don't know the answer.
-
----
-
-### Tagalog
-*Ano ang sagot sa numero...?*
-
-### English
-What is the answer to number...?
-
----
-
-### Tagalog
-*Tama ba ito?*
-
-### English
-Is this correct?
-
----
-
-### Tagalog
-*Pahiram ng notes.*
-
-### English
-Lend me your notes.
-
----
-
-### Tagalog
-*Pahiram ng papel.*
-
-### English
-Lend me some paper.
-
----
-
-### Tagalog
-*May extra pen ka ba?*
-
-### English
-Do you have an extra pen?
+| Tagalog | English |
+| ------- | ------- |
+| *Nakuha mo na ba ang assignment?* | Did you get the assignment? |
+| *Tapos ka na ba?* | Are you done? |
+| *Hindi pa ako tapos.* | I'm not done yet. |
+| *Tara, mag-aral tayo.* | Come on, let's study. |
+| *Tulungan mo ako.* | Help me. |
+| *Pwede mo ba akong turuan?* | Can you teach me? |
+| *Hindi ko alam ang sagot.* | I don't know the answer. |
+| *Ano ang sagot sa numero...?* | What is the answer to number...? |
+| *Tama ba ito?* | Is this correct? |
+| *Pahiram ng notes.* | Lend me your notes. |
+| *Pahiram ng papel.* | Lend me some paper. |
+| *May extra pen ka ba?* | Do you have an extra pen? |
 
 ## School Supplies and Materials
 
-### Tagalog
-*Kailangan ko ng libro.*
-
-### English
-I need a book.
-
----
-
-### Tagalog
-*Saan ang library?*
-
-### English
-Where is the library?
-
----
-
-### Tagalog
-*Pwede akong humiram ng libro?*
-
-### English
-Can I borrow a book?
-
----
-
-### Tagalog
-*Kailan ang return date?*
-
-### English
-When is the return date?
-
----
-
-### Tagalog
-*May bayad ba?*
-
-### English
-Is there a fee?
-
----
-
-### Tagalog
-*Saan ang computer lab?*
-
-### English
-Where is the computer lab?
-
----
-
-### Tagalog
-*May printer ba?*
-
-### English
-Is there a printer?
-
----
-
-### Tagalog
-*Pwede kong i-print ito?*
-
-### English
-Can I print this?
+| Tagalog | English |
+| ------- | ------- |
+| *Kailangan ko ng libro.* | I need a book. |
+| *Saan ang library?* | Where is the library? |
+| *Pwede akong humiram ng libro?* | Can I borrow a book? |
+| *Kailan ang return date?* | When is the return date? |
+| *May bayad ba?* | Is there a fee? |
+| *Saan ang computer lab?* | Where is the computer lab? |
+| *May printer ba?* | Is there a printer? |
+| *Pwede kong i-print ito?* | Can I print this? |
 
 ## Academic Terms
 
-### Tagalog
-*Ano ang grade ko?*
-
-### English
-What is my grade?
-
----
-
-### Tagalog
-*Pumasa ba ako?*
-
-### English
-Did I pass?
-
----
-
-### Tagalog
-*Bagsak ako.*
-
-### English
-I failed.
-
----
-
-### Tagalog
-*Kailangan kong mag-retake.*
-
-### English
-I need to retake.
-
----
-
-### Tagalog
-*Anong units ang kinuha mo?*
-
-### English
-What units did you take?
-
----
-
-### Tagalog
-*Ilang subjects?*
-
-### English
-How many subjects?
-
----
-
-### Tagalog
-*Major ko ay...*
-
-### English
-My major is...
-
----
-
-### Tagalog
-*Anong course mo?*
-
-### English
-What is your course?
-
----
-
-### Tagalog
-*Anong year ka na?*
-
-### English
-What year are you in?
-
----
-
-### Tagalog
-*Graduating na ako.*
-
-### English
-I'm graduating.
+| Tagalog | English |
+| ------- | ------- |
+| *Ano ang grade ko?* | What is my grade? |
+| *Pumasa ba ako?* | Did I pass? |
+| *Bagsak ako.* | I failed. |
+| *Kailangan kong mag-retake.* | I need to retake. |
+| *Anong units ang kinuha mo?* | What units did you take? |
+| *Ilang subjects?* | How many subjects? |
+| *Major ko ay...* | My major is... |
+| *Anong course mo?* | What is your course? |
+| *Anong year ka na?* | What year are you in? |
+| *Graduating na ako.* | I'm graduating. |
 
 ## Formal Requests
 
-### Tagalog
-*Pwede ko bang hingin ang...?*
-
-### English
-May I request the...?
-
----
-
-### Tagalog
-*Kailangan ko ng certificate.*
-
-### English
-I need a certificate.
-
----
-
-### Tagalog
-*Kailangan ko ng clearance.*
-
-### English
-I need clearance.
-
----
-
-### Tagalog
-*Paano ang proseso?*
-
-### English
-What is the process?
-
----
-
-### Tagalog
-*Ano ang kailangan kong ipasa?*
-
-### English
-What do I need to submit?
-
----
-
-### Tagalog
-*Saan ako magbabayad?*
-
-### English
-Where do I pay?
-
----
-
-### Tagalog
-*Magkano ang bayad?*
-
-### English
-How much is the fee?
-
----
-
-### Tagalog
-*Kailan ko makukuha?*
-
-### English
-When can I get it?
-
----
-
-### Tagalog
-*Ilang araw ang processing?*
-
-### English
-How many days is the processing?
+| Tagalog | English |
+| ------- | ------- |
+| *Pwede ko bang hingin ang...?* | May I request the...? |
+| *Kailangan ko ng certificate.* | I need a certificate. |
+| *Kailangan ko ng clearance.* | I need clearance. |
+| *Paano ang proseso?* | What is the process? |
+| *Ano ang kailangan kong ipasa?* | What do I need to submit? |
+| *Saan ako magbabayad?* | Where do I pay? |
+| *Magkano ang bayad?* | How much is the fee? |
+| *Kailan ko makukuha?* | When can I get it? |
+| *Ilang araw ang processing?* | How many days is the processing? |
 
 ## Office Equipment
 
-### Tagalog
-*Nasaan ang photocopier?*
-
-### English
-Where is the photocopier?
-
----
-
-### Tagalog
-*Gumagana ba ang printer?*
-
-### English
-Is the printer working?
-
----
-
-### Tagalog
-*Ubos na ang ink.*
-
-### English
-The ink is out.
-
----
-
-### Tagalog
-*May paper jam.*
-
-### English
-There's a paper jam.
-
----
-
-### Tagalog
-*Walang kuryente.*
-
-### English
-There's no electricity.
-
----
-
-### Tagalog
-*Sira ang computer.*
-
-### English
-The computer is broken.
-
----
-
-### Tagalog
-*Mabagal ang internet.*
-
-### English
-The internet is slow.
-
----
-
-### Tagalog
-*Walang signal.*
-
-### English
-There's no signal.
+| Tagalog | English |
+| ------- | ------- |
+| *Nasaan ang photocopier?* | Where is the photocopier? |
+| *Gumagana ba ang printer?* | Is the printer working? |
+| *Ubos na ang ink.* | The ink is out. |
+| *May paper jam.* | There's a paper jam. |
+| *Walang kuryente.* | There's no electricity. |
+| *Sira ang computer.* | The computer is broken. |
+| *Mabagal ang internet.* | The internet is slow. |
+| *Walang signal.* | There's no signal. |
 
 ## Taking Leave
 
-### Tagalog
-*Pwede po bang mag-leave?*
-
-### English
-May I take a leave?
-
----
-
-### Tagalog
-*Magpa-file po ako ng leave.*
-
-### English
-I will file for leave.
-
----
-
-### Tagalog
-*Sick leave po.*
-
-### English
-Sick leave.
-
----
-
-### Tagalog
-*May sakit po ako.*
-
-### English
-I am sick.
-
----
-
-### Tagalog
-*Emergency leave po.*
-
-### English
-Emergency leave.
-
----
-
-### Tagalog
-*Uuwi ako ng maaga.*
-
-### English
-I'm going home early.
-
----
-
-### Tagalog
-*Hindi po ako makakapasok bukas.*
-
-### English
-I can't come in tomorrow.
-
----
-
-### Tagalog
-*May emergency po.*
-
-### English
-There's an emergency.
+| Tagalog | English |
+| ------- | ------- |
+| *Pwede po bang mag-leave?* | May I take a leave? |
+| *Magpa-file po ako ng leave.* | I will file for leave. |
+| *Sick leave po.* | Sick leave. |
+| *May sakit po ako.* | I am sick. |
+| *Emergency leave po.* | Emergency leave. |
+| *Uuwi ako ng maaga.* | I'm going home early. |
+| *Hindi po ako makakapasok bukas.* | I can't come in tomorrow. |
+| *May emergency po.* | There's an emergency. |
 
 ::: tip Formality in the Workplace
 In professional settings, always use *po* and *opo* when addressing superiors or colleagues you're not close with. This shows respect and professionalism.
