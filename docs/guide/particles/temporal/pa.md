@@ -83,7 +83,7 @@ The most common function of *pa* is to indicate that a state or action continues
 
 Indicates the action is still continuing:
 
-- *Tumutulog pa ang bata.*  
+- *Natutulog pa ang bata.*
   (The child is still sleeping.)
 - *Nag-aaral pa ako.*  
   (I'm still studying.)
