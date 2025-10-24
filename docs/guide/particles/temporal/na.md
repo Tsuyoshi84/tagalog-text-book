@@ -304,14 +304,14 @@ Learners sometimes forget *na* in completion contexts:
 - ✅ Understanding it means "He has become old" (change of state)
 - 💡 *Na* marks a transition more than a specific time point.
 
-### ❌ Mistake 6: Using *Na* with Progressive Aspect
+### ❌ Mistake 6: Thinking *Na* Contradicts Progressive Aspect
 
-*Na* conflicts with ongoing action markers:
+Learners sometimes avoid combining *na* with ongoing forms even when the action has already started:
 
-- ❌ *Kumakain na ako.* (contradictory - ongoing vs. completed)
-- ✅ *Kumain na ako.* (I already ate.)
-- ✅ *Kumakain pa ako.* (I'm still eating.)
-- 💡 Use *pa* (not *na*) with progressive aspect for "still doing."
+- ❌ *Kumakain ako ngayon lang.* (unnatural when meaning "I'm eating already.")
+- ✅ *Kumakain na ako.* (I'm already eating. / I've started eating now.)
+- ✅ *Nagsisimula na siyang kumain.* (He/she is starting to eat now.)
+- 💡 *Na* can appear with progressive aspect to show that an ongoing action has begun; use *pa* only for "still doing."
 
 ## Comparisons with Similar Particles
 
