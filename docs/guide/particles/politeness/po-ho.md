@@ -298,32 +298,41 @@ Not using *po/ho* when expected can be perceived as rude (*walang galang* - with
 Using *po/ho* excessively sounds unnatural:
 
 - ❌ *Kumain po ako po ng po kanin po.*
+  (I ate rice. — overly inserting *po* on each word.)
 - ✅ *Kumain po ako ng kanin.*
+  (I ate rice. — natural placement of *po*.)
 - 💡 Use *po* once or twice per sentence, not on every word.
 
 ### ❌ Mistake 2: Omitting *Po* When Speaking to Elders
 
 Forgetting to use *po/ho* with elders or authority figures:
 
-- ❌ *Kumusta ka?* (to an elder - disrespectful)
-- ✅ *Kumusta po kayo?* (respectful)
+- ❌ *Kumusta ka?*
+  (How are you? — said to an elder, disrespectful.)
+- ✅ *Kumusta po kayo?*
+  (How are you? — respectful.)
 - 💡 Always use *po/ho* with people older or in positions of authority.
 
 ### ❌ Mistake 3: Using *Po* with Peers
 
 Overusing *po/ho* with friends creates awkward distance:
 
-- ❌ *Tara na po tayo.* (to close friend - too formal)
-- ✅ *Tara na tayo.* (appropriate for peers)
-- ✅ *Tara na po tayo.* (only if addressing an older friend respectfully)
+- ❌ *Tara na po tayo.*
+  (Let's go now. — said to a close friend, too formal.)
+- ✅ *Tara na tayo.*
+  (Let's go now. — appropriate for peers.)
+- ✅ *Tara na po tayo.*
+  (Let's go now. — acceptable when addressing an older friend respectfully.)
 - 💡 Use *po/ho* based on age and relationship, not universally.
 
 ### ❌ Mistake 4: Mixing *Ikaw* with *Po*
 
 Using informal pronouns with *po* creates inconsistency:
 
-- ❌ *Kumain ka na po?* (mixing informal *ka* with formal *po*)
-- ✅ *Kumain na po kayo?* (consistent formality with *kayo*)
+- ❌ *Kumain ka na po?*
+  (Have you eaten? — mixing informal *ka* with formal *po*.)
+- ✅ *Kumain na po kayo?*
+  (Have you eaten? — consistent formality with *kayo*.)
 - 💡 When using *po/ho*, pair with formal pronouns (*kayo*, *ninyo*, *inyo*).
 
 ### ❌ Mistake 5: Not Adjusting Based on Response
@@ -338,8 +347,10 @@ Not matching the formality level of the conversation:
 
 Forgetting to use the full formal pronoun set:
 
-- ❌ *Kumusta po ang araw mo?* (mixing formal *po* with informal *mo*)
-- ✅ *Kumusta po ang araw ninyo?* (consistent with formal *ninyo*)
+- ❌ *Kumusta po ang araw mo?*
+  (How is your day? — mixing formal *po* with informal *mo*.)
+- ✅ *Kumusta po ang araw ninyo?*
+  (How is your day? — consistent with formal *ninyo*.)
 
 | Context | Informal | Formal (with po/ho) |
 | ------- | -------- | ------------------- |
