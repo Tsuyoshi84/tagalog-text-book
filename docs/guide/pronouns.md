@@ -39,6 +39,7 @@ Used as the subject/topic of the sentence:
 
 ::: info *Ka* vs. *Ikaw*
 *Ka* is enclitic (attached to other words), while *ikaw* stands alone. *Ka* cannot begin a sentence.
+
 - Correct: *Kumain ka.* (You ate.)
 - Incorrect: *Ka kumain.*
 :::
@@ -423,4 +424,4 @@ Tagalog pronouns are characterized by:
 
 Mastering pronouns is essential for natural and grammatically correct Tagalog.
 
-See also: [Nouns](./nouns.md), [Particles](./particles.md), [Sentence Structure](./sentence-structure.md)
+See also: [Nouns](./nouns.md), [Particles](./particles/index.md), [Sentence Structure](./sentence-structure.md)

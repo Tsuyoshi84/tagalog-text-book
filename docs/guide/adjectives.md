@@ -446,4 +446,4 @@ Tagalog adjectives are characterized by:
 
 Understanding adjective patterns enables precise and culturally appropriate description in Tagalog.
 
-See also: [Nouns](./nouns.md), [Sentence Structure](./sentence-structure.md), [Particles](./particles.md), [Parts of Speech](./parts-of-speech.md)
+See also: [Nouns](./nouns.md), [Sentence Structure](./sentence-structure.md), [Particles](./particles/index.md), [Parts of Speech](./parts-of-speech.md)

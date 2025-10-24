@@ -417,4 +417,4 @@ Tagalog nouns are characterized by:
 
 Understanding noun markers and their functions is essential for correct Tagalog grammar.
 
-See also: [Pronouns](./pronouns.md), [Adjectives](./adjectives.md), [Particles](./particles.md), [Sentence Structure](./sentence-structure.md)
+See also: [Pronouns](./pronouns.md), [Adjectives](./adjectives.md), [Particles](./particles/index.md), [Sentence Structure](./sentence-structure.md)

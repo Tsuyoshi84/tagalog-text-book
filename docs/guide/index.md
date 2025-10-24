@@ -27,7 +27,7 @@ This guide provides comprehensive explanations of Tagalog grammar, covering pron
 ### Essential Grammar
 
 - [Time and Date](./time-date.md) - Expressing time, days, months, and dates
-- [Particles](./particles.md) - Important grammatical particles like *ang*, *ng*, *sa*, and linkers
+- [Particles](./particles/index.md) - Important grammatical particles like *ang*, *ng*, *sa*, and linkers
 - [Questions](./questions.md) - Forming questions and question words
 - [Connectors](./connectors.md) - Conjunctions and linking words
 - [Negation](./negation.md) - Expressing negation in different contexts

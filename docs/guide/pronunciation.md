@@ -209,4 +209,4 @@ Questions without question words use rising intonation at the end to distinguish
 Pronunciation may vary slightly across regions of the Philippines. Some areas may have different vowel qualities or stress patterns. The pronunciation described here represents standard Manila Tagalog.
 :::
 
-See also: [Particles](./particles.md), [Reference: Pronunciation Guide](../reference/pronunciation-guide.md)
+See also: [Particles](./particles/index.md), [Reference: Pronunciation Guide](../reference/pronunciation-guide.md)
