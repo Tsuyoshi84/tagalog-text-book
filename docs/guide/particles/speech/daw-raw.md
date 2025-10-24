@@ -69,12 +69,12 @@ The choice between *daw* and *raw* is purely phonetic, based on the final sound 
 
 When the preceding word ends with a consonant sound, use *daw*:
 
-- *Magandang tao daw siya.*  
-  (He/she is supposedly a good person. - ends in "o" vowel, but *tao* + *daw*)
-- *Masakit daw ang tiyan ko.*  
-  (My stomach supposedly hurts. - after consonant "t")
-- *Pupunta daw sila.*  
-  (They're supposedly going. - after "la")
+- *Mabait daw si Juan.*  
+  (Juan is supposedly kind. - after consonant "n")
+- *Magaling daw ang doktor.*  
+  (The doctor is supposedly good. - after consonant "r")
+- *Mahirap daw ang exam.*  
+  (The exam is supposedly difficult. - after consonant "p")
 
 ::: tip Consonant Identification
 Look at the final sound of the word before *daw/raw*, not the spelling. Even if written with a vowel, consider the pronunciation.
@@ -612,19 +612,19 @@ Pay attention to how native speakers use *daw/raw* to distance themselves from c
 
 Determine which particle to use based on phonetic rules:
 
-1. *Pupunta ___ siya.* (after "ya") → *raw*
-2. *Si Juan ___ ay galing.* (after "n") → *daw*
-3. *Sila ___ ay busy.* (after "la") → *raw*
-4. *Maganda ___ ang bahay.* (after "da") → *daw*
-5. *Ako ___ ay invited.* (after "o") → *raw*
+1. *Pupunta ___ siya.* (after "ya" - vowel) → *raw*
+2. *Si Juan ___ ay galing.* (after "n" - consonant) → *daw*
+3. *Sila ___ ay busy.* (after "a" - vowel) → *raw*
+4. *Magaling ___ ang doktor.* (after "g" - consonant) → *daw*
+5. *Ako ___ ay invited.* (after "o" - vowel) → *raw*
 
 ### Exercise 2: Transform Direct to Indirect Speech
 
 Convert direct quotes to indirect speech using *daw/raw*:
 
-1. Sabi niya: *"Pupunta ako."* → *Pupunta daw siya.*
-2. Sabi nila: *"Masarap ang pagkain."* → *Masarap daw ang pagkain.*
-3. Sabi niya: *"Tapos na ako."* → *Tapos na raw siya.*
+1. Sabi niya: *"Pupunta ako."* → *Pupunta raw siya.* (after "a")
+2. Sabi nila: *"Masarap ang pagkain."* → *Masarap daw ang pagkain.* (after "p")
+3. Sabi niya: *"Tapos na ako."* → *Tapos na raw siya.* (after "a")
 
 ### Exercise 3: Identify the Function
 
