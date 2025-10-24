@@ -82,7 +82,7 @@ Tagalog uses particles to mark grammatical relationships in sentences.
 | *sa* | Locative / Directional | *Pumunta sa tindahan ang nanay.* (Mother went to the store.) |
 | *ay* | Inverted sentence marker | *Ang bata ay kumain.* (The child ate.) |
 
-See also: [Particles](./particles.md)
+See also: [Particles](./particles/index.md)
 
 ## The *Ay* Inversion
 
@@ -195,6 +195,7 @@ Existential sentences express the existence or location of something using *may*
 
 ::: tip *May* vs. *Mayroon*
 *May* is used before nouns, while *mayroon* stands alone. Both mean "there is/are."
+
 - *May libro ako.* (I have a book.)
 - *Mayroon.* (There is/are.)
 :::
@@ -334,4 +335,4 @@ Tagalog sentence structure centers on:
 
 Understanding these patterns enables learners to construct and comprehend Tagalog sentences effectively.
 
-See also: [Parts of Speech](./parts-of-speech.md), [Verbs](./verbs/index.md), [Particles](./particles.md)
+See also: [Parts of Speech](./parts-of-speech.md), [Verbs](./verbs/index.md), [Particles](./particles/index.md)

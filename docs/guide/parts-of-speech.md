@@ -265,7 +265,7 @@ Examples:
 - *Kumain ka na ba?*  
   (Have you eaten yet?)
 
-See also: [Particles](./particles.md)
+See also: [Particles](./particles/index.md)
 
 ## Interjections
 
@@ -316,11 +316,13 @@ Examples:
 ### Content Words
 
 Words that carry main meaning:
+
 - Nouns, verbs, adjectives, most adverbs
 
 ### Function Words
 
 Words that serve grammatical purposes:
+
 - Particles, conjunctions, some pronouns
 
 ::: tip Learning Strategy

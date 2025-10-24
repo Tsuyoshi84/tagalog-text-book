@@ -195,4 +195,4 @@ Essential Tagalog particles are challenging because they:
 
 Mastering these particles is crucial for natural, fluent Tagalog. Use the detailed pages to understand each particle's patterns, nuances, and cultural context.
 
-See also: [Particles Overview](../particles.md), [Sentence Structure](../sentence-structure.md), [Questions](../questions.md)
+See also: [Sentence Structure](../sentence-structure.md), [Questions](../questions.md)

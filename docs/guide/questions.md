@@ -32,6 +32,7 @@ The particle *ba* marks yes/no questions explicitly and typically appears after 
 
 ::: tip *Ba* Placement
 *Ba* typically follows the predicate or first major element. It is enclitic and must attach to a preceding word.
+
 - Correct: *Kumain ka ba?*
 - Incorrect: *Ba kumain ka?*
 :::
@@ -180,6 +181,7 @@ Asks about location or direction.
 
 ::: info *Saan* vs. *Nasaan*
 *Nasaan* is a contraction of *nasa* (locative marker meaning "at/in") + *saan* (where). It specifically asks "where is/are" for current location.
+
 - *Saan ka pupunta?* (Where are you going?) - directional
 - *Nasaan ang susi?* (Where are the keys?) - current location
 - *Nasa* means "is at/in," so *Nasaan* literally asks "is at where?"
@@ -423,7 +425,7 @@ Makes requests polite:
 - *Saan po kayo nakatira?*  
   (Where do you live, sir/ma'am?)
 
-See also: [Particles](./particles.md), [Culture: Etiquette](../culture/etiquette.md)
+See also: [Particles](./particles/index.md), [Culture: Etiquette](../culture/etiquette.md)
 
 ## Indirect Questions
 
@@ -554,4 +556,4 @@ Key points:
 
 Mastering question formation enables effective communication and conversation in Tagalog.
 
-See also: [Particles](./particles.md), [Sentence Structure](./sentence-structure.md), [Pronouns](./pronouns.md)
+See also: [Particles](./particles/index.md), [Sentence Structure](./sentence-structure.md), [Pronouns](./pronouns.md)

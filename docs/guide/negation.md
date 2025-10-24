@@ -210,6 +210,7 @@ Use *huwag* (don't) for negative commands:
 
 ::: warning *Huwag* vs. *Hindi*
 Use *huwag* for commands (don't), not *hindi*:
+
 - Correct: *Huwag kang umalis.* (Don't leave.)
 - Incorrect: *Hindi ka umalis.*
 :::
@@ -468,4 +469,4 @@ Key patterns:
 
 Mastering negation enables clear expression of denial, absence, and prohibition in Tagalog.
 
-See also: [Particles](./particles.md), [Sentence Structure](./sentence-structure.md), [Questions](./questions.md), [Connectors](./connectors.md)
+See also: [Particles](./particles/index.md), [Sentence Structure](./sentence-structure.md), [Questions](./questions.md), [Connectors](./connectors.md)
