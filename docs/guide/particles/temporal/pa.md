@@ -477,7 +477,7 @@ Filipino concepts of time flexibility appear in *pa* usage:
 - Shows acceptance of processes taking time
 
 ::: info Regional Variations
-*Pa* usage frequency and combinations vary by region. Some areas use *pa rin* more emphatically than others.
+*Pa* usage frequency and combinations vary by region. Urban Manila speakers tend to use *pa rin* and *pa naman* very frequently in casual conversation, while some provincial areas may use these combinations more sparingly. The basic *pa* for continuation and *hindi pa* for "not yet" are consistent across all regions.
 :::
 
 ## Practice Patterns
