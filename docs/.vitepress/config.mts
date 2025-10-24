@@ -98,15 +98,6 @@ export default defineConfig({
 					{ text: "Language History", link: "/culture/language-history" },
 				],
 			},
-			{
-				text: "About",
-				items: [
-					{ text: "Overview", link: "/about/index" },
-					{ text: "Site Structure", link: "/about/site-structure" },
-					{ text: "Contributors", link: "/about/contributors" },
-					{ text: "License", link: "/about/license" },
-				],
-			},
 		],
 
 		socialLinks: [

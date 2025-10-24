@@ -294,4 +294,3 @@ Formal Tagalog certification is less standardized than for languages like Englis
 
 - [Grammar Cheat Sheet](./grammar-cheatsheet.md) – Quick reference for grammar rules
 - [Pronunciation Guide](./pronunciation-guide.md) – Detailed pronunciation information
-- [About This Site](../about/index.md) – Information about this textbook project
