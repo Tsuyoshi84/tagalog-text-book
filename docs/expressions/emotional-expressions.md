@@ -10,723 +10,153 @@ Emotional expressions convey feelings, moods, and reactions. Tagalog has a rich 
 
 ## Joy and Happiness
 
-### Tagalog
-*Masaya ako.*
-
-### English
-I am happy.
-
----
-
-### Tagalog
-*Natutuwa ako.*
-
-### English
-I am pleased. / I am delighted.
-
----
-
-### Tagalog
-*Kinikilig ako.*
-
-### English
-I am giddy with excitement. (especially romantic feelings)
-
----
-
-### Tagalog
-*Sobrang saya ko!*
-
-### English
-I'm so happy!
-
----
-
-### Tagalog
-*Tuwang-tuwa ako.*
-
-### English
-I am very delighted. / I am overjoyed.
-
----
-
-### Tagalog
-*Nakakatuwa!*
-
-### English
-How delightful! / That's amusing!
-
----
-
-### Tagalog
-*Nagagalak ako.*
-
-### English
-I am glad. / I am pleased.
-
----
-
-### Tagalog
-*Nakakalibang.*
-
-### English
-It's entertaining. / It's fun.
+| Tagalog | English |
+| ------- | ------- |
+| *Masaya ako.* | I am happy. |
+| *Natutuwa ako.* | I am pleased. / I am delighted. |
+| *Kinikilig ako.* | I am giddy with excitement. (especially romantic feelings) |
+| *Sobrang saya ko!* | I'm so happy! |
+| *Tuwang-tuwa ako.* | I am very delighted. / I am overjoyed. |
+| *Nakakatuwa!* | How delightful! / That's amusing! |
+| *Nagagalak ako.* | I am glad. / I am pleased. |
+| *Nakakalibang.* | It's entertaining. / It's fun. |
 
 ## Sadness and Disappointment
 
-### Tagalog
-*Malungkot ako.*
-
-### English
-I am sad.
-
----
-
-### Tagalog
-*Nalulungkot ako.*
-
-### English
-I am feeling sad. / I am becoming sad.
-
----
-
-### Tagalog
-*Nasasaktan ako.*
-
-### English
-I am hurt. (emotionally)
-
----
-
-### Tagalog
-*Nasaktan ako.*
-
-### English
-I was hurt. / I got hurt. (emotionally)
-
----
-
-### Tagalog
-*Nabigo ako.*
-
-### English
-I am disappointed. / I failed.
-
----
-
-### Tagalog
-*Nakakapanlumo.*
-
-### English
-It's disheartening. / It's depressing.
-
----
-
-### Tagalog
-*Nakakalungkot.*
-
-### English
-It's sad. / It's saddening.
-
----
-
-### Tagalog
-*Sayang naman.*
-
-### English
-What a waste. / That's too bad.
-
----
-
-### Tagalog
-*Kawawa naman.*
-
-### English
-How pitiful. / Poor thing.
+| Tagalog | English |
+| ------- | ------- |
+| *Malungkot ako.* | I am sad. |
+| *Nalulungkot ako.* | I am feeling sad. / I am becoming sad. |
+| *Nasasaktan ako.* | I am hurt. (emotionally) |
+| *Nasaktan ako.* | I was hurt. / I got hurt. (emotionally) |
+| *Nabigo ako.* | I am disappointed. / I failed. |
+| *Nakakapanlumo.* | It's disheartening. / It's depressing. |
+| *Nakakalungkot.* | It's sad. / It's saddening. |
+| *Sayang naman.* | What a waste. / That's too bad. |
+| *Kawawa naman.* | How pitiful. / Poor thing. |
 
 ## Anger and Frustration
 
-### Tagalog
-*Galit ako.*
-
-### English
-I am angry.
-
----
-
-### Tagalog
-*Nagagalit ako.*
-
-### English
-I am getting angry.
-
----
-
-### Tagalog
-*Inis na inis ako.*
-
-### English
-I am very annoyed. / I am very irritated.
-
----
-
-### Tagalog
-*Nakakainis!*
-
-### English
-How annoying! / That's irritating!
-
----
-
-### Tagalog
-*Nakakaawa ang ulo ko.*
-
-### English
-It's making my head ache. (frustration)
-
----
-
-### Tagalog
-*Bwisit!*
-
-### English
-Damn it! / How annoying! (mild curse, casual)
-
----
-
-### Tagalog
-*Hay naku, nakakabadtrip!*
-
-### English
-Oh my, that's frustrating!
-
----
-
-### Tagalog
-*Naiinis ako sa kanya.*
-
-### English
-I am annoyed at him/her.
-
----
-
-### Tagalog
-*Napipikon ako.*
-
-### English
-I am getting irritated. / I am losing my patience.
+| Tagalog | English |
+| ------- | ------- |
+| *Galit ako.* | I am angry. |
+| *Nagagalit ako.* | I am getting angry. |
+| *Inis na inis ako.* | I am very annoyed. / I am very irritated. |
+| *Nakakainis!* | How annoying! / That's irritating! |
+| *Nakakaawa ang ulo ko.* | It's making my head ache. (frustration) |
+| *Bwisit!* | Damn it! / How annoying! (mild curse, casual) |
+| *Hay naku, nakakabadtrip!* | Oh my, that's frustrating! |
+| *Naiinis ako sa kanya.* | I am annoyed at him/her. |
+| *Napipikon ako.* | I am getting irritated. / I am losing my patience. |
 
 ## Fear and Anxiety
 
-### Tagalog
-*Takot ako.*
-
-### English
-I am afraid.
-
----
-
-### Tagalog
-*Natatakot ako.*
-
-### English
-I am feeling scared. / I am becoming afraid.
-
----
-
-### Tagalog
-*Kinakabahan ako.*
-
-### English
-I am nervous. / I am anxious.
-
----
-
-### Tagalog
-*Nakakatakot!*
-
-### English
-That's scary! / How frightening!
-
----
-
-### Tagalog
-*Kabado ako.*
-
-### English
-I am nervous. / I have butterflies. (casual)
-
----
-
-### Tagalog
-*Nag-aalala ako.*
-
-### English
-I am worried.
-
----
-
-### Tagalog
-*Nakakabalisa.*
-
-### English
-It's unsettling. / It makes one anxious.
-
----
-
-### Tagalog
-*Hindi ako mapakali.*
-
-### English
-I can't calm down. / I am restless.
-
----
-
-### Tagalog
-*Kinakakot ako.*
-
-### English
-I am being scared. / It's scaring me.
+| Tagalog | English |
+| ------- | ------- |
+| *Takot ako.* | I am afraid. |
+| *Natatakot ako.* | I am feeling scared. / I am becoming afraid. |
+| *Kinakabahan ako.* | I am nervous. / I am anxious. |
+| *Nakakatakot!* | That's scary! / How frightening! |
+| *Kabado ako.* | I am nervous. / I have butterflies. (casual) |
+| *Nag-aalala ako.* | I am worried. |
+| *Nakakabalisa.* | It's unsettling. / It makes one anxious. |
+| *Hindi ako mapakali.* | I can't calm down. / I am restless. |
+| *Kinakakot ako.* | I am being scared. / It's scaring me. |
 
 ## Surprise and Shock
 
-### Tagalog
-*Nagulat ako.*
-
-### English
-I was surprised. / I was shocked.
-
----
-
-### Tagalog
-*Nakakagulat!*
-
-### English
-That's surprising! / How shocking!
-
----
-
-### Tagalog
-*Hindi ako makapaniwala.*
-
-### English
-I can't believe it.
-
----
-
-### Tagalog
-*Totoo ba ito?*
-
-### English
-Is this real? / Is this true?
-
----
-
-### Tagalog
-*Gulat ako!*
-
-### English
-I'm shocked! (casual)
-
----
-
-### Tagalog
-*Naku, bigla naman!*
-
-### English
-Oh my, how sudden!
-
----
-
-### Tagalog
-*Nakakamangha!*
-
-### English
-How amazing! / It's astonishing!
-
----
-
-### Tagalog
-*Namangha ako.*
-
-### English
-I was amazed. / I was in awe.
+| Tagalog | English |
+| ------- | ------- |
+| *Nagulat ako.* | I was surprised. / I was shocked. |
+| *Nakakagulat!* | That's surprising! / How shocking! |
+| *Hindi ako makapaniwala.* | I can't believe it. |
+| *Totoo ba ito?* | Is this real? / Is this true? |
+| *Gulat ako!* | I'm shocked! (casual) |
+| *Naku, bigla naman!* | Oh my, how sudden! |
+| *Nakakamangha!* | How amazing! / It's astonishing! |
+| *Namangha ako.* | I was amazed. / I was in awe. |
 
 ## Love and Affection
 
-### Tagalog
-*Mahal kita.*
-
-### English
-I love you.
-
----
-
-### Tagalog
-*Mahal na mahal kita.*
-
-### English
-I love you very much.
-
----
-
-### Tagalog
-*Gusto kita.*
-
-### English
-I like you.
-
----
-
-### Tagalog
-*Namimiss kita.*
-
-### English
-I miss you.
-
----
-
-### Tagalog
-*Miss na miss kita.*
-
-### English
-I miss you so much.
-
----
-
-### Tagalog
-*Iniisip kita.*
-
-### English
-I am thinking of you.
-
----
-
-### Tagalog
-*Ikaw lang.*
-
-### English
-Only you. (romantic)
-
----
-
-### Tagalog
-*Mahal ko siya.*
-
-### English
-I love him/her.
-
----
-
-### Tagalog
-*Nagkakagusto ako sa kanya.*
-
-### English
-I am developing feelings for him/her. / I am starting to like him/her.
+| Tagalog | English |
+| ------- | ------- |
+| *Mahal kita.* | I love you. |
+| *Mahal na mahal kita.* | I love you very much. |
+| *Gusto kita.* | I like you. |
+| *Namimiss kita.* | I miss you. |
+| *Miss na miss kita.* | I miss you so much. |
+| *Iniisip kita.* | I am thinking of you. |
+| *Ikaw lang.* | Only you. (romantic) |
+| *Mahal ko siya.* | I love him/her. |
+| *Nagkakagusto ako sa kanya.* | I am developing feelings for him/her. / I am starting to like him/her. |
 
 ## Embarrassment and Shame
 
-### Tagalog
-*Nahihiya ako.*
-
-### English
-I am embarrassed. / I am shy.
-
----
-
-### Tagalog
-*Nakakahiya!*
-
-### English
-How embarrassing! / That's shameful!
-
----
-
-### Tagalog
-*Hiya ako.*
-
-### English
-I'm embarrassed. (casual)
-
----
-
-### Tagalog
-*Napahiya ako.*
-
-### English
-I was humiliated. / I was put to shame.
-
----
-
-### Tagalog
-*Nakakahiya naman.*
-
-### English
-How embarrassing. (with mild self-deprecation)
-
----
-
-### Tagalog
-*Kailangan ba talaga?*
-
-### English
-Is it really necessary? (expressing reluctance due to embarrassment)
+| Tagalog | English |
+| ------- | ------- |
+| *Nahihiya ako.* | I am embarrassed. / I am shy. |
+| *Nakakahiya!* | How embarrassing! / That's shameful! |
+| *Hiya ako.* | I'm embarrassed. (casual) |
+| *Napahiya ako.* | I was humiliated. / I was put to shame. |
+| *Nakakahiya naman.* | How embarrassing. (with mild self-deprecation) |
+| *Kailangan ba talaga?* | Is it really necessary? (expressing reluctance due to embarrassment) |
 
 ## Tiredness and Exhaustion
 
-### Tagalog
-*Pagod na pagod ako.*
-
-### English
-I am very tired. / I am exhausted.
-
----
-
-### Tagalog
-*Pagod ako.*
-
-### English
-I am tired.
-
----
-
-### Tagalog
-*Nakakapagod!*
-
-### English
-That's exhausting! / It's tiring!
-
----
-
-### Tagalog
-*Antok na antok ako.*
-
-### English
-I am very sleepy.
-
----
-
-### Tagalog
-*Gusto ko nang matulog.*
-
-### English
-I want to sleep now.
-
----
-
-### Tagalog
-*Wala na akong lakas.*
-
-### English
-I have no strength left. / I'm drained.
-
----
-
-### Tagalog
-*Pagod na ako sa buhay.*
-
-### English
-I am tired of life. (expressing weariness with situation)
+| Tagalog | English |
+| ------- | ------- |
+| *Pagod na pagod ako.* | I am very tired. / I am exhausted. |
+| *Pagod ako.* | I am tired. |
+| *Nakakapagod!* | That's exhausting! / It's tiring! |
+| *Antok na antok ako.* | I am very sleepy. |
+| *Gusto ko nang matulog.* | I want to sleep now. |
+| *Wala na akong lakas.* | I have no strength left. / I'm drained. |
+| *Pagod na ako sa buhay.* | I am tired of life. (expressing weariness with situation) |
 
 ## Boredom and Disinterest
 
-### Tagalog
-*Nakakatamad.*
-
-### English
-It's making me lazy. / I don't feel like it.
-
----
-
-### Tagalog
-*Boring.*
-
-### English
-Boring. (borrowed English word)
-
----
-
-### Tagalog
-*Tamad ako.*
-
-### English
-I am lazy. / I don't feel like doing it.
-
----
-
-### Tagalog
-*Wala akong gana.*
-
-### English
-I have no interest. / I don't feel like it.
-
----
-
-### Tagalog
-*Nakakawalang-gana.*
-
-### English
-It's demotivating. / It's making me lose interest.
-
----
-
-### Tagalog
-*Walang thrill.*
-
-### English
-No excitement. / Boring.
+| Tagalog | English |
+| ------- | ------- |
+| *Nakakatamad.* | It's making me lazy. / I don't feel like it. |
+| *Boring.* | Boring. (borrowed English word) |
+| *Tamad ako.* | I am lazy. / I don't feel like doing it. |
+| *Wala akong gana.* | I have no interest. / I don't feel like it. |
+| *Nakakawalang-gana.* | It's demotivating. / It's making me lose interest. |
+| *Walang thrill.* | No excitement. / Boring. |
 
 ## Gratitude and Appreciation
 
-### Tagalog
-*Salamat sa lahat.*
-
-### English
-Thank you for everything.
-
----
-
-### Tagalog
-*Salamat sa Diyos.*
-
-### English
-Thank God.
-
----
-
-### Tagalog
-*Utang ko sa iyo.*
-
-### English
-I owe you. / I am indebted to you.
-
----
-
-### Tagalog
-*Grateful ako.*
-
-### English
-I am grateful.
-
----
-
-### Tagalog
-*May utang na loob ako sa iyo.*
-
-### English
-I have a debt of gratitude to you.
-
----
-
-### Tagalog
-*Blessed ako.*
-
-### English
-I am blessed.
-
----
-
-### Tagalog
-*Pasasalamat ko sa iyo.*
-
-### English
-My thanks to you. / I give thanks to you.
+| Tagalog | English |
+| ------- | ------- |
+| *Salamat sa lahat.* | Thank you for everything. |
+| *Salamat sa Diyos.* | Thank God. |
+| *Utang ko sa iyo.* | I owe you. / I am indebted to you. |
+| *Grateful ako.* | I am grateful. |
+| *May utang na loob ako sa iyo.* | I have a debt of gratitude to you. |
+| *Blessed ako.* | I am blessed. |
+| *Pasasalamat ko sa iyo.* | My thanks to you. / I give thanks to you. |
 
 ## Confusion and Uncertainty
 
-### Tagalog
-*Nalilito ako.*
-
-### English
-I am confused.
-
----
-
-### Tagalog
-*Hindi ko maintindihan.*
-
-### English
-I can't understand.
-
----
-
-### Tagalog
-*Nakakalito!*
-
-### English
-That's confusing!
-
----
-
-### Tagalog
-*Ano ba talaga?*
-
-### English
-What is it really? (expressing confusion)
-
----
-
-### Tagalog
-*Hindi ko alam kung ano na.*
-
-### English
-I don't know what anymore. (overwhelmed confusion)
-
----
-
-### Tagalog
-*Gulo ng isip ko.*
-
-### English
-My mind is in chaos. / I'm mentally confused.
+| Tagalog | English |
+| ------- | ------- |
+| *Nalilito ako.* | I am confused. |
+| *Hindi ko maintindihan.* | I can't understand. |
+| *Nakakalito!* | That's confusing! |
+| *Ano ba talaga?* | What is it really? (expressing confusion) |
+| *Hindi ko alam kung ano na.* | I don't know what anymore. (overwhelmed confusion) |
+| *Gulo ng isip ko.* | My mind is in chaos. / I'm mentally confused. |
 
 ## Relief and Comfort
 
-### Tagalog
-*Salamat sa Diyos!*
-
-### English
-Thank God! (relief)
-
----
-
-### Tagalog
-*Ginhawa ko.*
-
-### English
-I feel relieved. / What a relief.
-
----
-
-### Tagalog
-*Okay na.*
-
-### English
-It's okay now. / All is well.
-
----
-
-### Tagalog
-*Ayos na.*
-
-### English
-It's fixed now. / Everything is fine now.
-
----
-
-### Tagalog
-*Nakahinga ako ng maluwag.*
-
-### English
-I breathed a sigh of relief.
-
----
-
-### Tagalog
-*Tapos na ang problema.*
-
-### English
-The problem is over.
+| Tagalog | English |
+| ------- | ------- |
+| *Salamat sa Diyos!* | Thank God! (relief) |
+| *Ginhawa ko.* | I feel relieved. / What a relief. |
+| *Okay na.* | It's okay now. / All is well. |
+| *Ayos na.* | It's fixed now. / Everything is fine now. |
+| *Nakahinga ako ng maluwag.* | I breathed a sigh of relief. |
+| *Tapos na ang problema.* | The problem is over. |
 
 ::: tip Expressing Intensity
 Many emotional expressions use reduplication or intensifiers like *sobra*, *talaga*, and *na* to emphasize feelings. Example: *Galit* (angry) becomes *Galit na galit* (very angry).
