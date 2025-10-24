@@ -310,9 +310,10 @@ Forgetting *muna* when sequence matters:
 
 Using *muna* when there's no implication of temporariness or sequence:
 
-- ❌ *Namatay muna ang lolo ko.* (inappropriate - death is permanent)
-- ✅ *Namatay ang lolo ko.* (My grandfather died.)
+- ❌ *Nawasak muna ang gusali.* (inappropriate - demolition is permanent)
+- ✅ *Nawasak ang gusali.* (The building was demolished.)
 - ✅ *Huminto muna ang makina.* (The machine stopped for now. - will start again)
+- ✅ *Sira muna ang printer.* (The printer is broken for now. - will be fixed)
 - 💡 *Muna* implies something will change or continue later.
 
 ### ❌ Mistake 6: Thinking *Muna* Always Means "Wait"
@@ -434,7 +435,7 @@ Filipino culture has a flexible approach to scheduling, and *muna* reflects this
 - Keeps future options open
 
 ::: info Regional Variations
-*Muna* usage is consistent across Tagalog-speaking regions, though frequency may vary. Urban Manila speakers use *muna* very frequently in casual conversation. The deferential use (*Kayo muna*, *Ikaw muna*) is particularly strong in provincial areas where traditional respect patterns are emphasized.
+*Muna* usage is generally consistent across Tagalog-speaking regions, though frequency may vary based on conversational context and individual speaking styles. These are general observations from conversational patterns rather than formal linguistic studies.
 :::
 
 ## Practice Patterns
