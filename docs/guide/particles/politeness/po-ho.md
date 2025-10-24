@@ -611,7 +611,7 @@ Master subtle formality adjustments and complex contexts.
 
 - *Ako po si Maria. Ikinalulugod ko pong makilala kayo.*  
   (I am Maria. I'm pleased to meet you.)
-- *Kinakapatid po ni Ana, galing po ako sa probinsya.*  
+- *Kapatid po ni Ana, galing po ako sa probinsya.*  
   (I'm Ana's sibling, I'm from the province.)
 
 #### Pattern 5: Adjusting Formality Based on Context
@@ -695,4 +695,4 @@ Practice appropriate *po/ho* usage:
 3. Speaking with your boss
 4. Ordering in a restaurant (to waiter)
 
-See also: [Particle: Nga](../emphasis/nga.md), [Particles Index](../index.md), [Pronouns](../../pronouns.md), [Questions](../../questions.md), [Culture: Etiquette](/culture/etiquette.md)
+See also: [Particle: Nga](../emphasis/nga.md), [Particles Index](../index.md), [Pronouns](../../pronouns.md), [Questions](../../questions.md), [Culture: Etiquette](../../../culture/etiquette.md)
