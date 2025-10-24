@@ -629,7 +629,7 @@ Compare these pairs and understand the difference:
 Use *naman* to make warm invitations:
 
 1. *Tuloy naman kayo sa bahay.*
-2. *Kape naman tayo.*
-3. *Bisita naman kayo minsan.*
+2. *Mag-kape naman tayo.*
+3. *Bumisita naman kayo minsan.*
 
 See also: [Particle: Nga](./nga.md), [Particle: Pala](./pala.md), [Particles: Lang/Lamang](../limiting/lang-lamang.md), [Particles: Din/Rin](../limiting/din-rin.md), [Particles Index](../index.md)
