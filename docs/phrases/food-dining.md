@@ -10,787 +10,156 @@ Essential phrases for ordering food, dining at restaurants, and discussing meals
 
 ## At a Restaurant
 
-### Tagalog
-*May bakante?*
-
-### English
-Do you have available seats?
-
----
-
-### Tagalog
-*Para sa ilan?*
-
-### English
-For how many people?
-
----
-
-### Tagalog
-*Para sa dalawa.*
-
-### English
-For two.
-
----
-
-### Tagalog
-*May menu?*
-
-### English
-Do you have a menu?
-
----
-
-### Tagalog
-*Ano ang inirerekomenda ninyo?*
-
-### English
-What do you recommend?
-
----
-
-### Tagalog
-*Ano ang specialty ninyo?*
-
-### English
-What is your specialty?
-
----
-
-### Tagalog
-*May vegetarian ba?*
-
-### English
-Do you have vegetarian options?
-
----
-
-### Tagalog
-*Anong meron?*
-
-### English
-What do you have?
+| Tagalog | English |
+| ------- | ------- |
+| *May bakante?* | Do you have available seats? |
+| *Para sa ilan?* | For how many people? |
+| *Para sa dalawa.* | For two. |
+| *May menu?* | Do you have a menu? |
+| *Ano ang inirerekomenda ninyo?* | What do you recommend? |
+| *Ano ang specialty ninyo?* | What is your specialty? |
+| *May vegetarian ba?* | Do you have vegetarian options? |
+| *Anong meron?* | What do you have? |
 
 ## Ordering Food
 
-### Tagalog
-*Order na po.*
-
-### English
-We'll order now.
-
----
-
-### Tagalog
-*Pabili ng...*
-
-### English
-I'd like to buy...
-
----
-
-### Tagalog
-*Paki-order nga.*
-
-### English
-Please order.
-
----
-
-### Tagalog
-*Ito na lang.*
-
-### English
-Just this.
-
----
-
-### Tagalog
-*Isang order ng...*
-
-### English
-One order of...
-
----
-
-### Tagalog
-*Dalawang order.*
-
-### English
-Two orders.
-
----
-
-### Tagalog
-*Iyan na lang.*
-
-### English
-Just that.
-
----
-
-### Tagalog
-*Pareho kami.*
-
-### English
-Same for us./We'll have the same.
-
----
-
-### Tagalog
-*Busog na ako.*
-
-### English
-I'm full.
-
----
-
-### Tagalog
-*Gutom pa ako.*
-
-### English
-I'm still hungry.
+| Tagalog | English |
+| ------- | ------- |
+| *Order na po.* | We'll order now. |
+| *Pabili ng...* | I'd like to buy... |
+| *Paki-order nga.* | Please order. |
+| *Ito na lang.* | Just this. |
+| *Isang order ng...* | One order of... |
+| *Dalawang order.* | Two orders. |
+| *Iyan na lang.* | Just that. |
+| *Pareho kami.* | Same for us./We'll have the same. |
+| *Busog na ako.* | I'm full. |
+| *Gutom pa ako.* | I'm still hungry. |
 
 ## Food Preferences
 
-### Tagalog
-*Walang bawang.*
-
-### English
-No garlic.
-
----
-
-### Tagalog
-*Walang sibuyas.*
-
-### English
-No onions.
-
----
-
-### Tagalog
-*Hindi maanghang.*
-
-### English
-Not spicy.
-
----
-
-### Tagalog
-*Maanghang.*
-
-### English
-Spicy.
-
----
-
-### Tagalog
-*Konting alat lang.*
-
-### English
-Just a little salt.
-
----
-
-### Tagalog
-*Hindi masyadong maasim.*
-
-### English
-Not too sour.
-
----
-
-### Tagalog
-*Mainit na kape.*
-
-### English
-Hot coffee.
-
----
-
-### Tagalog
-*Malamig na tubig.*
-
-### English
-Cold water.
-
----
-
-### Tagalog
-*Walang yelo.*
-
-### English
-No ice.
-
----
-
-### Tagalog
-*Extra rice.*
-
-### English
-Extra rice. (borrowed phrase)
+| Tagalog | English |
+| ------- | ------- |
+| *Walang bawang.* | No garlic. |
+| *Walang sibuyas.* | No onions. |
+| *Hindi maanghang.* | Not spicy. |
+| *Maanghang.* | Spicy. |
+| *Konting alat lang.* | Just a little salt. |
+| *Hindi masyadong maasim.* | Not too sour. |
+| *Mainit na kape.* | Hot coffee. |
+| *Malamig na tubig.* | Cold water. |
+| *Walang yelo.* | No ice. |
+| *Extra rice.* | Extra rice. (borrowed phrase) |
 
 ## Asking About Food
 
-### Tagalog
-*Anong lasa nito?*
-
-### English
-What does this taste like?
-
----
-
-### Tagalog
-*Maanghang ba?*
-
-### English
-Is it spicy?
-
----
-
-### Tagalog
-*Matamis ba?*
-
-### English
-Is it sweet?
-
----
-
-### Tagalog
-*Luto na ba?*
-
-### English
-Is it cooked?
-
----
-
-### Tagalog
-*Mainit pa ba?*
-
-### English
-Is it still hot?
-
----
-
-### Tagalog
-*Sariwa ba?*
-
-### English
-Is it fresh?
-
----
-
-### Tagalog
-*Ano ang sangkap?*
-
-### English
-What are the ingredients?
-
----
-
-### Tagalog
-*May karne ba?*
-
-### English
-Does it have meat?
-
----
-
-### Tagalog
-*May isda ba?*
-
-### English
-Does it have fish?
+| Tagalog | English |
+| ------- | ------- |
+| *Anong lasa nito?* | What does this taste like? |
+| *Maanghang ba?* | Is it spicy? |
+| *Matamis ba?* | Is it sweet? |
+| *Luto na ba?* | Is it cooked? |
+| *Mainit pa ba?* | Is it still hot? |
+| *Sariwa ba?* | Is it fresh? |
+| *Ano ang sangkap?* | What are the ingredients? |
+| *May karne ba?* | Does it have meat? |
+| *May isda ba?* | Does it have fish? |
 
 ## During the Meal
 
-### Tagalog
-*Kain tayo.*
-
-### English
-Let's eat.
-
----
-
-### Tagalog
-*Kain na.*
-
-### English
-Time to eat.
-
----
-
-### Tagalog
-*Lasang mabuti.*
-
-### English
-It tastes good.
-
----
-
-### Tagalog
-*Masarap.*
-
-### English
-Delicious.
-
----
-
-### Tagalog
-*Ang sarap!*
-
-### English
-So delicious!
-
----
-
-### Tagalog
-*Hindi masarap.*
-
-### English
-Not delicious./Doesn't taste good.
-
----
-
-### Tagalog
-*Matabang.*
-
-### English
-Bland.
-
----
-
-### Tagalog
-*Maalat.*
-
-### English
-Salty.
-
----
-
-### Tagalog
-*Maasim.*
-
-### English
-Sour.
-
----
-
-### Tagalog
-*Mapait.*
-
-### English
-Bitter.
-
----
-
-### Tagalog
-*May lasa ng...*
-
-### English
-It tastes like...
+| Tagalog | English |
+| ------- | ------- |
+| *Kain tayo.* | Let's eat. |
+| *Kain na.* | Time to eat. |
+| *Lasang mabuti.* | It tastes good. |
+| *Masarap.* | Delicious. |
+| *Ang sarap!* | So delicious! |
+| *Hindi masarap.* | Not delicious./Doesn't taste good. |
+| *Matabang.* | Bland. |
+| *Maalat.* | Salty. |
+| *Maasim.* | Sour. |
+| *Mapait.* | Bitter. |
+| *May lasa ng...* | It tastes like... |
 
 ## Requests During Meal
 
-### Tagalog
-*Paki-abot ng tubig.*
-
-### English
-Please pass the water.
-
----
-
-### Tagalog
-*Paki-abot ng asin.*
-
-### English
-Please pass the salt.
-
----
-
-### Tagalog
-*Dagdag pa.*
-
-### English
-More please.
-
----
-
-### Tagalog
-*Sapat na.*
-
-### English
-That's enough.
-
----
-
-### Tagalog
-*Tama na.*
-
-### English
-That's enough. (stopping someone from serving)
-
----
-
-### Tagalog
-*Kumuha ka pa.*
-
-### English
-Take more.
-
----
-
-### Tagalog
-*Konti lang.*
-
-### English
-Just a little.
-
----
-
-### Tagalog
-*Busog na ako.*
-
-### English
-I'm already full.
-
----
-
-### Tagalog
-*Ayoko na.*
-
-### English
-I don't want anymore.
+| Tagalog | English |
+| ------- | ------- |
+| *Paki-abot ng tubig.* | Please pass the water. |
+| *Paki-abot ng asin.* | Please pass the salt. |
+| *Dagdag pa.* | More please. |
+| *Sapat na.* | That's enough. |
+| *Tama na.* | That's enough. (stopping someone from serving) |
+| *Kumuha ka pa.* | Take more. |
+| *Konti lang.* | Just a little. |
+| *Busog na ako.* | I'm already full. |
+| *Ayoko na.* | I don't want anymore. |
 
 ## Dining Etiquette
 
-### Tagalog
-*Kain po kayo.*
-
-### English
-Please eat. (inviting someone to join)
-
----
-
-### Tagalog
-*Salamat sa pagkain.*
-
-### English
-Thank you for the food.
-
----
-
-### Tagalog
-*Sayang naman.*
-
-### English
-What a waste. (if food is left over)
-
----
-
-### Tagalog
-*Huwag kang mahiya.*
-
-### English
-Don't be shy. (encouraging someone to eat more)
-
----
-
-### Tagalog
-*Kain ka pa.*
-
-### English
-Eat more.
-
----
-
-### Tagalog
-*Busog na talaga ako.*
-
-### English
-I'm really full.
+| Tagalog | English |
+| ------- | ------- |
+| *Kain po kayo.* | Please eat. (inviting someone to join) |
+| *Salamat sa pagkain.* | Thank you for the food. |
+| *Sayang naman.* | What a waste. (if food is left over) |
+| *Huwag kang mahiya.* | Don't be shy. (encouraging someone to eat more) |
+| *Kain ka pa.* | Eat more. |
+| *Busog na talaga ako.* | I'm really full. |
 
 ## Drinks
 
-### Tagalog
-*Ano ang gusto mong inumin?*
-
-### English
-What do you want to drink?
-
----
-
-### Tagalog
-*Tubig lang.*
-
-### English
-Just water.
-
----
-
-### Tagalog
-*May kape ba?*
-
-### English
-Do you have coffee?
-
----
-
-### Tagalog
-*Tsaa na lang.*
-
-### English
-Just tea.
-
----
-
-### Tagalog
-*Mainit o malamig?*
-
-### English
-Hot or cold?
-
----
-
-### Tagalog
-*Malamig na juice.*
-
-### English
-Cold juice.
-
----
-
-### Tagalog
-*Softdrinks.*
-
-### English
-Soft drinks.
-
----
-
-### Tagalog
-*Beer na lang.*
-
-### English
-Just beer.
-
----
-
-### Tagalog
-*Walang alak.*
-
-### English
-No alcohol.
+| Tagalog | English |
+| ------- | ------- |
+| *Ano ang gusto mong inumin?* | What do you want to drink? |
+| *Tubig lang.* | Just water. |
+| *May kape ba?* | Do you have coffee? |
+| *Tsaa na lang.* | Just tea. |
+| *Mainit o malamig?* | Hot or cold? |
+| *Malamig na juice.* | Cold juice. |
+| *Softdrinks.* | Soft drinks. |
+| *Beer na lang.* | Just beer. |
+| *Walang alak.* | No alcohol. |
 
 ## Paying the Bill
 
-### Tagalog
-*Bayad na.*
-
-### English
-Bill please./Check please.
-
----
-
-### Tagalog
-*Pabill.*
-
-### English
-Bill please.
-
----
-
-### Tagalog
-*Magkano lahat?*
-
-### English
-How much is everything?
-
----
-
-### Tagalog
-*Hatiin natin.*
-
-### English
-Let's split it.
-
----
-
-### Tagalog
-*Ako na ang bayad.*
-
-### English
-I'll pay.
-
----
-
-### Tagalog
-*Libre ko na.*
-
-### English
-It's on me.
-
----
-
-### Tagalog
-*Kasama na ba ang service charge?*
-
-### English
-Is service charge included?
-
----
-
-### Tagalog
-*May resibo?*
-
-### English
-Do you have a receipt?
-
----
-
-### Tagalog
-*Keep the change.*
-
-### English
-Keep the change. (borrowed phrase)
+| Tagalog | English |
+| ------- | ------- |
+| *Bayad na.* | Bill please./Check please. |
+| *Pabill.* | Bill please. |
+| *Magkano lahat?* | How much is everything? |
+| *Hatiin natin.* | Let's split it. |
+| *Ako na ang bayad.* | I'll pay. |
+| *Libre ko na.* | It's on me. |
+| *Kasama na ba ang service charge?* | Is service charge included? |
+| *May resibo?* | Do you have a receipt? |
+| *Keep the change.* | Keep the change. (borrowed phrase) |
 
 ## Fast Food and Takeout
 
-### Tagalog
-*Dine-in o take-out?*
-
-### English
-Dine in or take out?
-
----
-
-### Tagalog
-*Para dito.*
-
-### English
-For here.
-
----
-
-### Tagalog
-*Para dalhin.*
-
-### English
-To go.
-
----
-
-### Tagalog
-*I-take-out ko na lang.*
-
-### English
-I'll just take it out.
-
----
-
-### Tagalog
-*Pabili ng...*
-
-### English
-I'd like to buy...
-
----
-
-### Tagalog
-*May combo meal ba?*
-
-### English
-Do you have a combo meal?
-
----
-
-### Tagalog
-*Upsize na.*
-
-### English
-Upsize it. (borrowed phrase)
-
----
-
-### Tagalog
-*May delivery ba?*
-
-### English
-Do you have delivery?
-
----
-
-### Tagalog
-*Magkano ang delivery?*
-
-### English
-How much is delivery?
+| Tagalog | English |
+| ------- | ------- |
+| *Dine-in o take-out?* | Dine in or take out? |
+| *Para dito.* | For here. |
+| *Para dalhin.* | To go. |
+| *I-take-out ko na lang.* | I'll just take it out. |
+| *Pabili ng...* | I'd like to buy... |
+| *May combo meal ba?* | Do you have a combo meal? |
+| *Upsize na.* | Upsize it. (borrowed phrase) |
+| *May delivery ba?* | Do you have delivery? |
+| *Magkano ang delivery?* | How much is delivery? |
 
 ## Compliments and Complaints
 
-### Tagalog
-*Ang galing magluto!*
-
-### English
-Great cooking!
-
----
-
-### Tagalog
-*Napakasarap!*
-
-### English
-Very delicious!
-
----
-
-### Tagalog
-*Sulit.*
-
-### English
-Worth it.
-
----
-
-### Tagalog
-*Hindi na ako babalik.*
-
-### English
-I won't come back.
-
----
-
-### Tagalog
-*Matagal ang service.*
-
-### English
-The service is slow.
-
----
-
-### Tagalog
-*Malamig na ang pagkain.*
-
-### English
-The food is cold.
-
----
-
-### Tagalog
-*May problema sa order.*
-
-### English
-There's a problem with the order.
-
----
-
-### Tagalog
-*Hindi ito ang in-order ko.*
-
-### English
-This is not what I ordered.
+| Tagalog | English |
+| ------- | ------- |
+| *Ang galing magluto!* | Great cooking! |
+| *Napakasarap!* | Very delicious! |
+| *Sulit.* | Worth it. |
+| *Hindi na ako babalik.* | I won't come back. |
+| *Matagal ang service.* | The service is slow. |
+| *Malamig na ang pagkain.* | The food is cold. |
+| *May problema sa order.* | There's a problem with the order. |
+| *Hindi ito ang in-order ko.* | This is not what I ordered. |
 
 ::: tip Dining Culture
 Filipinos often invite others to join meals with *Kain po kayo* even if they don't expect the person to actually eat. A polite response is *Salamat, busog pa ako* (Thank you, I'm still full).

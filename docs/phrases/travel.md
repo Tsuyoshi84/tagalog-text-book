@@ -10,523 +10,108 @@ Essential phrases for navigating transportation, finding directions, and handlin
 
 ## Asking for Directions
 
-### Tagalog
-*Nasaan ang...?*
-
-### English
-Where is...?
-
----
-
-### Tagalog
-*Paano pumunta sa...?*
-
-### English
-How do I get to...?
-
----
-
-### Tagalog
-*Saan ang pinakamalapit na...?*
-
-### English
-Where is the nearest...?
-
----
-
-### Tagalog
-*Malayo ba?*
-
-### English
-Is it far?
-
----
-
-### Tagalog
-*Malapit lang ba?*
-
-### English
-Is it near?
-
----
-
-### Tagalog
-*Diretso lang ba?*
-
-### English
-Just straight ahead?
-
----
-
-### Tagalog
-*Kumanan.*
-
-### English
-Turn right.
-
----
-
-### Tagalog
-*Kumaliwa.*
-
-### English
-Turn left.
-
----
-
-### Tagalog
-*Tawid sa kabilang kanto.*
-
-### English
-Cross to the other corner.
-
----
-
-### Tagalog
-*Naliligaw ako.*
-
-### English
-I'm lost.
-
----
-
-### Tagalog
-*Pwede mo ba akong ituro?*
-
-### English
-Can you show me?
+| Tagalog | English |
+| ------- | ------- |
+| *Nasaan ang...?* | Where is...? |
+| *Paano pumunta sa...?* | How do I get to...? |
+| *Saan ang pinakamalapit na...?* | Where is the nearest...? |
+| *Malayo ba?* | Is it far? |
+| *Malapit lang ba?* | Is it near? |
+| *Diretso lang ba?* | Just straight ahead? |
+| *Kumanan.* | Turn right. |
+| *Kumaliwa.* | Turn left. |
+| *Tawid sa kabilang kanto.* | Cross to the other corner. |
+| *Naliligaw ako.* | I'm lost. |
+| *Pwede mo ba akong ituro?* | Can you show me? |
 
 ## Public Transportation
 
-### Tagalog
-*Saan ang sakayan?*
-
-### English
-Where is the loading area?
-
----
-
-### Tagalog
-*Dumaan ba ito sa...?*
-
-### English
-Does this pass by...?
-
----
-
-### Tagalog
-*Magkano ang pamasahe?*
-
-### English
-How much is the fare?
-
----
-
-### Tagalog
-*Para po.*
-
-### English
-Stop please. (calling to stop a jeepney)
-
----
-
-### Tagalog
-*Bayad po.*
-
-### English
-Payment please. (passing fare in a jeepney)
-
----
-
-### Tagalog
-*Sukli po.*
-
-### English
-Change please.
-
----
-
-### Tagalog
-*Saan ako bababa?*
-
-### English
-Where should I get off?
-
----
-
-### Tagalog
-*Diyan na lang.*
-
-### English
-Just there.
-
----
-
-### Tagalog
-*Dito na lang.*
-
-### English
-Just here.
-
----
-
-### Tagalog
-*Sabay na.*
-
-### English
-Let's go together. (sharing transportation)
+| Tagalog | English |
+| ------- | ------- |
+| *Saan ang sakayan?* | Where is the loading area? |
+| *Dumaan ba ito sa...?* | Does this pass by...? |
+| *Magkano ang pamasahe?* | How much is the fare? |
+| *Para po.* | Stop please. (calling to stop a jeepney) |
+| *Bayad po.* | Payment please. (passing fare in a jeepney) |
+| *Sukli po.* | Change please. |
+| *Saan ako bababa?* | Where should I get off? |
+| *Diyan na lang.* | Just there. |
+| *Dito na lang.* | Just here. |
+| *Sabay na.* | Let's go together. (sharing transportation) |
 
 ## Jeepney and Bus
 
-### Tagalog
-*Saan ito papunta?*
-
-### English
-Where is this going?
-
----
-
-### Tagalog
-*Puno na.*
-
-### English
-It's full.
-
----
-
-### Tagalog
-*May puwang pa ba?*
-
-### English
-Is there still space?
-
----
-
-### Tagalog
-*Makiki-abot ng bayad.*
-
-### English
-Excuse me, passing the fare. (asking someone to pass your payment)
-
----
-
-### Tagalog
-*Makiki-usog.*
-
-### English
-Excuse me, moving over. (asking to squeeze in)
+| Tagalog | English |
+| ------- | ------- |
+| *Saan ito papunta?* | Where is this going? |
+| *Puno na.* | It's full. |
+| *May puwang pa ba?* | Is there still space? |
+| *Makiki-abot ng bayad.* | Excuse me, passing the fare. (asking someone to pass your payment) |
+| *Makiki-usog.* | Excuse me, moving over. (asking to squeeze in) |
 
 ## Taxi and Ride Services
 
-### Tagalog
-*Taxi po.*
-
-### English
-Taxi please.
-
----
-
-### Tagalog
-*Magkano hanggang...?*
-
-### English
-How much to...?
-
----
-
-### Tagalog
-*Pasakay po.*
-
-### English
-May I ride?
-
----
-
-### Tagalog
-*Gamitin ang metro ba?*
-
-### English
-Will you use the meter?
-
----
-
-### Tagalog
-*Dito na lang po.*
-
-### English
-Just here please.
-
----
-
-### Tagalog
-*Sandali lang po.*
-
-### English
-Just a moment please.
-
----
-
-### Tagalog
-*Pwede bang maghintay?*
-
-### English
-Can you wait?
-
----
-
-### Tagalog
-*Bilisan mo.*
-
-### English
-Hurry up.
-
----
-
-### Tagalog
-*Dahan-dahan lang.*
-
-### English
-Slow down./Take it easy.
+| Tagalog | English |
+| ------- | ------- |
+| *Taxi po.* | Taxi please. |
+| *Magkano hanggang...?* | How much to...? |
+| *Pasakay po.* | May I ride? |
+| *Gamitin ang metro ba?* | Will you use the meter? |
+| *Dito na lang po.* | Just here please. |
+| *Sandali lang po.* | Just a moment please. |
+| *Pwede bang maghintay?* | Can you wait? |
+| *Bilisan mo.* | Hurry up. |
+| *Dahan-dahan lang.* | Slow down./Take it easy. |
 
 ## Train/LRT/MRT
 
-### Tagalog
-*Saan bibili ng ticket?*
-
-### English
-Where can I buy a ticket?
-
----
-
-### Tagalog
-*Paano gamitin ang beep card?*
-
-### English
-How do I use the beep card?
-
----
-
-### Tagalog
-*Aling linya papuntang...?*
-
-### English
-Which line goes to...?
-
----
-
-### Tagalog
-*Anong station para sa...?*
-
-### English
-What station for...?
-
----
-
-### Tagalog
-*Ilang stops pa?*
-
-### English
-How many more stops?
+| Tagalog | English |
+| ------- | ------- |
+| *Saan bibili ng ticket?* | Where can I buy a ticket? |
+| *Paano gamitin ang beep card?* | How do I use the beep card? |
+| *Aling linya papuntang...?* | Which line goes to...? |
+| *Anong station para sa...?* | What station for...? |
+| *Ilang stops pa?* | How many more stops? |
 
 ## Accommodation
 
-### Tagalog
-*May bakante ba kayong kuwarto?*
-
-### English
-Do you have available rooms?
-
----
-
-### Tagalog
-*Magkano ang isang gabi?*
-
-### English
-How much per night?
-
----
-
-### Tagalog
-*May kasamang agahan ba?*
-
-### English
-Does it include breakfast?
-
----
-
-### Tagalog
-*Pwede ko bang makita ang kuwarto?*
-
-### English
-Can I see the room?
-
----
-
-### Tagalog
-*Saan ang CR?*
-
-### English
-Where is the restroom?
-
----
-
-### Tagalog
-*May WiFi ba?*
-
-### English
-Do you have WiFi?
-
----
-
-### Tagalog
-*Ano ang password?*
-
-### English
-What is the password?
-
----
-
-### Tagalog
-*Mayroon bang air-con?*
-
-### English
-Is there air conditioning?
-
----
-
-### Tagalog
-*Kailan ang check-out?*
-
-### English
-When is check-out?
-
----
-
-### Tagalog
-*Pwede bang i-extend?*
-
-### English
-Can I extend?
+| Tagalog | English |
+| ------- | ------- |
+| *May bakante ba kayong kuwarto?* | Do you have available rooms? |
+| *Magkano ang isang gabi?* | How much per night? |
+| *May kasamang agahan ba?* | Does it include breakfast? |
+| *Pwede ko bang makita ang kuwarto?* | Can I see the room? |
+| *Saan ang CR?* | Where is the restroom? |
+| *May WiFi ba?* | Do you have WiFi? |
+| *Ano ang password?* | What is the password? |
+| *Mayroon bang air-con?* | Is there air conditioning? |
+| *Kailan ang check-out?* | When is check-out? |
+| *Pwede bang i-extend?* | Can I extend? |
 
 ## Asking for Help
 
-### Tagalog
-*Nasaan ang airport?*
-
-### English
-Where is the airport?
-
----
-
-### Tagalog
-*Nasaan ang bus terminal?*
-
-### English
-Where is the bus terminal?
-
----
-
-### Tagalog
-*Nasaan ang paliparan?*
-
-### English
-Where is the airport? (formal term)
-
----
-
-### Tagalog
-*May mapa ba kayo?*
-
-### English
-Do you have a map?
-
----
-
-### Tagalog
-*Nagsasalita ka ba ng Ingles?*
-
-### English
-Do you speak English?
-
----
-
-### Tagalog
-*Pwede mo ba akong tulungan?*
-
-### English
-Can you help me?
+| Tagalog | English |
+| ------- | ------- |
+| *Nasaan ang airport?* | Where is the airport? |
+| *Nasaan ang bus terminal?* | Where is the bus terminal? |
+| *Nasaan ang paliparan?* | Where is the airport? (formal term) |
+| *May mapa ba kayo?* | Do you have a map? |
+| *Nagsasalita ka ba ng Ingles?* | Do you speak English? |
+| *Pwede mo ba akong tulungan?* | Can you help me? |
 
 ## General Travel
 
-### Tagalog
-*Anong oras ang alis?*
-
-### English
-What time is the departure?
-
----
-
-### Tagalog
-*Anong oras darating?*
-
-### English
-What time will it arrive?
-
----
-
-### Tagalog
-*Delayed ba?*
-
-### English
-Is it delayed?
-
----
-
-### Tagalog
-*Nasaan ang mga bagahe ko?*
-
-### English
-Where is my luggage?
-
----
-
-### Tagalog
-*Nawawala ang bag ko.*
-
-### English
-My bag is missing.
-
----
-
-### Tagalog
-*May tour guide ba?*
-
-### English
-Is there a tour guide?
-
----
-
-### Tagalog
-*Magkano ang entrance fee?*
-
-### English
-How much is the entrance fee?
-
----
-
-### Tagalog
-*Bukas ba ngayon?*
-
-### English
-Is it open now?
-
----
-
-### Tagalog
-*Anong oras magsasara?*
-
-### English
-What time does it close?
+| Tagalog | English |
+| ------- | ------- |
+| *Anong oras ang alis?* | What time is the departure? |
+| *Anong oras darating?* | What time will it arrive? |
+| *Delayed ba?* | Is it delayed? |
+| *Nasaan ang mga bagahe ko?* | Where is my luggage? |
+| *Nawawala ang bag ko.* | My bag is missing. |
+| *May tour guide ba?* | Is there a tour guide? |
+| *Magkano ang entrance fee?* | How much is the entrance fee? |
+| *Bukas ba ngayon?* | Is it open now? |
+| *Anong oras magsasara?* | What time does it close? |
 
 ::: tip Transportation Note
 *Para* is specifically used in jeepneys and some buses to signal the driver to stop. In taxis, use *Dito na lang po* or *Sandali po* instead.
