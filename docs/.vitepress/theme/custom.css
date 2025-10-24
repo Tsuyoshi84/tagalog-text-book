@@ -1,0 +1,197 @@
+/**
+ * Customize default theme styling by overriding CSS variables:
+ * https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css
+ */
+
+/**
+ * Colors - Light Theme (inspired by daisyUI warm brown tones)
+ * -------------------------------------------------------------------------- */
+
+:root {
+  /* Brand colors - warm brown/orange tones */
+  --vp-c-brand-1: #a85d32;
+  --vp-c-brand-2: #b86f3f;
+  --vp-c-brand-3: #c8814c;
+  --vp-c-brand-soft: rgba(168, 93, 50, 0.14);
+
+  /* Background colors - warm tan/beige like daisyUI light theme */
+  --vp-c-bg: #ebe1d3;
+  --vp-c-bg-alt: #e3d7c8;
+  --vp-c-bg-elv: #f0e6d8;
+  --vp-c-bg-soft: #e7dcc8;
+
+  /* Border and shadow colors */
+  --vp-c-border: #d4c9ba;
+  --vp-c-divider: #cfc3b3;
+  --vp-c-gutter: #d4c9ba;
+
+  /* Text colors */
+  --vp-c-text-1: #2a1f15;
+  --vp-c-text-2: #4a3f35;
+  --vp-c-text-3: #6a5f55;
+
+  /* Sidebar */
+  --vp-sidebar-bg-color: var(--vp-c-bg-alt);
+
+  /* Code block colors */
+  --vp-code-bg: #e0d5c5;
+  --vp-code-block-bg: #e7dcc8;
+}
+
+/**
+ * Colors - Dark Theme (inspired by daisyUI dark warm tones)
+ * -------------------------------------------------------------------------- */
+
+.dark {
+  /* Brand colors - lighter brown/orange for dark mode */
+  --vp-c-brand-1: #d4956c;
+  --vp-c-brand-2: #c88659;
+  --vp-c-brand-3: #b87746;
+  --vp-c-brand-soft: rgba(212, 149, 108, 0.16);
+
+  /* Background colors - dark warm gray */
+  --vp-c-bg: #1a1613;
+  --vp-c-bg-alt: #211d19;
+  --vp-c-bg-elv: #272320;
+  --vp-c-bg-soft: #221e1a;
+
+  /* Border and shadow colors */
+  --vp-c-border: #3a3430;
+  --vp-c-divider: #4a433d;
+  --vp-c-gutter: #32292a;
+
+  /* Text colors */
+  --vp-c-text-1: #ede8e1;
+  --vp-c-text-2: #d4cdc3;
+  --vp-c-text-3: #a69b8e;
+
+  /* Sidebar */
+  --vp-sidebar-bg-color: var(--vp-c-bg-alt);
+
+  /* Code block colors */
+  --vp-code-bg: #252018;
+  --vp-code-block-bg: #1f1c18;
+}
+
+/**
+ * Component: Button
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-button-brand-border: transparent;
+  --vp-button-brand-text: #ffffff;
+  --vp-button-brand-bg: var(--vp-c-brand-1);
+  --vp-button-brand-hover-border: transparent;
+  --vp-button-brand-hover-text: #ffffff;
+  --vp-button-brand-hover-bg: var(--vp-c-brand-2);
+  --vp-button-brand-active-border: transparent;
+  --vp-button-brand-active-text: #ffffff;
+  --vp-button-brand-active-bg: var(--vp-c-brand-1);
+}
+
+/**
+ * Component: Home
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(
+    120deg,
+    #a85d32 30%,
+    #d4956c
+  );
+
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    #a85d32 50%,
+    #d4956c 50%
+  );
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+.dark {
+  --vp-home-hero-name-background: linear-gradient(
+    120deg,
+    #d4956c 30%,
+    #f0b88e
+  );
+
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    #d4956c 50%,
+    #f0b88e 50%
+  );
+}
+
+/**
+ * Component: Custom Block
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-custom-block-tip-border: transparent;
+  --vp-custom-block-tip-text: var(--vp-c-text-1);
+  --vp-custom-block-tip-bg: var(--vp-c-brand-soft);
+  --vp-custom-block-tip-code-bg: var(--vp-code-bg);
+}
+
+/**
+ * Component: Algolia (Search)
+ * -------------------------------------------------------------------------- */
+
+.DocSearch {
+  --docsearch-primary-color: var(--vp-c-brand-1) !important;
+}
+
+/**
+ * Component: Nav Bar
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-nav-bg-color: var(--vp-c-bg);
+}
+
+.dark {
+  --vp-nav-bg-color: var(--vp-c-bg);
+}
+
+/**
+ * Component: Scrollbar
+ * -------------------------------------------------------------------------- */
+
+/* For Webkit browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--vp-c-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #a8a8a8;
+  border-radius: 6px;
+  border: 2px solid var(--vp-c-bg);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #888888;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #5a5a5a;
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #707070;
+}
+
+/* For Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #a8a8a8 var(--vp-c-bg);
+}
+
+.dark * {
+  scrollbar-color: #5a5a5a var(--vp-c-bg);
+}
