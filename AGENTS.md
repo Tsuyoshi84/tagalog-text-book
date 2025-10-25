@@ -126,7 +126,6 @@ Cultural notes relevant to communication:
  - Add concise "See also" links to related topics (see "Recommended Formatting Methods → 12. Consistent “See also” Block").
  - Match sidebar structure with this folder layout.
  - Validate relative links and anchors on build; fail CI on broken links.
- - Validate relative links and anchors on build; fail CI on broken links.
 
 ---
 
@@ -138,9 +137,6 @@ Cultural notes relevant to communication:
 - Provide meaningful alt text for any images.
 - Keep tables readable on mobile (concise headers; avoid excessive columns).
 - Use semantic heading order without skipping levels.
- - Provide meaningful alt text for any images.
- - Keep tables readable on mobile (concise headers; avoid excessive columns).
- - Use semantic heading order without skipping levels.
 
 ---
 
