@@ -58,11 +58,32 @@ Core grammar explanations:
 
 Explain **focus system**, **affixation**, and **aspect**:
 
-- Include comparison tables for actor-focus vs object-focus
-- Maintain a `verb-list.md` with:
+- Include comparison tables for actor-focus vs object-focus.
+- Maintain `guide/verbs/verb-list.md` using the project’s grouped format:
+  - Organize by root (e.g., `### kain (eat)`).
+  - Under each root, list one or more focus blocks with a 3‑column table:
 
-| Root | Focus | Aspect | Conjugation | English |
-| ---- | ----- | ------ | ----------- | ------- |
+```md
+#### Actor
+| Aspect | Conjugation | English |
+|--------|-------------|---------|
+| Perfective | *kumain* | ate |
+| Imperfective | *kumakain* | is eating |
+| Contemplative | *kakain* | will eat |
+
+#### Patient
+| Aspect | Conjugation | English |
+|--------|-------------|---------|
+| Perfective | *kinain* | was eaten |
+| Imperfective | *kinakain* | is being eaten |
+| Contemplative | *kakainin* | will be eaten |
+```
+
+Notes:
+
+- Keep Tagalog forms italicized and English gloss lower case.
+- Use additional focus blocks (Locative, Instrumental, Benefactive) when the root commonly appears in those foci.
+- Group related roots under subsections (e.g., Motion Verbs, Communication Verbs) for navigation.
 
 ### 3. `phrases/`
 
@@ -78,6 +99,7 @@ Preferred format:
 ```
 
 Guidelines:
+
 - Italicize Tagalog phrases in the left column.
 - Keep one concise English translation per row.
 - Group tables under clear subsections (e.g., “Asking About Prices,” “Bargaining”).
@@ -101,8 +123,6 @@ Cultural notes relevant to communication:
 
 - Politeness, social cues, regional differences
 
- 
-
 ## ✏️ Writing Style Rules
 
 - Always use **Tagalog in italics** (*kumain*, *maganda*, *bahay*).
@@ -122,10 +142,10 @@ Cultural notes relevant to communication:
 
 ## 🌐 Navigation Rules
 
- - Each directory includes an `index.md` summarizing its contents.
- - Add concise "See also" links to related topics (see "Recommended Formatting Methods → 12. Consistent “See also” Block").
- - Match sidebar structure with this folder layout.
- - Validate relative links and anchors on build; fail CI on broken links.
+- Each directory includes an `index.md` summarizing its contents.
+- Add concise "See also" links to related topics (see "Recommended Formatting Methods → 12. Consistent “See also” Block").
+- Match sidebar structure with this folder layout.
+- Validate relative links and anchors on build; fail CI on broken links.
 
 ---
 
@@ -146,7 +166,7 @@ Cultural notes relevant to communication:
 - Output: `docs/.vitepress/dist`
 - Site config: `docs/.vitepress/config.ts`
 - Deploy targets: **Cloudflare Pages**, **GitHub Pages**, or **Netlify**
- - Recommended: enable link checking and sidebar configuration in VitePress config; fail CI on link errors.
+- Recommended: enable link checking and sidebar configuration in VitePress config; fail CI on link errors.
 
 ---
 
@@ -274,7 +294,7 @@ Guidelines:
 - Italicize Tagalog forms.
 - Keep English gloss lower case unless proper noun.
 - Avoid redundant columns—merge if empty.
- - Prefer 6 or fewer columns; split or summarize if wider.
+- Prefer 6 or fewer columns; split or summarize if wider.
 
 ### 5. Affix Function Table Pattern
 
@@ -286,18 +306,33 @@ Guidelines:
 | *-in-* (suffix) | Object | Suffix; reduplicate first syllable for ongoing | *Kakainin* | will be eaten |
 ```
 
-### 6. Verb List Pattern (Canonical)
+### 6. Verb List Pattern (Project)
 
-Maintain in `guide/verbs/verb-list.md` with the project-specified columns:
+The verb list uses grouped sections by root with per‑focus tables. Preferred structure:
 
 ```md
-| Root | Focus | Aspect | Conjugation | English |
-| ---- | ----- | ------ | ----------- | ------- |
-| kain | Actor | Completed | *Kumain* | ate |
-| kain | Actor | Ongoing | *Kumakain* | is eating |
-| kain | Actor | Contemplated | *Kakain* | will eat |
-| kain | Object | Completed | *Kinain* | was eaten |
+### root (English gloss)
+
+#### FocusName
+| Aspect | Conjugation | English |
+|--------|-------------|---------|
+| Perfective | *form* | gloss |
+| Imperfective | *form* | gloss |
+| Contemplative | *form* | gloss |
+
+#### AnotherFocus
+| Aspect | Conjugation | English |
+|--------|-------------|---------|
+| Perfective | *form* | gloss |
+| Imperfective | *form* | gloss |
+| Contemplative | *form* | gloss |
 ```
+
+Guidelines:
+
+- Use consistent sectioning: root at `###`, focus labels at `####`.
+- For roots with only one common focus, include just that focus.
+- Keep tables concise and mobile‑friendly.
 
 ### 7. Footnotes for Cultural / Etymology Notes
 

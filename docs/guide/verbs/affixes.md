@@ -85,9 +85,9 @@ The prefix *mang-* undergoes phonological changes depending on the initial sound
 
 | Root | Completed | Ongoing | Contemplated | English |
 |------|-----------|---------|--------------|---------|
-| bili | *mamili* | *namimili* | *mamimili* | buy (shopping) |
-| kuha | *manguha* | *nanguguha* | *manguguha* | get/take |
-| hiram | *manghiram* | *nanghihiram* | *manghihiram* | borrow |
+| bili | *namili* | *namimili* | *mamimili* | buy (shopping) |
+| kuha | *nanguha* | *nangunguha* | *mangunguha* | get/take |
+| hiram | *nanghiram* | *nanghihiram* | *manghihiram* | borrow |
 
 Examples:
 - *Namili si Lorna sa palengke.*  
@@ -126,10 +126,10 @@ The prefix *i-* can mark patient or directional focus depending on the root.
 
 | Root | Completed | Ongoing | Contemplated | English |
 |------|-----------|---------|--------------|---------|
-| sulat | *isulat* | *isinusulat* | *isusulat* | write (for/to) |
+| sulat | *isinulat* | *isinusulat* | *isusulat* | write (for/to) |
 | bigay | *ibinigay* | *ibinibigay* | *ibibigay* | give |
-| abot | *inabot* | *inaabot* | *iaabot* | hand over |
-| lagay | *inilagay* | *inilalагay* | *ilalagay* | place/put |
+| abot | *iniabot* | *inaabot* | *iaabot* | hand over |
+| lagay | *inilagay* | *inilalagay* | *ilalagay* | place/put |
 
 Examples:
 - *Ibinigay ni Maria ang regalo.*  
@@ -164,7 +164,7 @@ The circumfix *pag-...-an* emphasizes location with certain roots.
 
 | Root | Completed | Ongoing | Contemplated | English |
 |------|-----------|---------|--------------|---------|
-| luto | *pinaglutuan* | *pinagdulutuan* | *paglulutuан* | place where cooked |
+| luto | *pinaglutuan* | *pinaglulutuan* | *paglulutuan* | place where cooked |
 | trabaho | *pinagtrabahuan* | *pinagtatrabahuan* | *pagtatrabahuan* | work place |
 | aral | *pinag-aralan* | *pinag-aaralan* | *pag-aaralan* | study at |
 
@@ -197,13 +197,13 @@ Examples:
 
 ### i- (Benefactive Use)
 
-In some contexts, *i-* can mark benefactive focus.
+In some contexts, *i-* participates in benefactive constructions.
 
 Examples:
-- *Isinulat ni Ana ang kaibigan ng liham.*  
-  (The friend was written a letter by Ana.)
+- *Sinulatan ni Ana ang kaibigan ng liham.*  
+  (Ana wrote her friend a letter.)
 - *Ibinili niya ang nanay ng sapatos.*  
-  (He/She bought shoes for mother.)
+  (He/She bought mother some shoes.)
 
 ## Instrumental Focus Affixes
 
