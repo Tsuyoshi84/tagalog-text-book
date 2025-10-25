@@ -4,6 +4,13 @@ import { defineConfig } from "vitepress"
 export default defineConfig({
 	title: "Tagalog Text Book",
 	description: "Tagalog Text Book for Everyone",
+	// PWA / icons
+	head: [
+		["link", { rel: "icon", href: "/favicon.ico" }],
+		["link", { rel: "manifest", href: "/site.webmanifest" }],
+		["meta", { name: "theme-color", content: "#0f766e" }],
+		["link", { rel: "apple-touch-icon", href: "/apple-touch-icon.png" }],
+	],
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [{ text: "Home", link: "/" }],
