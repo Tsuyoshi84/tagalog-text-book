@@ -307,11 +307,11 @@ Combines inclusion with limitation:
 
 Expresses realization that something is limited:
 
-- *Ito pala lang.*  
-  (Oh, just this. - realizing it's limited)
-- *Malapit pala lang.*  
+- *Ito lang pala.*
+  (Oh, it's only this. - realizing it's limited)
+- *Malapit lang pala.*
   (Oh, it's just nearby. - surprised it's close)
-- *Ikaw pala lang.*  
+- *Ikaw lang pala.*
   (Oh, it's just you. - recognizing)
 
 ## Nuances and Tone
