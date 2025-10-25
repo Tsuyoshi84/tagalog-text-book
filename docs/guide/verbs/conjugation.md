@@ -242,7 +242,7 @@ Add the appropriate aspect markers through reduplication or affix changes.
 #### Root: *sulat* (write)
 
 ```text
-1. Perfective: ni → si, sulat + an → sinulatan
+1. Perfective: si + sulat + an → sinulatan
 2. Imperfective: si + nu + sulat + an → sinusulatan
 3. Contemplative: su + sulat + an → susulatan
 ```
@@ -287,9 +287,9 @@ Add the appropriate aspect markers through reduplication or affix changes.
 
 | Aspect | Form | Example Sentence | English |
 |--------|------|------------------|---------|
-| Perfective | *ipinagbili* | *Ipinagbili niya ang kapatid.* | The sibling was bought for by him/her. |
-| Imperfective | *ipinagbibili* | *Ipinagbibili niya ang kapatid.* | The sibling is being bought for by him/her. |
-| Contemplative | *ipagbibili* | *Ipagbibili niya ang kapatid.* | The sibling will be bought for by him/her. |
+| Perfective | *ipinagbili* | *Ipinagbili niya ang kotse.* | He/She sold the car. |
+| Imperfective | *ipinagbibili* | *Ipinagbibili niya ang kotse.* | He/She is selling the car. |
+| Contemplative | *ipagbibili* | *Ipagbibili niya ang kotse.* | He/She will sell the car. |
 
 ## Instrumental Focus Conjugation (ipang-)
 

@@ -37,7 +37,7 @@ Example:
   (The mango was eaten by Jose.)
 - *Isusulat ni Ana ang liham.*  
   (The letter will be written by Ana.)
-- *Lilinisín ng bata ang kwarto.*  
+- *Lilinisin ng bata ang kwarto.*  
   (The room will be cleaned by the child.)
 
 ### Locative Focus (LF)
@@ -50,7 +50,7 @@ Example:
   (The stove was where Maria cooked.)
 - *Susulatan ni Ana ang sobre.*  
   (The envelope will be written on by Ana.)
-- *Paglilinisán ng bata ang kwarto.*  
+- *Paglilinisan ng bata ang kwarto.*  
   (The room will be the place cleaned by the child.)
 
 ### Benefactive Focus (BF)
