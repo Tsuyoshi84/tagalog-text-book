@@ -22,8 +22,8 @@ The primary function is to include something or someone in a statement:
 
 - *Kumain ako. Kumain din siya.*  
   (I ate. He/she ate too.)
-- *Pupunta ako. Pupunta rin ako.*  
-  (I will go. I will go too/also.)
+- *Pupunta ako. Pupunta rin siya.*  
+  (I will go. He/she will go too.)
 - *Maganda si Ana. Maganda rin si Maria.*  
   (Ana is beautiful. Maria is beautiful too.)
 
@@ -33,8 +33,8 @@ Indicates that something applies equally or similarly:
 
 - *Masaya ako. Masaya rin siya.*  
   (I'm happy. He/she is happy too.)
-- *Gutom ako. Gutom din ako.*  
-  (I'm hungry. I'm hungry too.)
+- *Gutom ako. Gutom din siya.*  
+  (I'm hungry. He/she is hungry too.)
 - *Mahirap ang buhay ko. Mahirap din ang buhay niya.*  
   (My life is difficult. His/her life is difficult too.)
 
@@ -79,8 +79,8 @@ When the preceding word ends in any consonant sound, use *din*:
   (Thank you too. - *salamat* ends in "t")
 - *Mahal din kita.*  
   (I love you too. - *mahal* ends in "l")
-- *Pupunta din ako.*  
-  (I will go too. - *pupunta* ends in "a", but often *din* due to emphasis)
+- *Umaalis din ako.*  
+  (I'm leaving too. - *umaalis* ends in "s")
 
 ### After Vowels → *Rin*
 
@@ -89,16 +89,16 @@ When the preceding word ends in a vowel sound (a, e, i, o, u), use *rin*:
 - *Ako rin.*  
   (Me too. - *ako* ends in "o")
 - *Ikaw rin.*  
-  (You too. - *ikaw* ends in "w" which sounds vowel-like)
+  (You too. - *ikaw* ends in "w")
 - *Siya rin.*  
   (Him/her too. - *siya* ends in "a")
 - *Mabuti rin.*  
   (Good also. - *mabuti* ends in "i")
-- *Bukas rin.*  
+- *Bukas din.*  
   (Tomorrow also. - *bukas* ends in "s")
 
 ::: warning Common Pattern Exception
-In practice, many speakers use *din* after words ending in "a" when there's emphasis or in certain fixed phrases. Native speakers may vary slightly, but following the strict vowel/consonant rule is always correct.
+In practice, many speakers use *din* after words ending in "a" when there's emphasis or in certain fixed phrases. Additionally, words ending in "w" (like *ikaw*) typically take *rin* as "w" is treated as a glide/semi-vowel in this context. Native speakers may vary slightly, but following the strict vowel/consonant rule is always correct for most consonants.
 :::
 
 ### Examples Demonstrating the Rule
