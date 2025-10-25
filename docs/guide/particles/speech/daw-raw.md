@@ -20,7 +20,7 @@ The particles *daw* and *raw* are essential for reporting what someone else has 
 
 The primary function is to report what someone else has said:
 
-- *Pupunta daw siya bukas.*  
+- *Pupunta raw siya bukas.*
   (He/she said he/she will go tomorrow. / He/she is supposedly going tomorrow.)
 - *Maganda raw ang pelikula.*  
   (They said the movie is good.)
@@ -37,7 +37,7 @@ Conveys information heard from others without personal verification:
 
 - *Cancelled daw ang klase.*  
   (Class is supposedly cancelled. - heard from someone)
-- *Mahal raw ang presyo doon.*  
+- *Mahal daw ang presyo doon.*
   (Prices are reportedly expensive there.)
 - *Mayaman daw ang pamilya nila.*  
   (Their family is supposedly rich. - gossip/hearsay)
@@ -49,16 +49,16 @@ Transforms direct quotes into indirect speech:
 **Direct:** *Sabi niya, "Pupunta ako bukas."*  
 (He/she said, "I will go tomorrow.")
 
-**Indirect:** *Pupunta daw siya bukas.*  
+**Indirect:** *Pupunta raw siya bukas.*
 (He/she said he/she will go tomorrow.)
 
 ### 4. Uncertainty or Distance from Information
 
 Adds a layer of uncertainty or detachment from the claim:
 
-- *Totoo daw iyon.*  
+- *Totoo raw iyon.*
   (That's supposedly true. - but I'm not certain)
-- *Mahirap raw ang exam.*  
+- *Mahirap daw ang exam.*
   (The exam is supposedly difficult. - according to others)
 
 ## Phonetic Rule: *Daw* After Consonants, *Raw* After Vowels
@@ -129,7 +129,7 @@ Can follow the subject for emphasis:
 
 - *Si Maria raw ay may sakit.*  
   (Maria supposedly is sick.)
-- *Ang nanay niya daw ay doktor.*  
+- *Ang nanay niya raw ay doktor.*
   (His/her mother is supposedly a doctor.)
 - *Sila raw ang nanalo.*  
   (They supposedly won.)
@@ -151,9 +151,9 @@ Used in reporting questions someone asked:
 
 - *Nasaan daw si Ana?*  
   (Where is Ana supposedly? / Where did they say Ana is?)
-- *Kailan raw ang meeting?*  
+- *Kailan daw ang meeting?*
   (When is the meeting supposedly? / When did they say the meeting is?)
-- *Sino daw ang dumating?*  
+- *Sino raw ang dumating?*
   (Who supposedly arrived? / Who did they say arrived?)
 
 ### In Negative Sentences
@@ -162,7 +162,7 @@ Functions normally in negative contexts:
 
 - *Hindi raw siya pupunta.*  
   (He/she supposedly isn't going.)
-- *Wala daw siyang pera.*  
+- *Wala raw siyang pera.*
   (He/she supposedly has no money.)
 - *Hindi pa raw tapos ang trabaho.*  
   (The work supposedly isn't finished yet.)
@@ -175,7 +175,7 @@ Functions normally in negative contexts:
 
 Asks to confirm reported information:
 
-- *Pupunta daw ba siya?*  
+- *Pupunta raw ba siya?*
   (Did he/she say he/she is going? / Is he/she supposedly going?)
 - *Totoo raw ba iyan?*  
   (Is that supposedly true? / Did they say that's true?)
@@ -186,9 +186,9 @@ Asks to confirm reported information:
 
 Combines "said" with the hearsay marker for emphasis:
 
-- *Sabi niya, pupunta daw siya.*  
+- *Sabi niya, pupunta raw siya.*
   (He/she said he/she is going. - emphasizing it's reported)
-- *Sabi nila, masarap raw ang pagkain.*  
+- *Sabi nila, masarap daw ang pagkain.*
   (They said the food is delicious. - double reporting marker)
 
 ::: info Usage Note
@@ -219,7 +219,7 @@ Softens the reporting:
 
 - *Okay naman daw.*  
   (It's supposedly okay though.)
-- *Mabait naman raw.*  
+- *Mabait naman daw.*
   (Supposedly kind though.)
 
 ## Nuances and Tone
@@ -248,7 +248,7 @@ With certain intonation, *daw/raw* can express skepticism:
 
 Often used in gossip or spreading rumors:
 
-- *Hiwalay na daw sila.*  
+- *Hiwalay na raw sila.*
   (They supposedly broke up. - gossip)
 - *May kabit raw si Juan.*  
   (Juan supposedly has a mistress. - rumor)
@@ -261,7 +261,7 @@ Often used in gossip or spreading rumors:
 
 Distances the speaker from responsibility for accuracy:
 
-- *Mahusay daw ang doktor na iyon.*  
+- *Mahusay raw ang doktor na iyon.*
   (That doctor is supposedly good. - I'm not claiming, just reporting)
 - *Mura raw ang presyo.*  
   (The price is supposedly cheap. - according to others, not my experience)
@@ -301,7 +301,7 @@ Mixing up *daw* and *raw* based on the wrong phonetic pattern:
 *Daw* and *raw* cannot start a sentence:
 
 - ❌ *Daw pumunta siya.*
-- ✅ *Pumunta daw siya.*
+- ✅ *Pumunta raw siya.*
 - 💡 These particles are enclitic and must follow another word.
 
 ### ❌ Mistake 3: Using *Daw/Raw* for Direct Experience
@@ -322,8 +322,8 @@ Don't use *daw/raw* when reporting your own direct experience:
 
 *Daw/raw* is primarily conversational; overuse in formal writing seems unprofessional:
 
-- ❌ Academic paper: *Ang resulta daw ay positibo.*
-- ✅ Conversation: *Positibo daw ang resulta.*
+- ❌ Academic paper: *Ang resulta raw ay positibo.*
+- ✅ Conversation: *Positibo raw ang resulta.*
 - ✅ Formal writing: *Ayon sa ulat, positibo ang resulta.* (According to the report...)
 - 💡 Use formal reporting verbs (*ayon sa*, *sang-ayon sa*) in formal contexts.
 
@@ -331,17 +331,17 @@ Don't use *daw/raw* when reporting your own direct experience:
 
 *Daw* as a particle differs from *daw* in older or poetic expressions meaning "as if" or "seemingly":
 
-- Particle: *Maganda daw ang bahay.* (The house is supposedly beautiful.)
-- Poetic: *Bulaklak na daw sa langit.* (Like a flower from heaven. - old poetic usage)
+- Particle: *Maganda raw ang bahay.* (The house is supposedly beautiful.)
+- Poetic: *Bulaklak na raw sa langit.* (Like a flower from heaven. - old poetic usage)
 - 💡 Context distinguishes them; the particle *daw/raw* is far more common in modern speech.
 
 ### ❌ Mistake 6: Using with Strong Personal Assertions
 
 Don't use *daw/raw* when making your own strong claim:
 
-- ❌ *Totoo daw ito!* (This is supposedly true! - contradictory when asserting)
+- ❌ *Totoo raw ito!* (This is supposedly true! - contradictory when asserting)
 - ✅ *Totoo ito!* (This is true! - direct assertion)
-- ✅ *Totoo daw yan sabi niya.* (He/she said that's true. - reporting)
+- ✅ *Totoo raw yan sabi niya.* (He/she said that's true. - reporting)
 - 💡 If you're certain and it's your claim, don't use hearsay markers.
 
 ## Comparisons with Direct Speech
@@ -352,9 +352,9 @@ Understanding how *daw/raw* transforms direct speech helps with proper usage.
 
 | Direct Speech | With *Daw/Raw* (Indirect) | English |
 | ------------- | ------------------------- | ------- |
-| Sabi niya: *"Pupunta ako."* | *Pupunta daw siya.* | He/she said: "I will go." / He/she said he/she will go. |
+| Sabi niya: *"Pupunta ako."* | *Pupunta raw siya.* | He/she said: "I will go." / He/she said he/she will go. |
 | Sabi niya: *"Masarap ang pagkain."* | *Masarap daw ang pagkain.* | He/she said: "The food is delicious." / The food is supposedly delicious. |
-| Sabi nila: *"Tapos na ang trabaho."* | *Tapos na daw ang trabaho.* | They said: "The work is finished." / The work is supposedly finished. |
+| Sabi nila: *"Tapos na ang trabaho."* | *Tapos na raw ang trabaho.* | They said: "The work is finished." / The work is supposedly finished. |
 | Sabi ko: *"Gutom ako."* | *Gutom daw ako.* (quoted) | I said: "I'm hungry." / I said I'm hungry. |
 
 ::: info Pronoun Shift
@@ -367,16 +367,16 @@ Notice how pronouns shift in indirect speech: *ako* (I) becomes *siya* (he/she),
 
 | Casual (*Daw/Raw*) | Formal Alternative | English |
 | ------------------ | ------------------ | ------- |
-| *Maganda daw ang lugar.* | *Ayon sa kanya, maganda ang lugar.* | The place is supposedly beautiful. / According to him/her, the place is beautiful. |
-| *Cancelled raw ang event.* | *Sang-ayon sa anunsyo, kinansela ang event.* | The event is supposedly cancelled. / According to the announcement, the event is cancelled. |
-| *Mahusay daw ang doktor.* | *Batay sa mga review, mahusay ang doktor.* | The doctor is supposedly good. / Based on reviews, the doctor is good. |
+| *Maganda raw ang lugar.* | *Ayon sa kanya, maganda ang lugar.* | The place is supposedly beautiful. / According to him/her, the place is beautiful. |
+| *Cancelled daw ang event.* | *Sang-ayon sa anunsyo, kinansela ang event.* | The event is supposedly cancelled. / According to the announcement, the event is cancelled. |
+| *Mahusay raw ang doktor.* | *Batay sa mga review, mahusay ang doktor.* | The doctor is supposedly good. / Based on reviews, the doctor is good. |
 
 ### Omitting *Daw/Raw* Changes Meaning
 
 Removing *daw/raw* makes the statement a direct claim:
 
 - *Maganda ang pelikula.* (The movie is beautiful. - I'm stating this)
-- *Maganda daw ang pelikula.* (The movie is supposedly beautiful. - others said this)
+- *Maganda raw ang pelikula.* (The movie is supposedly beautiful. - others said this)
 - *Sakit ng ulo ko.* (My head hurts. - direct experience)
 - *Sakit daw ng ulo niya.* (His/her head supposedly hurts. - reported)
 
@@ -440,11 +440,11 @@ Focus on basic reported speech and simple hearsay statements.
 
 #### Pattern 1: Basic Reported Speech
 
-- *Pupunta daw siya.*  
+- *Pupunta raw siya.*
   (He/she said he/she is going.)
-- *Masarap raw ang pagkain.*  
+- *Masarap daw ang pagkain.*
   (The food is supposedly delicious.)
-- *Umuwi na daw si Ana.*  
+- *Umuwi na raw si Ana.*
   (Ana supposedly went home.)
 
 #### Pattern 2: Simple Questions with *Daw/Raw*
@@ -482,41 +482,41 @@ Add combinations with other particles and more complex reporting.
 
 - *Mahirap daw pala ang trabaho.*  
   (Oh, the work is supposedly difficult.)
-- *Mayaman raw pala ang pamilya nila.*  
+- *Mayaman daw pala ang pamilya nila.*
   (Oh, their family is supposedly rich.)
-- *Cancelled na daw pala.*  
+- *Cancelled na raw pala.*
   (Oh, it's supposedly cancelled already.)
 
 #### Pattern 2: Negative Reported Speech
 
-- *Hindi daw siya pupunta.*  
+- *Hindi raw siya pupunta.*
   (He/she supposedly isn't going.)
 - *Wala raw siyang alam.*  
   (He/she supposedly doesn't know.)
-- *Hindi pa daw tapos.*  
+- *Hindi pa raw tapos.*
   (It's supposedly not finished yet.)
 
 #### Pattern 3: Reporting with Time Markers
 
 - *Bukas daw ang deadline.*  
   (The deadline is supposedly tomorrow.)
-- *Kahapon raw dumating si Ana.*  
+- *Kahapon daw dumating si Ana.*
   (Ana supposedly arrived yesterday.)
-- *Mamaya daw ang meeting.*  
+- *Mamaya raw ang meeting.*
   (The meeting is supposedly later.)
 
 #### Pattern 4: Reporting Reasons with *Kasi*
 
 - *Absent daw kasi may sakit.*  
   (Absent supposedly because sick.)
-- *Late raw kasi traffic.*  
+- *Late daw kasi traffic.*
   (Late supposedly because of traffic.)
-- *Hindi daw pupunta kasi busy.*  
+- *Hindi raw pupunta kasi busy.*
   (Not going supposedly because busy.)
 
 #### Pattern 5: Confirming Hearsay with *Ba*
 
-- *Totoo daw ba yan?*  
+- *Totoo raw ba yan?*
   (Is that supposedly true?)
 - *Pupunta raw ba talaga siya?*  
   (Is he/she really supposedly going?)
@@ -540,16 +540,16 @@ Practice with appropriate intonation showing doubt:
 
 #### Pattern 2: Gossip Reporting
 
-- *Hiwalay na daw sila.*  
+- *Hiwalay na raw sila.*
   (They supposedly broke up.)
 - *May girlfriend na raw si Juan.*  
   (Juan supposedly has a girlfriend now.)
-- *Umalis na daw sa trabaho.*  
+- *Umalis na raw sa trabaho.*
   (He/she supposedly quit the job.)
 
 #### Pattern 3: Complex Particle Combinations
 
-- *Pupunta pa daw ba sila?*  
+- *Pupunta pa raw ba sila?*
   (Are they supposedly still going?)
 - *Tapos na raw kasi ang deadline.*  
   (Because the deadline supposedly already passed.)
@@ -558,11 +558,11 @@ Practice with appropriate intonation showing doubt:
 
 #### Pattern 4: Natural Conversation Flow
 
-- *Ano raw sabi niya? Pupunta daw siya bukas.*  
+- *Ano raw sabi niya? Pupunta raw siya bukas.*
   (What did he/she say? He/she said he/she's going tomorrow.)
 - *Nasaan daw si Ana? Umuwi na raw.*  
   (Where is Ana supposedly? She supposedly went home already.)
-- *Totoo ba yan? Totoo daw ayon kay Maria.*  
+- *Totoo ba yan? Totoo raw ayon kay Maria.*
   (Is that true? It's supposedly true according to Maria.)
 
 #### Pattern 5: Indirect Compliments and Criticism
@@ -576,18 +576,18 @@ Practice with appropriate intonation showing doubt:
 
 #### Pattern 6: Protecting the Speaker
 
-- *Mahusay daw ang dentista na iyon, pero hindi ko pa natry.*  
+- *Mahusay raw ang dentista na iyon, pero hindi ko pa natry.*
   (That dentist is supposedly good, but I haven't tried yet.)
 - *Mura raw doon, pero di ko alam kung totoo.*  
   (It's supposedly cheap there, but I don't know if it's true.)
-- *Maganda daw ang lugar, kaya gusto kong pumunta.*  
+- *Maganda raw ang lugar, kaya gusto kong pumunta.*
   (The place is supposedly beautiful, so I want to go.)
 
 #### Pattern 7: Sarcastic or Ironic Usage
 
-- *Busy daw siya.* (tone: yeah right)  
+- *Busy raw siya.* (tone: yeah right)
   (He/she is supposedly busy. - sarcastic when clearly not)
-- *Matalino daw.* (tone: ironic)  
+- *Matalino raw.* (tone: ironic)
   (Supposedly smart. - when actions prove otherwise)
 
 ## Summary
@@ -630,8 +630,8 @@ Convert direct quotes to indirect speech using *daw/raw*:
 
 Determine what *daw/raw* expresses in each sentence:
 
-1. *Maganda daw ang pelikula.* (Reported speech/hearsay)
-2. *Totoo daw ba yan?* (Questioning hearsay)
+1. *Maganda raw ang pelikula.* (Reported speech/hearsay)
+2. *Totoo raw ba yan?* (Questioning hearsay)
 3. *Mayaman daw siya.* (Can be neutral report or skeptical depending on tone)
 4. *Cancelled daw ang klase.* (Second-hand information)
 
@@ -640,15 +640,15 @@ Determine what *daw/raw* expresses in each sentence:
 Form questions using *daw/raw* to ask about reported information:
 
 1. *Nasaan ___ si Ana?* → *Nasaan daw si Ana?*
-2. *Kailan ___ ang meeting?* → *Kailan raw ang meeting?*
-3. *Sino ___ ang nanalo?* → *Sino daw ang nanalo?*
+2. *Kailan ___ ang meeting?* → *Kailan daw ang meeting?*
+3. *Sino ___ ang nanalo?* → *Sino raw ang nanalo?*
 
 ### Exercise 5: Add Appropriate Particle Combinations
 
 Complete with *daw/raw* plus another particle:
 
 1. *Mahirap ___ ___ ang exam.* (surprised) → *Mahirap daw pala ang exam.*
-2. *Totoo ___ ___ yan?* (questioning) → *Totoo daw ba yan?*
+2. *Totoo ___ ___ yan?* (questioning) → *Totoo raw ba yan?*
 3. *Absent ___ kasi may sakit.* (reason) → *Absent daw kasi may sakit.*
 
 See also: [Particles Index](../index.md), [Sentence Structure](../../sentence-structure.md), [Questions](../../questions.md)
