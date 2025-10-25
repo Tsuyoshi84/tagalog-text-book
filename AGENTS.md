@@ -12,66 +12,12 @@ The goal is to make a **clear, accurate, and organized grammar reference** that 
 
 ## 🗂 Document Structure
 
-```plain
-
-docs/
-├── index.md
-├── guide/
-│   ├── index.md
-│   ├── pronunciation.md
-│   ├── sentence-structure.md
-│   ├── parts-of-speech.md
-│   ├── verbs/
-│   │   ├── index.md
-│   │   ├── focus-system.md
-│   │   ├── affixes.md
-│   │   ├── conjugation.md
-│   │   ├── aspect.md
-│   │   ├── verb-list.md
-│   ├── nouns.md
-│   ├── adjectives.md
-│   ├── pronouns.md
-│   ├── numbers.md
-│   ├── time-date.md
-│   ├── particles.md
-│   ├── questions.md
-│   ├── connectors.md
-│   └── negation.md
-├── phrases/
-│   ├── index.md
-│   ├── greetings.md
-│   ├── daily-conversation.md
-│   ├── travel.md
-│   ├── shopping.md
-│   ├── food-dining.md
-│   ├── emergency.md
-│   └── work-study.md
-├── expressions/
-│   ├── index.md
-│   ├── idioms.md
-│   ├── common-expressions.md
-│   ├── emotional-expressions.md
-│   └── taglish.md
-├── reference/
-│   ├── index.md
-│   ├── grammar-cheatsheet.md
-│   ├── root-word-list.md
-│   ├── affix-list.md
-│   ├── pronunciation-guide.md
-│   └── learning-resources.md
-├── culture/
-│   ├── index.md
-│   ├── etiquette.md
-│   ├── holidays.md
-│   ├── regional-differences.md
-│   └── language-history.md
-└── about/
-├── index.md
-├── site-structure.md
-├── contributors.md
-└── license.md
-
-````
+- `docs/guide/` – Core grammar (pronunciation, sentence structure, parts of speech, verbs).
+- `docs/phrases/` – Context-based phrase lists for daily use.
+- `docs/expressions/` – Idioms, Taglish, and emotional/common expressions.
+- `docs/reference/` – Cheat sheets, affix/root lists, pronunciation, resources.
+- `docs/culture/` – Etiquette, regional differences, language history.
+Authoritative layout and updates: see `docs/index.md`.
 
 ---
 
@@ -91,21 +37,10 @@ docs/
 - Framework: **VitePress**
 - Language: **Markdown only**
 - File names: lowercase, hyphen-separated
-- Directory depth: max 3 levels
-- Each file must start with frontmatter:
-
-```yaml
----
-title: "Tagalog Verb Focus System"
-description: "Learn how Tagalog verbs use different focus markers like -um-, mag-, and -in-."
-outline: [2, 3]
----
-````
-
----
-
-- Add `#` title after frontmatter.
-- Use `##` for main sections and `###` for subsections.
+- Directory depth: max 5 levels
+- Deeper structures require explicit approval to prevent sprawl.
+- Each file must start with frontmatter; use the template in "Recommended Formatting Methods → 1. Frontmatter Template."
+- Add `#` title after frontmatter; use `##` for main sections and `###` for subsections (see "Recommended Formatting Methods → 1").
 
 ---
 
@@ -131,17 +66,21 @@ Explain **focus system**, **affixation**, and **aspect**:
 
 ### 3. `phrases/`
 
-Organized by everyday context (greetings, travel, etc.)
+Organized by everyday context (greetings, travel, etc.). Use a two-column table format with one phrase per row.
 
-Use this format:
+Preferred format:
 
 ```md
-### Tagalog
-Kumusta ka?
-
-### English
-How are you?
+| Tagalog | English |
+| ------- | ------- |
+| *Kumusta ka?* | How are you? |
+| *Magkano ito?* | How much is this? |
 ```
+
+Guidelines:
+- Italicize Tagalog phrases in the left column.
+- Keep one concise English translation per row.
+- Group tables under clear subsections (e.g., “Asking About Prices,” “Bargaining”).
 
 ### 4. `expressions/`
 
@@ -162,11 +101,7 @@ Cultural notes relevant to communication:
 
 - Politeness, social cues, regional differences
 
-### 7. `about/`
-
-Project overview, contributors, and license.
-
----
+ 
 
 ## ✏️ Writing Style Rules
 
@@ -174,10 +109,10 @@ Project overview, contributors, and license.
 - Translate Tagalog examples into English below each line.
 - Use **tables** for structured comparisons.
 - Use **Oxford commas**.
-- Write in **present tense** and **third person**.
+- Use **present tense** and **third person** for explanatory prose; examples and translations use the tense/aspect being demonstrated.
 - Avoid personal tone or filler text.
-- Do not use "I", "we", or "you".
-- Use emojis effectively to improve readability when appropriate:
+- Do not use "I", "we", or "you" in narrative/expository text (translations may include pronouns).
+- Use emojis effectively to improve readability when appropriate (sparingly; about one per admonition or section):
   - ❌ Wrong example / ✅ Correct example
   - 📝 Notes or important points
   - ⚠️ Warnings or cautions
@@ -187,10 +122,11 @@ Project overview, contributors, and license.
 
 ## 🌐 Navigation Rules
 
-- Each directory includes an `index.md` summarizing its contents.
-- Add "See also" links to related topics.
-  Example: `See also: [Verb Aspect](./aspect.md)`
-- Match sidebar structure with this folder layout.
+ - Each directory includes an `index.md` summarizing its contents.
+ - Add concise "See also" links to related topics (see "Recommended Formatting Methods → 12. Consistent “See also” Block").
+ - Match sidebar structure with this folder layout.
+ - Validate relative links and anchors on build; fail CI on broken links.
+ - Validate relative links and anchors on build; fail CI on broken links.
 
 ---
 
@@ -199,15 +135,22 @@ Project overview, contributors, and license.
 - Include descriptive `title` and `description` in every frontmatter.
 - Use clear headings and meaningful section names.
 - Avoid keyword stuffing.
+- Provide meaningful alt text for any images.
+- Keep tables readable on mobile (concise headers; avoid excessive columns).
+- Use semantic heading order without skipping levels.
+ - Provide meaningful alt text for any images.
+ - Keep tables readable on mobile (concise headers; avoid excessive columns).
+ - Use semantic heading order without skipping levels.
 
 ---
 
 ## ⚙️ Build and Deployment
 
-- Root directory: `/docs`
-- Output: `/dist`
-- Site config: `.vitepress/config.ts`
+- Root directory: `docs/`
+- Output: `docs/.vitepress/dist`
+- Site config: `docs/.vitepress/config.ts`
 - Deploy targets: **Cloudflare Pages**, **GitHub Pages**, or **Netlify**
+ - Recommended: enable link checking and sidebar configuration in VitePress config; fail CI on link errors.
 
 ---
 
@@ -218,9 +161,10 @@ AI agents (Copilot, Cursor, ChatGPT, CodeRabbit, etc.) must:
 1. Follow this file as the **single source of truth**.
 2. Automatically generate Markdown pages from this structure.
 3. Use consistent terms (`focus`, `aspect`, `affix`).
-4. Never generate filler like "TBD" or "Lorem ipsum".
+4. Follow "Prohibited Patterns" (no placeholders, no first-person narrative).
 5. Automatically link new files in `index.md`.
 6. Respect grammar accuracy and cultural sensitivity.
+7. Run link validation and frontmatter checks before submitting PRs.
 
 ---
 
@@ -271,11 +215,11 @@ Every file starts with descriptive frontmatter. Adjust `outline` levels only if 
 ---
 title: "Tagalog Verb Focus System"
 description: "Explains the Tagalog focus system with examples for actor-, object-, and other focus forms."
-outline: [2,3]
+outline: [2, 3]
 ---
 ```
 
-Immediately follow with a level‑1 heading (`#`), even if it repeats the title.
+Immediately follow with a level‑1 heading (`#`), even if it repeats the title. Override `outline` only when section depth demands it; keep consistent per directory (use one default per directory where possible).
 
 ### 2. Tagalog Example Block Pattern
 
@@ -286,14 +230,12 @@ Use bullet or list form for inline examples; ensure Tagalog is italicized and tr
   (Maria ate the mango.)
 ```
 
-For phrase pages (per spec):
+For phrase pages, prefer a two-column table:
 
 ```md
-### Tagalog
-*Magkano ito?*
-
-### English
-How much is this?
+| Tagalog | English |
+| ------- | ------- |
+| *Magkano ito?* | How much is this? |
 ```
 
 ### 3. Admonition / Container Usage
@@ -336,6 +278,7 @@ Guidelines:
 - Italicize Tagalog forms.
 - Keep English gloss lower case unless proper noun.
 - Avoid redundant columns—merge if empty.
+ - Prefer 6 or fewer columns; split or summarize if wider.
 
 ### 5. Affix Function Table Pattern
 
@@ -432,11 +375,10 @@ See also: [Verb Aspect](./aspect.md), [Affixes](./affixes.md)
 
 ### 15. Quality Checklist Before Commit
 
-- Frontmatter present
-- Tagalog examples italic + translation
-- Table columns aligned with spec
-- "See also" links included where relevant
-- No redundant explanation duplicated elsewhere
+- Frontmatter present; headings follow §1
+- Examples formatted per §2 (Tagalog italic + translation)
+- Tables follow §4–6 where applicable
+- "See also" links included per §12
 
 ---
 
