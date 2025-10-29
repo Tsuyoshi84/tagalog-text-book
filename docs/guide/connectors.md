@@ -53,7 +53,7 @@ Expresses contrast or contradiction:
 
 Indicates result or consequence:
 
-- *Umuulan, kaya nag-dala ako ng payong.*  
+- *Umuulan, kaya nagdala ako ng payong.*  
   (It's raining, so I brought an umbrella.)
 - *Pagod ako, kaya matutulog na ako.*  
   (I'm tired, so I'll sleep now.)
@@ -167,8 +167,8 @@ Preceding action:
 
 - *Maghugas ng kamay bago kumain.*  
   (Wash hands before eating.)
-- *Nag-aral ako bago pumunta sa exam.*  
-  (I studied before going to the exam.)
+- *Nag-aral ako bago ang pagsusulit.*  
+  (I studied before the exam.)
 
 #### *Hanggang* (Until)
 
@@ -254,7 +254,7 @@ These work in pairs.
 
 ### *Kung... Ay* (If... Then)
 
-- *Kung uulan ay mag-dala ng payong.*  
+- *Kung uulan ay magdala ng payong.*  
   (If it rains, then bring an umbrella.)
 
 ### *Hindi lang... Kundi pati* (Not Only... But Also)
@@ -283,7 +283,6 @@ Link ideas and provide logical flow.
 | *bukod dito* | besides this |
 | *dagdag pa* | furthermore |
 | *higit pa rito* | moreover |
-| *sa kabilang banda* | on the other hand |
 
 Examples:
 
@@ -298,6 +297,7 @@ Examples:
 | *gayunman* | nevertheless |
 | *subalit* | however |
 | *sa kabilang dako* | on the contrary |
+| *sa kabilang banda* | on the other hand |
 
 Examples:
 
@@ -395,7 +395,7 @@ Combine different connectors:
 
 Many connectors can start sentences:
 
-- *Dahil umuulan, nag-dala ako ng payong.*  
+- *Dahil umuulan, nagdala ako ng payong.*  
   (Because it's raining, I brought an umbrella.)
 - *Kung gusto mo, halika.*  
   (If you want, come.)
