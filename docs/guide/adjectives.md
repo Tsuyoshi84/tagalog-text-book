@@ -102,13 +102,14 @@ Indicates tendency or habit:
 - *trabaho* → *mapagtrabaho* (hardworking)
 - *tiwala* → *mapagtiwala* (trusting)
 
-### Using *-In* Suffix
+### Using *-in* Suffix and Other Affixes
 
-Creates adjectives indicating susceptibility or quality:
+These forms often indicate a tendency or susceptibility to something:
 
-- *galit* → *galitin* (easily angered)
-- *takot* → *takotin* (easily scared)
-- *selos* → *selosin* (jealous)
+- *sakit* → *sakitin* (sickly/prone to illness)
+- *galit* → *magagalitin* (irritable/easily angered)
+- *takot* → *matakutin* (easily scared)
+- *selos* → *selosin* or *maselosin* (prone to jealousy)
 
 ### Using *Maka-* Prefix
 
@@ -273,29 +274,57 @@ Examples:
 
 ## Reduplication
 
-Reduplication modifies adjective meaning:
+Reduplication is a key feature in Tagalog grammar that can indicate plurality, intensity, or moderation.
 
-### Full Reduplication
+### Plural Adjectives
 
-Indicates plurality or intensification:
+To make an adjective plural, the first syllable of its root word is reduplicated. This is used when the adjective describes a plural noun.
 
-- *maganda-maganda* (quite beautiful/various beautiful things)
-- *maliit-maliit* (quite small/various small things)
-
-### Partial Reduplication
-
-Often indicates ongoing state or moderate degree:
-
-- *mabait* → *mabait-bait* (quite kind)
-- *maganda* → *maganda-ganda* (rather beautiful)
+| Singular | Root | Plural | English |
+| -------- | ---- | ------ | ------- |
+| *maganda* | *ganda* | *magaganda* | beautiful |
+| *malaki* | *laki* | *malalaki* | big |
+| *mabait* | *bait* | *mababait* | kind |
+| *matalino*| *talino*| *matatalino*| intelligent |
 
 Examples:
 
-- *Maganda-maganda ang mga bulaklak.*  
-  (The flowers are quite beautiful.)
+- *Magaganda ang mga bulaklak.*  
+  (The flowers are beautiful.)
+- *Malalaki ang mga bahay dito.*  
+  (The houses here are big.)
+
+::: tip Important
+This is the standard way to make adjectives agree in number with plural nouns.
+:::
+
+### Intensification by Reduplication
+
+Repeating the entire adjective with a linker (*-ng*/*na*) creates a very intense degree.
+
+- *magandang-maganda* (very beautiful)
+- *mabait na mabait* (very kind)
+- *sarap na sarap* (finds it very delicious - verbal form)
+
+Example:
+
+- *Ang pelikula ay magandang-maganda.*  
+  (The movie is very, very beautiful.)
+
+### Moderation by Reduplication
+
+Repeating the adjective without a linker can indicate a moderate or diminished quality ("somewhat," "fairly," "kind of").
+
+- *maganda-maganda* (somewhat beautiful / pretty good)
+- *maliit-maliit* (somewhat small)
+
+Example:
+
+- *Okay lang, maganda-maganda naman ang resulta.*  
+  (It's okay, the result is pretty good.)
 
 ::: details Reduplication Nuance
-Reduplication can convey different nuances depending on context: moderate intensity, variety, or distribution.
+The meaning of reduplication can be subtle. For instance, *gandang-ganda* means to be intensely captivated by beauty, functioning more like a verb. Context is key to understanding the exact nuance.
 :::
 
 ## Negative Adjectives
