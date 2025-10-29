@@ -61,6 +61,8 @@ Most Tagalog consonants are pronounced similarly to English, with a few exceptio
 | --------- | ------------- | ------- | ------- |
 | *ng* | like "ng" in "sing" (one sound) | *ngayon* | now |
 | *r* | lightly rolled or flapped | *rosas* | rose |
+| *j* | becomes "h" in Spanish loanwords | *hapon* (from *japón*) | afternoon |
+| *f* | becomes "p" in Spanish loanwords | *pwersa* (from *fuerte*) | force |
 
 ::: info The *ng* Sound
 The *ng* combination represents a single consonant sound in Tagalog, not two separate sounds. It appears at the beginning, middle, or end of words.
@@ -70,10 +72,10 @@ Examples with *ng*:
 
 - *ngiti*  
   (smile)
-- *tanga*  
-  (fool)
-- *matagal ng panahon*  
-  (long time ago)
+- *ngipin*  
+  (tooth)
+- *ngayon*  
+  (now)
 
 ## Diphthongs
 
@@ -106,9 +108,10 @@ Stress can distinguish words: *basa* (wet) vs. *basá* (read). Pay attention to 
 
 Examples showing stress differences:
 
-- *aso* (dog) - stress on first syllable
-- *puso* (heart) - stress on first syllable
-- *pusó* (salt) - stress on second syllable
+- *bása* (read) - stress on second syllable
+- *basa* (wet) - stress on first syllable  
+- *batà* (child) - stress on second syllable
+- *bata* (robe) - stress on first syllable
 
 ## Glottal Stop
 
@@ -118,6 +121,7 @@ Examples:
 
 - *puno* (tree) vs. *punò* (full) - with glottal stop
 - *bata* (robe) vs. *batà* (child) - with glottal stop
+- *aso* (dog) vs. *asó* (smoke) - with glottal stop
 
 ::: details Glottal Stop in Writing
 In formal writing, the glottal stop may be indicated by a grave accent (`) over the vowel or by an apostrophe ('). In casual writing, it is often unmarked.
@@ -137,6 +141,7 @@ Examples:
 - *maganda* → ma-gan-da (beautiful)
 - *tao* → ta-o (person)
 - *ngayon* → nga-yon (now)
+- *bahay* → ba-hay (house)
 
 ## Intonation
 
@@ -192,16 +197,35 @@ Questions without question words use rising intonation at the end to distinguish
 
 - *ngayon*  
   (now)
-- *aling*  
-  (which)
-- *malang*  
-  (unlucky)
+- *ngipin*  
+  (tooth)
+- *ngiti*  
+  (smile)
 
 ### Words with Stress Differences
 
 - *bása* (read) vs. *basa* (wet)
 - *lalá* (worse) vs. *lala* (Adam's apple)
 - *batà* (child) vs. *bata* (robe)
+
+## Spanish Influence
+
+Many Tagalog words come from Spanish and often retain Spanish pronunciation patterns.
+
+### Spanish Loanwords
+
+| Tagalog | Spanish Origin | English | Pronunciation |
+|---------|----------------|---------|---------------|
+| *mesa* | mesa | table | MEH-sah |
+| *silya* | silla | chair | SIL-yah |
+| *libro* | libro | book | LEE-broh |
+| *karne* | carne | meat | kar-NEH |
+
+::: warning Sound Changes
+Tagalog does not have native "j" or "f" sounds. In Spanish loanwords:
+- "j" becomes "h": *jabón* → *habon* (soap)
+- "f" becomes "p": *fuerte* → *pwersa* (force)
+:::
 
 ## Regional Variations
 
