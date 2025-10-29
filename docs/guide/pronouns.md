@@ -274,7 +274,7 @@ Examples:
 
 #### Intensive Use
 
-- *Ginawa ko ito ng sarili ko.*  
+- *Ginawa ko ito sa sarili ko.*  
   (I did this myself.)
 - *Siya mismo ang nagsabi.*  
   (He/She himself/herself said it.)
@@ -283,8 +283,8 @@ Examples:
 
 *Mismo* (very, self, same) adds emphasis:
 
-- *Ako mismo.*  
-  (I myself.)
+- *Ako mismo ang gumawa.*  
+  (I myself did it.)
 - *Siya mismo ang gumawa.*  
   (He/She himself/herself did it.)
 

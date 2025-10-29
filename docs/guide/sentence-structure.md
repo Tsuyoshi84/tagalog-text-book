@@ -77,16 +77,20 @@ Tagalog uses particles to mark grammatical relationships in sentences.
 
 | Particle | Function | Example |
 | -------- | -------- | ------- |
-| *ang* | Topic marker (definite) | *Kumain ang bata.* (The child ate.) |
+| *ang* | Topic marker (definite, common nouns) | *Kumain ang bata.* (The child ate.) |
+| *si* | Topic marker (proper nouns, singular) | *Kumain si Maria.* (Maria ate.) |
+| *sina* | Topic marker (proper nouns, plural) | *Kumain sina Maria at Juan.* (Maria and Juan ate.) |
 | *ng* | Object marker / Possessive | *Kumain ng tinapay ang bata.* (The child ate bread.) |
+| *ni* | Actor marker (proper nouns, singular) | *Kinain ni Maria ang tinapay.* (The bread was eaten by Maria.) |
+| *nina* | Actor marker (proper nouns, plural) | *Kinain nina Maria at Juan ang tinapay.* (The bread was eaten by Maria and Juan.) |
 | *sa* | Locative / Directional | *Pumunta sa tindahan ang nanay.* (Mother went to the store.) |
-| *ay* | Inverted sentence marker | *Ang bata ay kumain.* (The child ate.) |
+| *ay* | Topic marker (inverted sentences) | *Ang bata ay kumain.* (The child ate.) |
 
 See also: [Particles](./particles/index.md)
 
 ## The *Ay* Inversion
 
-The particle *ay* inverts the sentence structure from VSO to SVO. It is placed after the topic and before the predicate.
+The particle *ay* inverts the sentence structure from VSO to SVO. It functions as a topic marker that separates the topic from the predicate, allowing the topic to appear first in the sentence.
 
 ### Without *Ay* (VSO)
 
@@ -213,20 +217,24 @@ Possession can be expressed using *may* or *mayroon*, or with possessive constru
 
 ## Focus and Topic-Prominence
 
-Tagalog is a topic-prominent language, meaning the topic (marked by *ang*) is central to sentence structure. The verb's focus determines which participant is marked as the topic.
+Tagalog is a topic-prominent language, meaning the topic (marked by *ang*, *si*, or *sina*) is central to sentence structure. The verb's focus determines which participant is marked as the topic.
 
 ### Actor Focus
 
 - *Kumain ang bata ng mangga.*  
   (The child ate a mango.) - focus on the actor
+- *Kumain si Maria ng tinapay.*  
+  (Maria ate bread.) - focus on the actor
 
-### Object Focus
+### Patient Focus
 
 - *Kinain ng bata ang mangga.*  
-  (The mango was eaten by the child.) - focus on the object
+  (The mango was eaten by the child.) - focus on the patient
+- *Kinain ni Maria ang tinapay.*  
+  (The bread was eaten by Maria.) - focus on the patient
 
 ::: info Verb Focus
-The verb's affixation determines which noun phrase becomes the topic. Different verb forms highlight different participants.
+The verb's affixation determines which noun phrase becomes the topic. Different verb forms highlight different participants. The topic uses *ang*/*si*/*sina*, while other participants use *ng*/*ni*/*nina* or *sa*.
 :::
 
 See also: [Verbs: Focus System](./verbs/focus-system.md)
@@ -304,6 +312,8 @@ While VSO and SVO are standard, Tagalog allows word order flexibility for emphas
 | ------- | ------- | ------- |
 | Verb + Actor + Object | *Kumain ang bata ng tinapay.* | The child ate bread. |
 | Actor + *ay* + Verb + Object | *Ang bata ay kumain ng tinapay.* | The child ate bread. |
+| Verb + Patient + Actor | *Kinain ng bata ang tinapay.* | The bread was eaten by the child. |
+| Patient + *ay* + Verb + Actor | *Ang tinapay ay kinain ng bata.* | The bread was eaten by the child. |
 
 ### Location Pattern
 
@@ -328,10 +338,11 @@ See also: [Negation](./negation.md)
 Tagalog sentence structure centers on:
 
 1. Flexible word order (VSO or SVO)
-2. Topic marking with *ang*
-3. Particles (*ng*, *sa*) for grammatical relationships
+2. Topic marking with *ang*/*si*/*sina*
+3. Particles (*ng*/*ni*/*nina*, *sa*) for grammatical relationships
 4. Predicate-first structure in formal speech
 5. Focus system linking verb affixation to topic selection
+6. *Ay* particle for topic-predicate inversion
 
 Understanding these patterns enables learners to construct and comprehend Tagalog sentences effectively.
 
