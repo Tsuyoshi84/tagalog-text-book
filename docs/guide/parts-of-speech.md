@@ -10,7 +10,7 @@ Tagalog grammar categorizes words into several parts of speech, each serving spe
 
 ## Overview of Tagalog Parts of Speech
 
-Tagalog has eight main parts of speech:
+Tagalog has nine main parts of speech:
 
 | Part of Speech | Tagalog Term | Function | Example |
 | -------------- | ------------ | -------- | ------- |
@@ -21,7 +21,8 @@ Tagalog has eight main parts of speech:
 | Adverb | *pang-abay* | Modify verbs, adjectives | *mabilis* (quickly), *doon* (there) |
 | Preposition | *pang-ukol* | Show relationships | *sa* (to/at/in), *mula* (from) |
 | Conjunction | *pangatnig* | Connect words/clauses | *at* (and), *pero* (but) |
-| Particle | *pang-angkop* | Grammatical markers | *ang*, *ng*, *na* |
+| Particle | *partikulo* | Grammatical markers | *ang*, *ng*, *na* |
+| Interjection | *pandamdam* | Express emotions | *Ay!* (Oh!), *Naku!* (Oh my!) |
 
 ## Verbs (*Pandiwa*)
 
@@ -231,7 +232,7 @@ Examples:
 
 See also: [Connectors](./connectors.md)
 
-## Particles (*Pang-angkop*)
+## Particles (*Partikulo*)
 
 Particles are grammatical markers that indicate relationships between words and phrases. They are crucial to Tagalog grammar.
 
@@ -267,7 +268,7 @@ Examples:
 
 See also: [Particles](./particles/index.md)
 
-## Interjections
+## Interjections (*Pandamdam*)
 
 Interjections express emotions or reactions and stand apart from sentence structure.
 
@@ -286,6 +287,10 @@ Examples:
   (Oh, so beautiful!)
 - *Naku, malaki ang problema!*  
   (Oh my, the problem is big!)
+- *Grabe, ang galing mo!*  
+  (Wow, you're so good!)
+
+See also: [Emotional Expressions](../expressions/emotional-expressions.md), [Common Expressions](../expressions/common-expressions.md)
 
 ## Word Formation
 
