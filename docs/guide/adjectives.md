@@ -276,26 +276,31 @@ Examples:
 
 Reduplication is a key feature in Tagalog grammar that can indicate plurality, intensity, or moderation.
 
-### Plural Adjectives
+### Adjectives and Plural Nouns
 
-To make an adjective plural, the first syllable of its root word is reduplicated. This is used when the adjective describes a plural noun.
+In Tagalog, adjectives do not typically change to agree with plural nouns. Plurality is indicated by the marker **mga** before the noun. The adjective's form usually remains the same.
 
-| Singular | Root | Plural | English |
-| -------- | ---- | ------ | ------- |
+- *ang magandang bulaklak* (the beautiful flower)
+- *ang **mga** magandang bulaklak* (the beautiful flowers)
+
+However, it is common to use a reduplicated form of the adjective for emphasis or stylistic variation when describing plural nouns. This is formed by repeating the first syllable of the adjective's root word.
+
+| Singular / Standard | Root | Emphatic Plural | English |
+| ------------------- | ---- | --------------- | ------- |
 | *maganda* | *ganda* | *magaganda* | beautiful |
 | *malaki* | *laki* | *malalaki* | big |
 | *mabait* | *bait* | *mababait* | kind |
 | *matalino*| *talino*| *matatalino*| intelligent |
 
-Examples:
+Examples of optional reduplication:
 
 - *Magaganda ang mga bulaklak.*  
-  (The flowers are beautiful.)
+  (The flowers are beautiful.) - *Emphatic*
 - *Malalaki ang mga bahay dito.*  
-  (The houses here are big.)
+  (The houses here are big.) - *Emphatic*
 
-::: tip Important
-This is the standard way to make adjectives agree in number with plural nouns.
+::: tip Core Rule
+Remember, using the singular form of the adjective with a plural noun (e.g., *maganda ang mga bulaklak*) is grammatically correct. The reduplicated form adds emphasis or can sound more natural to native speakers in certain contexts, but it is not a mandatory agreement rule.
 :::
 
 ### Intensification by Reduplication
