@@ -84,13 +84,13 @@ Tagalog uses particles to mark grammatical relationships in sentences.
 | *ni* | Actor marker (proper nouns, singular) | *Kinain ni Maria ang tinapay.* (The bread was eaten by Maria.) |
 | *nina* | Actor marker (proper nouns, plural) | *Kinain nina Maria at Juan ang tinapay.* (The bread was eaten by Maria and Juan.) |
 | *sa* | Locative / Directional | *Pumunta sa tindahan ang nanay.* (Mother went to the store.) |
-| *ay* | Topic marker (inverted sentences) | *Ang bata ay kumain.* (The child ate.) |
+| *ay* | Inversion particle linking the fronted topic (still marked by *ang*, *si*, or *sina*) to the predicate | *Ang bata ay kumain.* (The child ate.) |
 
 See also: [Particles](./particles/index.md)
 
 ## The *Ay* Inversion
 
-The particle *ay* inverts the sentence structure from VSO to SVO. It functions as a topic marker that separates the topic from the predicate, allowing the topic to appear first in the sentence.
+The particle *ay* inverts the sentence structure from VSO to SVO. It links the fronted topic—still marked by *ang*, *si*, or *sina*—to the predicate, allowing the topic to appear first in the sentence without replacing the case markers.
 
 ### Without *Ay* (VSO)
 
