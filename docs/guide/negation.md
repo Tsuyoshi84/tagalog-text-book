@@ -228,7 +228,7 @@ Use *huwag* for commands (don't), not *hindi*:
 
 - *Wala ka bang pera?*  
   (Don't you have money?)
-- *Walang tao ba?*  
+- *Wala bang tao?*  
   (Is there no one?)
 
 ### Expecting Positive Answer
@@ -293,9 +293,9 @@ Negative questions often expect confirmation:
 
 Examples:
 
-- *Hindi pa kailanman akong pumunta sa Maynila.*  
+- *Hindi pa ako kailanman pumunta sa Maynila.*  
   (I have never been to Manila.)
-- *Hindi na kailanman uulit yan.*  
+- *Hindi na uulit yan kailanman.*  
   (That will never happen again.)
 
 ### Degree Negatives
@@ -326,11 +326,6 @@ Examples:
   (This child cannot/is not allowed.)
 - *Hindi ka maaaring pumasok.*  
   (You cannot enter.)
-
-### *Huwag dapat* (Should Not - Command)
-
-- *Huwag dapat magsalita ng ganyan.*  
-  (One should not speak like that.)
 
 ## Responding to Negative Questions
 
