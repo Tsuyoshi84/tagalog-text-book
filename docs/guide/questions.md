@@ -111,7 +111,7 @@ Asks "whose":
 
 - *Para kanino ito?*  
   (For whom is this?)
-- *Kasama mo sino?*  
+- *Sino ang kasama mo?*  
   (Who is with you?)
 
 ### Multiple People: *Sino-sino*
@@ -229,8 +229,6 @@ Asks about manner, method, or process.
   (How did you do it?)
 - *Paano pumunta doon?*  
   (How to get there?)
-- *Paano ka?*  
-  (How are you?)
 
 ### Asking for Instructions
 
