@@ -33,7 +33,7 @@ Proper nouns name specific individuals, places, or entities and are typically ca
 - *Enero* (January)
 
 ::: tip Proper Noun Markers
-Proper nouns use specific markers: *si* (topic marker) and *ni* (non-topic marker) for personal names, *ang* for place names.
+Proper nouns that are personal names use a special set of markers (*si*, *ni*, *kay*). Other proper nouns (like places or days) use the same markers as common nouns (*ang*, *ng*, *sa*).
 :::
 
 ### Abstract Nouns
@@ -67,7 +67,7 @@ These mark the topic or focus of the sentence:
 
 | Marker | Use | Example |
 | ------ | --- | ------- |
-| *ang* | Common noun (singular/plural, definite) | *ang bahay* (the house) |
+| *ang* | Common noun (singular, definite) | *ang bahay* (the house) |
 | *ang mga* | Common noun (plural, definite) | *ang mga bata* (the children) |
 | *si* | Personal name (singular) | *si Juan* (Juan) |
 | *sina* | Personal names (plural) | *sina Juan at Maria* (Juan and Maria) |
@@ -87,7 +87,7 @@ These mark non-topic nouns, including objects, possessors, and agents in non-act
 
 | Marker | Use | Example |
 | ------ | --- | ------- |
-| *ng* | Common noun (singular/plural, indefinite) | *ng bahay* (of a house) |
+| *ng* | Common noun (singular, indefinite) | *ng bahay* (of a house) |
 | *ng mga* | Common noun (plural) | *ng mga libro* (of books) |
 | *ni* | Personal name (singular) | *ni Juan* (of Juan) |
 | *nina* | Personal names (plural) | *nina Juan at Maria* (of Juan and Maria) |
@@ -97,7 +97,7 @@ Examples:
 - *Bumili ako ng libro.*  
   (I bought a book.)
 - *Kinain ng bata ang tinapay.*  
-  (The child ate the bread.)
+  (The bread was eaten by the child.)
 - *Bahay ni Maria ito.*  
   (This is Maria's house.)
 
@@ -156,8 +156,7 @@ Often, plurality is understood from context without using *mga*:
 Some nouns use reduplication to indicate plurality or distribution:
 
 - *bahay-bahay* (houses scattered about)
-- *tao-tao* (various people)
-- *puno-puno* (various trees)
+- *bayan-bayan* (from town to town / various towns)
 
 ::: details Reduplication Usage
 Reduplication often suggests variety, distribution, or informality rather than simple plurality. It is less common than using *mga*.
@@ -218,9 +217,9 @@ Examples:
 - *Sasakyan namin yan.*  
   (That is our vehicle.)
 
-### Using Linkers
+### Using Attributive Possessive Pronouns
 
-Possessive constructions can use linkers:
+The most common way to show possession is by placing a short-form possessive pronoun after the noun. These are also known as the *ng*-form pronouns.
 
 - *bahay ko* (my house)
 - *libro mo* (your book)
@@ -254,8 +253,7 @@ Nouns can modify other nouns:
 
 - *bahay bato*  
   (stone house)
-- *mesa de kahoy*  
-  (wooden table - mixed with Spanish)
+- *anak-pawis* (laborer, lit. "child of sweat")
 
 ## Nominalized Forms
 
@@ -279,10 +277,10 @@ Creates abstract nouns expressing quality or state:
 
 ### Using *Mang-* Prefix
 
-Creates nouns for people who do actions:
+Creates nouns for people who do actions, often a profession:
 
 - *isda* (fish) → *mangingisda* (fisherman)
-- *alaga* (care for) → *mang-aalaga* (caretaker)
+- *gamot* (medicine) → *manggagamot* (healer/doctor)
 
 ### Using *Taga-* Prefix
 
@@ -301,21 +299,17 @@ Examples:
 
 ## Compounds
 
-Tagalog forms compound nouns by combining two or more words.
+Tagalog forms compound nouns by combining two or more words, often creating a new, specific meaning.
 
 ### Noun + Noun
 
 - *bahay-kubo* (nipa hut)
-- *paaralan* (*pa-* + *aral* + *-an* = school)
-- *palengke* (market)
-
-### Adjective + Noun
-
-- *mainit-ulo* (hot-headed person)
+- *isip-bata* (childish, lit. "child-minded")
 
 ### Verb + Noun
 
-- *takip-silim* (dusk - "cover of sunset")
+- *takip-silim* (dusk, lit. "cover of twilight")
+- *hampaslupa* (vagrant, lit. "strike the earth")
 
 ## Borrowed Nouns
 
@@ -349,26 +343,12 @@ Tagalog nouns do not have grammatical gender. Gender, when relevant, is indicate
 - *anak na lalaki* (son)
 - *anak na babae* (daughter)
 
-## Diminutives and Augmentatives
+## Diminutives
 
-### Diminutives
+Affection, imitation, or smallness can be expressed through reduplication of the root or part of the root.
 
-Affection or smallness can be expressed through reduplication or affixes:
-
-- *bata* (child) → *bata-bata* (small child)
-- *anak* (child) → *anak-anak* (little children)
-
-### Augmentatives
-
-Size or intensity can be emphasized:
-
-- *napaka- + adjective* indicates extreme degree
-- *sobrang* (extremely)
-
-Examples:
-
-- *napakaliit* (very small)
-- *sobrang laki* (extremely big)
+- *bahay* (house) → *bahay-bahayan* (playhouse)
+- *anak* (child) → *anak-anakan* (foster child)
 
 ## Common Noun Patterns
 
