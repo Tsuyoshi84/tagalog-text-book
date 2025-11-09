@@ -16,7 +16,7 @@ Hours are expressed using Spanish numbers with *alas* or *oras*:
 
 | Time | Tagalog | English |
 | ---- | ------- | ------- |
-| 1:00 | *ala una* / *una* | one o'clock |
+| 1:00 | *ala una* | one o'clock |
 | 2:00 | *alas dos* | two o'clock |
 | 3:00 | *alas tres* | three o'clock |
 | 4:00 | *alas kuwatro* | four o'clock |
@@ -57,9 +57,9 @@ Minutes are expressed using Spanish numbers:
 
 | Time Pattern | Tagalog | English |
 | ------------ | ------- | ------- |
-| Quarter past | *y kinse* / *y kwarenta y singko* | quarter past |
+| Quarter past | *y kinse* | quarter past |
 | Half past | *y medya* / *y trenta* | half past |
-| Quarter to | *menos kinse* / *menos kwarenta y singko* | quarter to |
+| Quarter to | *menos kinse* | quarter to |
 
 Examples:
 
@@ -129,7 +129,7 @@ Days of the week are derived from Spanish:
 | ------- | -------------- | ------- |
 | *Lunes* | Lunes | Monday |
 | *Martes* | Martes | Tuesday |
-| *Miyerkules* / *Miyerkoles* | Miércoles | Wednesday |
+| *Miyerkules* | Miércoles | Wednesday |
 | *Huwebes* | Jueves | Thursday |
 | *Biyernes* | Viernes | Friday |
 | *Sabado* | Sábado | Saturday |
@@ -233,9 +233,9 @@ Responses:
 
 Years use Spanish numbers:
 
-- *1990* - *mil nuwesyentos nobenta* / *nineteen ninety*
-- *2000* - *dos mil* / *two thousand*
-- *2024* - *dos mil beynte kuwatro* / *twenty twenty-four*
+- *1990* - *mil nuwesyentos nobenta*
+- *2000* - *dos mil*
+- *2024* - *dos mil beynte kuwatro*
 
 Examples:
 
@@ -336,7 +336,7 @@ Examples:
 | Tagalog | English |
 | ------- | ------- |
 | *maaga* | early |
-| *huli* / *late* | late |
+| *huli* | late |
 | *maagang-maaga* | very early |
 | *tuwina* | always |
 | *kadalasan* | usually |
@@ -443,7 +443,7 @@ See also: [Phrases: Greetings](../phrases/greetings.md)
 | *pulong* | meeting |
 | *deadline* | deadline |
 | *sa oras* | on time |
-| *late* / *huli* | late |
+| *huli* | late |
 
 Examples:
 
