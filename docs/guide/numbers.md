@@ -48,9 +48,9 @@ Spanish-derived numbers are used in most everyday contexts, including telling ti
 | 70 | *setenta* | seventy |
 | 80 | *otsenta* | eighty |
 | 90 | *nobenta* | ninety |
-| 100 | *siyento* / *daan* | one hundred |
-| 200 | *dos siyentos* / *dalawang daan* | two hundred |
-| 1,000 | *mil* / *libo* | one thousand |
+| 100 | *siyento* | one hundred |
+| 200 | *dos siyentos* | two hundred |
+| 1,000 | *mil* | one thousand |
 | 1,000,000 | *milyon* | one million |
 
 ::: tip Number Formation
@@ -91,7 +91,14 @@ Native numbers are typically used with the linker *na* or *-ng* when counting ob
 | 80 | *walumpu* | eighty |
 | 90 | *siyamnapu* | ninety |
 | 100 | *sandaan* | one hundred |
-| 1,000 | *sanlibo* / *isang libo* | one thousand |
+| 200 | *dalawang daan* | two hundred |
+| 1,000 | *isang libo* / *sanlibo* | one thousand |
+| 2,000 | *dalawang libo* | two thousand |
+
+For other numbers in the hundreds and thousands, combine a native number with *daan* (hundred) or *libo* (thousand):
+
+- *tatlong daan* (300)
+- *apat na libo* (4,000)
 
 ## Ordinal Numbers
 
@@ -115,7 +122,7 @@ The most common way to form ordinal numbers is by adding the prefix *ika-* to ca
 | 10th | *ikasampu* / *pansampu* | tenth |
 
 ::: details Alternative Forms
-Ordinal numbers can also be formed using the prefix *pang-* or *pan-*: *pangalawa* (second), *pangatlo* (third). This form is common in some regions and contexts.
+Ordinal numbers can also be formed using the prefix *pang-* (*pangalawa*, *pangatlo*). This form is common in conversation. The prefix sometimes changes to *pan-* or *pam-* to match the sound of the number it attaches to (e.g., *panlima*, *pampito*).
 :::
 
 Examples:
@@ -165,6 +172,10 @@ Examples:
   (Only twenty-five.)
 - *Dose pesos at singkuwenta sentimos.*  
   (Twelve pesos and fifty centavos.)
+
+::: info Casual Usage
+In casual conversation, prices with centavos are often stated without "pesos" and "sentimos." For example, *Dose pesos at singkuwenta sentimos* is commonly shortened to *dose singkuwenta*.
+:::
 
 ::: tip Currency
 The Philippine peso is divided into 100 centavos (*sentimos* in Tagalog). Prices are commonly stated in pesos, with centavos used for exact amounts.
@@ -235,7 +246,7 @@ Examples:
 
 Percentages use *porsyento* or *bahagdan* (percent):
 
-- *tatlumpung porsyento*  
+- *trenta porsyento*  
   (thirty percent)
 - *limampung bahagdan*  
   (fifty percent)
