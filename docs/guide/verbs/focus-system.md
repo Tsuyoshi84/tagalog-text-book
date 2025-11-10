@@ -59,12 +59,10 @@ Emphasizes beneficiary or recipient. Common affixes: *ipag-*, *pag- -an*, *i-*.
 
 Example:
 
-- *Ipagluluto ni Maria ang anak.*  
-  (The child will be cooked for by Maria.)
+- *Ipinagluto ni Maria ng adobo ang kanyang mga anak.*  
+  (Maria cooked adobo for her children.)
 - *Ipagsusulat ni Ana ang kaibigan ng liham.*  
   (The friend will be written a letter by Ana.)
-- *Ipinaglinis ng guro ang estudyante ng silid.*  
-  (The student cleaned the room for the teacher.)
 
 ### Instrumental Focus (IF)
 
@@ -79,18 +77,22 @@ Example:
 - *Ipinanglinis ng bata ang walis.*  
   (The broom was what the child used to clean.)
 
-### Directional / Goal Focus (GF)
+### Goal / Directional Focus
 
-Emphasizes destination or endpoint. Common affixes: *i-*, *ipag-*, *-an* with motion roots.
+Emphasizes the destination or direction of an action. This is not a distinct focus type but rather a semantic role expressed through other focuses, typically Locative or Patient, when a verb of motion is used.
 
-Example:
+- **Locative Focus (`-an`)** is used when the **destination** is the topic.
+- **Patient Focus (`i-`)** is used when the **object being moved** is the topic.
 
-- *Dadalhan ni Maria ang tindahan ng gulay.*  
-  (The store will be brought vegetables by Maria.)
+Example (Locative Focus highlighting the destination):
+
+- *Dadalhan ni Maria ng gulay ang tindahan.*  
+  (The store will be brought vegetables to by Maria. / Maria will bring vegetables to the store.)
+
+Example (Patient Focus highlighting the object moved):
+
 - *Ihahatid ni Jose ang bata sa paaralan.*  
-  (The child will be brought to the school by Jose.)
-- *Pagdadalan ni Ana ang kaibigan ng sulat.*  
-  (The friend will be the one letters are brought to by Ana.)
+  (The child will be brought to the school by Jose. / Jose will bring the child to school.)
 
 ## Common Affix Patterns by Focus
 
