@@ -177,8 +177,8 @@ Add the appropriate aspect markers through reduplication or affix changes.
 
 ```text
 1. Perfective: k + in + ain → kinain
-2. Imperfective: ki + na + kain → kinakain
-3. Contemplative: ka + ka + in + in → kakainin
+2. Imperfective: Reduplicate first syllable (ka) → kakain → Infix -in- → k(in)akain
+3. Contemplative: Reduplicate first syllable (ka) → kakain → Suffix -in → kakainin
 ```
 
 | Aspect | Form | Example Sentence | English |
@@ -191,8 +191,8 @@ Add the appropriate aspect markers through reduplication or affix changes.
 
 ```text
 1. Perfective: s + in + ulat → sinulat
-2. Imperfective: si + nu + sulat → sinusulat
-3. Contemplative: su + sulat + in → susulatin
+2. Imperfective: Reduplicate first syllable (su) → susulat → Infix -in- → s(in)usulat
+3. Contemplative: Reduplicate first syllable (su) → susulat → Suffix -in → susulatin
 ```
 
 | Aspect | Form | Example Sentence | English |
@@ -205,8 +205,8 @@ Add the appropriate aspect markers through reduplication or affix changes.
 
 ```text
 1. Perfective: b + in + ili → binili
-2. Imperfective: bi + ni + bili → binibili
-3. Contemplative: bi + bili + hin → bibilhin
+2. Imperfective: Reduplicate first syllable (bi) → bibili → Infix -in- → b(in)ibili
+3. Contemplative: Reduplicate first syllable (bi) → bibili → Suffix -hin → bibilhin
 ```
 
 | Aspect | Form | Example Sentence | English |
@@ -242,9 +242,9 @@ Add the appropriate aspect markers through reduplication or affix changes.
 #### Root: *sulat* (write)
 
 ```text
-1. Perfective: si + sulat + an → sinulatan
-2. Imperfective: si + nu + sulat + an → sinusulatan
-3. Contemplative: su + sulat + an → susulatan
+1. Perfective: Root + -an → sulatan → Infix -in- → s(in)ulatan
+2. Imperfective: Take perfective → sinulatan → Reduplicate first syllable of root (su) → sinusulatan
+3. Contemplative: Root + -an → sulatan → Reduplicate first syllable of root (su) → susulatan
 ```
 
 | Aspect | Form | Example Sentence | English |
@@ -309,14 +309,14 @@ Add the appropriate aspect markers through reduplication or affix changes.
 
 ```text
 1. Perfective: ipinang + sulat → ipinangsulat
-2. Imperfective: ipinang + su + sulat → ipinansusulat
+2. Imperfective: ipinang + su + sulat → ipinangsusulat
 3. Contemplative: ipang + su + sulat → ipangsusulat
 ```
 
 | Aspect | Form | Example Sentence | English |
 |--------|------|------------------|---------|
 | Perfective | *ipinangsulat* | *Ipinangsulat niya ang lapis.* | The pencil was used to write by him/her. |
-| Imperfective | *ipinansusulat* | *Ipinansusulat niya ang lapis.* | The pencil is being used to write by him/her. |
+| Imperfective | *ipinangsusulat* | *Ipinangsusulat niya ang lapis.* | The pencil is being used to write by him/her. |
 | Contemplative | *ipangsusulat* | *Ipangsusulat niya ang lapis.* | The pencil will be used to write by him/her. |
 
 #### Root: *bili* (buy)
@@ -358,7 +358,7 @@ Add the appropriate aspect markers through reduplication or affix changes.
 | Actor (*-um-*) | *sumulat* | *sumusulat* | *susulat* |
 | Patient (*-in*) | *sinulat* | *sinusulat* | *susulatin* |
 | Locative (*-an*) | *sinulatan* | *sinusulatan* | *susulatan* |
-| Instrumental (*ipang-*) | *ipinangsulat* | *ipinansusulat* | *ipangsusulat* |
+| Instrumental (*ipang-*) | *ipinangsulat* | *ipinangsusulat* | *ipangsusulat* |
 
 ## Special Cases and Irregularities
 

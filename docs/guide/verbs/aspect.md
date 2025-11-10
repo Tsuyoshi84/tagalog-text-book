@@ -143,13 +143,13 @@ Additional examples:
 | Aspect | Formation | Example (Root: *sulat*) | English |
 |--------|-----------|----------------------|---------|
 | Perfective | *ipinang-* prefix | *ipinangsulat* | was used to write |
-| Imperfective | *ipinang-* + reduplicate | *ipinansusulat* | is being used to write |
+| Imperfective | *ipinang-* + reduplicate | *ipinangsusulat* | is being used to write |
 | Contemplative | *ipang-* + reduplicate | *ipangsusulat* | will be used to write |
 
 Additional examples:
 - Root: *hiwa* (cut)
   - Perfective: *ipinanghiwa* (was used to cut)
-  - Imperfective: *ipinanhihiwa* (is being used to cut)
+| Imperfective | *ipinang-* + reduplicate | *ipinanghihiwa* | is being used to cut |
   - Contemplative: *ipanghihiwa* (will be used to cut)
 
 ## Reduplication Patterns

@@ -61,7 +61,7 @@ This reference list provides common Tagalog verbs with their conjugations across
 | Aspect | Conjugation | English |
 |--------|-------------|---------|
 | Perfective | *ipinangsulat* | was used to write |
-| Imperfective | *ipinansusulat* | is used to write |
+| Imperfective | *ipinangsusulat* | is being used to write |
 | Contemplative | *ipangsusulat* | will be used to write |
 
 ### bili (buy)
@@ -154,9 +154,13 @@ This reference list provides common Tagalog verbs with their conjugations across
 
 | Aspect | Conjugation | English |
 |--------|-------------|---------|
-| Perfective | *nilínisan* | was cleaned at |
-| Imperfective | *nililínisan* | is being cleaned at |
-| Contemplative | *lilínisan* | will be cleaned at |
+| Perfective | *nilinisán* | was cleaned at |
+| Imperfective | *nililinisán* | is being cleaned at |
+| Contemplative | *lilinisán* | will be cleaned at |
+
+::: details Stress and Meaning
+The accent on the final syllable (*-án*) signals a shift in meaning to locative focus (action done *at* a place). Without it, the verb *nilinisan* would typically mean "cleaned (someone)."
+:::
 
 ### basa (read)
 
@@ -271,7 +275,7 @@ This reference list provides common Tagalog verbs with their conjugations across
 | Aspect | Conjugation | English |
 |--------|-------------|---------|
 | Perfective | *dinala* | was brought, was carried |
-| Imperfective | *dinadalà* | is being brought, is being carried |
+| Imperfective | *dinadala* | is being brought, is being carried |
 | Contemplative | *dadalhin* | will be brought, will be carried |
 
 ### balik (return)
@@ -377,8 +381,8 @@ This reference list provides common Tagalog verbs with their conjugations across
 | Aspect | Conjugation | English |
 |--------|-------------|---------|
 | Perfective | *narinig* | heard |
-| Imperfective | *naririníg* | is hearing, can hear |
-| Contemplative | *maririníg* | will hear |
+| Imperfective | *naririnig* | is hearing, can hear |
+| Contemplative | *maririnig* | will hear |
 
 ### amoy (smell)
 
@@ -580,9 +584,17 @@ This reference list provides common Tagalog verbs with their conjugations across
 
 | Aspect | Conjugation | English |
 |--------|-------------|---------|
-| Perfective | *umintindi* / *naintindihan* | understood |
-| Imperfective | *umiintindi* / *naiintindihan* | is understanding, understands |
-| Contemplative | *iintindi* / *maiintindihan* | will understand |
+| Perfective | *umintindi* | understood |
+| Imperfective | *umiintindi* | is understanding |
+| Contemplative | *iintindi* | will understand |
+
+#### Patient
+
+| Aspect | Conjugation | English |
+|--------|-------------|---------|
+| Perfective | *naintindihan* | was understood |
+| Imperfective | *naiintindihan* | is being understood, understands |
+| Contemplative | *maiintindihan* | will be understood |
 
 ## Causative Verbs
 
@@ -602,7 +614,11 @@ This reference list provides common Tagalog verbs with their conjugations across
 |--------|-------------|---------|
 | Perfective | *pinakain* | was fed |
 | Imperfective | *pinapakain* | is being fed |
-| Contemplative | *pakakainin* | will be fed |
+| Contemplative | *papakainin* | will be fed |
+
+::: details Irregular Contemplative Form
+While the formal rule suggests *pakakainin* (from *pa-* + *kakainin*), the form *papakainin* is more commonly used. It treats *pakain* as a new root and reduplicates its first syllable.
+:::
 
 ### pa-gawa (have made)
 

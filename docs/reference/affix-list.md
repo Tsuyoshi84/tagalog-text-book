@@ -58,7 +58,7 @@ In the perfective aspect, *mag-* becomes *nag-*.
 |-------|-------|-----------------|--------------|------------|--------------|---------------|---------|
 | *mang-* | Actor | Prefix; assimilates to *mam-*, *man-*, or *mang-* based on first letter of root | *bili* | *namili* | *namimili* | *mamimili* | shop/buy things |
 | *mang-* | Actor | Same pattern | *kuha* | *nangkuha* | *nangkukuha* | *mangkukuha* | take/get (multiple) |
-| *mang-* | Actor | Same pattern | *sira* | *nanira* | *naninirah* | *maninirah* | destroy (multiple) |
+| *mang-* | Actor | Same pattern | *sira* | *nanira* | *naninira* | *maninira* | destroy (multiple) |
 
 ::: warning Assimilation
 Initial consonants *p*, *b*, *t*, *d*, *k*, *g*, *s* may drop when *mang-* is added, depending on phonetic rules.
@@ -119,7 +119,7 @@ The perfective form places *-in-* as an infix; the contemplative form adds *-in*
 
 | Affix | Focus | Aspect Handling | Example Root | Perfective | Imperfective | Contemplative | English |
 |-------|-------|-----------------|--------------|------------|--------------|---------------|---------|
-| *i-* | Patient/Instrumental | Prefix *i-* + infix *-in-* for perfective; reduplication for imperfective | *lagay* | *inilagay* | *ilinagay* | *ilalagay* | was/is/will be placed |
+| *i-* | Patient/Instrumental | Prefix *i-* + infix *-in-* for perfective; reduplication for imperfective | *lagay* | *inilagay* | *inilalagay* | *ilalagay* | was/is/will be placed |
 | *i-* | Patient/Instrumental | Same pattern | *bigay* | *ibinigay* | *ibinibigay* | *ibibigay* | was/is/will be given |
 | *i-* | Patient/Instrumental | Same pattern | *abot* | *inabot* | *inaabot* | *iaabot* | was/is/will be reached/handed |
 
@@ -173,7 +173,7 @@ Instrumental focus affixes emphasize what is used to perform an action. The inst
 
 | Affix | Focus | Aspect Handling | Example Root | Perfective | Imperfective | Contemplative | English |
 |-------|-------|-----------------|--------------|------------|--------------|---------------|---------|
-| *ipang-* | Instrumental | Prefix with *-in-* infix for perfective | *sulat* | *ipinangsulat* | *ipinansusulat* | *ipangsusulat* | was/is/will be used to write |
+| *ipang-* | Instrumental | Prefix with *-in-* infix for perfective | *sulat* | *ipinangsulat* | *ipinangsusulat* | *ipangsusulat* | was/is/will be used to write |
 | *ipang-* | Instrumental | Same pattern | *kutkot* | *ipinangkutkot* | *ipinangkukutkot* | *ipangkukutkot* | was/is/will be used to scrape |
 | *ipang-* | Instrumental | Same pattern | *putol* | *ipinangputol* | *ipinangpuputol* | *ipangpuputol* | was/is/will be used to cut |
 
@@ -192,7 +192,7 @@ Causative affixes indicate that the subject causes someone else to perform an ac
 
 | Affix | Focus | Aspect Handling | Example Root | Perfective | Imperfective | Contemplative | English |
 |-------|-------|-----------------|--------------|------------|--------------|---------------|---------|
-| *pa-__-in* | Causative | Circumfix with infix *-in-* for perfective | *kain* | *pinakain* | *pinakakain* | *pakakain* | had (someone) eat |
+| *pa-__-in* | Causative | Circumfix with infix *-in-* for perfective | *kain* | *pinakain* | *pinakakain* | *pakakainin* | had (someone) eat |
 | *pa-__-in* | Causative | Same pattern | *gawa* | *pinagawa* | *pinagagawa* | *pagagawa* | had (something) made |
 | *pa-__-in* | Causative | Same pattern | *sulat* | *pinasulat* | *pinasusulat* | *pasusulat* | had (something) written |
 
@@ -243,7 +243,7 @@ Causative affixes indicate that the subject causes someone else to perform an ac
 | Affix | Function | Example Root | Noun | English |
 |-------|----------|--------------|------|---------|
 | *mang-* | Forms noun for person who habitually does action | *isda* | *mangingisda* | fisherman |
-| *mang-* | Same pattern | *saka* | *magsasaka* | farmer |
+| *mang-* | Same pattern | *gamot* | *manggagamot* | doctor/healer |
 | *mang-* | Same pattern | *gulo* | *mánguguló* | troublemaker |
 
 ## Adjective-Forming Affixes
