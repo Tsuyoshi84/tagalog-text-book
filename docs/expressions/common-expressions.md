@@ -109,7 +109,6 @@ Common expressions are practical phrases used frequently in daily conversation. 
 
 | Tagalog | English |
 | ------- | ------- |
-| *Sana ay.* | I hope so. |
 | *Wala yun.* | It's nothing. / Don't mention it. |
 | *Okay lang.* | It's okay. / No problem. |
 | *Huwag kang mag-alala.* | Don't worry. |
@@ -124,6 +123,7 @@ Common expressions are practical phrases used frequently in daily conversation. 
 | ------- | ------- |
 | *Sobra!* | Too much! / Extreme! |
 | *Sobrang* | Very. / Extremely. (used before adjectives) |
+| *Sobrang ganda.* | Very beautiful. |
 | *Napaka-* | Very. / Extremely. (prefix for adjectives) |
 | *Napakaganda.* | Very beautiful. |
 | *Talaga naman.* | Really. / Indeed. (emphasis) |
