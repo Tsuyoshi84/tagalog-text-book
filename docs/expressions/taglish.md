@@ -140,7 +140,7 @@ Complete phrases alternate between Tagalog and English within the same sentence.
 | ------- | ------------- | ------- |
 | excited | *excited* | *Excited ako!* (I'm excited!) |
 | happy | *happy* | *Happy ako ngayon.* (I'm happy now.) |
-| stress | *stressed* | *Sobrang stressed ako.* (I'm very stressed.) |
+| stressed | *stressed* | *Sobrang stressed ako.* (I'm very stressed.) |
 | boring | *boring* | *Boring dito.* (It's boring here.) |
 | love | *love* | *Love ko yan!* (I love that!) |
 | cute | *cute* | *Ang cute!* (How cute!) |
@@ -217,7 +217,7 @@ Tagalog affixes attach directly to English verb roots.
 | post | *mag-post* | will post | *Mag-post ako mamaya.* (I'll post later.) |
 | search | *mag-search* | will search | *Mag-search ka sa Google.* (Search on Google.) |
 | check | *i-check* | check (object focus) | *I-check mo ang result.* (Check the result.) |
-| load | *mag-load* | will load | *Mag-load ako ng credits.* (I'll load credits.) |
+| load | *mag-load* | will load | *Mag-load ako ng credits.* (I'll load phone credits.) |
 
 ---
 
