@@ -43,7 +43,7 @@ Emotional expressions convey feelings, moods, and reactions. Tagalog has a rich 
 | *Nagagalit ako.* | I am getting angry. |
 | *Inis na inis ako.* | I am very annoyed. / I am very irritated. |
 | *Nakakainis!* | How annoying! / That's irritating! |
-| *Nakakaawa ang ulo ko.* | It's making my head ache. (frustration) |
+| *Sumasakit ang ulo ko.* | My head hurts. (from frustration) |
 | *Bwisit!* | Damn it! / How annoying! (mild curse, casual) |
 | *Hay naku, nakakabadtrip!* | Oh my, that's frustrating! |
 | *Naiinis ako sa kanya.* | I am annoyed at him/her. |
@@ -61,7 +61,6 @@ Emotional expressions convey feelings, moods, and reactions. Tagalog has a rich 
 | *Nag-aalala ako.* | I am worried. |
 | *Nakakabalisa.* | It's unsettling. / It makes one anxious. |
 | *Hindi ako mapakali.* | I can't calm down. / I am restless. |
-| *Kinakakot ako.* | I am being scared. / It's scaring me. |
 
 ## Surprise and Shock
 
@@ -96,10 +95,8 @@ Emotional expressions convey feelings, moods, and reactions. Tagalog has a rich 
 | ------- | ------- |
 | *Nahihiya ako.* | I am embarrassed. / I am shy. |
 | *Nakakahiya!* | How embarrassing! / That's shameful! |
-| *Hiya ako.* | I'm embarrassed. (casual) |
 | *Napahiya ako.* | I was humiliated. / I was put to shame. |
 | *Nakakahiya naman.* | How embarrassing. (with mild self-deprecation) |
-| *Kailangan ba talaga?* | Is it really necessary? (expressing reluctance due to embarrassment) |
 
 ## Tiredness and Exhaustion
 
@@ -129,12 +126,10 @@ Emotional expressions convey feelings, moods, and reactions. Tagalog has a rich 
 | Tagalog | English |
 | ------- | ------- |
 | *Salamat sa lahat.* | Thank you for everything. |
-| *Salamat sa Diyos.* | Thank God. |
-| *Utang ko sa iyo.* | I owe you. / I am indebted to you. |
 | *Grateful ako.* | I am grateful. |
 | *May utang na loob ako sa iyo.* | I have a debt of gratitude to you. |
 | *Blessed ako.* | I am blessed. |
-| *Pasasalamat ko sa iyo.* | My thanks to you. / I give thanks to you. |
+| *Nagpapasalamat ako sa iyo.* | I give thanks to you. |
 
 ## Confusion and Uncertainty
 
@@ -152,7 +147,7 @@ Emotional expressions convey feelings, moods, and reactions. Tagalog has a rich 
 | Tagalog | English |
 | ------- | ------- |
 | *Salamat sa Diyos!* | Thank God! (relief) |
-| *Ginhawa ko.* | I feel relieved. / What a relief. |
+| *Gumaan ang pakiramdam ko.* | I feel relieved. |
 | *Okay na.* | It's okay now. / All is well. |
 | *Ayos na.* | It's fixed now. / Everything is fine now. |
 | *Nakahinga ako ng maluwag.* | I breathed a sigh of relief. |

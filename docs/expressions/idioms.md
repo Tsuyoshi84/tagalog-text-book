@@ -87,17 +87,6 @@ Meaning: Living hand-to-mouth, barely surviving economically.
 
 ---
 
-### *Nakuha sa timing*
-
-Literal: Got by timing
-
-Meaning: Achieved through good timing or luck rather than effort.
-
-- *Nakuha niya sa timing ang promosyon.*  
-  (He got the promotion by timing. / He got the promotion through luck.)
-
----
-
 ### *Panis na kamatis*
 
 Literal: Rotten tomato
@@ -129,17 +118,6 @@ Meaning: Died and was buried.
 
 - *Kumain na ng lupa ang aking lolo.*  
   (My grandfather ate earth. / My grandfather passed away.)
-
----
-
-### *Lasang-lasa*
-
-Literal: Truly tasted
-
-Meaning: Experienced something fully, often suffering or hardship.
-
-- *Lasang-lasa niya ang hirap ng buhay.*  
-  (He truly tasted the difficulty of life. / He experienced real hardship.)
 
 ---
 
@@ -217,17 +195,6 @@ Meaning: Experienced failure, hardship, or difficulty.
 
 - *Nakatikim na siya ng alat ng kabiguan.*  
   (He has tasted the salt of failure. / He has experienced failure.)
-
----
-
-### *Naitawid ang pangarap*
-
-Literal: Crossed over the dream
-
-Meaning: Achieved one's dream or goal.
-
-- *Naitawid niya ang pangarap niyang maging doktor.*  
-  (She crossed over her dream of becoming a doctor. / She achieved her dream of becoming a doctor.)
 
 ---
 
