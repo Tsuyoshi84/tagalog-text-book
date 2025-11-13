@@ -113,7 +113,6 @@ Practical phrases for markets, stores, and shopping interactions in the Philippi
 | *Saan ang palengke?* | Where is the market? |
 | *Sariwa ba yan?* | Is that fresh? |
 | *Kailan dumating?* | When did it arrive? |
-| *Luto na ba?* | Is it cooked? |
 | *Hiwa mo na.* | Cut it please. |
 | *Linisin mo muna.* | Clean it first. |
 | *Ibalot mo.* | Wrap it up. |
@@ -133,7 +132,7 @@ Practical phrases for markets, stores, and shopping interactions in the Philippi
 | *May iba pa ba?* | Do you have others? |
 | *Iba na lang.* | Something else instead. |
 
-::: tip Bargaining Culture
+::: tip 💡 Bargaining Culture
 Bargaining is common in markets and small shops but not in malls or fixed-price establishments. Start by offering 30-40% less than the asking price and negotiate from there.
 :::
 
