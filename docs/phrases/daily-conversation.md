@@ -121,8 +121,8 @@ Common phrases used in everyday interactions, from simple affirmations to expres
 | *Tama na.* | That's enough. |
 | *Huwag na.* | Don't anymore./Never mind. |
 
-::: tip Usage Note
-Many daily conversation phrases use shortened or contracted forms in casual speech. For example, *Naiintindihan mo ba?* might be shortened to *Intindi mo?* in very informal contexts.
+::: tip 💡 Usage Note
+Many daily conversation phrases use shortened or contracted forms in casual speech. For example, *Naiintindihan mo ba?* (Do you understand?) might be shortened to *Intindi mo?* in very informal contexts.
 :::
 
 See also: [Greetings](./greetings.md), [Common Expressions](../expressions/common-expressions.md)

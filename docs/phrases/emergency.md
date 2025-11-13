@@ -62,7 +62,6 @@ Critical phrases for urgent situations, seeking help, and communicating during e
 
 | Tagalog | English |
 | ------- | ------- |
-| *Tawag ng pulis!* | Call the police! |
 | *Nanakawan ako.* | I was robbed. |
 | *Ninakaw ang bag ko.* | My bag was stolen. |
 | *Ninakaw ang pitaka ko.* | My wallet was stolen. |
@@ -144,11 +143,11 @@ Critical phrases for urgent situations, seeking help, and communicating during e
 | *Hindi ako marunong mag-Tagalog.* | I don't speak Tagalog. |
 | *May nagsasalita ba ng Ingles?* | Does anyone speak English? |
 
-::: warning Emergency Numbers
+::: warning ⚠️ Emergency Numbers
 In the Philippines, the national emergency hotline is **911**. This connects to police, fire, and medical services. Keep this number accessible at all times.
 :::
 
-::: tip Stay Calm
+::: tip 💡 Stay Calm
 In emergency situations, speaking clearly and calmly helps others understand the situation better. If language is a barrier, use simple words and gestures.
 :::
 

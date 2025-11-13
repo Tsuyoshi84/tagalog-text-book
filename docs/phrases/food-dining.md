@@ -33,7 +33,7 @@ Essential phrases for ordering food, dining at restaurants, and discussing meals
 | *Dalawang order.* | Two orders. |
 | *Iyan na lang.* | Just that. |
 | *Pareho kami.* | Same for us./We'll have the same. |
-| *Busog na ako.* | I'm full. |
+
 | *Gutom pa ako.* | I'm still hungry. |
 
 ## Food Preferences
@@ -161,8 +161,8 @@ Essential phrases for ordering food, dining at restaurants, and discussing meals
 | *May problema sa order.* | There's a problem with the order. |
 | *Hindi ito ang in-order ko.* | This is not what I ordered. |
 
-::: tip Dining Culture
-Filipinos often invite others to join meals with *Kain po kayo* even if they don't expect the person to actually eat. A polite response is *Salamat, busog pa ako* (Thank you, I'm still full).
+::: tip 💡 Dining Culture
+Filipinos often invite others to join meals with *Kain po kayo* (Please eat) even if they don't expect the person to actually eat. A polite response is *Salamat, busog pa ako* (Thank you, I'm still full).
 :::
 
 See also: [Daily Conversation](./daily-conversation.md), [Shopping](./shopping.md), [Cultural Etiquette](../culture/etiquette.md)

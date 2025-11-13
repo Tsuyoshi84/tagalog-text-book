@@ -77,7 +77,7 @@ Tagalog greetings vary by time of day, formality level, and relationship between
 | *Pwede po?* | May I? (asking permission) |
 | *Oo, sige.* | Yes, go ahead. |
 
-::: tip Cultural Note
+::: tip 💡 Cultural Note
 Adding *po* and *ho* shows respect and is expected when speaking to elders, authority figures, or strangers. Omitting these particles when appropriate can be considered rude.[^po]
 :::
 
