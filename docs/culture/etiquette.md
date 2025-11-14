@@ -67,10 +67,12 @@ Filipinos use specific titles to show respect based on age and relationship:
 
 Professional titles are used with surnames or given names:
 
-- *Sir* - Used for male teachers, bosses, or professionals
-- *Ma'am* - Used for female teachers, bosses, or professionals
-- *Doktor* - Doctor
-- *Attorney* / *Abogado* - Lawyer
+| Title | Usage |
+| ----- | ----- |
+| *Sir* | Used for male teachers, bosses, or professionals |
+| *Ma'am* | Used for female teachers, bosses, or professionals |
+| *Doktor* | Doctor |
+| *Attorney* / *Abogado* | Lawyer |
 
 ## Social Customs
 
