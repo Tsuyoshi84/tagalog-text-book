@@ -116,7 +116,7 @@ Spanish contributed thousands of loanwords, particularly in:
 | ------- | ------- | ------- |
 | *Pula* (native) / *Rojo* | Rojo | Red |
 | *Puti* (native) / *Blanco* | Blanco | White |
-| *Verde* | Verde | Green |
+| *Berde* | Verde | Green |
 
 ### Writing System Change
 
@@ -211,10 +211,12 @@ Modern Filipino continues evolving through:
 
 **Technology:**
 
-- *Selfie* - selfie
-- *I-chat* - to chat online
-- *Mag-download* - to download
-- *Wi-Fi* - Wi-Fi
+| Filipino | English |
+| -------- | ------- |
+| *Selfie* | selfie |
+| *I-chat* | to chat online |
+| *Mag-download* | to download |
+| *Wi-Fi* | Wi-Fi |
 
 **Pop Culture:**
 
@@ -224,9 +226,11 @@ Modern Filipino continues evolving through:
 
 **Social Media:**
 
-- *Netizen* - internet citizen
-- *Viral* - gone viral
-- *Trending* - trending
+| Filipino | English |
+| -------- | ------- |
+| *Netizen* | internet citizen |
+| *Viral* | gone viral |
+| *Trending* | trending |
 
 ## Language Planning and Standardization
 
