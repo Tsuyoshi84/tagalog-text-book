@@ -170,7 +170,7 @@ Professional and educational phrases for workplace communication, academic setti
 | *May emergency po.* | There's an emergency. |
 
 ::: tip Formality in the Workplace
-In professional settings, always use *po* and *opo* when addressing superiors or colleagues you're not close with. This shows respect and professionalism.
+In professional settings, speakers use *po* and *opo* when addressing superiors or colleagues they are not close with. This shows respect and professionalism.
 :::
 
 See also: [Daily Conversation](./daily-conversation.md), [Cultural Etiquette](../culture/etiquette.md), [Time and Date](../guide/time-date.md)
