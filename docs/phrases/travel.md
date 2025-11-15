@@ -22,7 +22,7 @@ Essential phrases for navigating transportation, finding directions, and handlin
 | *Kumaliwa.* | Turn left. |
 | *Tawid sa kabilang kanto.* | Cross to the other corner. |
 | *Naliligaw ako.* | I'm lost. |
-| *Pwede mo ba akong ituro?* | Can you show me? |
+| *Pwede po bang ituro ang daan?* | Could you show me the way? |
 
 ## Public Transportation
 
@@ -56,7 +56,7 @@ Essential phrases for navigating transportation, finding directions, and handlin
 | *Taxi po.* | Taxi please. |
 | *Magkano hanggang...?* | How much to...? |
 | *Pasakay po.* | May I ride? |
-| *Gamitin ang metro ba?* | Will you use the meter? |
+| *Pwede po bang gamitin ang metro?* | Can you use the meter? |
 | *Dito na lang po.* | Just here please. |
 | *Sandali lang po.* | Just a moment please. |
 | *Pwede bang maghintay?* | Can you wait? |
