@@ -6,13 +6,13 @@ outline: [2, 3]
 
 # Sentence Structure
 
-Tagalog sentence structure differs significantly from English. The most common word order is Verb-Subject-Object (VSO), though Subject-Verb-Object (SVO) is also used, particularly in casual speech.
+Tagalog sentence structure differs significantly from English. The most common formal word order is Verb-Topic-Object (often described in English sources as VSO), though Topic-Verb-Object (SVO in traditional descriptions) is also used, particularly in casual speech.
 
 ## Basic Word Order
 
-### Verb-Subject-Object (VSO)
+### Verb-Topic-Object (VTO / “VSO”)
 
-The standard formal word order in Tagalog places the verb first, followed by the subject (marked with *ang*), then the object.
+The standard formal order places the verb (or other predicate) first, followed by the topic (marked with *ang*, *si*, *sina*, *ang mga*), then other non‑topic elements such as objects or actors (marked by *ng*, *ni*, *nina*, *sa*).
 
 - *Kumain ang bata ng mangga.*  
   (The child ate a mango.)
@@ -21,9 +21,9 @@ The standard formal word order in Tagalog places the verb first, followed by the
 - *Nagluto ang nanay ng pagkain.*  
   (Mother cooked food.)
 
-### Subject-Verb-Object (SVO)
+### Topic-Verb-Object (TVO / “SVO”)
 
-In casual conversation, speakers often use SVO order, similar to English.
+In casual conversation, speakers often front the topic and optionally use *ay* to link it to the predicate.
 
 - *Ang bata ay kumain ng mangga.*  
   (The child ate a mango.)
@@ -33,7 +33,11 @@ In casual conversation, speakers often use SVO order, similar to English.
   (Mother cooked food.)
 
 ::: tip Word Order Flexibility
-Both VSO and SVO are grammatically correct. VSO is more formal and traditional, while SVO is common in everyday speech. The meaning remains the same.
+Both predicate‑initial (verb/predicate first) and topic‑initial (*ay* inversion) patterns are grammatically correct. Predicate‑initial forms are more formal and traditional; topic‑initial forms are common in everyday speech. The core propositional meaning stays the same; only discourse emphasis shifts.
+:::
+
+::: info Subject vs. Topic
+Traditional “subject” terminology does not map cleanly onto Tagalog. The *topic* (marked by *ang*, *si*, *sina*, *ang mga*) is the syntactic pivot selected by verb focus. Other participants (actor, patient, location, beneficiary, instrument) are marked differently depending on focus.
 :::
 
 ## Sentence Components
@@ -59,7 +63,7 @@ The predicate is typically the first element in a Tagalog sentence. It can be a 
 
 #### Prepositional Phrase Predicate
 
-- *Sa kusina ang tatay.*  
+- *Nasa kusina ang tatay.*  
   (Father is in the kitchen.)
 
 ### The Topic
@@ -77,10 +81,10 @@ Tagalog uses particles to mark grammatical relationships in sentences.
 
 | Particle | Function | Example |
 | -------- | -------- | ------- |
-| *ang* | Topic marker (definite, common nouns) | *Kumain ang bata.* (The child ate.) |
+| *ang* | Topic marker (common nouns; singular/plural with *ang mga*) | *Kumain ang bata.* (The child ate.) |
 | *si* | Topic marker (proper nouns, singular) | *Kumain si Maria.* (Maria ate.) |
 | *sina* | Topic marker (proper nouns, plural) | *Kumain sina Maria at Juan.* (Maria and Juan ate.) |
-| *ng* | Object marker / Possessive | *Kumain ng tinapay ang bata.* (The child ate bread.) |
+| *ng* | Non-topic actor in actor-focus OR patient/object in actor-focus; also genitive/possessive | *Kumain ng tinapay ang bata.* (The child ate bread.) |
 | *ni* | Actor marker (proper nouns, singular) | *Kinain ni Maria ang tinapay.* (The bread was eaten by Maria.) |
 | *nina* | Actor marker (proper nouns, plural) | *Kinain nina Maria at Juan ang tinapay.* (The bread was eaten by Maria and Juan.) |
 | *sa* | Locative / Directional | *Pumunta sa tindahan ang nanay.* (Mother went to the store.) |
@@ -161,12 +165,18 @@ Commands and requests often omit the subject.
 - *Matulog ka na.*  
   (Go to sleep now.)
 
-Polite imperatives use *paki-* prefix:
+Polite imperatives often use the *paki-* request prefix:
 
-- *Pakiusap, magtayo.*  
-  (Please stand.)
 - *Pakisara ang pinto.*  
   (Please close the door.)
+- *Pakikuha ng tubig.*  
+  (Please get some water.)
+- *Pakiabot ang asin.*  
+  (Please pass the salt.)
+
+::: info Request Forms
+*Paki-* attaches to a verb to form a polite request. *Pakiusap* is a noun meaning “request” and is not the prefix itself (e.g., *Pakiusap, tumayo ka.* – Please, stand up.).
+:::
 
 ### Exclamatory Sentences
 
@@ -212,7 +222,7 @@ Possession can be expressed using *may* or *mayroon*, or with possessive constru
   (Juan has a car.)
 - *Akin ang libro.*  
   (The book is mine.)
-- *Anak ni Maria ang bata.*  
+- *Ang bata ay anak ni Maria.*  
   (The child is Maria's child.)
 
 ## Focus and Topic-Prominence
@@ -233,6 +243,11 @@ Tagalog is a topic-prominent language, meaning the topic (marked by *ang*, *si*,
 - *Kinain ni Maria ang tinapay.*  
   (The bread was eaten by Maria.) - focus on the patient
 
+### Locative Focus (Additional Voice)
+
+- *Pinuntahan ng nanay ang tindahan.*  
+  (The store was the place mother went to.) – focus on the location (topic = *ang tindahan*)
+
 ::: info Verb Focus
 The verb's affixation determines which noun phrase becomes the topic. Different verb forms highlight different participants. The topic uses *ang*/*si*/*sina*, while other participants use *ng*/*ni*/*nina* or *sa*.
 :::
@@ -241,12 +256,19 @@ See also: [Verbs: Focus System](./verbs/focus-system.md)
 
 ## Linkers
 
-Linkers (*na* / *-ng*) connect modifiers to nouns and create complex phrases.
+Linkers (*-ng* / *na*) connect modifiers to nouns and create complex phrases.
 
 | Linker Form | Usage | Example |
 | ----------- | ----- | ------- |
-| *na* | After vowels | *bahay na puti* (white house) |
-| *-ng* | After consonants | *batang mabait* (kind child) |
+| *-ng* | After vowels | *malaki* + *-ng* → *malaking bahay* (big house) |
+| *na* | After consonants (incl. y) | *bahay na puti* (white house) |
+
+📝 Practical rule:
+
+- Vowel-final word: attach *-ng* (write together) → *maganda* + *-ng* → *magandang dalaga* (beautiful lady).  
+- Consonant-final (including *y*): use separate *na* → *bahay na puti* (white house).  
+- Word ending in *n*: keep *n* and use separate *na* → *maliit na isda* (small fish).  
+- Assimilation: internal changes like *malaki* + *-ng* → *malaking*; *maganda* + *-ng* → *magandang*.
 
 Examples:
 
@@ -256,6 +278,10 @@ Examples:
   (beautiful lady)
 - *masarap na pagkain*  
   (delicious food)
+
+::: tip Copula Absence
+Descriptive (*Maganda ang bahay.*) and equational (*Guro si Juan.*) sentences omit a “to be” verb; the predicate simply precedes (or is linked to) the topic.
+:::
 
 ## Complex Sentences
 
@@ -281,6 +307,10 @@ Subordinate clauses are introduced by conjunctions or relative pronouns.
 - *Ang taong nakita ko ay guro.*  
   (The person I saw is a teacher.)
 
+::: info *ng* vs. *nang*
+*ng* = case/possessive/object marker (and enclitic for omission of *nang* in some contractions). *nang* = linker for adverbs, temporal clauses, and “when/as” constructions. Example: *Umuwi ako nang maaga.* (I went home early.) / *Kumain ng tinapay ang bata.* (The child ate bread.)
+:::
+
 ## Word Order Variations
 
 While VSO and SVO are standard, Tagalog allows word order flexibility for emphasis.
@@ -296,6 +326,8 @@ While VSO and SVO are standard, Tagalog allows word order flexibility for emphas
   (Tomorrow I will go to the market.)
 - *Sa kusina nagluto ang nanay.*  
   (In the kitchen, mother cooked.)
+- *Bukas ay pupunta ako sa palengke.*  
+  (Tomorrow I will go to the market.)
 
 ## Common Sentence Patterns
 
@@ -319,8 +351,8 @@ While VSO and SVO are standard, Tagalog allows word order flexibility for emphas
 
 | Pattern | Example | English |
 | ------- | ------- | ------- |
-| *Sa* + Location + Topic | *Sa mesa ang libro.* | The book is on the table. |
-| Topic + *ay* + *sa* + Location | *Ang libro ay sa mesa.* | The book is on the table. |
+| *Nasa* + Location + Topic | *Nasa mesa ang libro.* | The book is on the table. |
+| Topic + *ay* + *nasa* + Location | *Ang libro ay nasa mesa.* | The book is on the table. |
 
 ## Negation in Sentences
 
@@ -347,3 +379,4 @@ Tagalog sentence structure centers on:
 Understanding these patterns enables learners to construct and comprehend Tagalog sentences effectively.
 
 See also: [Parts of Speech](./parts-of-speech.md), [Verbs](./verbs/index.md), [Particles](./particles/index.md)
+See also: [Pronouns](./pronouns.md)
