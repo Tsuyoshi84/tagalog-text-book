@@ -30,63 +30,63 @@ Native speakers use these instinctively, but learners must consciously understan
 
 Particles that add stress, surprise, or emotional weight.
 
-| Particle | Core Function | Difficulty | Page |
-| -------- | ------------- | ---------- | ---- |
-| *nga* | Emphasis, politeness, confirmation | <Badge type="warning" text="High" /> | [Learn *nga*](./emphasis/nga.md) |
-| *naman* | Softens tone, adds contrast, friendliness | <Badge type="warning" text="High" /> | [Learn *naman*](./emphasis/naman.md) |
-| *pala* | Surprise, realization, correction | <Badge type="warning" text="High" /> | [Learn *pala*](./emphasis/pala.md) |
+| Particle | Core Function | Difficulty |
+| -------- | ------------- | ---------- |
+| [*nga*](./emphasis/nga.md) | Emphasis, politeness, confirmation | <Badge type="warning" text="High" /> |
+| [*naman*](./emphasis/naman.md) | Softens tone, adds contrast, friendliness | <Badge type="warning" text="High" /> |
+| [*pala*](./emphasis/pala.md) | Surprise, realization, correction | <Badge type="warning" text="High" /> |
 
 ### ⏰ Temporal Particles
 
 Particles that indicate timing, completion, or continuation.
 
-| Particle | Core Function | Difficulty | Page |
-| -------- | ------------- | ---------- | ---- |
-| *na* | Already, change of state | <Badge type="info" text="Medium" /> | [Learn *na*](./temporal/na.md) |
-| *pa* | Still, yet, opposite of *na* | <Badge type="info" text="Medium" /> | [Learn *pa*](./temporal/pa.md) |
-| *muna* | For now, first (before something else) | <Badge type="warning" text="High" /> | [Learn *muna*](./temporal/muna.md) |
+| Particle | Core Function | Difficulty |
+| -------- | ------------- | ---------- |
+| [*na*](./temporal/na.md) | Already, change of state | <Badge type="info" text="Medium" /> |
+| [*pa*](./temporal/pa.md) | Still, yet, opposite of *na* | <Badge type="info" text="Medium" /> |
+| [*muna*](./temporal/muna.md) | For now, first (before something else) | <Badge type="warning" text="High" /> |
 
 ### ❓ Questioning Particles
 
 Particles that add curiosity, uncertainty, or questions.
 
-| Particle | Core Function | Difficulty | Page |
-| -------- | ------------- | ---------- | ---- |
-| *ba* | Yes/no questions, adds curiosity | <Badge type="info" text="Medium" /> | [Learn *ba*](./questioning/ba.md) |
-| *yata* / *siguro* | Uncertainty, guess | <Badge type="warning" text="High" /> | [Learn *yata*/*siguro*](./questioning/yata-siguro.md) |
+| Particle | Core Function | Difficulty |
+| -------- | ------------- | ---------- |
+| [*ba*](./questioning/ba.md) | Yes/no questions, adds curiosity | <Badge type="info" text="Medium" /> |
+| [*yata* / *siguro*](./questioning/yata-siguro.md) | Uncertainty, guess | <Badge type="warning" text="High" /> |
 
 ### 🎚️ Limiting Particles
 
 Particles that restrict or add scope.
 
-| Particle | Core Function | Difficulty | Page |
-| -------- | ------------- | ---------- | ---- |
-| *lang* / *lamang* | Only, just | <Badge type="info" text="Medium" /> | [Learn *lang*/*lamang*](./limiting/lang-lamang.md) |
-| *din* / *rin* | Also, too | <Badge type="info" text="Medium" /> | [Learn *din*/*rin*](./limiting/din-rin.md) |
+| Particle | Core Function | Difficulty |
+| -------- | ------------- | ---------- |
+| [*lang* / *lamang*](./limiting/lang-lamang.md) | Only, just | <Badge type="info" text="Medium" /> |
+| [*din* / *rin*](./limiting/din-rin.md) | Also, too | <Badge type="info" text="Medium" /> |
 
 ### 🙏 Politeness Particles
 
 Particles for respectful speech.
 
-| Particle | Core Function | Difficulty | Page |
-| -------- | ------------- | ---------- | ---- |
-| *po* / *ho* | Politeness markers (respectful speech) | <Badge type="tip" text="Essential" /> | [Learn *po*/*ho*](./politeness/po-ho.md) |
+| Particle | Core Function | Difficulty |
+| -------- | ------------- | ---------- |
+| [*po* / *ho*](./politeness/po-ho.md) | Politeness markers (respectful speech) | <Badge type="tip" text="Essential" /> |
 
 ### 💬 Speech Particles
 
 Particles for reported speech.
 
-| Particle | Core Function | Difficulty | Page |
-| -------- | ------------- | ---------- | ---- |
-| *daw* / *raw* | Reported speech ("they said") | <Badge type="warning" text="High" /> | [Learn *daw*/*raw*](./speech/daw-raw.md) |
+| Particle | Core Function | Difficulty |
+| -------- | ------------- | ---------- |
+| [*daw* / *raw*](./speech/daw-raw.md) | Reported speech ("they said") | <Badge type="warning" text="High" /> |
 
 ### 😎 Casual Particles
 
 Particles that create informal, conversational tone.
 
-| Particle | Core Function | Difficulty | Page |
-| -------- | ------------- | ---------- | ---- |
-| *eh* / *kasi* | Casual tone, gives reason/excuse | <Badge type="warning" text="High" /> | [Learn *eh*/*kasi*](./casual/eh-kasi.md) |
+| Particle | Core Function | Difficulty |
+| -------- | ------------- | ---------- |
+| [*eh* / *kasi*](./casual/eh-kasi.md) | Casual tone, gives reason/excuse | <Badge type="warning" text="High" /> |
 
 ## Common Particle Combinations
 
