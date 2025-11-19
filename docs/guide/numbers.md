@@ -88,7 +88,7 @@ Spanish-derived numbers are used for telling time and in some traditional contex
 | 80 | *otsenta* |
 | 90 | *nobenta* |
 | 100 | *siyento* |
-| 200 | *dalawang daan* |
+| 200 | *dos siyentos* / *dosientos* |
 | 1,000 | *mil* |
 | 1,000,000 | *milyon* |
 
