@@ -19,9 +19,9 @@ Personal pronouns have multiple forms based on their case (grammatical role).
 | 1st singular | *ako* | *ko* | *akin* / *sa akin* | I, me, my, mine |
 | 2nd singular | *ikaw*, *ka* | *mo* | *iyo* / *sa iyo* | you, your, yours |
 | 3rd singular | *siya* | *niya* | *kanya* / *sa kanya* | he/she, his/her, hers |
-| 1st plural (incl.) | *tayo* | *natin* | *atin* / *sa atin* | we (incl.) |
-| 1st plural (excl.) | *kami* | *namin* | *amin* / *sa amin* | we (excl.) |
-| 2nd plural | *kayo* | *ninyo* | *inyo* / *sa inyo* | you (pl.) |
+| 1st plural (inclusive) | *tayo* | *natin* | *atin* / *sa atin* | we (inclusive) |
+| 1st plural (exclusive) | *kami* | *namin* | *amin* / *sa amin* | we (exclusive) |
+| 2nd plural | *kayo* | *ninyo* | *inyo* / *sa inyo* | you (plural) |
 | 3rd plural | *sila* | *nila* | *kanila* / *sa kanila* | they |
 
 ### Topic Forms (*Ang*-forms)
