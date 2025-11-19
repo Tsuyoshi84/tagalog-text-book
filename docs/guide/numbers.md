@@ -10,6 +10,45 @@ Tagalog uses two number systems: native Tagalog numbers and Spanish-derived numb
 
 ## Cardinal Numbers
 
+### Native Tagalog Numbers (1-10)
+
+Native Tagalog numbers are the indigenous counting system used when counting objects with specific counters and in traditional or formal contexts.
+
+| Number | Tagalog | English |
+| ------ | ------- | ------- |
+| 1 | *isa* | one |
+| 2 | *dalawa* | two |
+| 3 | *tatlo* | three |
+| 4 | *apat* | four |
+| 5 | *lima* | five |
+| 6 | *anim* | six |
+| 7 | *pito* | seven |
+| 8 | *walo* | eight |
+| 9 | *siyam* | nine |
+| 10 | *sampu* | ten |
+
+### Native Tagalog Numbers (Higher Values)
+
+| Number | Tagalog | English |
+| ------ | ------- | ------- |
+| 20 | *dalawampu* | twenty |
+| 30 | *tatlumpu* | thirty |
+| 40 | *apatnapu* | forty |
+| 50 | *limampu* | fifty |
+| 60 | *animnapu* | sixty |
+| 70 | *pitumpu* | seventy |
+| 80 | *walumpu* | eighty |
+| 90 | *siyamnapu* | ninety |
+| 100 | *sandaan* | one hundred |
+| 200 | *dalawang daan* | two hundred |
+| 1,000 | *isang libo* / *sanlibo* | one thousand |
+| 2,000 | *dalawang libo* | two thousand |
+
+For other numbers in the hundreds and thousands, combine a native number with *daan* (hundred) or *libo* (thousand):
+
+- *tatlong daan* (300)
+- *apat na libo* (4,000)
+
 ### Spanish-Derived Numbers (1-20)
 
 Spanish-derived numbers are used in most everyday contexts, including telling time, counting money, and stating prices.
@@ -60,45 +99,6 @@ Numbers between tens are formed by combining the tens digit with the ones digit:
 ::: info System Preference
 Spanish-derived numbers dominate in urban areas for everyday counting, money, time, and ages. Native numbers are preferred when counting objects with nouns, in formal contexts, and for days/weeks/months/years.
 :::
-
-### Native Tagalog Numbers (1-10)
-
-Native Tagalog numbers are used when counting objects with specific counters and in traditional or formal contexts.
-
-| Number | Tagalog | English |
-| ------ | ------- | ------- |
-| 1 | *isa* | one |
-| 2 | *dalawa* | two |
-| 3 | *tatlo* | three |
-| 4 | *apat* | four |
-| 5 | *lima* | five |
-| 6 | *anim* | six |
-| 7 | *pito* | seven |
-| 8 | *walo* | eight |
-| 9 | *siyam* | nine |
-| 10 | *sampu* | ten |
-
-### Native Tagalog Numbers (Higher Values)
-
-| Number | Tagalog | English |
-| ------ | ------- | ------- |
-| 20 | *dalawampu* | twenty |
-| 30 | *tatlumpu* | thirty |
-| 40 | *apatnapu* | forty |
-| 50 | *limampu* | fifty |
-| 60 | *animnapu* | sixty |
-| 70 | *pitumpu* | seventy |
-| 80 | *walumpu* | eighty |
-| 90 | *siyamnapu* | ninety |
-| 100 | *sandaan* | one hundred |
-| 200 | *dalawang daan* | two hundred |
-| 1,000 | *isang libo* / *sanlibo* | one thousand |
-| 2,000 | *dalawang libo* | two thousand |
-
-For other numbers in the hundreds and thousands, combine a native number with *daan* (hundred) or *libo* (thousand):
-
-- *tatlong daan* (300)
-- *apat na libo* (4,000)
 
 ## Ordinal Numbers
 
