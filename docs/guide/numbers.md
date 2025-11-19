@@ -14,35 +14,35 @@ Tagalog uses two number systems: native Tagalog numbers and Spanish-derived numb
 
 Native Tagalog numbers are the indigenous counting system used when counting objects with specific counters and in traditional or formal contexts.
 
-| Number | Tagalog | English |
-| ------ | ------- | ------- |
-| 1 | *isa* | one |
-| 2 | *dalawa* | two |
-| 3 | *tatlo* | three |
-| 4 | *apat* | four |
-| 5 | *lima* | five |
-| 6 | *anim* | six |
-| 7 | *pito* | seven |
-| 8 | *walo* | eight |
-| 9 | *siyam* | nine |
-| 10 | *sampu* | ten |
+| Number | Tagalog |
+| ------ | ------- |
+| 1 | *isa* |
+| 2 | *dalawa* |
+| 3 | *tatlo* |
+| 4 | *apat* |
+| 5 | *lima* |
+| 6 | *anim* |
+| 7 | *pito* |
+| 8 | *walo* |
+| 9 | *siyam* |
+| 10 | *sampu* |
 
 ### Native Tagalog Numbers (Higher Values)
 
-| Number | Tagalog | English |
-| ------ | ------- | ------- |
-| 20 | *dalawampu* | twenty |
-| 30 | *tatlumpu* | thirty |
-| 40 | *apatnapu* | forty |
-| 50 | *limampu* | fifty |
-| 60 | *animnapu* | sixty |
-| 70 | *pitumpu* | seventy |
-| 80 | *walumpu* | eighty |
-| 90 | *siyamnapu* | ninety |
-| 100 | *sandaan* | one hundred |
-| 200 | *dalawang daan* | two hundred |
-| 1,000 | *isang libo* / *sanlibo* | one thousand |
-| 2,000 | *dalawang libo* | two thousand |
+| Number | Tagalog |
+| ------ | ------- |
+| 20 | *dalawampu* |
+| 30 | *tatlumpu* |
+| 40 | *apatnapu* |
+| 50 | *limampu* |
+| 60 | *animnapu* |
+| 70 | *pitumpu* |
+| 80 | *walumpu* |
+| 90 | *siyamnapu* |
+| 100 | *sandaan* |
+| 200 | *dalawang daan* |
+| 1,000 | *isang libo* / *sanlibo* |
+| 2,000 | *dalawang libo* |
 
 For other numbers in the hundreds and thousands, combine a native number with *daan* (hundred) or *libo* (thousand):
 
@@ -53,44 +53,44 @@ For other numbers in the hundreds and thousands, combine a native number with *d
 
 Spanish-derived numbers are used in most everyday contexts, including telling time, counting money, and stating prices.
 
-| Number | Tagalog | English |
-| ------ | ------- | ------- |
-| 1 | *uno* | one |
-| 2 | *dos* | two |
-| 3 | *tres* | three |
-| 4 | *kwatro* | four |
-| 5 | *singko* | five |
-| 6 | *sais* | six |
-| 7 | *siyete* | seven |
-| 8 | *otso* | eight |
-| 9 | *nuebe* | nine |
-| 10 | *diyes* | ten |
-| 11 | *onse* | eleven |
-| 12 | *dose* | twelve |
-| 13 | *trese* | thirteen |
-| 14 | *katorse* | fourteen |
-| 15 | *kinse* | fifteen |
-| 16 | *disisays* | sixteen |
-| 17 | *disisyete* | seventeen |
-| 18 | *diyesiotso* | eighteen |
-| 19 | *diyesinuebe* | nineteen |
-| 20 | *bente* | twenty |
+| Number | Tagalog |
+| ------ | ------- |
+| 1 | *uno* |
+| 2 | *dos* |
+| 3 | *tres* |
+| 4 | *kwatro* |
+| 5 | *singko* |
+| 6 | *sais* |
+| 7 | *siyete* |
+| 8 | *otso* |
+| 9 | *nuebe* |
+| 10 | *diyes* |
+| 11 | *onse* |
+| 12 | *dose* |
+| 13 | *trese* |
+| 14 | *katorse* |
+| 15 | *kinse* |
+| 16 | *disisays* |
+| 17 | *disisyete* |
+| 18 | *diyesiotso* |
+| 19 | *diyesinuebe* |
+| 20 | *bente* |
 
 ### Spanish-Derived Numbers (Tens and Hundreds)
 
-| Number | Tagalog | English |
-| ------ | ------- | ------- |
-| 30 | *trenta* | thirty |
-| 40 | *kwarenta* | forty |
-| 50 | *singkwenta* | fifty |
-| 60 | *sesenta* | sixty |
-| 70 | *setenta* | seventy |
-| 80 | *otsenta* | eighty |
-| 90 | *nobenta* | ninety |
-| 100 | *siyento* | one hundred |
-| 200 | *dalawang daan* | two hundred |
-| 1,000 | *mil* | one thousand |
-| 1,000,000 | *milyon* | one million |
+| Number | Tagalog |
+| ------ | ------- |
+| 30 | *trenta* |
+| 40 | *kwarenta* |
+| 50 | *singkwenta* |
+| 60 | *sesenta* |
+| 70 | *setenta* |
+| 80 | *otsenta* |
+| 90 | *nobenta* |
+| 100 | *siyento* |
+| 200 | *dalawang daan* |
+| 1,000 | *mil* |
+| 1,000,000 | *milyon* |
 
 ::: tip Number Formation
 Numbers between tens are formed by combining the tens digit with the ones digit: *bente uno* (21), *trenta dos* (32), *kwarenta tres* (43).
@@ -108,18 +108,18 @@ Ordinal numbers indicate position or order in a sequence.
 
 The most common way to form ordinal numbers is by adding the prefix *ika-* to cardinal numbers.
 
-| Position | Tagalog | English |
-| -------- | ------- | ------- |
-| 1st | *una* | first |
-| 2nd | *ikalawa* / *pangalawa* | second |
-| 3rd | *ikatlo* / *pangatlo* | third |
-| 4th | *ikaapat* / *pang-apat* | fourth |
-| 5th | *ikalima* / *panlima* | fifth |
-| 6th | *ikaanim* / *pang-anim* | sixth |
-| 7th | *ikapito* / *pampito* | seventh |
-| 8th | *ikawalo* / *pangwalo* | eighth |
-| 9th | *ikasiyam* / *pansiyam* | ninth |
-| 10th | *ikasampu* / *pansampu* | tenth |
+| Position | Tagalog |
+| -------- | ------- |
+| 1st | *una* |
+| 2nd | *ikalawa* / *pangalawa* |
+| 3rd | *ikatlo* / *pangatlo* |
+| 4th | *ikaapat* / *pang-apat* |
+| 5th | *ikalima* / *panlima* |
+| 6th | *ikaanim* / *pang-anim* |
+| 7th | *ikapito* / *pampito* |
+| 8th | *ikawalo* / *pangwalo* |
+| 9th | *ikasiyam* / *pansiyam* |
+| 10th | *ikasampu* / *pansampu* |
 
 ::: details Alternative Forms with *pang-*
 Ordinal numbers can also be formed using the prefix *pang-*. This form is common in conversation. The prefix undergoes phonological changes based on the following sound:
