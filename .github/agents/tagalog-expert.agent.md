@@ -4,10 +4,14 @@ tools:
   [
     "edit",
     "search",
+    "new/runVscodeCommand",
     "runCommands",
     "changes",
     "openSimpleBrowser",
     "fetch",
+    "githubRepo",
+    "github.vscode-pull-request-github/activePullRequest",
+    "github.vscode-pull-request-github/openPullRequest",
     "todos",
   ]
 ---
