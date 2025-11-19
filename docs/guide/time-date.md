@@ -14,20 +14,20 @@ Expressing time and date in Tagalog involves a mix of native Tagalog and Spanish
 
 Hours are expressed using Spanish numbers with *alas*:
 
-| Time | Tagalog | English |
-| ---- | ------- | ------- |
-| 1:00 | *ala una* | one o'clock |
-| 2:00 | *alas dos* | two o'clock |
-| 3:00 | *alas tres* | three o'clock |
-| 4:00 | *alas kwatro* | four o'clock |
-| 5:00 | *alas singko* | five o'clock |
-| 6:00 | *alas seis* | six o'clock |
-| 7:00 | *alas siyete* | seven o'clock |
-| 8:00 | *alas otso* | eight o'clock |
-| 9:00 | *alas nuwebe* | nine o'clock |
-| 10:00 | *alas diyes* | ten o'clock |
-| 11:00 | *alas onse* | eleven o'clock |
-| 12:00 | *alas dose* | twelve o'clock |
+| Time | Tagalog |
+| ---- | ------- |
+| 1:00 | *ala una* |
+| 2:00 | *alas dos* |
+| 3:00 | *alas tres* |
+| 4:00 | *alas kwatro* |
+| 5:00 | *alas singko* |
+| 6:00 | *alas seis* |
+| 7:00 | *alas siyete* |
+| 8:00 | *alas otso* |
+| 9:00 | *alas nuwebe* |
+| 10:00 | *alas diyes* |
+| 11:00 | *alas onse* |
+| 12:00 | *alas dose* |
 
 Examples:
 
@@ -55,11 +55,11 @@ Minutes are expressed using Spanish numbers:
 
 #### Quarter Hours
 
-| Time Pattern | Tagalog | English |
-| ------------ | ------- | ------- |
-| Quarter past | *y kinse* | quarter past |
-| Half past | *y medya* / *y trenta* | half past |
-| Quarter to | *menos kinse* | quarter to |
+| Time Pattern | Tagalog |
+| ------------ | ------- |
+| Quarter past | *y kinse* |
+| Half past | *y medya* / *y trenta* |
+| Quarter to | *menos kinse* |
 
 Examples:
 
@@ -86,14 +86,14 @@ Examples:
 
 Specify parts of the day using:
 
-| Period | Tagalog | Time Range |
-| ------ | ------- | ---------- |
-| Early morning | *madaling araw* | 3 AM to 6 AM |
-| Morning | *ng umaga* | 6 AM to noon |
-| Noon/midday | *ng tanghali* | 11 AM to 1 PM |
-| Afternoon | *ng hapon* | 1 PM to 6 PM |
-| Evening | *ng gabi* | 6 PM onward |
-| Midnight | *ng hatinggabi* | around 12 midnight |
+| Tagalog | Time Range |
+| ------- | ---------- |
+| *madaling araw* | 3 AM to 6 AM |
+| *ng umaga* | 6 AM to noon |
+| *ng tanghali* | 11 AM to 1 PM |
+| *ng hapon* | 1 PM to 6 PM |
+| *ng gabi* | 6 PM onward |
+| *ng hatinggabi* | around 12 midnight |
 
 Examples:
 
@@ -130,15 +130,15 @@ Responses:
 
 Days of the week are derived from Spanish:
 
-| Tagalog | Spanish Origin | English |
-| ------- | -------------- | ------- |
-| *Lunes* | Lunes | Monday |
-| *Martes* | Martes | Tuesday |
-| *Miyerkules* | Miércoles | Wednesday |
-| *Huwebes* | Jueves | Thursday |
-| *Biyernes* | Viernes | Friday |
-| *Sabado* | Sábado | Saturday |
-| *Linggo* | Domingo | Sunday |
+| Tagalog | Meaning |
+| ------- | ------- |
+| *Lunes* | Monday |
+| *Martes* | Tuesday |
+| *Miyerkules* | Wednesday |
+| *Huwebes* | Thursday |
+| *Biyernes* | Friday |
+| *Sabado* | Saturday |
+| *Linggo* | Sunday |
 
 ### Using Days
 
@@ -157,7 +157,7 @@ All day names are capitalized in Tagalog, following Spanish convention.
 
 ### Relative Days
 
-| Tagalog | English |
+| Tagalog | Meaning |
 | ------- | ------- |
 | *ngayon* | today |
 | *bukas* | tomorrow |
@@ -176,20 +176,20 @@ Examples:
 
 Months are derived from Spanish and are capitalized:
 
-| Tagalog | Spanish Origin | English |
-| ------- | -------------- | ------- |
-| *Enero* | Enero | January |
-| *Pebrero* | Febrero | February |
-| *Marso* | Marzo | March |
-| *Abril* | Abril | April |
-| *Mayo* | Mayo | May |
-| *Hunyo* | Junio | June |
-| *Hulyo* | Julio | July |
-| *Agosto* | Agosto | August |
-| *Setyembre* | Septiembre | September |
-| *Oktubre* | Octubre | October |
-| *Nobyembre* | Noviembre | November |
-| *Disyembre* | Diciembre | December |
+| Tagalog | Meaning |
+| ------- | ------- |
+| *Enero* | January |
+| *Pebrero* | February |
+| *Marso* | March |
+| *Abril* | April |
+| *Mayo* | May |
+| *Hunyo* | June |
+| *Hulyo* | July |
+| *Agosto* | August |
+| *Setyembre* | September |
+| *Oktubre* | October |
+| *Nobyembre* | November |
+| *Disyembre* | December |
 
 ### Using Months
 
@@ -253,10 +253,10 @@ Examples:
 
 The Philippines has two main seasons:
 
-| Tagalog | English | Period |
-| ------- | ------- | ------ |
-| *tag-ulan* / *panahon ng tag-ulan* | rainy season | June to November |
-| *tag-init* / *tag-araw* | dry season/summer | December to May |
+| Tagalog | Period |
+| ------- | ------ |
+| *tag-ulan* / *panahon ng tag-ulan* | June to November |
+| *tag-init* / *tag-araw* | December to May |
 
 Examples:
 
@@ -275,20 +275,20 @@ The Philippines has a tropical climate with two main seasons rather than four di
 
 Common time units and duration expressions:
 
-| Unit/Expression | Tagalog | English |
-| --------------- | ------- | ------- |
-| Second | *segundo* | second |
-| Minute | *minuto* | minute |
-| Hour | *oras* | hour |
-| Day | *araw* | day |
-| Week | *linggo* | week |
-| Month | *buwan* | month |
-| Year | *taon* | year |
-| Century | *siglo* | century |
-| A moment | *sandali* | a moment |
-| A few minutes | *ilang minuto* | a few minutes |
-| Half an hour | *kalahating oras* | half an hour |
-| Whole day | *buong araw* | whole day |
+| Tagalog | Meaning |
+| ------- | ------- |
+| *segundo* | second |
+| *minuto* | minute |
+| *oras* | hour |
+| *araw* | day |
+| *linggo* | week |
+| *buwan* | month |
+| *taon* | year |
+| *siglo* | century |
+| *sandali* | a moment |
+| *ilang minuto* | a few minutes |
+| *kalahating oras* | half an hour |
+| *buong araw* | whole day |
 
 Examples with native numbers:
 
@@ -308,8 +308,8 @@ Usage examples:
 
 ### Frequency
 
-| Expression | English |
-| ---------- | ------- |
+| Tagalog | Meaning |
+| ------- | ------- |
 | *tuwing araw* / *araw-araw* | every day |
 | *minsan* | once/sometimes |
 | *dalawang beses* | twice |
@@ -350,7 +350,7 @@ Examples:
 
 ### Specific Time Adverbs
 
-| Tagalog | English |
+| Tagalog | Meaning |
 | ------- | ------- |
 | *maaga* | early |
 | *huli* | late |
@@ -436,7 +436,7 @@ Useful expressions for daily conversation:
 
 ### Schedule Terms
 
-| Tagalog | English |
+| Tagalog | Meaning |
 | ------- | ------- |
 | *iskedyul* | schedule |
 | *tipanan* | appointment |
