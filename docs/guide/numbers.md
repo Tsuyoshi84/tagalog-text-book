@@ -51,7 +51,7 @@ For other numbers in the hundreds and thousands, combine a native number with *d
 
 ### Spanish-Derived Numbers (1-20)
 
-Spanish-derived numbers are used in most everyday contexts, including telling time, counting money, and stating prices.
+Spanish-derived numbers are used for telling time and in some traditional contexts, though English numbers have largely replaced them for money, prices, and ages in modern conversation.
 
 | Number | Tagalog |
 | ------ | ------- |
@@ -97,7 +97,7 @@ Numbers between tens are formed by combining the tens digit with the ones digit:
 :::
 
 ::: info System Preference
-Spanish-derived numbers dominate in urban areas for everyday counting, money, time, and ages. Native numbers are preferred when counting objects with nouns, in formal contexts, and for days/weeks/months/years.
+English numbers dominate in modern usage for money, prices, ages, and telephone numbers. Spanish-derived numbers are used for telling time. Native Tagalog numbers are preferred when counting objects with nouns, in formal contexts, and for days/weeks/months/years.
 :::
 
 ## Ordinal Numbers
@@ -171,7 +171,7 @@ Examples:
 
 ## Money and Prices
 
-Spanish-derived numbers are predominantly used for money and prices.
+In modern conversation, English numbers (one, two, three, etc.) are predominantly used for money and prices. Spanish-derived numbers are still understood and used by some speakers.
 
 Examples:
 
@@ -220,7 +220,7 @@ See also: [Time and Date](./time-date.md)
 
 ## Age
 
-Spanish numbers are commonly used when stating age:
+English numbers are commonly used when stating age in modern conversation, though Spanish numbers are also understood:
 
 - *Ilang taon ka na?*  
   (How old are you?)
@@ -288,7 +288,7 @@ Decimal points use *punto* or *tuldok*: *tres punto kinse* (3.15), *singko tuldo
 
 ## Telephone Numbers
 
-Telephone numbers are stated using Spanish numbers, read digit by digit:
+Telephone numbers are typically stated using English numbers in modern usage, read digit by digit. Spanish-derived numbers shown below are still understood:
 
 - *sero-nuebe-uno-dos-tres-kwatro-singko-sais-siyete-otso*  
   (0912-345-6789)
