@@ -14,15 +14,15 @@ Personal pronouns have multiple forms based on their case (grammatical role).
 
 ### Pronoun Forms by Case
 
-| Person | Topic Form (*Ang*) | Non-Topic Possessive (*Ng*) | Oblique Possessive | Locative (*Sa*) | English |
-| ------ | ------------------ | --------------------------- | ------------------ | --------------- | ------- |
-| 1st singular | *ako* | *ko* | *akin* | *sa akin* | I, me, my, mine |
-| 2nd singular | *ikaw*, *ka* | *mo* | *iyo* | *sa iyo* | you, your, yours |
-| 3rd singular | *siya* | *niya* | *kanya* | *sa kanya* | he/she, his/her, hers |
-| 1st plural (inclusive) | *tayo* | *natin* | *atin* | *sa atin* | we (including listener) |
-| 1st plural (exclusive) | *kami* | *namin* | *amin* | *sa amin* | we (excluding listener) |
-| 2nd plural | *kayo* | *ninyo* | *inyo* | *sa inyo* | you (plural), your, yours |
-| 3rd plural | *sila* | *nila* | *kanila* | *sa kanila* | they, their, theirs |
+| Person | Topic (*Ang*) | Non-Topic (*Ng*) | Oblique (*Sa*-form) | English |
+| ------ | ------------- | ---------------- | ------------------- | ------- |
+| 1st singular | *ako* | *ko* | *akin* / *sa akin* | I, me, my, mine |
+| 2nd singular | *ikaw*, *ka* | *mo* | *iyo* / *sa iyo* | you, your, yours |
+| 3rd singular | *siya* | *niya* | *kanya* / *sa kanya* | he/she, his/her, hers |
+| 1st plural (incl.) | *tayo* | *natin* | *atin* / *sa atin* | we (incl.) |
+| 1st plural (excl.) | *kami* | *namin* | *amin* / *sa amin* | we (excl.) |
+| 2nd plural | *kayo* | *ninyo* | *inyo* / *sa inyo* | you (pl.) |
+| 3rd plural | *sila* | *nila* | *kanila* / *sa kanila* | they |
 
 ### Topic Forms (*Ang*-forms)
 
@@ -36,6 +36,12 @@ Used as the subject/topic of the sentence:
   (We slept.)
 - *Dumarating sila.*  
   (They are arriving.)
+
+::: tip Emphasis
+To emphasize the pronoun, place it at the beginning of the sentence followed by *ang*:
+
+- *Ako ang kumain.* (I was the one who ate.)
+:::
 
 ::: info *Ka* vs. *Ikaw*
 *Ka* is enclitic (attached to other words), while *ikaw* stands alone. *Ka* cannot begin a sentence.
@@ -57,25 +63,18 @@ Used as possessors or agents in non-actor focus:
 - *Sasakyan namin yan.*  
   (That is our vehicle.)
 
-### Oblique Possessive Forms
+### Oblique Forms (*Sa*-forms)
 
-Used for emphasis or after prepositions:
+These pronouns (*akin*, *iyo*, *kanya*, etc.) function as the **Oblique** case. They are used in two main ways:
 
-- *Akin ang libro.*  
-  (The book is mine.)
-- *Para sa akin ito.*  
-  (This is for me.)
-- *Galing sa kanya ang regalo.*  
-  (The gift is from him/her.)
+1. **With the particle *sa*:** To indicate direction, location, or beneficiary.
+   - *Pumunta ako **sa kanya**.* (I went to him/her.)
+   - *Ibigay mo **sa akin**.* (Give it to me.)
+   - *Para **sa akin** ito.* (This is for me.)
 
-### Locative Forms (*Sa*-forms)
-
-Used with locative particle *sa*:
-
-- *Pumunta ako sa kanya.*  
-  (I went to him/her.)
-- *Ibigay mo sa akin.*  
-  (Give it to me.)
+2. **Independently:** To express ownership (predicative possession).
+   - ***Akin** ang libro.* (The book is mine.)
+   - ***Iyo** ba ito?* (Is this yours?)
 
 ## Inclusive vs. Exclusive "We"
 
@@ -301,38 +300,6 @@ Examples:
 - *Tumulong sila sa isa't isa.*  
   (They helped one another.)
 
-## Pronoun Usage Patterns
-
-### As Subject
-
-- *Ako ay estudyante.*  
-  (I am a student.)
-- *Sila ay naglalaro.*  
-  (They are playing.)
-
-### As Direct Object
-
-- *Kinain ko ang tinapay.*  
-  (I ate the bread.)
-- *Binili niya ang libro.*  
-  (He/She bought the book.)
-
-### As Possessor
-
-- *Bahay ko ito.*  
-  (This is my house.)
-- *Libro nila yan.*  
-  (That is their book.)
-
-### After Prepositions
-
-- *Para sa akin.*  
-  (For me.)
-- *Mula sa kanya.*  
-  (From him/her.)
-- *Kasama namin.*  
-  (With us.)
-
 ## Pronoun Omission
 
 Tagalog often omits pronouns when the context is clear:
@@ -376,15 +343,6 @@ Pronouns must match the number and person of their antecedent:
   (Juan ate. He was hungry.)
 - *Ang mga bata ay naglalaro. Sila ay masaya.*  
   (The children are playing. They are happy.)
-
-## Emphatic Pronouns
-
-Emphasis can be added through word order or particles:
-
-- *Ako ang kumain.* (instead of *Kumain ako.*)  
-  (I was the one who ate.) - emphasis on *ako*
-- *Siya mismo ang nagsabi.*  
-  (He/She himself/herself said it.)
 
 ## Regional Variations
 
