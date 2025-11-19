@@ -328,16 +328,16 @@ Examples:
 - *Ano ang gusto mo at kailan mo kailangan?*  
   (What do you want and when do you need it?)
 
-### Embedded Questions
+### Indirect and Embedded Questions
 
-Questions within statements:
+Questions reported in statements or embedded within other sentences:
 
-- *Hindi ko alam kung sino siya.*  
+- *Tinanong niya kung kumain ka na.*
+  (He/She asked if you already ate.)
+- *Hindi ko alam kung sino siya.*
   (I don't know who he/she is.)
-- *Tanungin mo kung saan siya nakatira.*  
-  (Ask him/her where he/she lives.)
-
-### Rhetorical Questions
+- *Tanungin mo kung saan siya nakatira.*
+  (Ask him/her where he/she lives.)### Rhetorical Questions
 
 Questions not expecting an answer:
 
@@ -425,17 +425,6 @@ Makes requests polite:
 
 See also: [Particles](./particles/index.md), [Culture: Etiquette](../culture/etiquette.md)
 
-## Indirect Questions
-
-Questions reported in statements:
-
-- *Tinanong niya kung kumain ka na.*  
-  (He/She asked if you already ate.)
-- *Hindi ko alam kung sino siya.*  
-  (I don't know who he/she is.)
-- *Sabi ko sa kanya kung saan ako nakatira.*  
-  (I told him/her where I live.)
-
 ## Alternative Questions
 
 Offering choices:
@@ -446,13 +435,6 @@ Offering choices:
   (Will you go or not?)
 - *Ngayon ba o bukas?*  
   (Today or tomorrow?)
-
-## Question Sequences
-
-Multiple related questions:
-
-- *Kumusta ka? Okay ka lang ba? May problema ba?*  
-  (How are you? Are you okay? Is there a problem?)
 
 ## Common Question Phrases
 
