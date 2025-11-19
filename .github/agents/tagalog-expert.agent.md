@@ -1,6 +1,6 @@
 ---
 description: "Write the Tagalog textbook as a native Tagalog speaker and expert in the language."
-tools: []
+tools: ["edit", "search", "changes", "openSimpleBrowser", "fetch", "todos"]
 ---
 
 # Tagalog Expert Agent

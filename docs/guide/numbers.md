@@ -10,95 +10,95 @@ Tagalog uses two number systems: native Tagalog numbers and Spanish-derived numb
 
 ## Cardinal Numbers
 
-### Spanish-Derived Numbers (1-20)
-
-Spanish-derived numbers are used in most everyday contexts, including telling time, counting money, and stating prices.
-
-| Number | Tagalog | English |
-| ------ | ------- | ------- |
-| 1 | *uno* | one |
-| 2 | *dos* | two |
-| 3 | *tres* | three |
-| 4 | *kuwatro* | four |
-| 5 | *singko* | five |
-| 6 | *sais* | six |
-| 7 | *siyete* | seven |
-| 8 | *otso* | eight |
-| 9 | *nuwebe* | nine |
-| 10 | *diyes* | ten |
-| 11 | *onse* | eleven |
-| 12 | *dose* | twelve |
-| 13 | *trese* | thirteen |
-| 14 | *katorse* | fourteen |
-| 15 | *kinse* | fifteen |
-| 16 | *disisais* | sixteen |
-| 17 | *disisyete* | seventeen |
-| 18 | *disiotso* | eighteen |
-| 19 | *disinuwebe* | nineteen |
-| 20 | *bente* | twenty |
-
-### Spanish-Derived Numbers (Tens and Hundreds)
-
-| Number | Tagalog | English |
-| ------ | ------- | ------- |
-| 30 | *trenta* | thirty |
-| 40 | *kuwarenta* | forty |
-| 50 | *singkuwenta* | fifty |
-| 60 | *sesenta* | sixty |
-| 70 | *setenta* | seventy |
-| 80 | *otsenta* | eighty |
-| 90 | *nobenta* | ninety |
-| 100 | *siyento* | one hundred |
-| 200 | *dos siyentos* | two hundred |
-| 1,000 | *mil* | one thousand |
-| 1,000,000 | *milyon* | one million |
-
-::: tip Number Formation
-Numbers between tens are formed by combining the tens digit with the ones digit: *bente uno* (21), *trenta dos* (32), *kuwarenta tres* (43).
-:::
-
 ### Native Tagalog Numbers (1-10)
 
-Native Tagalog numbers are used when counting objects with specific counters and in traditional or formal contexts.
+Native Tagalog numbers are the indigenous counting system used when counting objects with specific counters and in traditional or formal contexts.
 
-| Number | Tagalog | English |
-| ------ | ------- | ------- |
-| 1 | *isa* | one |
-| 2 | *dalawa* | two |
-| 3 | *tatlo* | three |
-| 4 | *apat* | four |
-| 5 | *lima* | five |
-| 6 | *anim* | six |
-| 7 | *pito* | seven |
-| 8 | *walo* | eight |
-| 9 | *siyam* | nine |
-| 10 | *sampu* | ten |
-
-::: info Usage Note
-Native numbers are typically used with the linker *na* or *-ng* when counting objects: *tatlong tao* (three people), *limang araw* (five days).
-:::
+| Number | Tagalog |
+| ------ | ------- |
+| 1 | *isa* |
+| 2 | *dalawa* |
+| 3 | *tatlo* |
+| 4 | *apat* |
+| 5 | *lima* |
+| 6 | *anim* |
+| 7 | *pito* |
+| 8 | *walo* |
+| 9 | *siyam* |
+| 10 | *sampu* |
 
 ### Native Tagalog Numbers (Higher Values)
 
-| Number | Tagalog | English |
-| ------ | ------- | ------- |
-| 20 | *dalawampu* | twenty |
-| 30 | *tatlumpu* | thirty |
-| 40 | *apatnapu* | forty |
-| 50 | *limampu* | fifty |
-| 60 | *animnapu* | sixty |
-| 70 | *pitumpu* | seventy |
-| 80 | *walumpu* | eighty |
-| 90 | *siyamnapu* | ninety |
-| 100 | *sandaan* | one hundred |
-| 200 | *dalawang daan* | two hundred |
-| 1,000 | *isang libo* / *sanlibo* | one thousand |
-| 2,000 | *dalawang libo* | two thousand |
+| Number | Tagalog |
+| ------ | ------- |
+| 20 | *dalawampu* |
+| 30 | *tatlumpu* |
+| 40 | *apatnapu* |
+| 50 | *limampu* |
+| 60 | *animnapu* |
+| 70 | *pitumpu* |
+| 80 | *walumpu* |
+| 90 | *siyamnapu* |
+| 100 | *sandaan* |
+| 200 | *dalawang daan* |
+| 1,000 | *isang libo* / *sanlibo* |
+| 2,000 | *dalawang libo* |
 
 For other numbers in the hundreds and thousands, combine a native number with *daan* (hundred) or *libo* (thousand):
 
 - *tatlong daan* (300)
 - *apat na libo* (4,000)
+
+### Spanish-Derived Numbers (1-20)
+
+Spanish-derived numbers are used for telling time and in some traditional contexts, though English numbers have largely replaced them for money, prices, and ages in modern conversation.
+
+| Number | Tagalog |
+| ------ | ------- |
+| 1 | *uno* |
+| 2 | *dos* |
+| 3 | *tres* |
+| 4 | *kwatro* |
+| 5 | *singko* |
+| 6 | *sais* |
+| 7 | *siyete* |
+| 8 | *otso* |
+| 9 | *nuebe* |
+| 10 | *diyes* |
+| 11 | *onse* |
+| 12 | *dose* |
+| 13 | *trese* |
+| 14 | *katorse* |
+| 15 | *kinse* |
+| 16 | *disisays* |
+| 17 | *disisyete* |
+| 18 | *diyesiotso* |
+| 19 | *diyesinuebe* |
+| 20 | *bente* |
+
+### Spanish-Derived Numbers (Tens and Hundreds)
+
+| Number | Tagalog |
+| ------ | ------- |
+| 30 | *trenta* |
+| 40 | *kwarenta* |
+| 50 | *singkwenta* |
+| 60 | *sesenta* |
+| 70 | *setenta* |
+| 80 | *otsenta* |
+| 90 | *nobenta* |
+| 100 | *siyento* |
+| 200 | *dos siyentos* / *dosientos* |
+| 1,000 | *mil* |
+| 1,000,000 | *milyon* |
+
+::: tip Number Formation
+Numbers between tens are formed by combining the tens digit with the ones digit: *bente uno* (21), *trenta dos* (32), *kwarenta tres* (43).
+:::
+
+::: info System Preference
+English numbers dominate in modern usage for money, prices, ages, and telephone numbers. Spanish-derived numbers are used for telling time. Native Tagalog numbers are preferred when counting objects with nouns, in formal contexts, and for days/weeks/months/years.
+:::
 
 ## Ordinal Numbers
 
@@ -108,21 +108,27 @@ Ordinal numbers indicate position or order in a sequence.
 
 The most common way to form ordinal numbers is by adding the prefix *ika-* to cardinal numbers.
 
-| Position | Tagalog | English |
-| -------- | ------- | ------- |
-| 1st | *una* | first |
-| 2nd | *ikalawa* / *pangalawa* | second |
-| 3rd | *ikatlo* / *pangatlo* | third |
-| 4th | *ikaapat* / *pang-apat* | fourth |
-| 5th | *ikalima* / *panlima* | fifth |
-| 6th | *ikaanim* / *pang-anim* | sixth |
-| 7th | *ikapito* / *pampito* | seventh |
-| 8th | *ikawalo* / *pangwalo* | eighth |
-| 9th | *ikasiyam* / *pansiyam* | ninth |
-| 10th | *ikasampu* / *pansampu* | tenth |
+| Position | Tagalog |
+| -------- | ------- |
+| 1st | *una* |
+| 2nd | *ikalawa* / *pangalawa* |
+| 3rd | *ikatlo* / *pangatlo* |
+| 4th | *ikaapat* / *pang-apat* |
+| 5th | *ikalima* / *panlima* |
+| 6th | *ikaanim* / *pang-anim* |
+| 7th | *ikapito* / *pampito* |
+| 8th | *ikawalo* / *pangwalo* |
+| 9th | *ikasiyam* / *pansiyam* |
+| 10th | *ikasampu* / *pansampu* |
 
-::: details Alternative Forms
-Ordinal numbers can also be formed using the prefix *pang-* (*pangalawa*, *pangatlo*). This form is common in conversation. The prefix sometimes changes to *pan-* or *pam-* to match the sound of the number it attaches to (e.g., *panlima*, *pampito*).
+::: details Alternative Forms with *pang-*
+Ordinal numbers can also be formed using the prefix *pang-*. This form is common in conversation. The prefix undergoes phonological changes based on the following sound:
+
+- Before vowels or *l*: *pang-* → *pang-* (*pang-apat*, *pang-anim*, *pangatlo*)
+- Before *p*, *b*, or *m*: *pang-* → *pam-* (*pampito*)
+- Before other consonants: *pang-* → *pan-* (*panlima*, *pansiyam*)
+
+Note that *una* (first) does not take the *ika-* or *pang-* prefix.
 :::
 
 Examples:
@@ -140,7 +146,12 @@ Native Tagalog numbers are typically used when counting specific objects, especi
 
 ### With Nouns
 
-When native numbers precede nouns, the linker *-ng* or *na* connects them:
+When native numbers precede nouns, they connect using a linker. The linker form depends on the final sound of the number:
+
+- Numbers ending in a vowel use *-ng*: *tatlo* + *-ng* → *tatlong libro* (three books)
+- Numbers ending in a consonant use *na*: *apat* + *na* → *apat na tao* (four people)
+
+Examples:
 
 - *tatlong libro*  
   (three books)
@@ -160,7 +171,7 @@ When native numbers precede nouns, the linker *-ng* or *na* connects them:
 
 ## Money and Prices
 
-Spanish-derived numbers are predominantly used for money and prices.
+In modern conversation, English numbers (one, two, three, etc.) are predominantly used for money and prices. Spanish-derived numbers are still understood and used by some speakers.
 
 Examples:
 
@@ -173,11 +184,11 @@ Examples:
 - *Dose pesos at singkuwenta sentimos.*  
   (Twelve pesos and fifty centavos.)
 
-::: info Casual Usage
+::: tip Casual Shorthand
 In casual conversation, prices with centavos are often stated without "pesos" and "sentimos." For example, *Dose pesos at singkuwenta sentimos* is commonly shortened to *dose singkuwenta*.
 :::
 
-::: tip Currency
+::: info Currency
 The Philippine peso is divided into 100 centavos (*sentimos* in Tagalog). Prices are commonly stated in pesos, with centavos used for exact amounts.
 :::
 
@@ -209,7 +220,7 @@ See also: [Time and Date](./time-date.md)
 
 ## Age
 
-Spanish numbers are commonly used when stating age:
+English numbers are commonly used when stating age in modern conversation, though Spanish numbers are also understood:
 
 - *Ilang taon ka na?*  
   (How old are you?)
@@ -234,6 +245,8 @@ Fractions use the word *bahagi* (part) or *kalahati* (half).
   (one third)
 - *ikalimang bahagi*  
   (one fifth)
+- *ikaanim na bahagi*  
+  (one sixth)
 
 Examples:
 
@@ -241,6 +254,8 @@ Examples:
   (Only half remains.)
 - *Tatlong kapat ng klase ay dumalo.*  
   (Three quarters of the class attended.)
+- *Ikatlong bahagi ng estudyante ay lumiban.*  
+  (One third of the students were absent.)
 
 ## Percentages
 
@@ -263,16 +278,24 @@ Basic mathematical terms:
 | Operation | Tagalog | Example |
 | --------- | ------- | ------- |
 | Addition | *dagdag* / *plus* | *Dos plus tres ay singko.* (Two plus three is five.) |
-| Subtraction | *bawas* / *minus* | *Diyes minus kuwatro ay sais.* (Ten minus four is six.) |
+| Subtraction | *bawas* / *minus* | *Diyes minus kwatro ay sais.* (Ten minus four is six.) |
 | Multiplication | *beses* / *multiply* | *Tatlo beses dalawa ay anim.* (Three times two is six.) |
 | Division | *hatiin* / *divide* | *Sampu hatiin sa dalawa ay lima.* (Ten divided by two is five.) |
 
+::: info Decimals
+Decimal points use *punto* or *tuldok*: *tres punto kinse* (3.15), *singko tuldok singko* (5.5).
+:::
+
 ## Telephone Numbers
 
-Telephone numbers are stated using Spanish numbers, read digit by digit:
+Telephone numbers are typically stated using English numbers in modern usage, read digit by digit. Spanish-derived numbers shown below are still understood:
 
-- *sero-nuwebe-uno-dos-tres-kuwatro-singko-sais-siyete-otso*  
-  (09-123-45678)
+- *sero-nuebe-uno-dos-tres-kwatro-singko-sais-siyete-otso*  
+  (0912-345-6789)
+
+::: tip Format
+Philippine mobile numbers follow the format 09XX-XXX-XXXX (11 digits total). Landlines vary by region but typically use area codes.
+:::
 
 ## Common Phrases with Numbers
 
@@ -288,6 +311,8 @@ Telephone numbers are stated using Spanish numbers, read digit by digit:
   (All / Everything.)
 - *Marami.*  
   (Many / A lot.)
+- *Kaunti.*  
+  (Few / A little.)
 
 ## Regional Variations
 
