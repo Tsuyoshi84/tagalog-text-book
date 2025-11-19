@@ -19,22 +19,22 @@ Spanish-derived numbers are used in most everyday contexts, including telling ti
 | 1 | *uno* | one |
 | 2 | *dos* | two |
 | 3 | *tres* | three |
-| 4 | *kuwatro* | four |
+| 4 | *kwatro* | four |
 | 5 | *singko* | five |
 | 6 | *sais* | six |
 | 7 | *siyete* | seven |
 | 8 | *otso* | eight |
-| 9 | *nuwebe* | nine |
+| 9 | *nuebe* | nine |
 | 10 | *diyes* | ten |
 | 11 | *onse* | eleven |
 | 12 | *dose* | twelve |
 | 13 | *trese* | thirteen |
 | 14 | *katorse* | fourteen |
 | 15 | *kinse* | fifteen |
-| 16 | *disisais* | sixteen |
+| 16 | *disisays* | sixteen |
 | 17 | *disisyete* | seventeen |
-| 18 | *disiotso* | eighteen |
-| 19 | *disinuwebe* | nineteen |
+| 18 | *diyesiotso* | eighteen |
+| 19 | *diyesinuebe* | nineteen |
 | 20 | *bente* | twenty |
 
 ### Spanish-Derived Numbers (Tens and Hundreds)
@@ -42,19 +42,23 @@ Spanish-derived numbers are used in most everyday contexts, including telling ti
 | Number | Tagalog | English |
 | ------ | ------- | ------- |
 | 30 | *trenta* | thirty |
-| 40 | *kuwarenta* | forty |
-| 50 | *singkuwenta* | fifty |
+| 40 | *kwarenta* | forty |
+| 50 | *singkwenta* | fifty |
 | 60 | *sesenta* | sixty |
 | 70 | *setenta* | seventy |
 | 80 | *otsenta* | eighty |
 | 90 | *nobenta* | ninety |
 | 100 | *siyento* | one hundred |
-| 200 | *dos siyentos* | two hundred |
+| 200 | *dalawang daan* | two hundred |
 | 1,000 | *mil* | one thousand |
 | 1,000,000 | *milyon* | one million |
 
 ::: tip Number Formation
-Numbers between tens are formed by combining the tens digit with the ones digit: *bente uno* (21), *trenta dos* (32), *kuwarenta tres* (43).
+Numbers between tens are formed by combining the tens digit with the ones digit: *bente uno* (21), *trenta dos* (32), *kwarenta tres* (43).
+:::
+
+::: info System Preference
+Spanish-derived numbers dominate in urban areas for everyday counting, money, time, and ages. Native numbers are preferred when counting objects with nouns, in formal contexts, and for days/weeks/months/years.
 :::
 
 ### Native Tagalog Numbers (1-10)
@@ -73,10 +77,6 @@ Native Tagalog numbers are used when counting objects with specific counters and
 | 8 | *walo* | eight |
 | 9 | *siyam* | nine |
 | 10 | *sampu* | ten |
-
-::: info Usage Note
-Native numbers are typically used with the linker *na* or *-ng* when counting objects: *tatlong tao* (three people), *limang araw* (five days).
-:::
 
 ### Native Tagalog Numbers (Higher Values)
 
@@ -121,8 +121,14 @@ The most common way to form ordinal numbers is by adding the prefix *ika-* to ca
 | 9th | *ikasiyam* / *pansiyam* | ninth |
 | 10th | *ikasampu* / *pansampu* | tenth |
 
-::: details Alternative Forms
-Ordinal numbers can also be formed using the prefix *pang-* (*pangalawa*, *pangatlo*). This form is common in conversation. The prefix sometimes changes to *pan-* or *pam-* to match the sound of the number it attaches to (e.g., *panlima*, *pampito*).
+::: details Alternative Forms with *pang-*
+Ordinal numbers can also be formed using the prefix *pang-*. This form is common in conversation. The prefix undergoes phonological changes based on the following sound:
+
+- Before vowels or *l*: *pang-* → *pang-* (*pang-apat*, *pang-anim*, *pangatlo*)
+- Before *p*, *b*, or *m*: *pang-* → *pam-* (*pampito*)
+- Before other consonants: *pang-* → *pan-* (*panlima*, *pansiyam*)
+
+Note that *una* (first) does not take the *ika-* or *pang-* prefix.
 :::
 
 Examples:
@@ -140,7 +146,12 @@ Native Tagalog numbers are typically used when counting specific objects, especi
 
 ### With Nouns
 
-When native numbers precede nouns, the linker *-ng* or *na* connects them:
+When native numbers precede nouns, they connect using a linker. The linker form depends on the final sound of the number:
+
+- Numbers ending in a vowel use *-ng*: *tatlo* + *-ng* → *tatlong libro* (three books)
+- Numbers ending in a consonant use *na*: *apat* + *na* → *apat na tao* (four people)
+
+Examples:
 
 - *tatlong libro*  
   (three books)
@@ -173,11 +184,11 @@ Examples:
 - *Dose pesos at singkuwenta sentimos.*  
   (Twelve pesos and fifty centavos.)
 
-::: info Casual Usage
+::: tip Casual Shorthand
 In casual conversation, prices with centavos are often stated without "pesos" and "sentimos." For example, *Dose pesos at singkuwenta sentimos* is commonly shortened to *dose singkuwenta*.
 :::
 
-::: tip Currency
+::: info Currency
 The Philippine peso is divided into 100 centavos (*sentimos* in Tagalog). Prices are commonly stated in pesos, with centavos used for exact amounts.
 :::
 
@@ -234,6 +245,8 @@ Fractions use the word *bahagi* (part) or *kalahati* (half).
   (one third)
 - *ikalimang bahagi*  
   (one fifth)
+- *ikaanim na bahagi*  
+  (one sixth)
 
 Examples:
 
@@ -241,6 +254,8 @@ Examples:
   (Only half remains.)
 - *Tatlong kapat ng klase ay dumalo.*  
   (Three quarters of the class attended.)
+- *Ikatlong bahagi ng estudyante ay lumiban.*  
+  (One third of the students were absent.)
 
 ## Percentages
 
@@ -263,16 +278,24 @@ Basic mathematical terms:
 | Operation | Tagalog | Example |
 | --------- | ------- | ------- |
 | Addition | *dagdag* / *plus* | *Dos plus tres ay singko.* (Two plus three is five.) |
-| Subtraction | *bawas* / *minus* | *Diyes minus kuwatro ay sais.* (Ten minus four is six.) |
+| Subtraction | *bawas* / *minus* | *Diyes minus kwatro ay sais.* (Ten minus four is six.) |
 | Multiplication | *beses* / *multiply* | *Tatlo beses dalawa ay anim.* (Three times two is six.) |
 | Division | *hatiin* / *divide* | *Sampu hatiin sa dalawa ay lima.* (Ten divided by two is five.) |
+
+::: info Decimals
+Decimal points use *punto* or *tuldok*: *tres punto kinse* (3.15), *singko tuldok singko* (5.5).
+:::
 
 ## Telephone Numbers
 
 Telephone numbers are stated using Spanish numbers, read digit by digit:
 
-- *sero-nuwebe-uno-dos-tres-kuwatro-singko-sais-siyete-otso*  
-  (09-123-45678)
+- *sero-nuebe-uno-dos-tres-kwatro-singko-sais-siyete-otso*  
+  (0912-345-6789)
+
+::: tip Format
+Philippine mobile numbers follow the format 09XX-XXX-XXXX (11 digits total). Landlines vary by region but typically use area codes.
+:::
 
 ## Common Phrases with Numbers
 
@@ -288,6 +311,8 @@ Telephone numbers are stated using Spanish numbers, read digit by digit:
   (All / Everything.)
 - *Marami.*  
   (Many / A lot.)
+- *Kaunti.*  
+  (Few / A little.)
 
 ## Regional Variations
 
