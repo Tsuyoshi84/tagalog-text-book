@@ -17,6 +17,7 @@ Verb conjugation in Tagalog refers to the systematic process of combining focus 
 Every Tagalog verb is built from a root word, which carries the basic meaning.
 
 Examples:
+
 - *kain* — eat
 - *sulat* — write
 - *luto* — cook
@@ -28,6 +29,7 @@ Examples:
 Determine which participant should be the topic (marked with *ang* or *si*).
 
 Focus options:
+
 - Actor focus — emphasizes the doer
 - Patient focus — emphasizes the object
 - Locative focus — emphasizes the place
@@ -333,32 +335,9 @@ Add the appropriate aspect markers through reduplication or affix changes.
 | Imperfective | *ipinambibili* | *Ipinambibili niya ang pera.* | The money is being used to buy by him/her. |
 | Contemplative | *ipambibili* | *Ipambibili niya ang pera.* | The money will be used to buy by him/her. |
 
-## Complete Conjugation Examples
+## Complete Conjugation List
 
-### Root: *kain* (eat) — All Focus Types
-
-| Focus | Perfective | Imperfective | Contemplative |
-|-------|------------|--------------|---------------|
-| Actor (*-um-*) | *kumain* | *kumakain* | *kakain* |
-| Patient (*-in*) | *kinain* | *kinakain* | *kakainin* |
-
-### Root: *luto* (cook) — All Focus Types
-
-| Focus | Perfective | Imperfective | Contemplative |
-|-------|------------|--------------|---------------|
-| Actor (*mag-*) | *nagluto* | *nagluluto* | *magluluto* |
-| Patient (*-in*) | *niluto* | *niluluto* | *lulutuin* |
-| Locative (*-an*) | *nilutuan* | *nilulutuan* | *lulutuan* |
-| Benefactive (*ipag-*) | *ipinagluto* | *ipinagluluto* | *ipagluluto* |
-
-### Root: *sulat* (write) — All Focus Types
-
-| Focus | Perfective | Imperfective | Contemplative |
-|-------|------------|--------------|---------------|
-| Actor (*-um-*) | *sumulat* | *sumusulat* | *susulat* |
-| Patient (*-in*) | *sinulat* | *sinusulat* | *susulatin* |
-| Locative (*-an*) | *sinulatan* | *sinusulatan* | *susulatan* |
-| Instrumental (*ipang-*) | *ipinangsulat* | *ipinangsusulat* | *ipangsusulat* |
+For a comprehensive list of common verbs conjugated in all focus types and aspects, please refer to the [Verb List](./verb-list.md).
 
 ## Special Cases and Irregularities
 
@@ -367,6 +346,7 @@ Add the appropriate aspect markers through reduplication or affix changes.
 For roots beginning with a vowel, *-um-* may cause phonological changes.
 
 Example: *alis* (leave)
+
 - Perfective: *umalis* (left)
 - Imperfective: *umaalis* (is leaving)
 - Contemplative: *aalis* (will leave)
@@ -376,6 +356,7 @@ Example: *alis* (leave)
 Glottal stops affect affix placement.
 
 Example: *punta* (go)
+
 - Actor focus perfective: *pumunta* (went)
 - Actor focus imperfective: *pumupunta* (is going)
 - Actor focus contemplative: *pupunta* (will go)
@@ -385,6 +366,7 @@ Example: *punta* (go)
 Roots with consonant-vowel-consonant structure may show variations.
 
 Example: *dating* (arrive)
+
 - Perfective: *dumating* (arrived)
 - Imperfective: *dumarating* (is arriving)
 - Contemplative: *darating* (will arrive — drops *du-*)
