@@ -26,7 +26,7 @@ The particles *eh* and *kasi* are quintessentially casual Tagalog discourse mark
   (Well, I don't know.)
 - *Eh, paano ba yan?*  
   (Well, how do we do that?)
-- *Saan ba siya? Eh, sa kusina yata.*  
+- *Nasaan ba siya? Eh, sa kusina yata.*  
   (Where is he/she? Uh, in the kitchen maybe.)
 
 ::: info Filler Function
@@ -59,8 +59,8 @@ The particles *eh* and *kasi* are quintessentially casual Tagalog discourse mark
 
 *Eh* softens statements or marks topic shifts:
 
-- *Ako? Eh mahirap yan.*  
-  (Me? Well, that's difficult.)
+- *Si Mark? Eh hindi naman pumupunta yun.*  
+  (Mark? Well, he doesn't go anyway.)
 - *Eh, tara na lang.*  
   (Well, let's just go.)
 
@@ -87,8 +87,8 @@ The primary function of *kasi* is to state reasons:
 
 *Kasi* softens explanations into excuses:
 
-- *Late ako kasi, eh, traffic.*  
-  (I'm late because, well, traffic.)
+- *Late ako kasi traffic eh.*  
+  (I'm late because it's traffic, you see.)
 - *Hindi ko ginawa kasi nakalimutan ko.*  
   (I didn't do it because I forgot.)
 - *Kasi naman, hindi mo sinabi sa akin.*  
@@ -131,14 +131,14 @@ Introduces hesitation or topic:
 
 #### Mid-Sentence (After Subject/Topic)
 
-Follows the topic before the predicate:
+Follows the topic before the predicate (often with a pause):
 
-- *Ako eh, gustong umuwi.*  
-  (Me, well, I want to go home.)
-- *Siya eh, hindi pumunta.*  
-  (Him/her, well, didn't go.)
-- *Yan eh, mahirap.*  
-  (That, well, is difficult.)
+- *Ako? Eh gusto kong umuwi.*  
+  (Me? Well, I want to go home.)
+- *Siya? Eh hindi pumunta.*  
+  (Him/her? Well, he/she didn't go.)
+- *Yan? Eh mahirap yan.*  
+  (That? Well, that is difficult.)
 
 #### End of Sentence
 
@@ -262,15 +262,6 @@ Adds emphasis to the reason:
 ::: info Sarcasm
 *Eh di* often carries sarcastic or dismissive tone, especially in *eh di wow* (roughly "well, isn't that special").
 :::
-
-### *Kasi* + *Pala*
-
-Explains a realization:
-
-- *Ah, kasi pala may lakad ka.*  
-  (Oh, so that's why you have plans.)
-- *Kasi pala ganun.*  
-  (So that's why it's like that.)
 
 ## Nuances and Tone
 
@@ -419,18 +410,21 @@ Understanding when to use casual versus formal reason markers:
 #### Usage Comparison
 
 **Casual conversation:**
+
 - ✅ *Hindi ako pumunta kasi may sakit ako.*  
   (I didn't go because I was sick.)
 - ❌ *Hindi ako pumunta sapagkat may sakit ako.*  
   (Too formal for casual speech)
 
 **Formal writing:**
+
 - ❌ *Ang ekonomiya ay bumaba kasi...*  
   (The economy declined because... - too casual)
 - ✅ *Ang ekonomiya ay bumaba dahil sa...*  
   (The economy declined because of... - appropriate)
 
 **News report:**
+
 - ❌ *Kinansela ang flight kasi malakas ang bagyo.*  
   (The flight was canceled because the typhoon is strong. - too casual)
 - ✅ *Kinansela ang flight dahil sa malakas na bagyo.*  
@@ -561,7 +555,7 @@ Focus on basic casual responses and simple reasons.
 
 - *Eh, hindi ko alam.*  
   (Well, I don't know.)
-- *Eh, saan ba siya?*  
+- *Eh, nasaan ba siya?*  
   (Well, where is he/she?)
 - *Eh, paano?*  
   (Well, how?)
@@ -710,13 +704,13 @@ Practice realistic casual exchanges:
 
 Key points about *eh* and *kasi*:
 
-- **Primary functions**: 
+- **Primary functions**:
   - *Eh* - casual filler, hesitation, emphasis ("well," "uh")
   - *Kasi* - gives reasons or excuses ("because")
 - **Formality**: Both are strictly casual/informal
 - **Position**: Both flexible; *eh* can appear anywhere, *kasi* typically begins or follows main clause
 - **Common combination**: *Eh kasi* - signature Filipino excuse pattern
-- **Formal alternatives**: 
+- **Formal alternatives**:
   - For *kasi*: use *dahil*, *sapagkat*, or *dahil sa*
   - For *eh*: omit entirely in formal contexts
 - **Cultural role**: Reflects Filipino indirectness, excuse culture, and casual intimacy
@@ -774,7 +768,7 @@ Create sarcastic responses using *eh di*:
 Convert these casual sentences to formal:
 
 1. Casual: *Hindi ako pupunta kasi may lakad ako.*  
-   Formal: *Hindi ako pupunta dahil may naka-iskedyul na akong gawain.*
+   Formal: *Hindi ako makakapunta dahil may mahalaga akong gagawin.*
 
 2. Casual: *Eh, hindi ko alam eh.*  
    Formal: *Hindi ko po alam.* (omit *eh*)
