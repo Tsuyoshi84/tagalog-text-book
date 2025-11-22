@@ -49,15 +49,15 @@ Examples:
 - *Kinain ko ang tinapay.*  
   (I ate the bread.) - completed aspect, object focus
 
-::: tip Verb Predicates
-In Tagalog, adjectives function as verbs when used as predicates: *Maganda ang bahay.* (The house is beautiful.)
+::: tip Adjectives as Predicates
+In Tagalog, adjectives often function as predicates, appearing at the beginning of the sentence like verbs: *Maganda ang bahay.* (The house is beautiful.)
 :::
 
 See also: [Verbs](./verbs/index.md)
 
 ## Nouns (*Pangngalan*)
 
-Nouns name people, places, things, or concepts. Tagalog nouns do not inflect for number or gender.
+Nouns name people, places, things, or concepts. Tagalog nouns generally do not inflect for number or gender.
 
 ### Types of Nouns
 
@@ -121,15 +121,15 @@ Pronouns replace nouns and can be personal, demonstrative, or interrogative.
 
 ### Personal Pronouns
 
-| Person | Topic Form | Non-Topic Form | English |
-| ------ | ---------- | -------------- | ------- |
-| 1st singular | *ako* | *ko*, *akin* | I, me, my |
-| 2nd singular | *ikaw*, *ka* | *mo*, *iyo* | you, your |
-| 3rd singular | *siya* | *niya*, *kanya* | he/she, his/her |
-| 1st plural (inclusive) | *tayo* | *natin*, *atin* | we (including listener) |
-| 1st plural (exclusive) | *kami* | *namin*, *amin* | we (excluding listener) |
-| 2nd plural | *kayo* | *ninyo*, *inyo* | you (plural) |
-| 3rd plural | *sila* | *nila*, *kanila* | they, their |
+| Person | Topic (*Ang*) | Genitive (*Ng*) | Oblique (*Sa*) | English |
+| ------ | ------------- | --------------- | -------------- | ------- |
+| 1st singular | *ako* | *ko* | *akin* | I, my, me |
+| 2nd singular | *ikaw*, *ka* | *mo* | *iyo* | you, your |
+| 3rd singular | *siya* | *niya* | *kanya* | he/she, his/her |
+| 1st plural (inclusive) | *tayo* | *natin* | *atin* | we (incl.) |
+| 1st plural (exclusive) | *kami* | *namin* | *amin* | we (excl.) |
+| 2nd plural | *kayo* | *ninyo* | *inyo* | you (plural) |
+| 3rd plural | *sila* | *nila* | *kanila* | they, their |
 
 Examples:
 
