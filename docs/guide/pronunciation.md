@@ -15,7 +15,7 @@ Tagalog has five vowel sounds, similar to Spanish. Each vowel maintains a consis
 | Vowel | Pronunciation | Example | English |
 | ----- | ------------- | ------- | ------- |
 | *a* | like "a" in "father" | *anak* | child |
-| *e* | like "e" in "bed" | *edi* | then |
+| *e* | like "e" in "bed" | *pera* | money |
 | *i* | like "ee" in "see" | *isa* | one |
 | *o* | like "o" in "go" | *oso* | bear |
 | *u* | like "oo" in "food" | *ulo* | head |
@@ -61,7 +61,7 @@ Most Tagalog consonants are pronounced similarly to English, with a few exceptio
 | --------- | ------------- | ------- | ------- |
 | *ng* | like "ng" in "sing" (one sound) | *ngayon* | now |
 | *r* | lightly rolled or flapped | *rosas* | rose |
-| *j* | becomes "h" in Spanish loanwords | *hapon* (from *japón*) | afternoon |
+| *j* | becomes "h" in Spanish loanwords | *Hapon* (from *Japón*) | Japan |
 | *f* | becomes "p" in Spanish loanwords | *pwersa* (from *fuerte*) | force |
 
 ::: info The *ng* Sound
@@ -85,10 +85,10 @@ Common diphthongs in Tagalog:
 
 | Diphthong | Pronunciation | Example | English |
 | --------- | ------------- | ------- | ------- |
-| *ay* | like "eye" | *bayani* | hero |
-| *aw* | like "ow" in "cow" | *tawag* | call |
-| *oy* | like "oy" in "boy" | *aboy* | shout |
-| *iw* | like "ew" in "few" | *sisiw* | chick |
+| *ay* | like "eye" | *bahay* | house |
+| *aw* | like "ow" in "cow" | *araw* | sun/day |
+| *oy* | like "oy" in "boy" | *baboy* | pig |
+| *iw* | like "ew" in "few" | *giliw* | love |
 
 ## Stress and Accent
 
@@ -98,20 +98,20 @@ Stress placement in Tagalog can change word meaning. Stress typically falls on t
 
 | Pattern | Example | English |
 | ------- | ------- | ------- |
-| Penultimate stress | *bahay* (ba-HAY) | house |
+| Penultimate stress | *bahay* (BA-hay) | house |
 | Final stress | *babá* (ba-BA) | chin |
-| Glottal stop | *batà* (ba-TA') | child |
+| Glottal stop | *batà* (BA-ta') | child |
 
 ::: warning Stress Matters
-Stress can distinguish words: *basa* (wet) vs. *basá* (read). Pay attention to stress markers in learning materials.
+Stress can distinguish words: *bukas* (tomorrow) vs. *bukás* (open). Pay attention to stress markers in learning materials.
 :::
 
 Examples showing stress differences:
 
-- *bása* (read) - stress on second syllable
-- *basa* (wet) - stress on first syllable  
-- *batà* (child) - stress on second syllable
-- *bata* (robe) - stress on first syllable
+- *bukas* (tomorrow) - stress on first syllable (*BU-kas*)
+- *bukás* (open) - stress on second syllable (*bu-KAS*)
+- *bása* (read) - stress on first syllable (*BA-sa*)
+- *basâ* (wet) - stress on second syllable with glottal stop (*ba-SA'*)
 
 ## Glottal Stop
 
@@ -119,9 +119,9 @@ The glottal stop (represented by *'* or unmarked) is a brief pause in airflow, s
 
 Examples:
 
-- *puno* (tree) vs. *punò* (full) - with glottal stop
+- *puno* (tree) vs. *punô* (full) - with glottal stop
 - *bata* (robe) vs. *batà* (child) - with glottal stop
-- *aso* (dog) vs. *asó* (smoke) - with glottal stop
+- *baga* (lungs) vs. *bagâ* (ember) - with glottal stop
 
 ::: details Glottal Stop in Writing
 In formal writing, the glottal stop may be indicated by a grave accent (`) over the vowel or by an apostrophe ('). In casual writing, it is often unmarked.
@@ -178,7 +178,7 @@ Questions without question words use rising intonation at the end to distinguish
 
 4. **Glottal stop**: Practice the brief pause
    - *batà* (child)
-   - *pusò* (salt)
+   - *punô* (full)
 
 ## Practice Words
 
@@ -204,8 +204,8 @@ Questions without question words use rising intonation at the end to distinguish
 
 ### Words with Stress Differences
 
-- *bása* (read) vs. *basa* (wet)
-- *lalá* (worse) vs. *lala* (Adam's apple)
+- *bukas* (tomorrow) vs. *bukás* (open)
+- *bása* (read) vs. *basâ* (wet)
 - *batà* (child) vs. *bata* (robe)
 
 ## Spanish Influence
@@ -223,6 +223,7 @@ Many Tagalog words come from Spanish and often retain Spanish pronunciation patt
 
 ::: warning Sound Changes
 Tagalog does not have native "j" or "f" sounds. In Spanish loanwords:
+
 - "j" becomes "h": *jabón* → *habon* (soap)
 - "f" becomes "p": *fuerte* → *pwersa* (force)
 :::
