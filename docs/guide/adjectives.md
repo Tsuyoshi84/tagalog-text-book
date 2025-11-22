@@ -53,14 +53,17 @@ When adjectives modify nouns, they are connected with linkers (*na* or *-ng*).
 
 ### Adjective + Linker + Noun
 
-| After Vowel (attach *-ng*) | After Consonant (separate *na*) |
-| -------------------------- | ------------------------------- |
+| Ends in Vowel or *n* (use *-ng*) | Ends in Other Consonant (use *na*) |
+| -------------------------------- | ---------------------------------- |
 | *maganda* + *-ng* → *magandang bahay* | *maliit na bata* |
 | *malaki* + *-ng* → *malaking isda* | *masarap na pagkain* |
-| *bayan* → drop final *n* + *-ng* → *bayang tahimik* | *mabilis na kotse* |
+| *bayan* (drop *n*) + *-ng* → *bayang tahimik* | *mabilis na kotse* |
 
 ::: tip Linker Rules
-Use *-ng* when the preceding word ends in a vowel; attach directly (e.g., *maganda* → *magandang bahay*). Use *na* as a separate word when the preceding word ends in a consonant other than *n* (e.g., *maliit na bata*). If the word ends in *n*, drop *n* before adding *-ng* (e.g., *bayan* → *bayang tahimik*; *daan* → *daang mahaba*).
+
+- **Ends in Vowel:** Attach *-ng* to the word (e.g., *maganda* → *magandang*).
+- **Ends in *n*:** Replace *n* with *-ng* (e.g., *bayan* → *bayang*).
+- **Ends in Consonant:** Use *na* as a separate word (e.g., *maliit na*).
 :::
 
 Examples:
@@ -212,7 +215,7 @@ Examples:
 
 Use *kasing-* or *sing-* prefix:
 
-- *Kasing-ganda niya si Ana.*  
+- *Kasingganda niya si Ana.*  
   (Ana is as beautiful as her.)
 - *Singbilis ng hangin ang kotse.*  
   (The car is as fast as the wind.)
@@ -278,29 +281,30 @@ Reduplication is a key feature in Tagalog grammar that can indicate plurality, i
 
 ### Adjectives and Plural Nouns
 
-In Tagalog, adjectives do not typically change to agree with plural nouns. Plurality is indicated by the marker **mga** before the noun. The adjective's form usually remains the same.
+In Tagalog, adjectives can be pluralized to agree with plural nouns, though this is often optional in casual conversation. Plurality is primarily indicated by the marker **mga** before the noun.
 
 - *ang magandang bulaklak* (the beautiful flower)
-- *ang **mga** magandang bulaklak* (the beautiful flowers)
+- *ang **mga** magandang bulaklak* (the beautiful flowers) - *Casual*
+- *ang **mga** magagandang bulaklak* (the beautiful flowers) - *Formal/Plural Agreement*
 
-However, it is common to use a reduplicated form of the adjective for emphasis or stylistic variation when describing plural nouns. This is formed by repeating the first syllable of the adjective's root word.
+To pluralize an adjective, repeat the first syllable of the root word. This form is preferred in formal writing and speech.
 
-| Singular / Standard | Root | Emphatic Plural | English |
-| ------------------- | ---- | --------------- | ------- |
+| Singular | Root | Plural Form | English |
+| -------- | ---- | ----------- | ------- |
 | *maganda* | *ganda* | *magaganda* | beautiful |
 | *malaki* | *laki* | *malalaki* | big |
 | *mabait* | *bait* | *mababait* | kind |
 | *matalino*| *talino*| *matatalino*| intelligent |
 
-Examples of optional reduplication:
+Examples of plural adjectives:
 
 - *Magaganda ang mga bulaklak.*  
-  (The flowers are beautiful.) - *Emphatic*
+  (The flowers are beautiful.)
 - *Malalaki ang mga bahay dito.*  
-  (The houses here are big.) - *Emphatic*
+  (The houses here are big.)
 
-::: tip Core Rule
-Remember, using the singular form of the adjective with a plural noun (e.g., *maganda ang mga bulaklak*) is grammatically correct. The reduplicated form adds emphasis or can sound more natural to native speakers in certain contexts, but it is not a mandatory agreement rule.
+::: tip Usage Note
+Using the singular adjective with a plural noun (e.g., *maganda ang mga bulaklak*) is acceptable in casual speech. However, using the plural adjective form (e.g., *magaganda ang mga bulaklak*) is standard in formal contexts and often sounds more natural to native speakers.
 :::
 
 ### Intensification by Reduplication
@@ -356,7 +360,7 @@ Some adjectives use *di-* prefix for negation:
 | -------- | -------- | ------- |
 | *maganda* | *pangit* | beautiful / ugly |
 | *malaki* | *maliit* | big / small |
-| *mataas* | *mababa* | tall-high / short-low |
+| *mataas* | *mababa* | tall/high / short/low |
 | *mabilis* | *mabagal* | fast / slow |
 | *masarap* | *mapait* | delicious / bitter |
 | *mabait* | *masama* | kind / bad |
