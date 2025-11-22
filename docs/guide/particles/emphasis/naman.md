@@ -9,7 +9,7 @@ outline: [2, 3]
 The particle *naman* is one of the most frequently used and nuanced particles in Tagalog. It serves multiple functions including softening tone, expressing contrast, adding friendliness, and conveying mild complaints. While challenging for learners due to its subtlety, mastering *naman* is essential for natural, native-like Tagalog conversation.
 
 ::: tip Quick Summary
-*Naman* primarily softens statements and requests, adds contrast ("though," "but," "on the other hand"), expresses friendliness, or conveys mild complaints. It makes speech less direct and more considerate, aligning with Filipino indirect communication style.
+*Naman* primarily softens statements and requests, adds contrast ("though," "but," "on the other hand"), expresses friendliness, or conveys mild complaints. It makes speech less direct and more considerate, aligning with the Filipino indirect communication style.
 :::
 
 ## Core Meanings
@@ -268,7 +268,7 @@ While both add emphasis, they serve different functions:
 
 Learners sometimes add *naman* to every sentence:
 
-- ❌ *Kumain naman ako ng naman kanin naman.*
+- ❌ *Kumain naman ako ng kanin naman.*
 - ✅ *Kumain naman ako ng kanin.*
 - 💡 Use *naman* purposefully for specific effects, not in every clause.
 
@@ -337,6 +337,7 @@ Both can soften, but different functions:
 | Tone | Warm, reciprocal | Downplaying, restricting |
 
 **Combined**: *Lang naman* is extremely common for gentle softening:
+
 - *Tanong lang naman.* (It's just a question though. - very soft, non-threatening)
 
 ### *Naman* vs. *Din/Rin*
@@ -569,7 +570,7 @@ Practice saying these with different intonations:
   (That's really difficult though. - acknowledging)
 - *Alam ko naman eh.*  
   (I know though. - showing understanding)
-- *Naiintindihan kita naman.*  
+- *Naiintindihan naman kita.*  
   (I understand you though.)
 
 ## Summary
