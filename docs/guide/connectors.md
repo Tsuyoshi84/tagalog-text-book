@@ -99,6 +99,7 @@ Most formal, used in writing:
   (Because he/she had no money, he/she couldn't buy.)
 
 ::: tip Formality Levels
+
 - Casual: *kasi*
 - Standard: *dahil*
 - Formal: *sapagkat*
@@ -134,11 +135,12 @@ Introduces past time clauses:
 
 - *Dumating siya nang umalis ako.*  
   (He/She arrived when I left.)
-- *Kumain ako nang makauwi.*  
-  (I ate when I got home.)
+- *Nang makita ko siya, natuwa ako.*  
+  (When I saw him/her, I was happy.)
 
 ::: warning *Nang* vs. *Ng*
 Don't confuse *nang* (when/how) with *ng* (case marker). They're pronounced the same but have different functions.
+
 - *nang* = when (time) or how (manner)
 - *ng* = case marker for non-topic nouns
 :::
@@ -183,8 +185,8 @@ Duration limit:
 
 Refers to specific past time:
 
-- *Noong bata pa ako, naglalaro ako ng laruan.*  
-  (When I was still young, I played with toys.)
+- *Noong bata pa ako, mahilig akong maglaro.*  
+  (When I was still young, I loved to play.)
 - *Noong 1990, ipinanganak ako.*  
   (In 1990, I was born.)
 
@@ -245,7 +247,7 @@ Similarity or appearance:
 
 - *Parang uulan.*  
   (It looks like it will rain.)
-- *Kumanta siya parang propesyonal.*  
+- *Kumanta siya na parang propesyonal.*  
   (He/She sang like a professional.)
 
 ## Correlative Conjunctions
@@ -361,7 +363,6 @@ Particles that structure conversation.
 
 - *Talaga* (Really)
 - *Siyempre* (Of course)
-- *Syempre naman* (Of course)
 
 ### Hesitation
 
@@ -443,9 +444,9 @@ Some regions prefer certain connectors over others. For example, *kasi* is unive
 
 ### Confusing *Nang* and *Ng*
 
-- Incorrect: *Kumain ako ng makauwi.* (incorrect - *ng* is a case marker, not a temporal conjunction)
-- Correct: *Kumain ako nang makauwi.* (when I got home)
-- Also correct: *Kumain ako nang mabilis.* (ate quickly - manner)
+- Incorrect: *Tumakbo siya ng mabilis.* (incorrect - *ng* is a case marker)
+- Correct: *Tumakbo siya nang mabilis.* (He/She ran fast - manner)
+- Also correct: *Nang dumating siya, umalis ako.* (When he/she arrived, I left - temporal)
 
 ### Overusing *Kasi*
 
