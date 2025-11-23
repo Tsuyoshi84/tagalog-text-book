@@ -381,8 +381,8 @@ The accent on the final syllable (*-án*) signals a shift in meaning to locative
 | Aspect | Conjugation | English |
 |--------|-------------|---------|
 | Perfective | *nakarinig* | heard |
-| Imperfective | *nakaririnig* | is hearing, can hear |
-| Contemplative | *makaririnig* | will hear |
+| Imperfective | *nakakarinig* | is hearing, can hear |
+| Contemplative | *makakarinig* | will hear |
 
 ### amoy (smell)
 
