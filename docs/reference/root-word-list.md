@@ -69,7 +69,7 @@ This reference lists common Tagalog root words organized by category. Root words
 | *intindi* | understand | *maintindihan* | *Naintindihan ko ang leksyon.* | I understood the lesson. |
 | *alam* | know | *malaman* | *Nalaman niya ang totoo.* | He/She found out the truth. |
 | *isip* | think | *mag-isip* | *Nag-isip siya ng solusyon.* | He/She thought of a solution. |
-| *tanda* | remember | *magtanda* | *Nagtanda ako ng pangalan niya.* | I remembered his/her name. |
+| *tanda* | remember | *matandaan* | *Natandaan ko ang pangalan niya.* | I remembered his/her name. |
 | *limot* | forget | *makalimot* | *Nakalimot ako ng password.* | I forgot the password. |
 | *turó* | teach | *magturo* | *Nagturo siya ng matematika.* | He/She taught mathematics. |
 
@@ -81,7 +81,7 @@ This reference lists common Tagalog root words organized by category. Root words
 | *tinda* | sell | *magtinda* | *Nagtinda siya ng prutas.* | He/She sold fruits. |
 | *bigay* | give | *magbigay* | *Nagbigay siya ng regalo.* | He/She gave a gift. |
 | *kuha* | get/take | *kumuha* | *Kumuha ako ng libro.* | I took a book. |
-| *abot* | hand/reach | *umbot* | *Umabot siya ng plato.* | He/She handed the plate. |
+| *abot* | hand/reach | *mag-abot* | *Nag-abot siya ng plato.* | He/She handed the plate. |
 | *tanggáp* | receive | *tumanggap* | *Tumanggap kami ng liham.* | We received a letter. |
 | *hánap* | look for | *maghanap* | *Naghanap ako ng susi.* | I looked for the key. |
 | *tawad* | bargain | *tumawad* | *Tumawad siya ng presyo.* | He/She bargained on the price. |
@@ -143,7 +143,7 @@ This reference lists common Tagalog root words organized by category. Root words
 | *berde* | green | *berde* | *Berde ang dahon.* | The leaf is green. |
 | *kulay-kahel* | orange | *kahel* | *Kahel ang prutas.* | The fruit is orange. |
 | *lila* | purple | *lila* | *Lila ang bulaklak.* | The flower is purple. |
-| *kulay-kape* | brown | *kayumangging* | *Kayumangging ang lupa.* | The soil is brown. |
+| *kulay-kape* | brown | *kayumanggi* | *Kayumanggi ang lupa.* | The soil is brown. |
 
 ### Temperature and Texture
 
@@ -164,13 +164,13 @@ This reference lists common Tagalog root words organized by category. Root words
 |------|---------|------------------|---------|-------------|
 | *saya* | happiness | *masaya* | *Masaya ang bata.* | The child is happy. |
 | *lungkot* | sadness | *malungkot* | *Malungkot ang pelikula.* | The movie is sad. |
-| *galit* | anger | *magalit* | *Magalit ang ama.* | The father is angry. |
-| *takot* | fear | *matakot* | *Matakot siya sa dilim.* | He/She is afraid of the dark. |
-| *gulat* | surprise | *magulat* | *Nagulat ako.* | I was surprised. |
-| *tuwa* | joy | *matuwa* | *Natuwa siya sa regalo.* | He/She was delighted with the gift. |
-| *inis* | annoyance | *mainís* | *Mainís ako sa ingay.* | I am annoyed by the noise. |
-| *hiya* | shame | *mahiya* | *Mahiya ka naman.* | Have some shame. |
-| *tampo* | sulk | *magtampo* | *Nagtampo siya.* | He/She sulked. |
+| *galit* | anger | *galit* | *Galit ang ama.* | The father is angry. |
+| *takot* | fear | *takot* | *Takot siya sa dilim.* | He/She is afraid of the dark. |
+| *gulat* | surprise | *gulat* | *Gulat na gulat ako.* | I was very surprised. |
+| *tuwa* | joy | *tuwang-tuwa* | *Tuwang-tuwa siya sa regalo.* | He/She was delighted with the gift. |
+| *inis* | annoyance | *inis* | *Inis ako sa ingay.* | I am annoyed by the noise. |
+| *hiya* | shame | *mahiyain* | *Mahiyain siya.* | He/She is shy. |
+| *tampo* | sulk | *matampuhin* | *Matampuhin siya.* | He/She is sulky. |
 
 ### Personality Traits
 
@@ -179,7 +179,7 @@ This reference lists common Tagalog root words organized by category. Root words
 | *bait* | kindness | *mabait* | *Mabait ang guro.* | The teacher is kind. |
 | *sama* | bad | *masama* | *Masama ang loob niya.* | His/Her feelings are bad. |
 | *sipag* | diligence | *masipag* | *Masipag ang estudyante.* | The student is diligent. |
-| *tamad* | lazy | *matamad* | *Matamad ang aso.* | The dog is lazy. |
+| *tamad* | lazy | *tamad* | *Tamad ang aso.* | The dog is lazy. |
 | *talino* | intelligence | *matalino* | *Matalino ang bata.* | The child is intelligent. |
 | *galing* | skill | *magaling* | *Magaling siyang kumanta.* | He/She is good at singing. |
 | *tiyaga* | perseverance | *matiyaga* | *Matiyaga ang magsasaka.* | The farmer is persevering. |
@@ -229,7 +229,7 @@ This reference lists common Tagalog root words organized by category. Root words
 | *mesa* | table | *Bagong mesa.* | New table. |
 | *libro* | book | *Makapal ang libro.* | The book is thick. |
 | *papel* | paper | *Puti ang papel.* | The paper is white. |
-| *lapis* | pencil | *Haba ng lapis.* | Long pencil. |
+| *lapis* | pencil | *Mahaba ang lapis.* | The pencil is long. |
 | *plato* | plate | *Malinis ang plato.* | The plate is clean. |
 | *baso* | glass | *Basag ang baso.* | The glass is broken. |
 
@@ -241,8 +241,8 @@ This reference lists common Tagalog root words organized by category. Root words
 |------|---------|---------|-------------|
 | *araw* | day/sun | *Mainit ang araw.* | The sun is hot. |
 | *gabi* | night | *Madilim ang gabi.* | The night is dark. |
-| *umaga* | morning | *Maaga ang umaga.* | The morning is early. |
-| *tanghali* | noon | *Init sa tanghali.* | It's hot at noon. |
+| *umaga* | morning | *Maganda ang umaga.* | The morning is beautiful. |
+| *tanghali* | noon | *Mainit sa tanghali.* | It's hot at noon. |
 | *hapon* | afternoon | *Malamig ang hapon.* | The afternoon is cool. |
 | *taon* | year | *Bagong taon.* | New year. |
 | *buwan* | month/moon | *Maliwanag ang buwan.* | The moon is bright. |
@@ -259,7 +259,7 @@ This reference lists common Tagalog root words organized by category. Root words
 | *saya* | happiness | *Puno ng saya.* | Full of happiness. |
 | *takot* | fear | *Walang takot.* | Without fear. |
 | *asa* | hope | *May pag-asa pa.* | There is still hope. |
-| *damdam* | feeling | *Ano ang damdam mo?* | What do you feel? |
+| *damdam* | feeling | *Ano ang pakiramdam mo?* | How do you feel? |
 | *hiya* | shame | *Walang hiya.* | Shameless. |
 
 ## See Also
