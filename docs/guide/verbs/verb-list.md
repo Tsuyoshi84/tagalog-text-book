@@ -94,9 +94,9 @@ This reference list provides common Tagalog verbs with their conjugations across
 
 | Aspect | Conjugation | English |
 |--------|-------------|---------|
-| Perfective | *ipinagbili* | was bought for |
-| Imperfective | *ipinagbibili* | is being bought for |
-| Contemplative | *ipagbibili* | will be bought for |
+| Perfective | *ibinili* | was bought for |
+| Imperfective | *ibinibili* | is being bought for |
+| Contemplative | *ibibili* | will be bought for |
 
 ### luto (cook)
 
@@ -362,9 +362,9 @@ The accent on the final syllable (*-án*) signals a shift in meaning to locative
 
 | Aspect | Conjugation | English |
 |--------|-------------|---------|
-| Perfective | *nakita* | saw |
-| Imperfective | *nakikita* | is seeing, can see |
-| Contemplative | *makikita* | will see |
+| Perfective | *nakakita* | saw |
+| Imperfective | *nakakakita* | is seeing, can see |
+| Contemplative | *makakakita* | will see |
 
 #### Patient
 
@@ -380,9 +380,9 @@ The accent on the final syllable (*-án*) signals a shift in meaning to locative
 
 | Aspect | Conjugation | English |
 |--------|-------------|---------|
-| Perfective | *narinig* | heard |
-| Imperfective | *naririnig* | is hearing, can hear |
-| Contemplative | *maririnig* | will hear |
+| Perfective | *nakarinig* | heard |
+| Imperfective | *nakaririnig* | is hearing, can hear |
+| Contemplative | *makaririnig* | will hear |
 
 ### amoy (smell)
 
@@ -564,9 +564,9 @@ The accent on the final syllable (*-án*) signals a shift in meaning to locative
 
 | Aspect | Conjugation | English |
 |--------|-------------|---------|
-| Perfective | *nasaya* / *natuwa* | was happy, became happy |
-| Imperfective | *nasasaya* / *natutuwa* | is happy |
-| Contemplative | *masasaya* / *matutuwa* | will be happy |
+| Perfective | *sumaya* / *natuwa* | was happy, became happy |
+| Imperfective | *sumasaya* / *natutuwa* | is happy |
+| Contemplative | *sasaya* / *matutuwa* | will be happy |
 
 ### galit (be angry)
 
