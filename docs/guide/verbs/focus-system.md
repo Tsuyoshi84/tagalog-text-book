@@ -103,7 +103,6 @@ Example (Patient Focus highlighting the object moved):
 | Locative | -an, pag- -an | luto | *lutuan*, *nilutuan* | Location highlighted |
 | Benefactive | ipag-, pag- -an, i- | luto | *ipagluto* | Beneficiary highlighted |
 | Instrumental | ipang-, pang- | sulat | *ipangsulat* | Instrument highlighted |
-| Goal | i-, -an, ipag- | dala | *dadalhan* | Destination highlighted |
 
 ## Actor vs Patient Focus Comparison
 
@@ -121,10 +120,9 @@ Example (Patient Focus highlighting the object moved):
 |-------|------|---------|---------|
 | Actor | *sumulat* | *Sumulat si Pedro ng liham.* | Pedro wrote a letter. |
 | Patient | *sinulat* | *Sinulat ni Pedro ang liham.* | The letter was written by Pedro. |
-| Benefactive | *isinulat* | *Isinulat ni Pedro ang liham para sa kaibigan.* | The letter was written by Pedro for a friend. |
+| Benefactive | *ipinagsulat* | *Ipinagsulat ni Pedro ng liham ang kaibigan.* | Pedro wrote a letter for the friend. |
 | Instrumental | *ipinangsulat* | *Ipinangsulat ni Pedro ang lapis.* | The pencil was what Pedro used to write. |
 | Locative | *sinulatan* | *Sinulatan ni Pedro ang pisara.* | The board was written on by Pedro. |
-| Goal | *isusulat* | *Isusulat ni Pedro ang liham sa sobre.* | The letter will be written onto the envelope by Pedro. |
 
 ## Focus Selection Guidelines
 
@@ -148,7 +146,7 @@ Identify focus type:
 
 - *Binili ni Carla ang aklat.*  (The book was bought by Carla.)
 - *Bumili si Carla ng aklat.*  (Carla bought a book.)
-- *Bibilhan ni Carla ang kapatid ng aklat.*  (The sibling will be bought a book by Carla.)
+- *Ibibili ni Carla ng aklat ang kapatid.*  (Carla will buy a book for the sibling.)
 - *Binilhan ni Carla ang tindahan ng aklat.*  (The store was where Carla bought a book.)
 - *Ipinambili ni Carla ang pera ng aklat.*  (The money was what Carla used to buy a book.)
 
