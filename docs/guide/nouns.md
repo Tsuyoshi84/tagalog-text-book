@@ -212,10 +212,10 @@ Examples:
 
 - *Akin ang libro.*  
   (The book is mine.)
-- *Bahay niya ito.*  
-  (This is his/her house.)
-- *Sasakyan namin yan.*  
-  (That is our vehicle.)
+- *Kanya ang bahay na ito.*  
+  (This house is his/hers.)
+- *Amin ang sasakyan na yan.*  
+  (That vehicle is ours.)
 
 ### Using Attributive Possessive Pronouns
 
@@ -264,7 +264,7 @@ Verbs and adjectives can be nominalized (turned into nouns) through affixation.
 Creates abstract nouns from verb roots:
 
 - *kain* (eat) → *pagkain* (food)
-- *luto* (cook) → *pagluto* (cooking)
+- *luto* (cook) → *pagluluto* (cooking)
 - *ibig* (want) → *pag-ibig* (love)
 
 ### Using *Ka-* -*an* Circumfix
