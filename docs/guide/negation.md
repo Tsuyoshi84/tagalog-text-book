@@ -45,7 +45,7 @@ Use *Hindi po* when speaking to elders or in formal situations: *Hindi po ako ku
 
 ### *Wala* / *Walang* (None/Nothing/Not Exist)
 
-*Wala* expresses absence, non-existence, or lack of something. It's the negative of *may* (there is/are, have).
+*Wala* expresses absence, non-existence, or lack of something. It is the negative counterpart of *may* (there is/are, have).
 
 #### Expressing Non-Existence
 
@@ -72,7 +72,7 @@ Use *Hindi po* when speaking to elders or in formal situations: *Hindi po ako ku
 
 ::: info *Wala* vs. *Walang*
 Use *walang* before the noun being negated: *Walang tubig* (No water).
-Use *wala* when followed by a pronoun or when standing alone: *Wala ako.* (I don't have any.) / *Wala siyang pera.* (He/She doesn't have money.)
+Use *wala* when it is followed by a pronoun or when it stands alone: *Wala ako.* (I don't have any.) / *Wala siyang pera.* (He/She doesn't have money.)
 :::
 
 ## *Hindi* vs. *Wala*
@@ -83,7 +83,7 @@ Understanding the distinction is crucial:
 | ----------- | ---------- |
 | Negate actions | Express absence/non-existence |
 | Negate qualities | Negate possession |
-| Negate statements | With nouns (something doesn't exist) |
+| Negate statements | With nouns (something does not exist) |
 
 ### Comparison Examples
 
@@ -111,7 +111,7 @@ Indicates cessation:
 
 ### *Hindi pa* (Not Yet)
 
-Indicates something hasn't happened but is expected:
+Indicates that something has not happened but is expected:
 
 - *Hindi pa ako kumain.*  
   (I haven't eaten yet.)
@@ -140,16 +140,16 @@ Indicates something hasn't happened but is expected:
 
 Tagalog allows double negatives that reinforce negation rather than creating a positive.
 
-### *Walang sino man* (No One)
+### *Walang sinuman* (No One)
 
-- *Walang sino man ang nakakaalam.*  
+- *Walang sinuman ang nakakaalam.*  
   (No one knows.)
-- *Walang sino mang dumating.*  
+- *Walang sinumang dumating.*  
   (No one came.)
 
-### *Walang ano man* (Nothing)
+### *Walang anuman* (Nothing)
 
-- *Walang ano man sa loob.*  
+- *Walang anuman sa loob.*  
   (There is nothing inside.)
 
 ### *Hindi... Kahit* (Not... Even)
@@ -236,7 +236,7 @@ Use *huwag* for commands (don't), not *hindi*:
 Negative questions often expect confirmation:
 
 - *Hindi ba siya ang guro?*  
-  (Isn't he/she the teacher?) - expecting "yes"
+  (Isn't he/she the teacher?) - expecting a "yes"
 
 ## Emphasis in Negation
 
@@ -339,7 +339,7 @@ Examples:
 - *Hindi ka ba pupunta? - Pupunta ako.*  
   (Aren't you going? - I am going.)
 
-Use affirmative response to contradict negative question.
+Use an affirmative response to contradict a negative question.
 
 ## Negative Conjunctions
 
@@ -450,7 +450,7 @@ Tagalog negation is characterized by:
 1. *Hindi* for actions, qualities, and general statements
 2. *Wala* for existence, absence, and possession
 3. *Huwag* for negative commands
-4. Particles *pa* (yet) and *na* (anymore/already) modify negation
+4. The particles *pa* (yet) and *na* (anymore/already) modify negation
 5. Double negatives strengthen rather than cancel negation
 6. Negative questions often expect confirmation
 
@@ -462,6 +462,6 @@ Key patterns:
 - Not yet: *Hindi pa* / *Wala pa*
 - Not anymore: *Hindi na* / *Wala na*
 
-Mastering negation enables clear expression of denial, absence, and prohibition in Tagalog.
+Mastering negation enables the clear expression of denial, absence, and prohibition in Tagalog.
 
 See also: [Particles](./particles/index.md), [Sentence Structure](./sentence-structure.md), [Questions](./questions.md), [Connectors](./connectors.md)
