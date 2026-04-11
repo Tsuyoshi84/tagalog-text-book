@@ -8,6 +8,10 @@ outline: [2, 3]
 
 ## Introduction
 
+::: info Full lesson
+For a step-by-step introduction with extended explanation and examples, see [Tagalog pronunciation](../guide/pronunciation.md). This reference page emphasizes tables and quick review.
+:::
+
 Tagalog pronunciation is relatively straightforward for English speakers. The language uses the Latin alphabet with consistent sound-to-letter correspondence. This guide covers vowel sounds, consonants, stress patterns, and common pronunciation challenges.
 
 ## Vowels

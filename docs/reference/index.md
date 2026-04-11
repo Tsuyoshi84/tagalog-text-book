@@ -48,6 +48,7 @@ The reference section serves as a companion to the main guide. When reading deta
 
 ## Related Sections
 
+- [Learning Path](../learning-path.md) – Suggested routes by level and goal
 - [Guide](../guide/index.md) – Detailed grammar explanations
 - [Verbs](../guide/verbs/index.md) – Complete verb system coverage
 - [Phrases](../phrases/index.md) – Practical conversation phrases
