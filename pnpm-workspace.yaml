@@ -5,6 +5,6 @@
 # minimumReleaseAge: 1440
 # optimisticRepeatInstall: true
 # resolutionMode: "lowest-direct"
-# trustPolicy: "no-downgrade"
-# trustPolicyIgnoreAfter: 10080
+trustPolicy: "no-downgrade"
+trustPolicyIgnoreAfter: 10080
 # verifyDepsBeforeRun: "install"
