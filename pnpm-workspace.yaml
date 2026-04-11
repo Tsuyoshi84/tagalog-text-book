@@ -1,6 +1,6 @@
 blockExoticSubdeps: true
 enableGlobalVirtualStore: true
-# enablePrePostScripts: false
+enablePrePostScripts: false
 ignorePatchFailures: false
 minimumReleaseAge: 1440
 optimisticRepeatInstall: true
