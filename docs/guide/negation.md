@@ -6,157 +6,157 @@ outline: [2, 3]
 
 # Negation in Tagalog
 
-Negation in Tagalog expresses the absence, denial, or opposite of something. The primary negative words are *hindi* (not) and *wala* (none/nothing/not exist). Understanding when and how to use each is essential for correct Tagalog grammar.
+Negation in Tagalog expresses the absence, denial, or opposite of something. The primary negative words are _hindi_ (not) and _wala_ (none/nothing/not exist). Understanding when and how to use each is essential for correct Tagalog grammar.
 
 ## Primary Negative Words
 
-### *Hindi* (Not)
+### _Hindi_ (Not)
 
-*Hindi* negates verbs, adjectives, and general statements.
+_Hindi_ negates verbs, adjectives, and general statements.
 
 #### Negating Verbs
 
-- *Hindi ako kumain.*  
+- _Hindi ako kumain._  
   (I did not eat.)
-- *Hindi siya pupunta.*  
+- _Hindi siya pupunta._  
   (He/She will not go.)
-- *Hindi kami natulog.*  
+- _Hindi kami natulog._  
   (We did not sleep.)
 
 #### Negating Adjectives
 
-- *Hindi maganda ang bahay.*  
+- _Hindi maganda ang bahay._  
   (The house is not beautiful.)
-- *Hindi masarap ang pagkain.*  
+- _Hindi masarap ang pagkain._  
   (The food is not delicious.)
-- *Hindi mabait si Juan.*  
+- _Hindi mabait si Juan._  
   (Juan is not kind.)
 
 #### In Responses
 
-- *Kumain ka ba? - Hindi.*  
+- _Kumain ka ba? - Hindi._  
   (Did you eat? - No.)
-- *Pupunta ka ba? - Hindi.*  
+- _Pupunta ka ba? - Hindi._  
   (Will you go? - No.)
 
 ::: tip Polite Form
-Use *Hindi po* when speaking to elders or in formal situations: *Hindi po ako kumain.* (I did not eat, sir/ma'am.)
+Use _Hindi po_ when speaking to elders or in formal situations: _Hindi po ako kumain._ (I did not eat, sir/ma'am.)
 :::
 
-### *Wala* / *Walang* (None/Nothing/Not Exist)
+### _Wala_ / _Walang_ (None/Nothing/Not Exist)
 
-*Wala* expresses absence, non-existence, or lack of something. It is the negative counterpart of *may* (there is/are, have).
+_Wala_ expresses absence, non-existence, or lack of something. It is the negative counterpart of _may_ (there is/are, have).
 
 #### Expressing Non-Existence
 
-- *Walang tao sa bahay.*  
+- _Walang tao sa bahay._  
   (There is no one in the house.)
-- *Walang tubig.*  
+- _Walang tubig._  
   (There is no water.)
 
 #### Expressing Lack/Absence
 
-- *Wala akong pera.*  
+- _Wala akong pera._  
   (I don't have money.)
-- *Wala siyang trabaho.*  
+- _Wala siyang trabaho._  
   (He/She doesn't have work.)
-- *Walang problema.*  
+- _Walang problema._  
   (There is no problem.)
 
 #### In Responses
 
-- *May pera ka ba? - Wala.*  
+- _May pera ka ba? - Wala._  
   (Do you have money? - No/None.)
-- *May tao ba sa loob? - Wala.*  
+- _May tao ba sa loob? - Wala._  
   (Is there anyone inside? - No one.)
 
-::: info *Wala* vs. *Walang*
-Use *walang* before the noun being negated: *Walang tubig* (No water).
-Use *wala* when it is followed by a pronoun or when it stands alone: *Wala ako.* (I don't have any.) / *Wala siyang pera.* (He/She doesn't have money.)
+::: info _Wala_ vs. _Walang_
+Use _walang_ before the noun being negated: _Walang tubig_ (No water).
+Use _wala_ when it is followed by a pronoun or when it stands alone: _Wala ako._ (I don't have any.) / _Wala siyang pera._ (He/She doesn't have money.)
 :::
 
-## *Hindi* vs. *Wala*
+## _Hindi_ vs. _Wala_
 
 Understanding the distinction is crucial:
 
-| Use *Hindi* | Use *Wala* |
-| ----------- | ---------- |
-| Negate actions | Express absence/non-existence |
-| Negate qualities | Negate possession |
+| Use _Hindi_       | Use _Wala_                            |
+| ----------------- | ------------------------------------- |
+| Negate actions    | Express absence/non-existence         |
+| Negate qualities  | Negate possession                     |
 | Negate statements | With nouns (something does not exist) |
 
 ### Comparison Examples
 
-- *Hindi siya kumain.* (He/She did not eat.) - action
-- *Wala siyang pagkain.* (He/She has no food.) - possession
+- _Hindi siya kumain._ (He/She did not eat.) - action
+- _Wala siyang pagkain._ (He/She has no food.) - possession
 
-- *Hindi maganda ang bahay.* (The house is not beautiful.) - quality
-- *Walang bahay dito.* (There is no house here.) - existence
+- _Hindi maganda ang bahay._ (The house is not beautiful.) - quality
+- _Walang bahay dito._ (There is no house here.) - existence
 
-- *Hindi ako pupunta.* (I will not go.) - action
-- *Wala akong sasakyan.* (I don't have a vehicle.) - possession
+- _Hindi ako pupunta._ (I will not go.) - action
+- _Wala akong sasakyan._ (I don't have a vehicle.) - possession
 
 ## Negative Particles and Modifiers
 
-### *Hindi na* (No Longer/Not Anymore)
+### _Hindi na_ (No Longer/Not Anymore)
 
 Indicates cessation:
 
-- *Hindi na ako kumakain ng karne.*  
+- _Hindi na ako kumakain ng karne._  
   (I don't eat meat anymore.)
-- *Hindi na siya nakatira dito.*  
+- _Hindi na siya nakatira dito._  
   (He/She no longer lives here.)
-- *Hindi na kami magkaibigan.*  
+- _Hindi na kami magkaibigan._  
   (We are no longer friends.)
 
-### *Hindi pa* (Not Yet)
+### _Hindi pa_ (Not Yet)
 
 Indicates that something has not happened but is expected:
 
-- *Hindi pa ako kumain.*  
+- _Hindi pa ako kumain._  
   (I haven't eaten yet.)
-- *Hindi pa siya dumating.*  
+- _Hindi pa siya dumating._  
   (He/She hasn't arrived yet.)
-- *Hindi pa tapos ang trabaho.*  
+- _Hindi pa tapos ang trabaho._  
   (The work is not finished yet.)
 
-### *Wala pa* (Not Yet - With Possession/Existence)
+### _Wala pa_ (Not Yet - With Possession/Existence)
 
-- *Wala pa akong pera.*  
+- _Wala pa akong pera._  
   (I don't have money yet.)
-- *Wala pa siyang trabaho.*  
+- _Wala pa siyang trabaho._  
   (He/She doesn't have work yet.)
 
-### *Wala na* (No More/None Left)
+### _Wala na_ (No More/None Left)
 
-- *Wala na akong pera.*  
+- _Wala na akong pera._  
   (I have no more money.)
-- *Wala na siyang oras.*  
+- _Wala na siyang oras._  
   (He/She has no more time.)
-- *Wala nang pagkain.*  
+- _Wala nang pagkain._  
   (There is no more food.)
 
 ## Double Negatives
 
 Tagalog allows double negatives that reinforce negation rather than creating a positive.
 
-### *Walang sinuman* (No One)
+### _Walang sinuman_ (No One)
 
-- *Walang sinuman ang nakakaalam.*  
+- _Walang sinuman ang nakakaalam._  
   (No one knows.)
-- *Walang sinumang dumating.*  
+- _Walang sinumang dumating._  
   (No one came.)
 
-### *Walang anuman* (Nothing)
+### _Walang anuman_ (Nothing)
 
-- *Walang anuman sa loob.*  
+- _Walang anuman sa loob._  
   (There is nothing inside.)
 
-### *Hindi... Kahit* (Not... Even)
+### _Hindi... Kahit_ (Not... Even)
 
-- *Hindi ako kumain kahit konti.*  
+- _Hindi ako kumain kahit konti._  
   (I didn't eat even a little.)
-- *Hindi siya nagsalita kahit kailan.*  
+- _Hindi siya nagsalita kahit kailan._  
   (He/She never spoke.)
 
 ::: info Double Negatives
@@ -167,300 +167,300 @@ Unlike English, Tagalog double negatives strengthen the negation. They do not ca
 
 ### Existential Sentences
 
-With *may* (there is/are):
+With _may_ (there is/are):
 
-- Positive: *May tao sa bahay.*  
+- Positive: _May tao sa bahay._  
   (There is someone in the house.)
-- Negative: *Walang tao sa bahay.*  
+- Negative: _Walang tao sa bahay._  
   (There is no one in the house.)
 
 ### Predicate Sentences
 
 #### Verb Predicates
 
-- Positive: *Kumain ako.*  
+- Positive: _Kumain ako._  
   (I ate.)
-- Negative: *Hindi ako kumain.*  
+- Negative: _Hindi ako kumain._  
   (I did not eat.)
 
 #### Adjective Predicates
 
-- Positive: *Maganda ang bahay.*  
+- Positive: _Maganda ang bahay._  
   (The house is beautiful.)
-- Negative: *Hindi maganda ang bahay.*  
+- Negative: _Hindi maganda ang bahay._  
   (The house is not beautiful.)
 
 #### Noun Predicates
 
-- Positive: *Guro siya.*  
+- Positive: _Guro siya._  
   (He/She is a teacher.)
-- Negative: *Hindi siya guro.*  
+- Negative: _Hindi siya guro._  
   (He/She is not a teacher.)
 
 ### Imperative Sentences
 
-Use *huwag* (don't) for negative commands:
+Use _huwag_ (don't) for negative commands:
 
-- *Huwag kang kumain.*  
+- _Huwag kang kumain._  
   (Don't eat.)
-- *Huwag kayong maingay.*  
+- _Huwag kayong maingay._  
   (Don't be noisy.)
-- *Huwag mong gawin yan.*  
+- _Huwag mong gawin yan._  
   (Don't do that.)
 
-::: warning *Huwag* vs. *Hindi*
-Use *huwag* for commands (don't), not *hindi*:
+::: warning _Huwag_ vs. _Hindi_
+Use _huwag_ for commands (don't), not _hindi_:
 
-- Correct: *Huwag kang umalis.* (Don't leave.)
-- Incorrect: *Hindi ka umalis.*
-:::
+- Correct: _Huwag kang umalis._ (Don't leave.)
+- Incorrect: _Hindi ka umalis._
+  :::
 
 ## Negative Question Forms
 
-### With *Hindi*
+### With _Hindi_
 
-- *Hindi ka ba kumain?*  
+- _Hindi ka ba kumain?_  
   (Didn't you eat?)
-- *Hindi ba maganda?*  
+- _Hindi ba maganda?_  
   (Isn't it beautiful?)
 
-### With *Wala*
+### With _Wala_
 
-- *Wala ka bang pera?*  
+- _Wala ka bang pera?_  
   (Don't you have money?)
-- *Wala bang tao?*  
+- _Wala bang tao?_  
   (Is there no one?)
 
 ### Expecting Positive Answer
 
 Negative questions often expect confirmation:
 
-- *Hindi ba siya ang guro?*  
+- _Hindi ba siya ang guro?_  
   (Isn't he/she the teacher?) - expecting a "yes"
 
 ## Emphasis in Negation
 
-### *Hindi talaga* (Really Not)
+### _Hindi talaga_ (Really Not)
 
-- *Hindi talaga ako pumunta.*  
+- _Hindi talaga ako pumunta._  
   (I really did not go.)
-- *Hindi talaga masarap.*  
+- _Hindi talaga masarap._  
   (It's really not delicious.)
 
-### *Talaga bang hindi* (Really Not?)
+### _Talaga bang hindi_ (Really Not?)
 
-- *Talaga bang hindi ka pupunta?*  
+- _Talaga bang hindi ka pupunta?_  
   (Are you really not going?)
 
-### *Walang-wala* (Absolutely Nothing)
+### _Walang-wala_ (Absolutely Nothing)
 
-- *Walang-wala akong pera.*  
+- _Walang-wala akong pera._  
   (I have absolutely no money.)
 
 ## Partial Negation
 
-### *Hindi lahat* (Not All)
+### _Hindi lahat_ (Not All)
 
-- *Hindi lahat ng tao ay mabait.*  
+- _Hindi lahat ng tao ay mabait._  
   (Not all people are kind.)
-- *Hindi lahat ay totoo.*  
+- _Hindi lahat ay totoo._  
   (Not everything is true.)
 
-### *Hindi lagi* (Not Always)
+### _Hindi lagi_ (Not Always)
 
-- *Hindi lagi akong late.*  
+- _Hindi lagi akong late._  
   (I'm not always late.)
-- *Hindi lagi umuulan.*  
+- _Hindi lagi umuulan._  
   (It doesn't always rain.)
 
-### *Hindi kailanman* (Never)
+### _Hindi kailanman_ (Never)
 
-- *Hindi ako kailanman pumunta doon.*  
+- _Hindi ako kailanman pumunta doon._  
   (I never went there.)
-- *Hindi kailanman mangyayari yan.*  
+- _Hindi kailanman mangyayari yan._  
   (That will never happen.)
 
 ## Negative Adverbs and Expressions
 
 ### Time-Related Negatives
 
-| Tagalog | English |
-| ------- | ------- |
-| *hindi pa kailanman* | never yet |
-| *hindi na kailanman* | never again |
-| *hindi muna* | not first/not for now |
-| *hindi agad* | not immediately |
+| Tagalog              | English               |
+| -------------------- | --------------------- |
+| _hindi pa kailanman_ | never yet             |
+| _hindi na kailanman_ | never again           |
+| _hindi muna_         | not first/not for now |
+| _hindi agad_         | not immediately       |
 
 Examples:
 
-- *Hindi pa ako kailanman pumunta sa Maynila.*  
+- _Hindi pa ako kailanman pumunta sa Maynila._  
   (I have never been to Manila.)
-- *Hindi na uulit yan kailanman.*  
+- _Hindi na uulit yan kailanman._  
   (That will never happen again.)
 
 ### Degree Negatives
 
-- *hindi gaanong* (not very/not so)
-- *hindi masyadong* (not too)
-- *hindi sobrang* (not extremely)
+- _hindi gaanong_ (not very/not so)
+- _hindi masyadong_ (not too)
+- _hindi sobrang_ (not extremely)
 
 Examples:
 
-- *Hindi gaanong mahal.*  
+- _Hindi gaanong mahal._  
   (Not very expensive.)
-- *Hindi masyadong malayo.*  
+- _Hindi masyadong malayo._  
   (Not too far.)
 
 ## Negating Modal Expressions
 
-### *Hindi dapat* (Should Not)
+### _Hindi dapat_ (Should Not)
 
-- *Hindi dapat kumain ng marami.*  
+- _Hindi dapat kumain ng marami._  
   (One should not eat too much.)
-- *Hindi ka dapat umalis.*  
+- _Hindi ka dapat umalis._  
   (You should not leave.)
 
-### *Hindi puwede* / *Hindi maaari* (Cannot/May Not)
+### _Hindi puwede_ / _Hindi maaari_ (Cannot/May Not)
 
-- *Hindi puwede ang batang ito.*  
+- _Hindi puwede ang batang ito._  
   (This child cannot/is not allowed.)
-- *Hindi ka maaaring pumasok.*  
+- _Hindi ka maaaring pumasok._  
   (You cannot enter.)
 
 ## Responding to Negative Questions
 
 ### Agreeing with Negative
 
-- *Hindi ka ba gutom? - Hindi.*  
+- _Hindi ka ba gutom? - Hindi._  
   (Aren't you hungry? - No, I'm not.)
 
 ### Disagreeing with Negative
 
-- *Hindi ka ba pupunta? - Pupunta ako.*  
+- _Hindi ka ba pupunta? - Pupunta ako._  
   (Aren't you going? - I am going.)
 
 Use an affirmative response to contradict a negative question.
 
 ## Negative Conjunctions
 
-### *Hindi... Kundi* (Not... But)
+### _Hindi... Kundi_ (Not... But)
 
 Indicates correction:
 
-- *Hindi pula kundi puti.*  
+- _Hindi pula kundi puti._  
   (Not red but white.)
-- *Hindi siya ang guro kundi ang estudyante.*  
+- _Hindi siya ang guro kundi ang estudyante._  
   (He/She is not the teacher but the student.)
 
-### *Hindi lamang... Kundi pati* (Not Only... But Also)
+### _Hindi lamang... Kundi pati_ (Not Only... But Also)
 
-- *Hindi lamang maganda kundi pati matalino.*  
+- _Hindi lamang maganda kundi pati matalino._  
   (Not only beautiful but also intelligent.)
 
 ## Common Negative Expressions
 
 ### Everyday Phrases
 
-- *Wala akong ideya.*  
+- _Wala akong ideya._  
   (I have no idea.)
-- *Hindi ko alam.*  
+- _Hindi ko alam._  
   (I don't know.)
-- *Walang problema.*  
+- _Walang problema._  
   (No problem.)
-- *Hindi bale.*  
+- _Hindi bale._  
   (Never mind. / It doesn't matter.)
-- *Wala yun.*  
+- _Wala yun._  
   (That's nothing.)
 
 ### Emphatic Negatives
 
-- *Imposible!* / *Hindi posible!*  
+- _Imposible!_ / _Hindi posible!_  
   (Impossible!)
-- *Hinding-hindi!*  
+- _Hinding-hindi!_  
   (Absolutely not! / Never!)
-- *Ayaw ko!*  
+- _Ayaw ko!_  
   (I don't want to!)
 
 ## Negation Patterns Summary
 
-| Context | Positive | Negative |
-| ------- | -------- | -------- |
-| Action | *Kumain ako.* | *Hindi ako kumain.* |
-| Quality | *Maganda ito.* | *Hindi maganda ito.* |
-| Existence | *May tao.* | *Walang tao.* |
-| Possession | *May pera ako.* | *Wala akong pera.* |
-| Command | *Kumain ka.* | *Huwag kang kumain.* |
+| Context    | Positive        | Negative             |
+| ---------- | --------------- | -------------------- |
+| Action     | _Kumain ako._   | _Hindi ako kumain._  |
+| Quality    | _Maganda ito._  | _Hindi maganda ito._ |
+| Existence  | _May tao._      | _Walang tao._        |
+| Possession | _May pera ako._ | _Wala akong pera._   |
+| Command    | _Kumain ka._    | _Huwag kang kumain._ |
 
 ## Regional Variations
 
 ::: details Dialectal Differences
-Some regions may use different negative particles or have preferences in usage. For example, some areas might say *dili* (from Cebuano) instead of *hindi* in informal settings, though *hindi* remains standard in Tagalog.
+Some regions may use different negative particles or have preferences in usage. For example, some areas might say _dili_ (from Cebuano) instead of _hindi_ in informal settings, though _hindi_ remains standard in Tagalog.
 :::
 
 ## Common Errors
 
-### Using *Hindi* with Possession
+### Using _Hindi_ with Possession
 
-- Incorrect: *Hindi ako may pera.*
-- Correct: *Wala akong pera.*
+- Incorrect: _Hindi ako may pera._
+- Correct: _Wala akong pera._
 
-### Using *Wala* with Actions
+### Using _Wala_ with Actions
 
-- Incorrect: *Wala ako kumain.*
-- Correct: *Hindi ako kumain.*
+- Incorrect: _Wala ako kumain._
+- Correct: _Hindi ako kumain._
 
-### Using *Hindi* for Commands
+### Using _Hindi_ for Commands
 
-- Incorrect: *Hindi ka umalis.*
-- Correct: *Huwag kang umalis.* (Don't leave.)
+- Incorrect: _Hindi ka umalis._
+- Correct: _Huwag kang umalis._ (Don't leave.)
 
-### Forgetting *Pa* or *Na*
+### Forgetting _Pa_ or _Na_
 
 These particles change meaning significantly:
 
-- *Hindi kumain* (did not eat)
-- *Hindi pa kumain* (has not eaten yet)
-- *Hindi na kumain* (no longer eats/didn't eat anymore)
+- _Hindi kumain_ (did not eat)
+- _Hindi pa kumain_ (has not eaten yet)
+- _Hindi na kumain_ (no longer eats/didn't eat anymore)
 
 ## Softening Negation
 
 ### Polite Negatives
 
-- *Hindi ko po masyadong gusto.*  
-  (I don't really like it, sir/ma'am.) - softer than direct *Hindi ko gusto*
+- _Hindi ko po masyadong gusto._  
+  (I don't really like it, sir/ma'am.) - softer than direct _Hindi ko gusto_
 
-### Using *Siguro* (Maybe)
+### Using _Siguro_ (Maybe)
 
-- *Siguro hindi.*  
+- _Siguro hindi._  
   (Maybe not.)
-- *Hindi siguro.*  
+- _Hindi siguro._  
   (Probably not.)
 
-### Using *Lang* (Just/Only)
+### Using _Lang_ (Just/Only)
 
-- *Hindi lang ako.*  
+- _Hindi lang ako._  
   (Not just me.)
-- *Wala lang.*  
+- _Wala lang._  
   (It's nothing. / Never mind.)
 
 ## Summary
 
 Tagalog negation is characterized by:
 
-1. *Hindi* for actions, qualities, and general statements
-2. *Wala* for existence, absence, and possession
-3. *Huwag* for negative commands
-4. The particles *pa* (yet) and *na* (anymore/already) modify negation
+1. _Hindi_ for actions, qualities, and general statements
+2. _Wala_ for existence, absence, and possession
+3. _Huwag_ for negative commands
+4. The particles _pa_ (yet) and _na_ (anymore/already) modify negation
 5. Double negatives strengthen rather than cancel negation
 6. Negative questions often expect confirmation
 
 Key patterns:
 
-- Action: *Hindi* + verb
-- Possession/Existence: *Wala/Walang* + noun
-- Command: *Huwag* + verb
-- Not yet: *Hindi pa* / *Wala pa*
-- Not anymore: *Hindi na* / *Wala na*
+- Action: _Hindi_ + verb
+- Possession/Existence: _Wala/Walang_ + noun
+- Command: _Huwag_ + verb
+- Not yet: _Hindi pa_ / _Wala pa_
+- Not anymore: _Hindi na_ / _Wala na_
 
 Mastering negation enables the clear expression of denial, absence, and prohibition in Tagalog.
 

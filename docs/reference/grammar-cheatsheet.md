@@ -12,125 +12,125 @@ outline: [2, 3]
 The most common sentence pattern is **Verb-Subject-Object** (VSO), though variations exist based on focus and emphasis.
 :::
 
-| Pattern | Structure | Example | English |
-|---------|-----------|---------|---------|
-| VSO (Actor Focus) | Verb + Subject + Object | *Kumain si Maria ng mansanas.* | Maria ate apples. |
-| VOS (Object Focus) | Verb + Object + Subject | *Kinain ni Maria ang mansanas.* | The apples were eaten by Maria. |
-| SVO (Inverted) | Subject + Verb + Object | *Si Maria ay kumain ng mansanas.* | Maria ate apples. |
+| Pattern            | Structure               | Example                           | English                         |
+| ------------------ | ----------------------- | --------------------------------- | ------------------------------- |
+| VSO (Actor Focus)  | Verb + Subject + Object | _Kumain si Maria ng mansanas._    | Maria ate apples.               |
+| VOS (Object Focus) | Verb + Object + Subject | _Kinain ni Maria ang mansanas._   | The apples were eaten by Maria. |
+| SVO (Inverted)     | Subject + Verb + Object | _Si Maria ay kumain ng mansanas._ | Maria ate apples.               |
 
 ## Marker Particles
 
 ### Case Markers
 
-| Marker | Function | Used With | Example |
-|--------|----------|-----------|---------|
-| *ang* | Topic marker (common noun) | Common nouns | *ang bahay* (the house) |
-| *si* | Topic marker (proper noun) | Personal names | *si Ana* (Ana) |
-| *ng* | Non-topic marker (common noun) | Common nouns | *ng libro* (a book/of the book) |
-| *ni* | Non-topic marker (proper noun) | Personal names | *ni Pedro* (Pedro/of Pedro) |
-| *sa* | Locative/directional marker | Places, recipients | *sa eskwela* (at/to school) |
-| *kay* | Locative marker (proper noun) | People (location) | *kay Ana* (at Ana's place) |
+| Marker | Function                       | Used With          | Example                         |
+| ------ | ------------------------------ | ------------------ | ------------------------------- |
+| _ang_  | Topic marker (common noun)     | Common nouns       | _ang bahay_ (the house)         |
+| _si_   | Topic marker (proper noun)     | Personal names     | _si Ana_ (Ana)                  |
+| _ng_   | Non-topic marker (common noun) | Common nouns       | _ng libro_ (a book/of the book) |
+| _ni_   | Non-topic marker (proper noun) | Personal names     | _ni Pedro_ (Pedro/of Pedro)     |
+| _sa_   | Locative/directional marker    | Places, recipients | _sa eskwela_ (at/to school)     |
+| _kay_  | Locative marker (proper noun)  | People (location)  | _kay Ana_ (at Ana's place)      |
 
 ### Plural Markers
 
-| Singular | Plural | Example (Singular) | Example (Plural) |
-|----------|--------|-------------------|------------------|
-| *ang* | *ang mga* | *ang bata* (the child) | *ang mga bata* (the children) |
-| *si* | *sina* | *si Maria* (Maria) | *sina Maria* (Maria and others) |
-| *ng* | *ng mga* | *ng libro* (a book) | *ng mga libro* (books) |
-| *ni* | *nina* | *ni Juan* (Juan) | *nina Juan* (Juan and others) |
-| *sa* | *sa mga* | *sa tindahan* (at the store) | *sa mga tindahan* (at the stores) |
-| *kay* | *kina* | *kay Pedro* (at Pedro's) | *kina Pedro* (at Pedro and others') |
+| Singular | Plural    | Example (Singular)           | Example (Plural)                    |
+| -------- | --------- | ---------------------------- | ----------------------------------- |
+| _ang_    | _ang mga_ | _ang bata_ (the child)       | _ang mga bata_ (the children)       |
+| _si_     | _sina_    | _si Maria_ (Maria)           | _sina Maria_ (Maria and others)     |
+| _ng_     | _ng mga_  | _ng libro_ (a book)          | _ng mga libro_ (books)              |
+| _ni_     | _nina_    | _ni Juan_ (Juan)             | _nina Juan_ (Juan and others)       |
+| _sa_     | _sa mga_  | _sa tindahan_ (at the store) | _sa mga tindahan_ (at the stores)   |
+| _kay_    | _kina_    | _kay Pedro_ (at Pedro's)     | _kina Pedro_ (at Pedro and others') |
 
 ## Personal Pronouns
 
-| English | Tagalog (Topic) | Tagalog (Non-Topic) | Tagalog (Oblique) |
-|---------|----------------|---------------------|-------------------|
-| I | *ako* | *ko* | *akin/sa akin* |
-| you (singular) | *ikaw/ka* | *mo* | *iyo/sa iyo* |
-| he/she | *siya* | *niya* | *kaniya/sa kaniya* |
-| we (inclusive) | *tayo* | *natin* | *atin/sa atin* |
-| we (exclusive) | *kami* | *namin* | *amin/sa amin* |
-| you (plural) | *kayo* | *ninyo* | *inyo/sa inyo* |
-| they | *sila* | *nila* | *kanila/sa kanila* |
+| English        | Tagalog (Topic) | Tagalog (Non-Topic) | Tagalog (Oblique)  |
+| -------------- | --------------- | ------------------- | ------------------ |
+| I              | _ako_           | _ko_                | _akin/sa akin_     |
+| you (singular) | _ikaw/ka_       | _mo_                | _iyo/sa iyo_       |
+| he/she         | _siya_          | _niya_              | _kaniya/sa kaniya_ |
+| we (inclusive) | _tayo_          | _natin_             | _atin/sa atin_     |
+| we (exclusive) | _kami_          | _namin_             | _amin/sa amin_     |
+| you (plural)   | _kayo_          | _ninyo_             | _inyo/sa inyo_     |
+| they           | _sila_          | _nila_              | _kanila/sa kanila_ |
 
 ::: info Inclusive vs Exclusive
-*Tayo* includes the listener; *kami* excludes the listener.
+_Tayo_ includes the listener; _kami_ excludes the listener.
 :::
 
 ## Verb Aspects
 
-| Aspect | Time Frame | Example Root: *kain* | English |
-|--------|------------|---------------------|---------|
-| Perfective | Completed action | *kumain* | ate |
-| Imperfective | Ongoing action | *kumakain* | is eating |
-| Contemplative | Future/planned action | *kakain* | will eat |
+| Aspect        | Time Frame            | Example Root: _kain_ | English   |
+| ------------- | --------------------- | -------------------- | --------- |
+| Perfective    | Completed action      | _kumain_             | ate       |
+| Imperfective  | Ongoing action        | _kumakain_           | is eating |
+| Contemplative | Future/planned action | _kakain_             | will eat  |
 
 ## Common Verb Affixes by Focus
 
-| Focus Type | Common Affixes | Root Example | Conjugated | English |
-|------------|---------------|--------------|------------|---------|
-| Actor | *-um-*, *mag-*, *ma-* | *kain* | *kumain* | ate (actor focused) |
-| Patient/Object | *-in*, *-hin*, *i-* | *kain* | *kinain* | was eaten (object focused) |
-| Locative | *-an*, *-han* | *bili* | *binilhan* | was bought from (location focused) |
-| Benefactive | *i-* + *pag-* | *luto* | *ipinagluto* | was cooked for (beneficiary focused) |
-| Instrumental | *i-* + *pang-*, *ipang-* | *sulat* | *ipinangsulat* | was used to write (instrument focused) |
+| Focus Type     | Common Affixes           | Root Example | Conjugated     | English                                |
+| -------------- | ------------------------ | ------------ | -------------- | -------------------------------------- |
+| Actor          | _-um-_, _mag-_, _ma-_    | _kain_       | _kumain_       | ate (actor focused)                    |
+| Patient/Object | _-in_, _-hin_, _i-_      | _kain_       | _kinain_       | was eaten (object focused)             |
+| Locative       | _-an_, _-han_            | _bili_       | _binilhan_     | was bought from (location focused)     |
+| Benefactive    | _i-_ + _pag-_            | _luto_       | _ipinagluto_   | was cooked for (beneficiary focused)   |
+| Instrumental   | _i-_ + _pang-_, _ipang-_ | _sulat_      | _ipinangsulat_ | was used to write (instrument focused) |
 
 ## Demonstrative Pronouns
 
-| Distance | This/These | That/Those (near listener) | That/Those (far from both) |
-|----------|-----------|---------------------------|---------------------------|
-| Singular | *ito* | *iyan* | *iyon* |
-| Plural | *mga ito* | *mga iyan* | *mga iyon* |
-| Locative | *dito* | *diyan* | *doon* |
-| Directional | *parito* | *pariyan* | *paroon* |
+| Distance    | This/These | That/Those (near listener) | That/Those (far from both) |
+| ----------- | ---------- | -------------------------- | -------------------------- |
+| Singular    | _ito_      | _iyan_                     | _iyon_                     |
+| Plural      | _mga ito_  | _mga iyan_                 | _mga iyon_                 |
+| Locative    | _dito_     | _diyan_                    | _doon_                     |
+| Directional | _parito_   | _pariyan_                  | _paroon_                   |
 
 ## Question Words
 
-| Tagalog | English | Example | Translation |
-|---------|---------|---------|-------------|
-| *Sino* | Who | *Sino ka?* | Who are you? |
-| *Ano* | What | *Ano ito?* | What is this? |
-| *Saan* | Where | *Saan ka pupunta?* | Where are you going? |
-| *Kailan* | When | *Kailan ka darating?* | When are you arriving? |
-| *Bakit* | Why | *Bakit ka malungkot?* | Why are you sad? |
-| *Paano* | How | *Paano ito gawin?* | How is this done? |
-| *Magkano* | How much | *Magkano ito?* | How much is this? |
-| *Ilan* | How many | *Ilan ang bata?* | How many children? |
-| *Alin* | Which | *Alin ang gusto mo?* | Which do you want? |
+| Tagalog   | English  | Example               | Translation            |
+| --------- | -------- | --------------------- | ---------------------- |
+| _Sino_    | Who      | _Sino ka?_            | Who are you?           |
+| _Ano_     | What     | _Ano ito?_            | What is this?          |
+| _Saan_    | Where    | _Saan ka pupunta?_    | Where are you going?   |
+| _Kailan_  | When     | _Kailan ka darating?_ | When are you arriving? |
+| _Bakit_   | Why      | _Bakit ka malungkot?_ | Why are you sad?       |
+| _Paano_   | How      | _Paano ito gawin?_    | How is this done?      |
+| _Magkano_ | How much | _Magkano ito?_        | How much is this?      |
+| _Ilan_    | How many | _Ilan ang bata?_      | How many children?     |
+| _Alin_    | Which    | _Alin ang gusto mo?_  | Which do you want?     |
 
 ## Negation
 
-| Negator | Usage | Example | English |
-|---------|-------|---------|---------|
-| *hindi* | General negation | *Hindi ako kumain.* | I did not eat. |
-| *wala* | Non-existence/absence | *Walang tao sa bahay.* | There is no one at home. |
-| *huwag* | Prohibition/negative command | *Huwag kang lumabas.* | Don't go out. |
+| Negator | Usage                        | Example                | English                  |
+| ------- | ---------------------------- | ---------------------- | ------------------------ |
+| _hindi_ | General negation             | _Hindi ako kumain._    | I did not eat.           |
+| _wala_  | Non-existence/absence        | _Walang tao sa bahay._ | There is no one at home. |
+| _huwag_ | Prohibition/negative command | _Huwag kang lumabas._  | Don't go out.            |
 
 ## Linkers
 
 ::: tip Function
-The linker *na* (or *-ng* after vowels) connects modifiers to nouns and clauses.
+The linker _na_ (or _-ng_ after vowels) connects modifiers to nouns and clauses.
 :::
 
-| Pattern | Example | English |
-|---------|---------|---------|
-| Adjective + *na* + Noun | *magandang bahay* | beautiful house |
-| Noun + *na* + Adjective | *bahay na malaki* | house that is big |
-| Verb + *na* + Clause | *Narinig kong kumanta siya.* | I heard that she sang. |
+| Pattern                 | Example                      | English                |
+| ----------------------- | ---------------------------- | ---------------------- |
+| Adjective + _na_ + Noun | _magandang bahay_            | beautiful house        |
+| Noun + _na_ + Adjective | _bahay na malaki_            | house that is big      |
+| Verb + _na_ + Clause    | _Narinig kong kumanta siya._ | I heard that she sang. |
 
 ## Numbers Quick Reference
 
 | Number | Tagalog (Native) | Tagalog (Spanish-derived) |
-|--------|-----------------|--------------------------|
-| 1 | *isa* | *uno* |
-| 2 | *dalawa* | *dos* |
-| 3 | *tatlo* | *tres* |
-| 4 | *apat* | *kwatro* |
-| 5 | *lima* | *singko* |
-| 10 | *sampu* | *diyes* |
-| 100 | *sandaan* | *siyento* |
-| 1,000 | *isang libo* | *mil* |
+| ------ | ---------------- | ------------------------- |
+| 1      | _isa_            | _uno_                     |
+| 2      | _dalawa_         | _dos_                     |
+| 3      | _tatlo_          | _tres_                    |
+| 4      | _apat_           | _kwatro_                  |
+| 5      | _lima_           | _singko_                  |
+| 10     | _sampu_          | _diyes_                   |
+| 100    | _sandaan_        | _siyento_                 |
+| 1,000  | _isang libo_     | _mil_                     |
 
 ::: info Usage
 Native numbers are typically used for counting objects; Spanish-derived numbers are common in telling time and money.
@@ -138,51 +138,51 @@ Native numbers are typically used for counting objects; Spanish-derived numbers 
 
 ## Common Connectors
 
-| Tagalog | English | Example | Translation |
-|---------|---------|---------|-------------|
-| *at* | and | *Ikaw at ako* | You and I |
-| *o* | or | *Kape o tsaa?* | Coffee or tea? |
-| *pero/ngunit* | but | *Gusto ko, pero mahal.* | I want it, but it's expensive. |
-| *kaya* | so/therefore | *Gutom ako, kaya kumain ako.* | I was hungry, so I ate. |
-| *dahil* | because | *Umuwi ako dahil umuulan.* | I went home because it's raining. |
-| *kung* | if | *Kung libre ka, tara.* | If you're free, let's go. |
-| *kahit* | even if/although | *Kahit pagod, magluluto ako.* | Even if tired, I'll cook. |
+| Tagalog       | English          | Example                       | Translation                       |
+| ------------- | ---------------- | ----------------------------- | --------------------------------- |
+| _at_          | and              | _Ikaw at ako_                 | You and I                         |
+| _o_           | or               | _Kape o tsaa?_                | Coffee or tea?                    |
+| _pero/ngunit_ | but              | _Gusto ko, pero mahal._       | I want it, but it's expensive.    |
+| _kaya_        | so/therefore     | _Gutom ako, kaya kumain ako._ | I was hungry, so I ate.           |
+| _dahil_       | because          | _Umuwi ako dahil umuulan._    | I went home because it's raining. |
+| _kung_        | if               | _Kung libre ka, tara._        | If you're free, let's go.         |
+| _kahit_       | even if/although | _Kahit pagod, magluluto ako._ | Even if tired, I'll cook.         |
 
 ## Adjective Formation
 
-| Prefix | Function | Root Example | Adjective | English |
-|--------|----------|--------------|-----------|---------|
-| *ma-* | Forms adjectives | *ganda* | *maganda* | beautiful |
-| *ma-* | Forms adjectives | *bait* | *mabait* | kind |
-| *ma- + reduplication* | Intensification | *ganda* | *magaganda* | very beautiful (plural) |
+| Prefix                | Function         | Root Example | Adjective   | English                 |
+| --------------------- | ---------------- | ------------ | ----------- | ----------------------- |
+| _ma-_                 | Forms adjectives | _ganda_      | _maganda_   | beautiful               |
+| _ma-_                 | Forms adjectives | _bait_       | _mabait_    | kind                    |
+| _ma- + reduplication_ | Intensification  | _ganda_      | _magaganda_ | very beautiful (plural) |
 
 ## Time Expressions
 
-| Expression | Tagalog | Example | English |
-|------------|---------|---------|---------|
-| Now | *ngayon* | *Kumain ako ngayon.* | I am eating now. |
-| Today | *ngayong araw* | *Masaya ako ngayong araw.* | I am happy today. |
-| Yesterday | *kahapon* | *Umuwi ako kahapon.* | I went home yesterday. |
-| Tomorrow | *bukas* | *Babalik ako bukas.* | I will return tomorrow. |
-| Later | *mamaya* | *Kita tayo mamaya.* | See you later. |
-| Already | *na* | *Kumain na ako.* | I already ate. |
-| Still/yet | *pa* | *Kumakain pa ako.* | I am still eating. |
+| Expression | Tagalog        | Example                    | English                 |
+| ---------- | -------------- | -------------------------- | ----------------------- |
+| Now        | _ngayon_       | _Kumain ako ngayon._       | I am eating now.        |
+| Today      | _ngayong araw_ | _Masaya ako ngayong araw._ | I am happy today.       |
+| Yesterday  | _kahapon_      | _Umuwi ako kahapon._       | I went home yesterday.  |
+| Tomorrow   | _bukas_        | _Babalik ako bukas._       | I will return tomorrow. |
+| Later      | _mamaya_       | _Kita tayo mamaya._        | See you later.          |
+| Already    | _na_           | _Kumain na ako._           | I already ate.          |
+| Still/yet  | _pa_           | _Kumakain pa ako._         | I am still eating.      |
 
 ## Comparison
 
-| Degree | Pattern | Example | English |
-|--------|---------|---------|---------|
-| Positive | *Adjective* | *Mataas ang bahay.* | The house is tall. |
-| Comparative | *mas* + Adjective + *kaysa sa* | *Mas mataas ang bahay kaysa sa puno.* | The house is taller than the tree. |
-| Superlative | *pinaka-* + Adjective | *Pinakamataas na bahay* | The tallest house |
+| Degree      | Pattern                        | Example                               | English                            |
+| ----------- | ------------------------------ | ------------------------------------- | ---------------------------------- |
+| Positive    | _Adjective_                    | _Mataas ang bahay._                   | The house is tall.                 |
+| Comparative | _mas_ + Adjective + _kaysa sa_ | _Mas mataas ang bahay kaysa sa puno._ | The house is taller than the tree. |
+| Superlative | _pinaka-_ + Adjective          | _Pinakamataas na bahay_               | The tallest house                  |
 
 ## Possession
 
-| Type | Pattern | Example | English |
-|------|---------|---------|---------|
-| With *ng* | Possessor + *ng* + Possessed | *bahay ni Maria* | Maria's house |
-| With pronouns | Possessed + Possessive Pronoun | *bahay ko* | my house |
-| With *may* | *may* + Possessed + Subject | *May kotse si Juan.* | Juan has a car. |
+| Type          | Pattern                        | Example              | English         |
+| ------------- | ------------------------------ | -------------------- | --------------- |
+| With _ng_     | Possessor + _ng_ + Possessed   | _bahay ni Maria_     | Maria's house   |
+| With pronouns | Possessed + Possessive Pronoun | _bahay ko_           | my house        |
+| With _may_    | _may_ + Possessed + Subject    | _May kotse si Juan._ | Juan has a car. |
 
 ## See Also
 

@@ -12,13 +12,13 @@ Tagalog pronunciation is relatively straightforward for English speakers, as it 
 
 Tagalog has five vowel sounds, similar to Spanish. Each vowel maintains a consistent pronunciation.
 
-| Vowel | Pronunciation | Example | English |
-| ----- | ------------- | ------- | ------- |
-| *a* | like "a" in "father" | *anak* | child |
-| *e* | like "e" in "bed" | *pera* | money |
-| *i* | like "ee" in "see" | *isa* | one |
-| *o* | like "o" in "go" | *oso* | bear |
-| *u* | like "oo" in "food" | *ulo* | head |
+| Vowel | Pronunciation        | Example | English |
+| ----- | -------------------- | ------- | ------- |
+| _a_   | like "a" in "father" | _anak_  | child   |
+| _e_   | like "e" in "bed"    | _pera_  | money   |
+| _i_   | like "ee" in "see"   | _isa_   | one     |
+| _o_   | like "o" in "go"     | _oso_   | bear    |
+| _u_   | like "oo" in "food"  | _ulo_   | head    |
 
 ::: tip Vowel Clarity
 Tagalog vowels are always clear and distinct. Unlike English, vowels do not become neutral or schwa sounds when unstressed.
@@ -26,11 +26,11 @@ Tagalog vowels are always clear and distinct. Unlike English, vowels do not beco
 
 Examples:
 
-- *maganda*  
+- _maganda_  
   (beautiful)
-- *kumain*  
+- _kumain_  
   (ate)
-- *puso*  
+- _puso_  
   (heart)
 
 ## Consonants
@@ -39,42 +39,42 @@ Most Tagalog consonants are pronounced similarly to English, with a few exceptio
 
 ### Standard Consonants
 
-| Consonant | Pronunciation | Example | English |
-| --------- | ------------- | ------- | ------- |
-| *b* | like English "b" | *bahay* | house |
-| *k* | like English "k" | *kain* | eat |
-| *d* | like English "d" | *daan* | road |
-| *g* | always hard like "g" in "go" | *gabi* | night |
-| *h* | like English "h" | *hari* | king |
-| *l* | like English "l" | *lupa* | earth |
-| *m* | like English "m" | *mata* | eye |
-| *n* | like English "n" | *noo* | forehead |
-| *p* | like English "p" | *paa* | foot |
-| *s* | like English "s" | *saya* | happiness |
-| *t* | like English "t" | *tao* | person |
-| *w* | like English "w" | *wala* | none |
-| *y* | like English "y" | *yelo* | ice |
+| Consonant | Pronunciation                | Example | English   |
+| --------- | ---------------------------- | ------- | --------- |
+| _b_       | like English "b"             | _bahay_ | house     |
+| _k_       | like English "k"             | _kain_  | eat       |
+| _d_       | like English "d"             | _daan_  | road      |
+| _g_       | always hard like "g" in "go" | _gabi_  | night     |
+| _h_       | like English "h"             | _hari_  | king      |
+| _l_       | like English "l"             | _lupa_  | earth     |
+| _m_       | like English "m"             | _mata_  | eye       |
+| _n_       | like English "n"             | _noo_   | forehead  |
+| _p_       | like English "p"             | _paa_   | foot      |
+| _s_       | like English "s"             | _saya_  | happiness |
+| _t_       | like English "t"             | _tao_   | person    |
+| _w_       | like English "w"             | _wala_  | none      |
+| _y_       | like English "y"             | _yelo_  | ice       |
 
 ### Special Consonants
 
-| Consonant | Pronunciation | Example | English |
-| --------- | ------------- | ------- | ------- |
-| *ng* | like "ng" in "sing" (one sound) | *ngayon* | now |
-| *r* | lightly rolled or flapped | *rosas* | rose |
-| *j* | becomes "h" in Spanish loanwords | *Hapon* (from *Japón*) | Japan |
-| *f* | becomes "p" in Spanish loanwords | *pwersa* (from *fuerte*) | force |
+| Consonant | Pronunciation                    | Example                  | English |
+| --------- | -------------------------------- | ------------------------ | ------- |
+| _ng_      | like "ng" in "sing" (one sound)  | _ngayon_                 | now     |
+| _r_       | lightly rolled or flapped        | _rosas_                  | rose    |
+| _j_       | becomes "h" in Spanish loanwords | _Hapon_ (from _Japón_)   | Japan   |
+| _f_       | becomes "p" in Spanish loanwords | _pwersa_ (from _fuerte_) | force   |
 
-::: info The *ng* Sound
-The *ng* combination represents a single consonant sound in Tagalog, not two separate sounds. It appears at the beginning, middle, or end of words.
+::: info The _ng_ Sound
+The _ng_ combination represents a single consonant sound in Tagalog, not two separate sounds. It appears at the beginning, middle, or end of words.
 :::
 
-Examples with *ng*:
+Examples with _ng_:
 
-- *ngiti*  
+- _ngiti_  
   (smile)
-- *ngipin*  
+- _ngipin_  
   (tooth)
-- *ngayon*  
+- _ngayon_  
   (now)
 
 ## Diphthongs
@@ -83,12 +83,12 @@ Diphthongs are combinations of two vowels pronounced as one syllable.
 
 Common diphthongs in Tagalog:
 
-| Diphthong | Pronunciation | Example | English |
-| --------- | ------------- | ------- | ------- |
-| *ay* | like "eye" | *bahay* | house |
-| *aw* | like "ow" in "cow" | *araw* | sun/day |
-| *oy* | like "oy" in "boy" | *baboy* | pig |
-| *iw* | like "ew" in "few" | *giliw* | love |
+| Diphthong | Pronunciation      | Example | English |
+| --------- | ------------------ | ------- | ------- |
+| _ay_      | like "eye"         | _bahay_ | house   |
+| _aw_      | like "ow" in "cow" | _araw_  | sun/day |
+| _oy_      | like "oy" in "boy" | _baboy_ | pig     |
+| _iw_      | like "ew" in "few" | _giliw_ | love    |
 
 ## Stress and Accent
 
@@ -96,32 +96,32 @@ Stress placement in Tagalog can change word meaning. Stress typically falls on t
 
 ### Stress Patterns
 
-| Pattern | Example | English |
-| ------- | ------- | ------- |
-| Penultimate stress | *bahay* (BA-hay) | house |
-| Final stress | *babá* (ba-BA) | chin |
-| Glottal stop | *batà* (BA-ta') | child |
+| Pattern            | Example          | English |
+| ------------------ | ---------------- | ------- |
+| Penultimate stress | _bahay_ (BA-hay) | house   |
+| Final stress       | _babá_ (ba-BA)   | chin    |
+| Glottal stop       | _batà_ (BA-ta')  | child   |
 
 ::: warning Stress Matters
-Stress can distinguish words: *bukas* (tomorrow) vs. *bukás* (open). Pay attention to stress markers in learning materials.
+Stress can distinguish words: _bukas_ (tomorrow) vs. _bukás_ (open). Pay attention to stress markers in learning materials.
 :::
 
 Examples showing stress differences:
 
-- *bukas* (tomorrow) - stress on first syllable (*BU-kas*)
-- *bukás* (open) - stress on second syllable (*bu-KAS*)
-- *bása* (read) - stress on first syllable (*BA-sa*)
-- *basâ* (wet) - stress on second syllable with glottal stop (*ba-SA'*)
+- _bukas_ (tomorrow) - stress on first syllable (_BU-kas_)
+- _bukás_ (open) - stress on second syllable (_bu-KAS_)
+- _bása_ (read) - stress on first syllable (_BA-sa_)
+- _basâ_ (wet) - stress on second syllable with glottal stop (_ba-SA'_)
 
 ## Glottal Stop
 
-The glottal stop (represented by *'* or unmarked) is a brief pause in airflow, similar to the middle sound in "uh-oh."
+The glottal stop (represented by _'_ or unmarked) is a brief pause in airflow, similar to the middle sound in "uh-oh."
 
 Examples:
 
-- *puno* (tree) vs. *punô* (full) - with glottal stop
-- *bata* (robe) vs. *batà* (child) - with glottal stop
-- *baga* (lungs) vs. *bagâ* (ember) - with glottal stop
+- _puno_ (tree) vs. _punô_ (full) - with glottal stop
+- _bata_ (robe) vs. _batà_ (child) - with glottal stop
+- _baga_ (lungs) vs. _bagâ_ (ember) - with glottal stop
 
 ::: details Glottal Stop in Writing
 In formal writing, the glottal stop may be indicated by a grave accent (`) over the vowel or by an apostrophe ('). In casual writing, it is often unmarked.
@@ -137,11 +137,11 @@ Tagalog words are divided into syllables following consistent rules:
 
 Examples:
 
-- *kumain* → ku-ma-in (ate)
-- *maganda* → ma-gan-da (beautiful)
-- *tao* → ta-o (person)
-- *ngayon* → nga-yon (now)
-- *bahay* → ba-hay (house)
+- _kumain_ → ku-ma-in (ate)
+- _maganda_ → ma-gan-da (beautiful)
+- _tao_ → ta-o (person)
+- _ngayon_ → nga-yon (now)
+- _bahay_ → ba-hay (house)
 
 ## Intonation
 
@@ -149,12 +149,12 @@ Tagalog uses rising intonation for questions and falling intonation for statemen
 
 ### Statement Intonation
 
-- *Kumain siya.*  
+- _Kumain siya._  
   (He/She ate.) - falling intonation
 
 ### Question Intonation
 
-- *Kumain siya?*  
+- _Kumain siya?_  
   (Did he/she eat?) - rising intonation
 
 ::: tip Yes/No Questions
@@ -165,48 +165,48 @@ Questions without question words use rising intonation at the end to distinguish
 
 ### For English Speakers
 
-1. **The *ng* sound at word beginning**: Practice saying "singing" and isolate the "ng" sound
-   - *ngayon* (now)
-   - *ngipin* (tooth)
+1. **The _ng_ sound at word beginning**: Practice saying "singing" and isolate the "ng" sound
+   - _ngayon_ (now)
+   - _ngipin_ (tooth)
 
 2. **Clear vowel sounds**: Avoid reducing vowels to schwa
-   - Keep *a* as "ah" even in unstressed syllables
+   - Keep _a_ as "ah" even in unstressed syllables
 
-3. **Light *r* sound**: Use a single tap, not the English rolled "r"
-   - *rosas* (rose)
-   - *araw* (sun/day)
+3. **Light _r_ sound**: Use a single tap, not the English rolled "r"
+   - _rosas_ (rose)
+   - _araw_ (sun/day)
 
 4. **Glottal stop**: Practice the brief pause
-   - *batà* (child)
-   - *punô* (full)
+   - _batà_ (child)
+   - _punô_ (full)
 
 ## Practice Words
 
 ### Basic Words
 
-- *salamat*  
+- _salamat_  
   (thank you)
-- *oo*  
+- _oo_  
   (yes)
-- *hindi*  
+- _hindi_  
   (no)
-- *kumusta*  
+- _kumusta_  
   (how are you)
 
-### Words with *ng*
+### Words with _ng_
 
-- *ngayon*  
+- _ngayon_  
   (now)
-- *ngipin*  
+- _ngipin_  
   (tooth)
-- *ngiti*  
+- _ngiti_  
   (smile)
 
 ### Words with Stress Differences
 
-- *bukas* (tomorrow) vs. *bukás* (open)
-- *bása* (read) vs. *basâ* (wet)
-- *batà* (child) vs. *bata* (robe)
+- _bukas_ (tomorrow) vs. _bukás_ (open)
+- _bása_ (read) vs. _basâ_ (wet)
+- _batà_ (child) vs. _bata_ (robe)
 
 ## Spanish Influence
 
@@ -215,18 +215,18 @@ Many Tagalog words come from Spanish and often retain Spanish pronunciation patt
 ### Spanish Loanwords
 
 | Tagalog | Spanish Origin | English | Pronunciation |
-|---------|----------------|---------|---------------|
-| *mesa* | mesa | table | MEH-sah |
-| *silya* | silla | chair | SIL-yah |
-| *libro* | libro | book | LEE-broh |
-| *karne* | carne | meat | kar-NEH |
+| ------- | -------------- | ------- | ------------- |
+| _mesa_  | mesa           | table   | MEH-sah       |
+| _silya_ | silla          | chair   | SIL-yah       |
+| _libro_ | libro          | book    | LEE-broh      |
+| _karne_ | carne          | meat    | kar-NEH       |
 
 ::: warning Sound Changes
 Tagalog does not have native "j" or "f" sounds. In Spanish loanwords:
 
-- "j" becomes "h": *jabón* → *habon* (soap)
-- "f" becomes "p": *fuerte* → *pwersa* (force)
-:::
+- "j" becomes "h": _jabón_ → _habon_ (soap)
+- "f" becomes "p": _fuerte_ → _pwersa_ (force)
+  :::
 
 ## Regional Variations
 

@@ -47,7 +47,7 @@ Several core principles guide Filipino communication:
 - **Utang na loob** (debt of gratitude) - recognizing and reciprocating kindness
 - **Respect for elders** - using appropriate language forms with older individuals
 
-These principles manifest in language choices, including the use of *po* and *opo*, indirect communication styles, and honorific terms.
+These principles manifest in language choices, including the use of _po_ and _opo_, indirect communication styles, and honorific terms.
 
 ## Relevance to Language Learning
 

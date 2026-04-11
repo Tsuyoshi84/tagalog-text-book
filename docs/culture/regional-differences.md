@@ -27,15 +27,15 @@ Modern Filipino, the standardized national language, is based on Tagalog but inc
 
 The Philippines has several other major language groups:
 
-| Language | Primary Region | Speakers |
-| -------- | -------------- | -------- |
-| *Cebuano* (Bisaya) | Cebu, Bohol, eastern Negros, parts of Mindanao | ~20 million |
-| *Ilocano* | Northern Luzon (Ilocos Region, Cagayan Valley) | ~8 million |
-| *Hiligaynon* (Ilonggo) | Western Visayas (Iloilo, Bacolod) | ~8 million |
-| *Waray* | Eastern Visayas (Samar, Leyte) | ~3 million |
-| *Kapampangan* | Pampanga, parts of Tarlac | ~3 million |
-| *Pangasinan* | Pangasinan province | ~1.5 million |
-| *Bicolano* | Bicol Region | ~3.5 million |
+| Language               | Primary Region                                 | Speakers     |
+| ---------------------- | ---------------------------------------------- | ------------ |
+| _Cebuano_ (Bisaya)     | Cebu, Bohol, eastern Negros, parts of Mindanao | ~20 million  |
+| _Ilocano_              | Northern Luzon (Ilocos Region, Cagayan Valley) | ~8 million   |
+| _Hiligaynon_ (Ilonggo) | Western Visayas (Iloilo, Bacolod)              | ~8 million   |
+| _Waray_                | Eastern Visayas (Samar, Leyte)                 | ~3 million   |
+| _Kapampangan_          | Pampanga, parts of Tarlac                      | ~3 million   |
+| _Pangasinan_           | Pangasinan province                            | ~1.5 million |
+| _Bicolano_             | Bicol Region                                   | ~3.5 million |
 
 ## Tagalog Regional Variations
 
@@ -47,7 +47,7 @@ Metro Manila Tagalog is considered the prestige dialect and basis for standard F
 
 **Characteristics:**
 
-- Heavy influence from English (*Taglish*)
+- Heavy influence from English (_Taglish_)
 - Borrowed words from Hokkien Chinese
 - Neutral accent considered "standard"
 - Urban slang and colloquialisms
@@ -59,19 +59,19 @@ Known for distinctive pronunciation and vocabulary:
 **Pronunciation Features:**
 
 - Glottal stops more pronounced
-- *E* often sounds closer to *I*
+- _E_ often sounds closer to _I_
 - Distinct intonation patterns
 
 **Examples:**
 
-- *Ala e!* (expression of mild annoyance or surprise)
-- *Kasoón* instead of *Saan ka pupunta?* (Where are you going?)
+- _Ala e!_ (expression of mild annoyance or surprise)
+- _Kasoón_ instead of _Saan ka pupunta?_ (Where are you going?)
 
 ### Quezon Province Tagalog
 
 Retains older, more conservative Tagalog forms:
 
-- *Iyán* instead of *Iyón* (that)
+- _Iyán_ instead of _Iyón_ (that)
 - Different verb conjugations for some words
 - Preservation of archaic vocabulary
 
@@ -86,13 +86,13 @@ Influenced by proximity to Visayan-speaking regions:
 
 Common words that vary across regions:
 
-| Concept | Manila Tagalog | Batangas | Alternative |
-| ------- | -------------- | -------- | ----------- |
-| Friend | *Kaibigan*, *Pare*, *Bro* | *Kumpare* | *Barkada* (group of friends) |
-| Child | *Bata* | *Bata* | *Anak* (own child) |
-| Rice (cooked) | *Kanin* | *Kanin* | *Sinangag* (fried rice) |
-| To go | *Pumunta* | *Pumaroon* | *Maglakad* (to walk) |
-| Really? | *Talaga?* | *Ala e?* | *Seryoso?* |
+| Concept       | Manila Tagalog            | Batangas   | Alternative                  |
+| ------------- | ------------------------- | ---------- | ---------------------------- |
+| Friend        | _Kaibigan_, _Pare_, _Bro_ | _Kumpare_  | _Barkada_ (group of friends) |
+| Child         | _Bata_                    | _Bata_     | _Anak_ (own child)           |
+| Rice (cooked) | _Kanin_                   | _Kanin_    | _Sinangag_ (fried rice)      |
+| To go         | _Pumunta_                 | _Pumaroon_ | _Maglakad_ (to walk)         |
+| Really?       | _Talaga?_                 | _Ala e?_   | _Seryoso?_                   |
 
 ## Pronunciation Variations
 
@@ -101,15 +101,18 @@ Common words that vary across regions:
 Different regions have distinct pronunciation patterns:
 
 **Northern Tagalog (Bulacan):**
+
 - Softer, more melodic intonation
 - Clearer enunciation of syllables
 
 **Southern Tagalog (Batangas, Quezon):**
+
 - Sharper, more clipped pronunciation
 - More prominent glottal stops
 - Faster speech tempo
 
 **Metro Manila:**
+
 - Neutral, "broadcast standard" accent
 - Influenced by code-switching with English
 
@@ -117,7 +120,7 @@ Different regions have distinct pronunciation patterns:
 
 Some phonological differences:
 
-- *E* vs. *I* sounds vary by region
+- _E_ vs. _I_ sounds vary by region
 - Glottal stop intensity differs
 - Stress patterns may shift in certain words
 
@@ -128,34 +131,34 @@ Some phonological differences:
 In areas bordering Visayan-speaking regions, Tagalog speakers may adopt:
 
 - Vocabulary from Cebuano or Hiligaynon
-- *Bisaya* pronunciation patterns
+- _Bisaya_ pronunciation patterns
 - Code-switching between Tagalog and Visayan
 
 **Common Visayan Words Used:**
 
-- *Ngilngig* (cold, from Cebuano)
-- *Lami* (delicious, from Cebuano)
+- _Ngilngig_ (cold, from Cebuano)
+- _Lami_ (delicious, from Cebuano)
 
 ### Ilocano Influence
 
 Northern Luzon speakers may blend Ilocano and Tagalog:
 
-- *Wen* (yes, in Ilocano) vs. *Oo* (yes, in Tagalog)
+- _Wen_ (yes, in Ilocano) vs. _Oo_ (yes, in Tagalog)
 - Unique expressions mixing both languages
 
 ### Chinese Influence
 
 Hokkien Chinese has significantly influenced Manila Tagalog:
 
-| Tagalog | Hokkien Origin | English |
-| ------- | -------------- | ------- |
-| *Suki* | 熟 (sio̍k) | Regular customer |
-| *Ate* | 阿姐 (a-tsi) | Older sister (but also native Tagalog) |
-| *Kuya* | 哥哥 (ko-ko) | Older brother (but also native Tagalog) |
-| *Pansit* | 便食 (piān-si̍t) | Noodles |
-| *Siopao* | 燒包 (sio-pau) | Steamed bun |
-| *Lumpia* | 潤餅 (jūn-piáⁿ) | Spring roll |
-| *Tikoy* | 甜粿 (tīⁿ-kué) | Sweet rice cake |
+| Tagalog  | Hokkien Origin  | English                                 |
+| -------- | --------------- | --------------------------------------- |
+| _Suki_   | 熟 (sio̍k)       | Regular customer                        |
+| _Ate_    | 阿姐 (a-tsi)    | Older sister (but also native Tagalog)  |
+| _Kuya_   | 哥哥 (ko-ko)    | Older brother (but also native Tagalog) |
+| _Pansit_ | 便食 (piān-si̍t) | Noodles                                 |
+| _Siopao_ | 燒包 (sio-pau)  | Steamed bun                             |
+| _Lumpia_ | 潤餅 (jūn-piáⁿ) | Spring roll                             |
+| _Tikoy_  | 甜粿 (tīⁿ-kué)  | Sweet rice cake                         |
 
 ### Spanish Influence
 
@@ -169,25 +172,27 @@ Spanish loanwords vary in usage by region and generation:
 
 | Spanish-derived | Native Tagalog | English |
 | --------------- | -------------- | ------- |
-| *Bintana* | *Durungawan* | Window |
-| *Lamesa* | *Hapag* | Table |
-| *Kutsara* | *Sandok* | Spoon |
+| _Bintana_       | _Durungawan_   | Window  |
+| _Lamesa_        | _Hapag_        | Table   |
+| _Kutsara_       | _Sandok_       | Spoon   |
 
 ## Code-Switching and Taglish
 
 ### Urban vs. Rural
 
 **Urban Areas (especially Metro Manila):**
-- Heavy English code-switching (*Taglish*)
+
+- Heavy English code-switching (_Taglish_)
 - English technical and professional terms
 - Modern slang incorporating English
 
 **Example:**
 
-- *Nag-meet kami sa mall, tapos nag-shopping.*  
+- _Nag-meet kami sa mall, tapos nag-shopping._  
   (We met at the mall, then went shopping.)
 
 **Rural Areas:**
+
 - More pure Tagalog usage
 - Spanish loanwords more prevalent
 - Less English code-switching
@@ -195,11 +200,13 @@ Spanish loanwords vary in usage by region and generation:
 ### Generational Differences
 
 **Younger Generation:**
-- Fluent in *Taglish*
+
+- Fluent in _Taglish_
 - Social media slang
 - English borrowings for technology and pop culture
 
 **Older Generation:**
+
 - More Spanish loanwords
 - Traditional Tagalog vocabulary
 - Formal speech patterns
@@ -211,11 +218,13 @@ See also: [Taglish](../expressions/taglish.md)
 ### Communication Styles
 
 **Manila:**
+
 - More direct and fast-paced
 - Higher English proficiency
 - Cosmopolitan influences
 
 **Provincial Areas:**
+
 - More traditional and courteous
 - Slower, more deliberate speech
 - Stronger community ties
@@ -225,13 +234,15 @@ See also: [Taglish](../expressions/taglish.md)
 All regions emphasize respect, but expressions vary:
 
 **Metro Manila:**
-- *Po/Opo* used consistently
+
+- _Po/Opo_ used consistently
 - Professional titles common
-- English titles (*Sir/Ma'am*) prevalent
+- English titles (_Sir/Ma'am_) prevalent
 
 **Provinces:**
-- *Po/Opo* universal and emphasized
-- Kinship terms (*Tito/Tita*) extended to non-relatives
+
+- _Po/Opo_ universal and emphasized
+- Kinship terms (_Tito/Tita_) extended to non-relatives
 - Local honorifics may exist
 
 ## Mutual Intelligibility

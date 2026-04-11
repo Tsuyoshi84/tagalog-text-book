@@ -6,7 +6,7 @@ outline: [2, 3]
 
 # Questions in Tagalog
 
-Questions in Tagalog are formed through question words (*mga salitang pananong*), rising intonation, or the question particle *ba*. Understanding how to construct questions is essential for communication and conversation.
+Questions in Tagalog are formed through question words (_mga salitang pananong_), rising intonation, or the question particle _ba_. Understanding how to construct questions is essential for communication and conversation.
 
 ## Yes/No Questions
 
@@ -16,54 +16,54 @@ Yes/no questions expect a simple affirmative or negative answer.
 
 The simplest way to form a yes/no question is with rising intonation at the end:
 
-- *Kumain ka?*  
+- _Kumain ka?_  
   (Did you eat?) - statement becomes question through intonation
 
-### Using *Ba* Particle
+### Using _Ba_ Particle
 
-The particle *ba* marks yes/no questions explicitly and typically appears after the first word or major constituent:
+The particle _ba_ marks yes/no questions explicitly and typically appears after the first word or major constituent:
 
-- *Kumain ka ba?*  
+- _Kumain ka ba?_  
   (Did you eat?)
-- *Pupunta ka ba sa pista?*  
+- _Pupunta ka ba sa pista?_  
   (Will you go to the festival?)
-- *Masarap ba ang pagkain?*  
+- _Masarap ba ang pagkain?_  
   (Is the food delicious?)
 
-::: tip *Ba* Placement
-*Ba* typically follows the predicate or first major element. It is enclitic and must attach to a preceding word.
+::: tip _Ba_ Placement
+_Ba_ typically follows the predicate or first major element. It is enclitic and must attach to a preceding word.
 
-- Correct: *Kumain ka ba?*
-- Incorrect: *Ba kumain ka?*
-:::
+- Correct: _Kumain ka ba?_
+- Incorrect: _Ba kumain ka?_
+  :::
 
 ### With Temporal Particles
 
-Combine *ba* with *na* (already) or *pa* (still/yet):
+Combine _ba_ with _na_ (already) or _pa_ (still/yet):
 
-- *Kumain ka na ba?*  
+- _Kumain ka na ba?_  
   (Have you already eaten?)
-- *Nandito pa ba siya?*  
+- _Nandito pa ba siya?_  
   (Is he/she still here?)
-- *Tulog pa ba ang bata?*  
+- _Tulog pa ba ang bata?_  
   (Is the child still sleeping?)
 
 ### Answering Yes/No Questions
 
-| Answer | Tagalog | Polite Form | Example Context |
-| ------ | ------- | ----------- | --------------- |
-| Yes | *Oo* | *Opo* | *Kumain ka na ba? - Oo.* (Have you eaten? - Yes.) |
-| No | *Hindi* | *Hindi po* | *Pupunta ka ba? - Hindi.* (Will you go? - No.) |
+| Answer | Tagalog | Polite Form | Example Context                                   |
+| ------ | ------- | ----------- | ------------------------------------------------- |
+| Yes    | _Oo_    | _Opo_       | _Kumain ka na ba? - Oo._ (Have you eaten? - Yes.) |
+| No     | _Hindi_ | _Hindi po_  | _Pupunta ka ba? - Hindi._ (Will you go? - No.)    |
 
 Additional responses:
 
-- *Oo nga.* (Yes, indeed.)
-- *Hindi naman.* (Not really.)
-- *Siguro.* (Maybe.)
-- *Marahil.* (Perhaps.)
+- _Oo nga._ (Yes, indeed.)
+- _Hindi naman._ (Not really.)
+- _Siguro._ (Maybe.)
+- _Marahil._ (Perhaps.)
 
 ::: info Politeness
-Use *opo* instead of *oo* and add *po* to *hindi* when speaking to elders or superiors: *Hindi po*.
+Use _opo_ instead of _oo_ and add _po_ to _hindi_ when speaking to elders or superiors: _Hindi po_.
 :::
 
 ## Question Words
@@ -72,319 +72,319 @@ Tagalog uses specific question words for different types of information.
 
 ### Basic Question Words
 
-| Question Word | English | Asks About | Example |
-| ------------- | ------- | ---------- | ------- |
-| *sino* | who | person/identity | *Sino ka?* (Who are you?) |
-| *ano* | what | thing/identity | *Ano ito?* (What is this?) |
-| *alin* | which | choice/selection | *Alin ang gusto mo?* (Which do you want?) |
-| *saan* | where | location | *Saan ka pupunta?* (Where are you going?) |
-| *kailan* | when | time | *Kailan ka babalik?* (When will you return?) |
-| *paano* | how | manner/method | *Paano mo ginawa?* (How did you do it?) |
-| *bakit* | why | reason | *Bakit ka umalis?* (Why did you leave?) |
-| *magkano* | how much | price/cost | *Magkano ito?* (How much is this?) |
-| *ilan* | how many | countable quantity | *Ilan ang tao?* (How many people?) |
-| *gaano* | how (degree) | extent/degree | *Gaano kalaki?* (How big?) |
+| Question Word | English      | Asks About         | Example                                      |
+| ------------- | ------------ | ------------------ | -------------------------------------------- |
+| _sino_        | who          | person/identity    | _Sino ka?_ (Who are you?)                    |
+| _ano_         | what         | thing/identity     | _Ano ito?_ (What is this?)                   |
+| _alin_        | which        | choice/selection   | _Alin ang gusto mo?_ (Which do you want?)    |
+| _saan_        | where        | location           | _Saan ka pupunta?_ (Where are you going?)    |
+| _kailan_      | when         | time               | _Kailan ka babalik?_ (When will you return?) |
+| _paano_       | how          | manner/method      | _Paano mo ginawa?_ (How did you do it?)      |
+| _bakit_       | why          | reason             | _Bakit ka umalis?_ (Why did you leave?)      |
+| _magkano_     | how much     | price/cost         | _Magkano ito?_ (How much is this?)           |
+| _ilan_        | how many     | countable quantity | _Ilan ang tao?_ (How many people?)           |
+| _gaano_       | how (degree) | extent/degree      | _Gaano kalaki?_ (How big?)                   |
 
-## *Sino* (Who)
+## _Sino_ (Who)
 
 Asks about people or identity.
 
 ### Basic Usage
 
-- *Sino ka?*  
+- _Sino ka?_  
   (Who are you?)
-- *Sino ang kumain?*  
+- _Sino ang kumain?_  
   (Who ate?)
-- *Sino siya?*  
+- _Sino siya?_  
   (Who is he/she?)
 
-### Possessive Form: *Kanino*
+### Possessive Form: _Kanino_
 
 Asks "whose":
 
-- *Kanino ito?*  
+- _Kanino ito?_  
   (Whose is this?)
-- *Kanino ang kotse?*  
+- _Kanino ang kotse?_  
   (Whose car is this?)
 
 ### With Prepositions
 
-- *Para kanino ito?*  
+- _Para kanino ito?_  
   (For whom is this?)
-- *Sino ang kasama mo?*  
+- _Sino ang kasama mo?_  
   (Who is with you?)
 
-### Multiple People: *Sino-sino*
+### Multiple People: _Sino-sino_
 
 Asks "who all" or "who are they":
 
-- *Sino-sino ang dumalo?*  
+- _Sino-sino ang dumalo?_  
   (Who all attended?)
 
-## *Ano* (What)
+## _Ano_ (What)
 
 Asks about things, actions, or definitions.
 
 ### Basic Usage
 
-- *Ano ito?*  
+- _Ano ito?_  
   (What is this?)
-- *Ano ang pangalan mo?*  
+- _Ano ang pangalan mo?_  
   (What is your name?)
-- *Ano ang ginagawa mo?*  
+- _Ano ang ginagawa mo?_  
   (What are you doing?)
 
 ### Asking About Qualities
 
-- *Anong kulay?*  
+- _Anong kulay?_  
   (What color?)
-- *Anong oras?*  
+- _Anong oras?_  
   (What time?)
-- *Anong klaseng pagkain?*  
+- _Anong klaseng pagkain?_  
   (What kind of food?)
 
-### Plural Form: *Ano-ano*
+### Plural Form: _Ano-ano_
 
 Asks "what all" or "what things":
 
-- *Ano-ano ang binili mo?*  
+- _Ano-ano ang binili mo?_  
   (What all did you buy?)
 
-## *Alin* (Which)
+## _Alin_ (Which)
 
 Asks for selection among options.
 
-- *Alin ang gusto mo?*  
+- _Alin ang gusto mo?_  
   (Which do you want?)
-- *Alin ang mas maganda?*  
+- _Alin ang mas maganda?_  
   (Which is more beautiful?)
-- *Sa alin ka pupunta?*  
+- _Sa alin ka pupunta?_  
   (To which will you go?)
 
 Examples with choices:
 
-- *Alin - ang pula o ang puti?*  
+- _Alin - ang pula o ang puti?_  
   (Which - the red or the white?)
 
-## *Saan* (Where)
+## _Saan_ (Where)
 
 Asks about location or direction.
 
 ### Basic Location
 
-- *Saan ka nakatira?*  
+- _Saan ka nakatira?_  
   (Where do you live?)
-- *Saan ang banyo?*  
+- _Saan ang banyo?_  
   (Where is the bathroom?)
-- *Nasaan siya?*  
+- _Nasaan siya?_  
   (Where is he/she?)
 
-::: info *Saan* vs. *Nasaan*
-*Nasaan* is a contraction of *nasa* (locative marker meaning "at/in") + *saan* (where). It specifically asks "where is/are" for current location.
+::: info _Saan_ vs. _Nasaan_
+_Nasaan_ is a contraction of _nasa_ (locative marker meaning "at/in") + _saan_ (where). It specifically asks "where is/are" for current location.
 
-- *Saan ka pupunta?* (Where are you going?) - directional
-- *Nasaan ang susi?* (Where are the keys?) - current location
-- *Nasa* means "is at/in," so *Nasaan* literally asks "is at where?"
-:::
+- _Saan ka pupunta?_ (Where are you going?) - directional
+- _Nasaan ang susi?_ (Where are the keys?) - current location
+- _Nasa_ means "is at/in," so _Nasaan_ literally asks "is at where?"
+  :::
 
 ### Directional Questions
 
-- *Saan ka nanggaling?*  
+- _Saan ka nanggaling?_  
   (Where did you come from?)
-- *Saan ka pupunta?*  
+- _Saan ka pupunta?_  
   (Where are you going?)
 
-### Origin: *Taga-saan*
+### Origin: _Taga-saan_
 
 Asks where someone is from:
 
-- *Taga-saan ka?*  
+- _Taga-saan ka?_  
   (Where are you from?)
-- *Taga-Maynila ako.*  
+- _Taga-Maynila ako._  
   (I'm from Manila.)
 
-## *Kailan* (When)
+## _Kailan_ (When)
 
 Asks about time.
 
-- *Kailan ka darating?*  
+- _Kailan ka darating?_  
   (When are you arriving?)
-- *Kailan ang kasal?*  
+- _Kailan ang kasal?_  
   (When is the wedding?)
-- *Kailan ka ipinanganak?*  
+- _Kailan ka ipinanganak?_  
   (When were you born?)
 
 ### Time Frames
 
-- *Kailan - ngayon, bukas, o sa susunod na linggo?*  
+- _Kailan - ngayon, bukas, o sa susunod na linggo?_  
   (When - today, tomorrow, or next week?)
 
-## *Paano* (How)
+## _Paano_ (How)
 
 Asks about manner, method, or process.
 
 ### Basic Usage
 
-- *Paano mo ginawa?*  
+- _Paano mo ginawa?_  
   (How did you do it?)
-- *Paano pumunta doon?*  
+- _Paano pumunta doon?_  
   (How to get there?)
 
 ### Asking for Instructions
 
-- *Paano magluto ng adobo?*  
+- _Paano magluto ng adobo?_  
   (How to cook adobo?)
-- *Paano mag-commute papuntang Maynila?*  
+- _Paano mag-commute papuntang Maynila?_  
   (How to commute to Manila?)
 
-## *Bakit* (Why)
+## _Bakit_ (Why)
 
 Asks about reason or cause.
 
-- *Bakit ka umiyak?*  
+- _Bakit ka umiyak?_  
   (Why did you cry?)
-- *Bakit wala ka kahapon?*  
+- _Bakit wala ka kahapon?_  
   (Why were you absent yesterday?)
-- *Bakit hindi ka kumain?*  
+- _Bakit hindi ka kumain?_  
   (Why didn't you eat?)
 
-### Answering *Bakit*
+### Answering _Bakit_
 
-Answers typically use *kasi* (because) or *dahil* (because):
+Answers typically use _kasi_ (because) or _dahil_ (because):
 
-- *Bakit ka late?* - *Kasi traffic.*  
+- _Bakit ka late?_ - _Kasi traffic._  
   (Why are you late? - Because of traffic.)
-- *Bakit ka umuwi?* - *Dahil pagod na ako.*  
+- _Bakit ka umuwi?_ - _Dahil pagod na ako._  
   (Why did you go home? - Because I was tired.)
 
 See also: [Connectors](./connectors.md)
 
-## *Magkano* (How Much)
+## _Magkano_ (How Much)
 
 Asks about price or cost.
 
-- *Magkano ito?*  
+- _Magkano ito?_  
   (How much is this?)
-- *Magkano ang bayad?*  
+- _Magkano ang bayad?_  
   (How much is the payment?)
-- *Magkano lahat?*  
+- _Magkano lahat?_  
   (How much is everything?)
 
 ### Responses
 
-- *Singkuwenta pesos.*  
+- _Singkuwenta pesos._  
   (Fifty pesos.)
-- *Bente lang.*  
+- _Bente lang._  
   (Just twenty.)
 
 See also: [Numbers](./numbers.md)
 
-## *Ilan* (How Many)
+## _Ilan_ (How Many)
 
 Asks about countable quantity.
 
-- *Ilan ang tao?*  
+- _Ilan ang tao?_  
   (How many people?)
-- *Ilang taon ka na?*  
+- _Ilang taon ka na?_  
   (How old are you?) - literally "How many years?"
-- *Ilan ang gusto mo?*  
+- _Ilan ang gusto mo?_  
   (How many do you want?)
 
 ### Age Questions
 
-- *Ilang taon ka na?*  
+- _Ilang taon ka na?_  
   (How old are you?)
-- *Bente anyos na ako.*  
+- _Bente anyos na ako._  
   (I'm twenty years old.)
 
 See also: [Time and Date](./time-date.md)
 
-## *Gaano* (How - Degree)
+## _Gaano_ (How - Degree)
 
 Asks about extent, degree, or size.
 
 ### With Adjectives
 
-- *Gaano kalaki?*  
+- _Gaano kalaki?_  
   (How big?)
-- *Gaano kataas?*  
+- _Gaano kataas?_  
   (How tall/high?)
-- *Gaano katagal?*  
+- _Gaano katagal?_  
   (How long - duration?)
 
 Examples:
 
-- *Gaano kalayo ang bahay mo?*  
+- _Gaano kalayo ang bahay mo?_  
   (How far is your house?)
-- *Gaano kadalas?*  
+- _Gaano kadalas?_  
   (How often?)
 
 ## Complex Question Patterns
 
 ### Multiple Question Words
 
-- *Sino ang kasama mo at saan kayo pupunta?*  
+- _Sino ang kasama mo at saan kayo pupunta?_  
   (Who is with you and where are you going?)
-- *Ano ang gusto mo at kailan mo kailangan?*  
+- _Ano ang gusto mo at kailan mo kailangan?_  
   (What do you want and when do you need it?)
 
 ### Indirect and Embedded Questions
 
 Questions reported in statements or embedded within other sentences:
 
-- *Tinanong niya kung kumain ka na.*
+- _Tinanong niya kung kumain ka na._
   (He/She asked if you already ate.)
-- *Hindi ko alam kung sino siya.*
+- _Hindi ko alam kung sino siya._
   (I don't know who he/she is.)
-- *Tanungin mo kung saan siya nakatira.*
+- _Tanungin mo kung saan siya nakatira._
   (Ask him/her where he/she lives.)### Rhetorical Questions
 
 Questions not expecting an answer:
 
-- *Sino ba naman ang hindi magagalit?*  
+- _Sino ba naman ang hindi magagalit?_  
   (Who wouldn't be angry?)
-- *Ano pa ba ang pwedeng gawin?*  
+- _Ano pa ba ang pwedeng gawin?_  
   (What else can be done?)
 
 ## Question Formation with Different Sentence Types
 
-### With Existential *May*/*Wala*
+### With Existential _May_/_Wala_
 
-- *May tubig ba?*  
+- _May tubig ba?_  
   (Is there water?)
-- *Wala bang pagkain?*  
+- _Wala bang pagkain?_  
   (Is there no food?)
 
 ### With Adjective Predicates
 
-- *Maganda ba?*  
+- _Maganda ba?_  
   (Is it beautiful?)
-- *Masarap ba ang kape?*  
+- _Masarap ba ang kape?_  
   (Is the coffee delicious?)
 
 ### With Noun Predicates
 
-- *Guro ba siya?*  
+- _Guro ba siya?_  
   (Is he/she a teacher?)
-- *Totoo ba ito?*  
+- _Totoo ba ito?_  
   (Is this true?)
 
 ## Tag Questions
 
 Tag questions seek confirmation, similar to English "right?" or "isn't it?"
 
-### Using *Hindi ba*
+### Using _Hindi ba_
 
-- *Maganda siya, hindi ba?*  
+- _Maganda siya, hindi ba?_  
   (She's beautiful, isn't she?)
-- *Kumain ka na, hindi ba?*  
+- _Kumain ka na, hindi ba?_  
   (You already ate, right?)
 
-### Using *Ano* / *Di ba*
+### Using _Ano_ / _Di ba_
 
-- *Pupunta ka, ano?*  
+- _Pupunta ka, ano?_  
   (You're going, right?)
-- *Totoo, di ba?*  
+- _Totoo, di ba?_  
   (It's true, right?)
 
 ## Question Intonation Patterns
@@ -395,32 +395,32 @@ Different intonation conveys different nuances:
 
 Standard questioning tone:
 
-- *Kumain ka?* ↗  
+- _Kumain ka?_ ↗  
   (Did you eat?)
 
 ### Falling-Rising Intonation
 
 Expressing surprise or disbelief:
 
-- *Kumain ka?* ↘↗  
+- _Kumain ka?_ ↘↗  
   (You ate? - surprised)
 
 ## Polite Question Forms
 
-### Using *Paki-* Prefix
+### Using _Paki-_ Prefix
 
 Makes requests polite:
 
-- *Pakisabi kung saan ang banyo.*  
+- _Pakisabi kung saan ang banyo._  
   (Please tell me where the bathroom is.)
-- *Pakitanong kung sino siya.*  
+- _Pakitanong kung sino siya._  
   (Please ask who he/she is.)
 
-### Adding *Po*
+### Adding _Po_
 
-- *Ano po ang pangalan ninyo?*  
+- _Ano po ang pangalan ninyo?_  
   (What is your name, sir/ma'am?)
-- *Saan po kayo nakatira?*  
+- _Saan po kayo nakatira?_  
   (Where do you live, sir/ma'am?)
 
 See also: [Particles](./particles/index.md), [Culture: Etiquette](../culture/etiquette.md)
@@ -429,42 +429,42 @@ See also: [Particles](./particles/index.md), [Culture: Etiquette](../culture/eti
 
 Offering choices:
 
-- *Kape o tsaa?*  
+- _Kape o tsaa?_  
   (Coffee or tea?)
-- *Pupunta ka ba o hindi?*  
+- _Pupunta ka ba o hindi?_  
   (Will you go or not?)
-- *Ngayon ba o bukas?*  
+- _Ngayon ba o bukas?_  
   (Today or tomorrow?)
 
 ## Common Question Phrases
 
 ### Everyday Questions
 
-- *Kumusta?* / *Kumusta ka?*  
+- _Kumusta?_ / _Kumusta ka?_  
   (How are you?)
-- *Nasaan ka?*  
+- _Nasaan ka?_  
   (Where are you?)
-- *Ano'ng balita?*  
+- _Ano'ng balita?_  
   (What's new?)
-- *Okay ka lang ba?*  
+- _Okay ka lang ba?_  
   (Are you okay?)
 
 ### Getting Information
 
-- *Puwede ba akong magtanong?*  
+- _Puwede ba akong magtanong?_  
   (May I ask?)
-- *Alam mo ba?*  
+- _Alam mo ba?_  
   (Do you know?)
-- *Sigurado ka ba?*  
+- _Sigurado ka ba?_  
   (Are you sure?)
 
 ### Clarification
 
-- *Ano ulit?*  
+- _Ano ulit?_  
   (What again?)
-- *Paki-ulit naman.*  
+- _Paki-ulit naman._  
   (Please repeat.)
-- *Hindi ko maintindihan. Ano ang ibig mong sabihin?*  
+- _Hindi ko maintindihan. Ano ang ibig mong sabihin?_  
   (I don't understand. What do you mean?)
 
 ## Responding to Questions
@@ -473,65 +473,65 @@ Offering choices:
 
 Match the response to the question type:
 
-- *Sino?* → Name or description: *Si Juan.* / *Ang kaibigan ko.*
-- *Ano?* → Thing or action: *Libro.* / *Kumakain.*
-- *Saan?* → Location: *Sa bahay.* / *Sa Maynila.*
-- *Kailan?* → Time: *Bukas.* / *Mamaya.*
-- *Paano?* → Method: *Sumakay ng bus.* / *Ganito.*
-- *Bakit?* → Reason: *Kasi gutom ako.*
-- *Ilan?* → Number: *Lima.* / *Sampung tao.*
+- _Sino?_ → Name or description: _Si Juan._ / _Ang kaibigan ko._
+- _Ano?_ → Thing or action: _Libro._ / _Kumakain._
+- _Saan?_ → Location: _Sa bahay._ / _Sa Maynila._
+- _Kailan?_ → Time: _Bukas._ / _Mamaya._
+- _Paano?_ → Method: _Sumakay ng bus._ / _Ganito._
+- _Bakit?_ → Reason: _Kasi gutom ako._
+- _Ilan?_ → Number: _Lima._ / _Sampung tao._
 
 ### Non-Answer Responses
 
-- *Hindi ko alam.*  
+- _Hindi ko alam._  
   (I don't know.)
-- *Siguro.*  
+- _Siguro._  
   (Maybe.)
-- *Hindi ako sigurado.*  
+- _Hindi ako sigurado._  
   (I'm not sure.)
-- *Wala akong ideya.*  
+- _Wala akong ideya._  
   (I have no idea.)
 
 ## Regional Variations
 
 ::: details Dialectal Differences
-Some regions may use variant question forms or different word order preferences. For example, some areas use *diin* instead of *saan* for "where," or *pila* instead of *ilan* for "how many" (influenced by regional languages). The forms presented here represent standard Manila Tagalog.
+Some regions may use variant question forms or different word order preferences. For example, some areas use _diin_ instead of _saan_ for "where," or _pila_ instead of _ilan_ for "how many" (influenced by regional languages). The forms presented here represent standard Manila Tagalog.
 :::
 
 ## Common Errors
 
-### Misplacing *Ba*
+### Misplacing _Ba_
 
-- Incorrect: *Ba kumain ka?*
-- Correct: *Kumain ka ba?*
+- Incorrect: _Ba kumain ka?_
+- Correct: _Kumain ka ba?_
 
 ### Omitting Question Markers
 
-While intonation alone can work, explicitly marking questions with *ba* or question words is clearer:
+While intonation alone can work, explicitly marking questions with _ba_ or question words is clearer:
 
-- Ambiguous: *Pupunta ka.* (You're going. / Are you going?)
-- Clear: *Pupunta ka ba?* (Are you going?)
+- Ambiguous: _Pupunta ka._ (You're going. / Are you going?)
+- Clear: _Pupunta ka ba?_ (Are you going?)
 
 ### Wrong Question Word
 
-- Incorrect: *Ilan ito?* (How many is this?)
-- Correct: *Ano ito?* (What is this?) or *Magkano ito?* (How much is this?)
+- Incorrect: _Ilan ito?_ (How many is this?)
+- Correct: _Ano ito?_ (What is this?) or _Magkano ito?_ (How much is this?)
 
 ## Summary
 
 Tagalog questions are formed through:
 
 1. Rising intonation
-2. Question particle *ba*
-3. Question words (*sino*, *ano*, *saan*, etc.)
-4. Tag questions (*hindi ba*, *ano*)
-5. Alternative questions with *o* (or)
+2. Question particle _ba_
+3. Question words (_sino_, _ano_, _saan_, etc.)
+4. Tag questions (_hindi ba_, _ano_)
+5. Alternative questions with _o_ (or)
 
 Key points:
 
-- *Ba* follows the first major constituent
+- _Ba_ follows the first major constituent
 - Question words vary by the type of information sought
-- Polite forms use *po* or *paki-* prefix
+- Polite forms use _po_ or _paki-_ prefix
 - Intonation plays a crucial role in yes/no questions
 
 Mastering question formation enables effective communication and conversation in Tagalog.

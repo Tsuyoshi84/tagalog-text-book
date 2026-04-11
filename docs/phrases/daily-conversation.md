@@ -10,119 +10,119 @@ Common phrases used in everyday interactions, from simple affirmations to expres
 
 ## Basic Responses
 
-| Tagalog | English |
-| ------- | ------- |
-| *Oo.* | Yes. |
-| *Hindi.* | No. |
-| *Siguro.* | Maybe. |
-| *Ayos lang.* | It's okay. |
-| *Sige.* | Okay/Sure. |
-| *Tama.* | Correct/Right. |
-| *Mali.* | Wrong/Incorrect. |
-| *Alam ko.* | I know. |
-| *Hindi ko alam.* | I don't know. |
+| Tagalog          | English          |
+| ---------------- | ---------------- |
+| _Oo._            | Yes.             |
+| _Hindi._         | No.              |
+| _Siguro._        | Maybe.           |
+| _Ayos lang._     | It's okay.       |
+| _Sige._          | Okay/Sure.       |
+| _Tama._          | Correct/Right.   |
+| _Mali._          | Wrong/Incorrect. |
+| _Alam ko._       | I know.          |
+| _Hindi ko alam._ | I don't know.    |
 
 ## Common Questions
 
-| Tagalog | English |
-| ------- | ------- |
-| *Ano iyan?* | What is that? |
-| *Ano ito?* | What is this? |
-| *Bakit?* | Why? |
-| *Kailan?* | When? |
-| *Saan?* | Where? |
-| *Sino?* | Who? |
-| *Paano?* | How? |
-| *Magkano?* | How much? |
-| *Nasaan ka?* | Where are you? |
-| *Ano ang ginagawa mo?* | What are you doing? |
-| *Naiintindihan mo ba?* | Do you understand? |
-| *Nauunawaan mo ba ako?* | Do you understand me? |
+| Tagalog                 | English               |
+| ----------------------- | --------------------- |
+| _Ano iyan?_             | What is that?         |
+| _Ano ito?_              | What is this?         |
+| _Bakit?_                | Why?                  |
+| _Kailan?_               | When?                 |
+| _Saan?_                 | Where?                |
+| _Sino?_                 | Who?                  |
+| _Paano?_                | How?                  |
+| _Magkano?_              | How much?             |
+| _Nasaan ka?_            | Where are you?        |
+| _Ano ang ginagawa mo?_  | What are you doing?   |
+| _Naiintindihan mo ba?_  | Do you understand?    |
+| _Nauunawaan mo ba ako?_ | Do you understand me? |
 
 ## Expressing Needs
 
-| Tagalog | English |
-| ------- | ------- |
-| *Gusto ko.* | I want. |
-| *Ayoko.* | I don't want. |
-| *Kailangan ko.* | I need. |
-| *Gusto kong umuwi.* | I want to go home. |
-| *Kailangan kong umalis.* | I need to leave. |
-| *Pwede ba?* | Is it possible?/May I? |
-| *Pwede mo ba akong tulungan?* | Can you help me? |
-| *Paki-ulit nga.* | Please repeat. |
-| *Sandali lang.* | Just a moment. |
+| Tagalog                       | English                |
+| ----------------------------- | ---------------------- |
+| _Gusto ko._                   | I want.                |
+| _Ayoko._                      | I don't want.          |
+| _Kailangan ko._               | I need.                |
+| _Gusto kong umuwi._           | I want to go home.     |
+| _Kailangan kong umalis._      | I need to leave.       |
+| _Pwede ba?_                   | Is it possible?/May I? |
+| _Pwede mo ba akong tulungan?_ | Can you help me?       |
+| _Paki-ulit nga._              | Please repeat.         |
+| _Sandali lang._               | Just a moment.         |
 
 ## Requests and Offers
 
-| Tagalog | English |
-| ------- | ------- |
-| *Pakiusap.* | Please. |
-| *Paki-abot.* | Please pass/hand over. |
-| *Paki-kuha.* | Please get/fetch. |
-| *Tulungan mo ako.* | Help me. |
-| *Tara na.* | Let's go. |
-| *Halika.* | Come here. |
-| *Tayo na.* | Let's go. (standing up) |
-| *Gusto mo?* | Do you want? |
-| *Gusto mo ba ng tubig?* | Do you want water? |
-| *Kain tayo.* | Let's eat. |
+| Tagalog                 | English                 |
+| ----------------------- | ----------------------- |
+| _Pakiusap._             | Please.                 |
+| _Paki-abot._            | Please pass/hand over.  |
+| _Paki-kuha._            | Please get/fetch.       |
+| _Tulungan mo ako._      | Help me.                |
+| _Tara na._              | Let's go.               |
+| _Halika._               | Come here.              |
+| _Tayo na._              | Let's go. (standing up) |
+| _Gusto mo?_             | Do you want?            |
+| _Gusto mo ba ng tubig?_ | Do you want water?      |
+| _Kain tayo._            | Let's eat.              |
 
 ## Small Talk
 
-| Tagalog | English |
-| ------- | ------- |
-| *Ano ang balita?* | What's the news?/What's up? |
-| *Wala namang bago.* | Nothing new. |
-| *Kamusta ang trabaho?* | How's work? |
-| *Okay naman.* | It's okay. |
-| *Anong oras na?* | What time is it? |
-| *Aalis ka na ba?* | Are you leaving now? |
-| *Busy ka ba?* | Are you busy? |
-| *Medyo.* | A little/Somewhat. |
-| *Saan ka pupunta?* | Where are you going? |
-| *Dito lang.* | Just here. |
+| Tagalog                | English                     |
+| ---------------------- | --------------------------- |
+| _Ano ang balita?_      | What's the news?/What's up? |
+| _Wala namang bago._    | Nothing new.                |
+| _Kamusta ang trabaho?_ | How's work?                 |
+| _Okay naman._          | It's okay.                  |
+| _Anong oras na?_       | What time is it?            |
+| _Aalis ka na ba?_      | Are you leaving now?        |
+| _Busy ka ba?_          | Are you busy?               |
+| _Medyo._               | A little/Somewhat.          |
+| _Saan ka pupunta?_     | Where are you going?        |
+| _Dito lang._           | Just here.                  |
 
 ## Expressing Feelings
 
-| Tagalog | English |
-| ------- | ------- |
-| *Pagod ako.* | I'm tired. |
-| *Gutom na ako.* | I'm hungry. |
-| *Uhaw ako.* | I'm thirsty. |
-| *Masaya ako.* | I'm happy. |
-| *Malungkot ako.* | I'm sad. |
-| *Galit ako.* | I'm angry. |
-| *Inaantok ako.* | I'm sleepy. |
-| *Masakit ang ulo ko.* | I have a headache./My head hurts. |
-| *Masama ang pakiramdam ko.* | I don't feel well. |
+| Tagalog                     | English                           |
+| --------------------------- | --------------------------------- |
+| _Pagod ako._                | I'm tired.                        |
+| _Gutom na ako._             | I'm hungry.                       |
+| _Uhaw ako._                 | I'm thirsty.                      |
+| _Masaya ako._               | I'm happy.                        |
+| _Malungkot ako._            | I'm sad.                          |
+| _Galit ako._                | I'm angry.                        |
+| _Inaantok ako._             | I'm sleepy.                       |
+| _Masakit ang ulo ko._       | I have a headache./My head hurts. |
+| _Masama ang pakiramdam ko._ | I don't feel well.                |
 
 ## Weather Talk
 
-| Tagalog | English |
-| ------- | ------- |
-| *Mainit ngayon.* | It's hot today. |
-| *Malamig.* | It's cold. |
-| *Umuulan.* | It's raining. |
-| *Maganda ang panahon.* | The weather is nice. |
-| *Maulan ngayong araw.* | It's rainy today. |
+| Tagalog                | English              |
+| ---------------------- | -------------------- |
+| _Mainit ngayon._       | It's hot today.      |
+| _Malamig._             | It's cold.           |
+| _Umuulan._             | It's raining.        |
+| _Maganda ang panahon._ | The weather is nice. |
+| _Maulan ngayong araw._ | It's rainy today.    |
 
 ## Common Statements
 
-| Tagalog | English |
-| ------- | ------- |
-| *Wala akong pera.* | I don't have money. |
-| *May lakad ako.* | I have plans./I have something to do. |
-| *Walang problema.* | No problem. |
-| *Sige na.* | Come on./Go ahead. |
-| *Matagal na.* | It's been a long time. |
-| *Hindi ko gusto.* | I don't like it. |
-| *Ayoko na.* | I don't want anymore. |
-| *Tama na.* | That's enough. |
-| *Huwag na.* | Don't anymore./Never mind. |
+| Tagalog            | English                               |
+| ------------------ | ------------------------------------- |
+| _Wala akong pera._ | I don't have money.                   |
+| _May lakad ako._   | I have plans./I have something to do. |
+| _Walang problema._ | No problem.                           |
+| _Sige na._         | Come on./Go ahead.                    |
+| _Matagal na._      | It's been a long time.                |
+| _Hindi ko gusto._  | I don't like it.                      |
+| _Ayoko na._        | I don't want anymore.                 |
+| _Tama na._         | That's enough.                        |
+| _Huwag na._        | Don't anymore./Never mind.            |
 
 ::: tip 💡 Usage Note
-Many daily conversation phrases use shortened or contracted forms in casual speech. For example, *Naiintindihan mo ba?* (Do you understand?) might be shortened to *Intindi mo?* in very informal contexts.
+Many daily conversation phrases use shortened or contracted forms in casual speech. For example, _Naiintindihan mo ba?_ (Do you understand?) might be shortened to _Intindi mo?_ in very informal contexts.
 :::
 
 See also: [Greetings](./greetings.md), [Common Expressions](../expressions/common-expressions.md)

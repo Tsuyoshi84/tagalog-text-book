@@ -6,22 +6,22 @@ outline: [2, 3]
 
 # Adjectives in Tagalog
 
-Adjectives (*pang-uri*) in Tagalog describe or modify nouns and can also function as predicates in sentences. Unlike English, Tagalog adjectives do not inflect for number or gender, and they have unique patterns for expressing degrees of comparison.
+Adjectives (_pang-uri_) in Tagalog describe or modify nouns and can also function as predicates in sentences. Unlike English, Tagalog adjectives do not inflect for number or gender, and they have unique patterns for expressing degrees of comparison.
 
 ## Basic Adjectives
 
-Most Tagalog adjectives are formed with the prefix *ma-*:
+Most Tagalog adjectives are formed with the prefix _ma-_:
 
-| Root | Adjective | English |
-| ---- | --------- | ------- |
-| *ganda* | *maganda* | beautiful |
-| *bait* | *mabait* | kind |
-| *laki* | *malaki* | big |
-| *liit* | *maliit* | small |
-| *taas* | *mataas* | tall/high |
-| *baba* | *mababa* | low/short |
-| *sarap* | *masarap* | delicious |
-| *hirap* | *mahirap* | difficult/poor |
+| Root    | Adjective | English        |
+| ------- | --------- | -------------- |
+| _ganda_ | _maganda_ | beautiful      |
+| _bait_  | _mabait_  | kind           |
+| _laki_  | _malaki_  | big            |
+| _liit_  | _maliit_  | small          |
+| _taas_  | _mataas_  | tall/high      |
+| _baba_  | _mababa_  | low/short      |
+| _sarap_ | _masarap_ | delicious      |
+| _hirap_ | _mahirap_ | difficult/poor |
 
 ## Adjectives as Predicates
 
@@ -29,18 +29,18 @@ In Tagalog, adjectives can function as predicates without a copula verb (like "i
 
 ### Predicate Pattern
 
-- *Maganda ang bahay.*  
+- _Maganda ang bahay._  
   (The house is beautiful.)
-- *Mabait si Maria.*  
+- _Mabait si Maria._  
   (Maria is kind.)
-- *Masarap ang pagkain.*  
+- _Masarap ang pagkain._  
   (The food is delicious.)
 
-### With *Ay* Inversion
+### With _Ay_ Inversion
 
-- *Ang bahay ay maganda.*  
+- _Ang bahay ay maganda._  
   (The house is beautiful.)
-- *Si Maria ay mabait.*  
+- _Si Maria ay mabait._  
   (Maria is kind.)
 
 ::: tip Predicate-First Structure
@@ -49,121 +49,121 @@ Tagalog typically places the predicate (adjective) before the topic. This is the
 
 ## Adjectives as Modifiers
 
-When adjectives modify nouns, they are connected with linkers (*na* or *-ng*).
+When adjectives modify nouns, they are connected with linkers (_na_ or _-ng_).
 
 ### Adjective + Linker + Noun
 
-| Ends in Vowel or *n* (use *-ng*) | Ends in Other Consonant (use *na*) |
-| -------------------------------- | ---------------------------------- |
-| *maganda* + *-ng* → *magandang bahay* | *maliit na bata* |
-| *malaki* + *-ng* → *malaking isda* | *masarap na pagkain* |
-| *bayan* (drop *n*) + *-ng* → *bayang tahimik* | *mabilis na kotse* |
+| Ends in Vowel or _n_ (use _-ng_)              | Ends in Other Consonant (use _na_) |
+| --------------------------------------------- | ---------------------------------- |
+| _maganda_ + _-ng_ → _magandang bahay_         | _maliit na bata_                   |
+| _malaki_ + _-ng_ → _malaking isda_            | _masarap na pagkain_               |
+| _bayan_ (drop _n_) + _-ng_ → _bayang tahimik_ | _mabilis na kotse_                 |
 
 ::: tip Linker Rules
 
-- **Ends in Vowel:** Attach *-ng* to the word (e.g., *maganda* → *magandang*).
-- **Ends in *n*:** Replace *n* with *-ng* (e.g., *bayan* → *bayang*).
-- **Ends in Consonant:** Use *na* as a separate word (e.g., *maliit na*).
-:::
+- **Ends in Vowel:** Attach _-ng_ to the word (e.g., _maganda_ → _magandang_).
+- **Ends in _n_:** Replace _n_ with _-ng_ (e.g., _bayan_ → _bayang_).
+- **Ends in Consonant:** Use _na_ as a separate word (e.g., _maliit na_).
+  :::
 
 Examples:
 
-- *malaking bahay*  
+- _malaking bahay_  
   (big house)
-- *magandang dalaga*  
+- _magandang dalaga_  
   (beautiful lady)
-- *mataas na puno*  
+- _mataas na puno_  
   (tall tree)
-- *mabilis na kotse*  
+- _mabilis na kotse_  
   (fast car)
 
 ### Multiple Adjectives
 
 Multiple adjectives can modify a noun using linkers:
 
-- *malaki at magandang bahay*  
+- _malaki at magandang bahay_  
   (big and beautiful house)
-- *maliit ngunit matapang na aso*  
+- _maliit ngunit matapang na aso_  
   (small but brave dog)
 
 ## Adjective Formation
 
-### Using *Ma-* Prefix
+### Using _Ma-_ Prefix
 
 The most common adjective-forming prefix:
 
-- *ganda* → *maganda* (beautiful)
-- *sama* → *masama* (bad)
-- *bango* → *mabango* (fragrant)
-- *lamig* → *malamig* (cold)
+- _ganda_ → _maganda_ (beautiful)
+- _sama_ → _masama_ (bad)
+- _bango_ → _mabango_ (fragrant)
+- _lamig_ → _malamig_ (cold)
 
-### Using *Mapag-* Prefix
+### Using _Mapag-_ Prefix
 
 Indicates tendency or habit:
 
-- *mahal* → *mapagmahal* (loving/affectionate)
-- *trabaho* → *mapagtrabaho* (hardworking)
-- *tiwala* → *mapagtiwala* (trusting)
+- _mahal_ → _mapagmahal_ (loving/affectionate)
+- _trabaho_ → _mapagtrabaho_ (hardworking)
+- _tiwala_ → _mapagtiwala_ (trusting)
 
-### Using *-in* Suffix and Other Affixes
+### Using _-in_ Suffix and Other Affixes
 
 These forms often indicate a tendency or susceptibility to something:
 
-- *sakit* → *sakitin* (sickly/prone to illness)
-- *galit* → *magagalitin* (irritable/easily angered)
-- *takot* → *matakutin* (easily scared)
-- *selos* → *selosin* or *maselosin* (prone to jealousy)
+- _sakit_ → _sakitin_ (sickly/prone to illness)
+- _galit_ → _magagalitin_ (irritable/easily angered)
+- _takot_ → _matakutin_ (easily scared)
+- _selos_ → _selosin_ or _maselosin_ (prone to jealousy)
 
-### Using *Maka-* Prefix
+### Using _Maka-_ Prefix
 
 Indicates capability or tendency:
 
-- *Diyos* → *makaDiyos* (God-fearing/pious)
-- *tao* → *makatao* (humane)
-- *bayan* → *makabayan* (patriotic)
+- _Diyos_ → _makaDiyos_ (God-fearing/pious)
+- _tao_ → _makatao_ (humane)
+- _bayan_ → _makabayan_ (patriotic)
 
 ### Without Affixes
 
 Some adjectives exist without affixes:
 
-- *puti* (white)
-- *itim* (black)
-- *pula* (red)
-- *berde* (green)
-- *asul* (blue)
+- _puti_ (white)
+- _itim_ (black)
+- _pula_ (red)
+- _berde_ (green)
+- _asul_ (blue)
 
 ## Colors
 
 Color adjectives describe appearance:
 
-| Tagalog | English |
-| ------- | ------- |
-| *puti* | white |
-| *itim* | black |
-| *pula* | red |
-| *berde* | green |
-| *asul* | blue |
-| *dilaw* | yellow |
-| *kulay-abo* | gray |
-| *kulay-kahel* | orange |
-| *lila* | purple |
-| *kayumanggi*[^kayumanggi] | brown (skin tone) |
-| *kulay-kape* | brown (coffee-colored) |
+| Tagalog                   | English                |
+| ------------------------- | ---------------------- |
+| _puti_                    | white                  |
+| _itim_                    | black                  |
+| _pula_                    | red                    |
+| _berde_                   | green                  |
+| _asul_                    | blue                   |
+| _dilaw_                   | yellow                 |
+| _kulay-abo_               | gray                   |
+| _kulay-kahel_             | orange                 |
+| _lila_                    | purple                 |
+| _kayumanggi_[^kayumanggi] | brown (skin tone)      |
+| _kulay-kape_              | brown (coffee-colored) |
 
 Examples:
 
-- *puting bahay*  
+- _puting bahay_  
   (white house)
-- *pulang bulaklak*  
+- _pulang bulaklak_  
   (red flower)
-- *asul na dagat*  
+- _asul na dagat_  
   (blue sea)
 
 ::: info Spanish Influence
-Some colors are borrowed from Spanish: *rosas* (pink), *gris* (gray), though Tagalog alternatives exist.
+Some colors are borrowed from Spanish: _rosas_ (pink), _gris_ (gray), though Tagalog alternatives exist.
 :::
 
-[^kayumanggi]: *Kayumanggi* traditionally refers to a natural medium brown Filipino skin tone. It is a neutral descriptive term and should be used respectfully.
+[^kayumanggi]: _Kayumanggi_ traditionally refers to a natural medium brown Filipino skin tone. It is a neutral descriptive term and should be used respectfully.
 
 ## Degrees of Comparison
 
@@ -173,58 +173,58 @@ Tagalog expresses comparative and superlative degrees differently from English.
 
 Basic form without comparison:
 
-- *Maganda ang bahay.*  
+- _Maganda ang bahay._  
   (The house is beautiful.)
 
 ### Comparative Degree
 
-Use *mas* (more) or *higit na* (more than):
+Use _mas_ (more) or _higit na_ (more than):
 
-- *Mas maganda ang bahay na ito.*  
+- _Mas maganda ang bahay na ito._  
   (This house is more beautiful.)
-- *Mas mabait si Ana kaysa kay Maria.*  
+- _Mas mabait si Ana kaysa kay Maria._  
   (Ana is kinder than Maria.)
 
-#### Using *Kaysa* (than)
+#### Using _Kaysa_ (than)
 
-*Kaysa* introduces the standard of comparison:
+_Kaysa_ introduces the standard of comparison:
 
-- *Mas malaki ang bahay ko kaysa sa bahay mo.*  
+- _Mas malaki ang bahay ko kaysa sa bahay mo._  
   (My house is bigger than your house.)
-- *Mas mabilis ang kotse kaysa sa dyip.*  
+- _Mas mabilis ang kotse kaysa sa dyip._  
   (The car is faster than the jeep.)
 
 ### Superlative Degree
 
-Use *pinaka-* prefix:
+Use _pinaka-_ prefix:
 
-- *pinakamaganda* (most beautiful)
-- *pinakamabait* (kindest)
-- *pinakamalaki* (biggest)
+- _pinakamaganda_ (most beautiful)
+- _pinakamabait_ (kindest)
+- _pinakamalaki_ (biggest)
 
 Examples:
 
-- *Pinakamaganda si Maria.*  
+- _Pinakamaganda si Maria._  
   (Maria is the most beautiful.)
-- *Ito ang pinakamasarap na pagkain.*  
+- _Ito ang pinakamasarap na pagkain._  
   (This is the most delicious food.)
-- *Siya ang pinakamatalinong estudyante.*  
+- _Siya ang pinakamatalinong estudyante._  
   (He/She is the smartest student.)
 
 ### Equality
 
-Use *kasing-* or *sing-* prefix:
+Use _kasing-_ or _sing-_ prefix:
 
-- *Kasingganda niya si Ana.*  
+- _Kasingganda niya si Ana._  
   (Ana is as beautiful as her.)
-- *Singbilis ng hangin ang kotse.*  
+- _Singbilis ng hangin ang kotse._  
   (The car is as fast as the wind.)
 
 ::: tip Comparison Summary
 
-- Comparative: *mas* + adjective + *kaysa*
-- Superlative: *pinaka-* + adjective
-- Equality: *kasing-* / *sing-* + adjective
+- Comparative: _mas_ + adjective + _kaysa_
+- Superlative: _pinaka-_ + adjective
+- Equality: _kasing-_ / _sing-_ + adjective
 
 :::
 
@@ -232,47 +232,47 @@ Use *kasing-* or *sing-* prefix:
 
 Intensifiers modify the degree of adjectives.
 
-### Using *Napaka-*
+### Using _Napaka-_
 
 Indicates extreme degree (very):
 
-- *napakaganda* (very beautiful)
-- *napakalaki* (very big)
-- *napakasarap* (very delicious)
+- _napakaganda_ (very beautiful)
+- _napakalaki_ (very big)
+- _napakasarap_ (very delicious)
 
 Examples:
 
-- *Napakaganda ng dalaga.*  
+- _Napakaganda ng dalaga._  
   (The lady is very beautiful.)
-- *Napakalamig ng tubig.*  
+- _Napakalamig ng tubig._  
   (The water is very cold.)
 
-### Using *Sobra* / *Sobrang*
+### Using _Sobra_ / _Sobrang_
 
 Means "too" or "extremely":
 
-- *sobrang ganda* (too beautiful)
-- *sobrang laki* (extremely big)
+- _sobrang ganda_ (too beautiful)
+- _sobrang laki_ (extremely big)
 
-### Using *Medyo*
+### Using _Medyo_
 
 Means "somewhat" or "rather":
 
-- *medyo maganda* (somewhat beautiful)
-- *medyo malaki* (rather big)
+- _medyo maganda_ (somewhat beautiful)
+- _medyo malaki_ (rather big)
 
-### Using *Masyado* / *Masyadong*
+### Using _Masyado_ / _Masyadong_
 
 Means "too" or "excessively":
 
-- *masyadong malaki* (too big)
-- *masyadong mahal* (too expensive)
+- _masyadong malaki_ (too big)
+- _masyadong mahal_ (too expensive)
 
 Examples:
 
-- *Medyo malamig ang panahon.*  
+- _Medyo malamig ang panahon._  
   (The weather is somewhat cold.)
-- *Masyadong mabilis ang kotse.*  
+- _Masyadong mabilis ang kotse._  
   (The car is too fast.)
 
 ## Reduplication
@@ -283,140 +283,140 @@ Reduplication is a key feature in Tagalog grammar that can indicate plurality, i
 
 In Tagalog, adjectives can be pluralized to agree with plural nouns, though this is often optional in casual conversation. Plurality is primarily indicated by the marker **mga** before the noun.
 
-- *ang magandang bulaklak* (the beautiful flower)
-- *ang **mga** magandang bulaklak* (the beautiful flowers) - *Casual*
-- *ang **mga** magagandang bulaklak* (the beautiful flowers) - *Formal/Plural Agreement*
+- _ang magandang bulaklak_ (the beautiful flower)
+- _ang **mga** magandang bulaklak_ (the beautiful flowers) - _Casual_
+- _ang **mga** magagandang bulaklak_ (the beautiful flowers) - _Formal/Plural Agreement_
 
 To pluralize an adjective, repeat the first syllable of the root word. This form is preferred in formal writing and speech.
 
-| Singular | Root | Plural Form | English |
-| -------- | ---- | ----------- | ------- |
-| *maganda* | *ganda* | *magaganda* | beautiful |
-| *malaki* | *laki* | *malalaki* | big |
-| *mabait* | *bait* | *mababait* | kind |
-| *matalino*| *talino*| *matatalino*| intelligent |
+| Singular   | Root     | Plural Form  | English     |
+| ---------- | -------- | ------------ | ----------- |
+| _maganda_  | _ganda_  | _magaganda_  | beautiful   |
+| _malaki_   | _laki_   | _malalaki_   | big         |
+| _mabait_   | _bait_   | _mababait_   | kind        |
+| _matalino_ | _talino_ | _matatalino_ | intelligent |
 
 Examples of plural adjectives:
 
-- *Magaganda ang mga bulaklak.*  
+- _Magaganda ang mga bulaklak._  
   (The flowers are beautiful.)
-- *Malalaki ang mga bahay dito.*  
+- _Malalaki ang mga bahay dito._  
   (The houses here are big.)
 
 ::: tip Usage Note
-Using the singular adjective with a plural noun (e.g., *maganda ang mga bulaklak*) is acceptable in casual speech. However, using the plural adjective form (e.g., *magaganda ang mga bulaklak*) is standard in formal contexts and often sounds more natural to native speakers.
+Using the singular adjective with a plural noun (e.g., _maganda ang mga bulaklak_) is acceptable in casual speech. However, using the plural adjective form (e.g., _magaganda ang mga bulaklak_) is standard in formal contexts and often sounds more natural to native speakers.
 :::
 
 ### Intensification by Reduplication
 
-Repeating the entire adjective with a linker (*-ng*/*na*) creates a very intense degree.
+Repeating the entire adjective with a linker (_-ng_/_na_) creates a very intense degree.
 
-- *magandang-maganda* (very beautiful)
-- *mabait na mabait* (very kind)
-- *sarap na sarap* (finds it very delicious - verbal form)
+- _magandang-maganda_ (very beautiful)
+- _mabait na mabait_ (very kind)
+- _sarap na sarap_ (finds it very delicious - verbal form)
 
 Example:
 
-- *Ang pelikula ay magandang-maganda.*  
+- _Ang pelikula ay magandang-maganda._  
   (The movie is very, very beautiful.)
 
 ### Moderation by Reduplication
 
 Repeating the adjective without a linker can indicate a moderate or diminished quality ("somewhat," "fairly," "kind of").
 
-- *maganda-maganda* (somewhat beautiful / pretty good)
-- *maliit-maliit* (somewhat small)
+- _maganda-maganda_ (somewhat beautiful / pretty good)
+- _maliit-maliit_ (somewhat small)
 
 Example:
 
-- *Okay lang, maganda-maganda naman ang resulta.*  
+- _Okay lang, maganda-maganda naman ang resulta._  
   (It's okay, the result is pretty good.)
 
 ::: details Reduplication Nuance
-The meaning of reduplication can be subtle. For instance, *gandang-ganda* means to be intensely captivated by beauty, functioning more like a verb. Context is key to understanding the exact nuance.
+The meaning of reduplication can be subtle. For instance, _gandang-ganda_ means to be intensely captivated by beauty, functioning more like a verb. Context is key to understanding the exact nuance.
 :::
 
 ## Negative Adjectives
 
-Negation with adjectives uses *hindi*:
+Negation with adjectives uses _hindi_:
 
-- *Hindi maganda ang bahay.*  
+- _Hindi maganda ang bahay._  
   (The house is not beautiful.)
-- *Hindi masarap ang pagkain.*  
+- _Hindi masarap ang pagkain._  
   (The food is not delicious.)
 
-### Using *Di-* Prefix
+### Using _Di-_ Prefix
 
-Some adjectives use *di-* prefix for negation:
+Some adjectives use _di-_ prefix for negation:
 
-- *tapat* (honest) → *di-tapat* (dishonest)
-- *wasto* (correct) → *di-wasto* (incorrect)
+- _tapat_ (honest) → _di-tapat_ (dishonest)
+- _wasto_ (correct) → _di-wasto_ (incorrect)
 
 ## Common Adjective Pairs
 
 ### Opposites
 
-| Positive | Negative | English |
-| -------- | -------- | ------- |
-| *maganda* | *pangit* | beautiful / ugly |
-| *malaki* | *maliit* | big / small |
-| *mataas* | *mababa* | tall/high / short/low |
-| *mabilis* | *mabagal* | fast / slow |
-| *masarap* | *mapait* | delicious / bitter |
-| *mabait* | *masama* | kind / bad |
-| *mainit* | *malamig* | hot / cold |
-| *mataba* | *payat* | fat / thin |
-| *bilog* | *parisukat* | round / square |
+| Positive  | Negative    | English               |
+| --------- | ----------- | --------------------- |
+| _maganda_ | _pangit_    | beautiful / ugly      |
+| _malaki_  | _maliit_    | big / small           |
+| _mataas_  | _mababa_    | tall/high / short/low |
+| _mabilis_ | _mabagal_   | fast / slow           |
+| _masarap_ | _mapait_    | delicious / bitter    |
+| _mabait_  | _masama_    | kind / bad            |
+| _mainit_  | _malamig_   | hot / cold            |
+| _mataba_  | _payat_     | fat / thin            |
+| _bilog_   | _parisukat_ | round / square        |
 
 ## Descriptive Categories
 
 ### Physical Characteristics
 
-- *mataas* (tall)
-- *mataba* (fat)
-- *payat* (thin)
-- *matanda* (old - person)
-- *bata* (young)
-- *gwapo* (handsome)
-- *maganda* (beautiful - feminine)
+- _mataas_ (tall)
+- _mataba_ (fat)
+- _payat_ (thin)
+- _matanda_ (old - person)
+- _bata_ (young)
+- _gwapo_ (handsome)
+- _maganda_ (beautiful - feminine)
 
 ### Personality Traits
 
-- *mabait* (kind)
-- *masungit* (grumpy)
-- *matulungin* (helpful)
-- *masipag* (industrious)
-- *tamad* (lazy)
-- *matalino* (intelligent)
-- *tanga* (foolish)
+- _mabait_ (kind)
+- _masungit_ (grumpy)
+- _matulungin_ (helpful)
+- _masipag_ (industrious)
+- _tamad_ (lazy)
+- _matalino_ (intelligent)
+- _tanga_ (foolish)
 
 ### Size and Dimension
 
-- *malaki* (big)
-- *maliit* (small)
-- *mahaba* (long)
-- *maikli* (short)
-- *makapal* (thick)
-- *manipis* (thin - objects)
+- _malaki_ (big)
+- _maliit_ (small)
+- _mahaba_ (long)
+- _maikli_ (short)
+- _makapal_ (thick)
+- _manipis_ (thin - objects)
 
 ### Quality and Condition
 
-- *bago* (new)
-- *luma* (old - objects)
-- *sira* (broken)
-- *buo* (whole/intact)
-- *malinis* (clean)
-- *marumi* (dirty)
+- _bago_ (new)
+- _luma_ (old - objects)
+- _sira_ (broken)
+- _buo_ (whole/intact)
+- _malinis_ (clean)
+- _marumi_ (dirty)
 
 ### Sensory
 
-- *masarap* (delicious)
-- *mapait* (bitter)
-- *maalat* (salty)
-- *matamis* (sweet)
-- *maasim* (sour)
-- *mabango* (fragrant)
-- *mabaho* (smelly)
+- _masarap_ (delicious)
+- _mapait_ (bitter)
+- _maalat_ (salty)
+- _matamis_ (sweet)
+- _maasim_ (sour)
+- _mabango_ (fragrant)
+- _mabaho_ (smelly)
 
 ## Borrowed Adjectives
 
@@ -424,36 +424,36 @@ Many adjectives are borrowed from Spanish or English:
 
 ### Spanish Borrowings
 
-- *libre* (free)
-- *seguro* (sure)
-- *importante* (important)
-- *diferente* (different)
+- _libre_ (free)
+- _seguro_ (sure)
+- _importante_ (important)
+- _diferente_ (different)
 
 ### English Borrowings
 
-- *okay* (okay)
-- *nice* (nice)
-- *busy* (busy)
+- _okay_ (okay)
+- _nice_ (nice)
+- _busy_ (busy)
 
 These are typically used without modification:
 
-- *Okay lang.* (It's okay.)
-- *Busy ako.* (I'm busy.)
+- _Okay lang._ (It's okay.)
+- _Busy ako._ (I'm busy.)
 
 ## Adjectival Phrases
 
 Adjectives can be part of longer descriptive phrases:
 
-- *mahirap intindihin*  
+- _mahirap intindihin_  
   (difficult to understand)
-- *madaling gawin*  
+- _madaling gawin_  
   (easy to do)
-- *maganda tingnan*  
+- _maganda tingnan_  
   (beautiful to look at)
 
 Examples:
 
-- *Mahirap intindihin ang aralin.*  
+- _Mahirap intindihin ang aralin._  
   (The lesson is difficult to understand.)
 
 ## Position and Word Order
@@ -462,13 +462,13 @@ Examples:
 
 Most common pattern:
 
-- *malaking bahay* (big house)
+- _malaking bahay_ (big house)
 
 ### Noun-Adjective Order
 
 Less common, used for emphasis:
 
-- *bahay na malaki* (house that is big)
+- _bahay na malaki_ (house that is big)
 
 ## Summary
 
@@ -476,10 +476,10 @@ Tagalog adjectives are characterized by:
 
 1. No gender or number agreement
 2. Function as both predicates and modifiers
-3. Use of *ma-* as primary adjective-forming prefix
-4. Comparison through *mas*, *pinaka-*, and *kasing-*
-5. Intensification through *napaka-*, *sobrang*, *medyo*
-6. Connection to nouns via linkers (*na* / *-ng*)
+3. Use of _ma-_ as primary adjective-forming prefix
+4. Comparison through _mas_, _pinaka-_, and _kasing-_
+5. Intensification through _napaka-_, _sobrang_, _medyo_
+6. Connection to nouns via linkers (_na_ / _-ng_)
 7. Extensive borrowing from Spanish and English
 
 Understanding adjective patterns enables precise and culturally appropriate description in Tagalog.

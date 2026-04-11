@@ -21,13 +21,14 @@ Tagalog belongs to the Austronesian language family, specifically the Malayo-Pol
 - Maori
 
 **Evidence suggests:**
+
 - Austronesian peoples migrated to the Philippines around 4,000-5,000 years ago
 - Early Tagalog developed in the Manila Bay region
 - Trade with neighboring Southeast Asian peoples influenced vocabulary
 
 ### Early Writing System: Baybayin
 
-Before Spanish colonization, Tagalog was written using *Baybayin*, an indigenous script.
+Before Spanish colonization, Tagalog was written using _Baybayin_, an indigenous script.
 
 **Characteristics:**
 
@@ -39,7 +40,7 @@ Before Spanish colonization, Tagalog was written using *Baybayin*, an indigenous
 
 **Example:**
 
-The word *Baybayin* itself means "to spell" or "to write."
+The word _Baybayin_ itself means "to spell" or "to write."
 
 ::: info Writing Materials
 Ancient Filipinos wrote on bamboo, bark, and leaves using knives and plant-based ink.
@@ -56,16 +57,16 @@ Early Tagalog vocabulary reflected the indigenous lifestyle:
 
 **Native Tagalog Roots Still Used:**
 
-| Word | English |
-| ---- | ------- |
-| *Bahay* | House |
-| *Tubig* | Water |
-| *Langit* | Sky |
-| *Dagat* | Sea |
-| *Bundok* | Mountain |
-| *Puno* | Tree |
-| *Tao* | Person |
-| *Kapatid* | Sibling |
+| Word      | English  |
+| --------- | -------- |
+| _Bahay_   | House    |
+| _Tubig_   | Water    |
+| _Langit_  | Sky      |
+| _Dagat_   | Sea      |
+| _Bundok_  | Mountain |
+| _Puno_    | Tree     |
+| _Tao_     | Person   |
+| _Kapatid_ | Sibling  |
 
 ## Spanish Colonial Period (1521-1898)
 
@@ -84,45 +85,45 @@ Spanish contributed thousands of loanwords, particularly in:
 
 **Religion:**
 
-| Tagalog | Spanish | English |
-| ------- | ------- | ------- |
-| *Diyos* | Dios | God |
-| *Simbahan* | - | Church (hybrid: Spanish + Tagalog) |
-| *Santo* | Santo | Saint |
-| *Krus* | Cruz | Cross |
-| *Misa* | Misa | Mass |
+| Tagalog    | Spanish | English                            |
+| ---------- | ------- | ---------------------------------- |
+| _Diyos_    | Dios    | God                                |
+| _Simbahan_ | -       | Church (hybrid: Spanish + Tagalog) |
+| _Santo_    | Santo   | Saint                              |
+| _Krus_     | Cruz    | Cross                              |
+| _Misa_     | Misa    | Mass                               |
 
 **Numbers and Time:**
 
-| Tagalog | Spanish | English |
-| ------- | ------- | ------- |
-| *Uno, dos, tres* | Uno, dos, tres | One, two, three |
-| *Oras* | Hora | Hour |
-| *Minuto* | Minuto | Minute |
+| Tagalog          | Spanish        | English         |
+| ---------------- | -------------- | --------------- |
+| _Uno, dos, tres_ | Uno, dos, tres | One, two, three |
+| _Oras_           | Hora           | Hour            |
+| _Minuto_         | Minuto         | Minute          |
 
 **Daily Objects:**
 
-| Tagalog | Spanish | English |
-| ------- | ------- | ------- |
-| *Mesa* / *Lamesa* | Mesa | Table |
-| *Silya* | Silla | Chair |
-| *Kutsara* | Cuchara | Spoon |
-| *Tingedor* | Tenedor | Fork |
-| *Bintana* | Ventana | Window |
+| Tagalog           | Spanish | English |
+| ----------------- | ------- | ------- |
+| _Mesa_ / _Lamesa_ | Mesa    | Table   |
+| _Silya_           | Silla   | Chair   |
+| _Kutsara_         | Cuchara | Spoon   |
+| _Tingedor_        | Tenedor | Fork    |
+| _Bintana_         | Ventana | Window  |
 
 **Colors:**
 
-| Tagalog | Spanish | English |
-| ------- | ------- | ------- |
-| *Pula* (native) / *Rojo* | Rojo | Red |
-| *Puti* (native) / *Blanco* | Blanco | White |
-| *Berde* | Verde | Green |
+| Tagalog                    | Spanish | English |
+| -------------------------- | ------- | ------- |
+| _Pula_ (native) / _Rojo_   | Rojo    | Red     |
+| _Puti_ (native) / _Blanco_ | Blanco  | White   |
+| _Berde_                    | Verde   | Green   |
 
 ### Writing System Change
 
 Spanish friars introduced the Latin alphabet to replace Baybayin:
 
-- *Doctrina Christiana* (1593) - first printed book in the Philippines, contained Tagalog in both Baybayin and Latin script
+- _Doctrina Christiana_ (1593) - first printed book in the Philippines, contained Tagalog in both Baybayin and Latin script
 - Latin alphabet gradually became standard
 - Baybayin usage declined but was not completely forgotten
 
@@ -153,13 +154,13 @@ American occupation brought English as:
 
 **English Vocabulary Adoption:**
 
-| Tagalog | English |
-| ------- | ------- |
-| *Dyip* | Jeep |
-| *Trak* | Truck |
-| *Radyo* | Radio |
-| *Telepono* | Telephone |
-| *Kompyuter* | Computer |
+| Tagalog     | English   |
+| ----------- | --------- |
+| _Dyip_      | Jeep      |
+| _Trak_      | Truck     |
+| _Radyo_     | Radio     |
+| _Telepono_  | Telephone |
+| _Kompyuter_ | Computer  |
 
 **Educational System:**
 
@@ -181,13 +182,13 @@ The early 20th century saw efforts to promote Tagalog:
 
 **1935:** Tagalog designated as basis for national language
 
-**1937:** Institute of National Language (*Surian ng Wikang Pambansa*) established
+**1937:** Institute of National Language (_Surian ng Wikang Pambansa_) established
 
 **1940:** Tagalog officially became the national language
 
-**1959:** Language renamed *Pilipino* to emphasize national character
+**1959:** Language renamed _Pilipino_ to emphasize national character
 
-**1973:** Constitution renamed it *Filipino*, incorporating elements from other Philippine languages
+**1973:** Constitution renamed it _Filipino_, incorporating elements from other Philippine languages
 
 **1987:** Current Constitution establishes Filipino as the national language alongside English
 
@@ -211,26 +212,26 @@ Modern Filipino continues evolving through:
 
 **Technology:**
 
-| Filipino | English |
-| -------- | ------- |
-| *Selfie* | selfie |
-| *I-chat* | to chat online |
-| *Mag-download* | to download |
-| *Wi-Fi* | Wi-Fi |
+| Filipino       | English        |
+| -------------- | -------------- |
+| _Selfie_       | selfie         |
+| _I-chat_       | to chat online |
+| _Mag-download_ | to download    |
+| _Wi-Fi_        | Wi-Fi          |
 
 **Pop Culture:**
 
-- Korean (*Hallyu* wave): *Oppa*, *Saranghae*
-- Japanese (anime): *Kawaii*, *Baka*
+- Korean (_Hallyu_ wave): _Oppa_, _Saranghae_
+- Japanese (anime): _Kawaii_, _Baka_
 - American entertainment: various slang terms
 
 **Social Media:**
 
-| Filipino | English |
-| -------- | ------- |
-| *Netizen* | internet citizen |
-| *Viral* | gone viral |
-| *Trending* | trending |
+| Filipino   | English          |
+| ---------- | ---------------- |
+| _Netizen_  | internet citizen |
+| _Viral_    | gone viral       |
+| _Trending_ | trending         |
 
 ## Language Planning and Standardization
 
@@ -247,12 +248,12 @@ The Commission on the Filipino Language oversees:
 
 KWF creates Filipino terms for modern concepts:
 
-| Filipino | English | Derivation |
-| -------- | ------- | ---------- |
-| *Salumpuwit* | Chair | Native word revival |
-| *Talatinigan* | Vowel | *Tala* (mark) + *tinig* (voice) |
-| *Katinig* | Consonant | *Kasama ng tinig* (companion of voice) |
-| *Pook-sapot* | Website | *Pook* (place) + *sapot* (web) |
+| Filipino      | English   | Derivation                             |
+| ------------- | --------- | -------------------------------------- |
+| _Salumpuwit_  | Chair     | Native word revival                    |
+| _Talatinigan_ | Vowel     | _Tala_ (mark) + _tinig_ (voice)        |
+| _Katinig_     | Consonant | _Kasama ng tinig_ (companion of voice) |
+| _Pook-sapot_  | Website   | _Pook_ (place) + _sapot_ (web)         |
 
 ## Writing System Evolution
 
@@ -267,8 +268,8 @@ Contemporary Filipino uses 28 letters:
 
 Spelling has been standardized but variations remain:
 
-- Spanish *ñ* maintained in some words (*niño*, *señor*)
-- English *C* and *K* usage varies (*computer* vs. *kompyuter*)
+- Spanish _ñ_ maintained in some words (_niño_, _señor_)
+- English _C_ and _K_ usage varies (_computer_ vs. _kompyuter_)
 - Debates continue on "Filipinizing" foreign spellings
 
 ### Baybayin Revival
@@ -287,17 +288,19 @@ Recent years have seen renewed interest in Baybayin:
 Modern Philippines exhibits complex language use:
 
 **Diglossia:**
+
 - Filipino/Tagalog for informal, familiar contexts
 - English for formal, professional, academic contexts
 
 **Code-Switching (Taglish):**
+
 - Mixing Filipino and English in single conversations
 - Marks education level and urban identity
 - Natural communication mode for many Filipinos
 
 **Example:**
 
-- *Nag-meeting kami kanina about sa project, tapos nag-discuss na kami ng timeline.*  
+- _Nag-meeting kami kanina about sa project, tapos nag-discuss na kami ng timeline._  
   (We had a meeting earlier about the project, and we already discussed the timeline.)
 
 See also: [Taglish](../expressions/taglish.md)
@@ -307,15 +310,18 @@ See also: [Taglish](../expressions/taglish.md)
 Language attitudes have shifted over time:
 
 **Colonial Period:**
+
 - Spanish, then English, held prestige
 - Indigenous languages seen as inferior
 
 **Post-Independence:**
+
 - Growing pride in Filipino identity
 - Recognition of linguistic heritage
 - Still, English retains high status in education and business
 
 **Current:**
+
 - Bilingualism (Filipino and English) widely valued
 - Regional languages recognized and preserved
 - Efforts to balance modernization with cultural preservation
@@ -325,11 +331,13 @@ Language attitudes have shifted over time:
 ### Language Policy Issues
 
 **English vs. Filipino in Education:**
+
 - Debate over medium of instruction
 - Concerns about English proficiency vs. cultural identity
 - Mother Tongue-Based Multilingual Education (MTB-MLE) program introduced
 
 **Regional Languages:**
+
 - Balancing national language with regional language preservation
 - Questions about which languages should be officially recognized
 - Indigenous language extinction concerns
@@ -337,18 +345,20 @@ Language attitudes have shifted over time:
 ### Purism vs. Pragmatism
 
 **Purists advocate:**
+
 - Creating native Filipino terms for modern concepts
 - Limiting English and Spanish borrowings
 - Reviving archaic Tagalog vocabulary
 
 **Pragmatists argue:**
+
 - Natural language evolution includes borrowing
 - English terms facilitate international communication
 - Code-switching reflects modern Filipino identity
 
 ## Global Filipino Diaspora
 
-Filipino overseas workers (*OFWs*) and emigrants have spread the language globally:
+Filipino overseas workers (_OFWs_) and emigrants have spread the language globally:
 
 - Filipino communities in Middle East, North America, Europe, Asia
 - Language maintenance varies by generation

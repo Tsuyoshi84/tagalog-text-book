@@ -6,65 +6,65 @@ outline: [2, 3]
 
 # Connectors in Tagalog
 
-Connectors (*pangatnig*) link words, phrases, or clauses to create complex sentences and express relationships between ideas. They include coordinating conjunctions, subordinating conjunctions, and transitional expressions.
+Connectors (_pangatnig_) link words, phrases, or clauses to create complex sentences and express relationships between ideas. They include coordinating conjunctions, subordinating conjunctions, and transitional expressions.
 
 ## Coordinating Conjunctions
 
 Coordinating conjunctions connect words, phrases, or independent clauses of equal grammatical rank.
 
-### *At* (And)
+### _At_ (And)
 
 Connects similar elements:
 
-- *pula at puti*  
+- _pula at puti_  
   (red and white)
-- *Kumain at uminom ako.*  
+- _Kumain at uminom ako._  
   (I ate and drank.)
-- *Mabait at matalino siya.*  
+- _Mabait at matalino siya._  
   (He/She is kind and intelligent.)
 
-### *O* (Or)
+### _O_ (Or)
 
 Presents alternatives or choices:
 
-- *kape o tsaa*  
+- _kape o tsaa_  
   (coffee or tea)
-- *Pupunta ka o mananatili ka?*  
+- _Pupunta ka o mananatili ka?_  
   (Will you go or will you stay?)
-- *bukas o sa susunod na linggo*  
+- _bukas o sa susunod na linggo_  
   (tomorrow or next week)
 
-### *Pero* / *Ngunit* (But)
+### _Pero_ / _Ngunit_ (But)
 
 Expresses contrast or contradiction:
 
-- *Maganda pero mahal.*  
+- _Maganda pero mahal._  
   (Beautiful but expensive.)
-- *Gusto ko, pero wala akong pera.*  
+- _Gusto ko, pero wala akong pera._  
   (I want it, but I don't have money.)
-- *Mabait siya ngunit masungit.*  
+- _Mabait siya ngunit masungit._  
   (He/She is kind but grumpy.)
 
-::: info *Pero* vs. *Ngunit*
-*Pero* (from Spanish) is more common in casual speech. *Ngunit* is the native Tagalog equivalent and more formal.
+::: info _Pero_ vs. _Ngunit_
+_Pero_ (from Spanish) is more common in casual speech. _Ngunit_ is the native Tagalog equivalent and more formal.
 :::
 
-### *Kaya* (So/Therefore)
+### _Kaya_ (So/Therefore)
 
 Indicates result or consequence:
 
-- *Umuulan, kaya nagdala ako ng payong.*  
+- _Umuulan, kaya nagdala ako ng payong._  
   (It's raining, so I brought an umbrella.)
-- *Pagod ako, kaya matutulog na ako.*  
+- _Pagod ako, kaya matutulog na ako._  
   (I'm tired, so I'll sleep now.)
 
-### *Kundi* (But Rather/Instead)
+### _Kundi_ (But Rather/Instead)
 
 Indicates correction or substitution:
 
-- *Hindi pula kundi puti.*  
+- _Hindi pula kundi puti._  
   (Not red but white.)
-- *Hindi ako kumain kundi uminom lang.*  
+- _Hindi ako kumain kundi uminom lang._  
   (I didn't eat but just drank.)
 
 ## Subordinating Conjunctions
@@ -73,205 +73,205 @@ Subordinating conjunctions introduce dependent clauses that cannot stand alone.
 
 ### Causal Conjunctions (Because)
 
-#### *Kasi* (Because - Informal)
+#### _Kasi_ (Because - Informal)
 
 Most common in casual speech:
 
-- *Umuwi ako kasi pagod na ako.*  
+- _Umuwi ako kasi pagod na ako._  
   (I went home because I was tired.)
-- *Hindi ako pumunta kasi may sakit ako.*  
+- _Hindi ako pumunta kasi may sakit ako._  
   (I didn't go because I was sick.)
 
-#### *Dahil* (Because - Formal)
+#### _Dahil_ (Because - Formal)
 
-More formal than *kasi*:
+More formal than _kasi_:
 
-- *Dahil sa ulan, hindi ako nakapasok.*  
+- _Dahil sa ulan, hindi ako nakapasok._  
   (Because of the rain, I didn't come in.)
-- *Umalis siya dahil galit na.*  
+- _Umalis siya dahil galit na._  
   (He/She left because he/she was angry.)
 
-#### *Sapagkat* (Because - Formal)
+#### _Sapagkat_ (Because - Formal)
 
 Most formal, used in writing:
 
-- *Sapagkat wala siyang pera, hindi siya nakabili.*  
+- _Sapagkat wala siyang pera, hindi siya nakabili._  
   (Because he/she had no money, he/she couldn't buy.)
 
 ::: tip Formality Levels
 
-- Casual: *kasi*
-- Standard: *dahil*
-- Formal: *sapagkat*
-:::
+- Casual: _kasi_
+- Standard: _dahil_
+- Formal: _sapagkat_
+  :::
 
 ### Conditional Conjunctions (If)
 
-#### *Kung* (If)
+#### _Kung_ (If)
 
 General conditional:
 
-- *Kung uulan, magdala ka ng payong.*  
+- _Kung uulan, magdala ka ng payong._  
   (If it rains, bring an umbrella.)
-- *Pupunta ako kung may panahon.*  
+- _Pupunta ako kung may panahon._  
   (I'll go if I have time.)
-- *Kung gusto mo, sabihan mo ako.*  
+- _Kung gusto mo, sabihan mo ako._  
   (If you want, tell me.)
 
-#### *Kapag* (When/Whenever)
+#### _Kapag_ (When/Whenever)
 
 For habitual or expected events:
 
-- *Kapag umuulan, natutulog ako.*  
+- _Kapag umuulan, natutulog ako._  
   (When it rains, I sleep.)
-- *Kapag may problema, tawagan mo ako.*  
+- _Kapag may problema, tawagan mo ako._  
   (Whenever there's a problem, call me.)
 
 ### Temporal Conjunctions (Time)
 
-#### *Nang* (When - Past)
+#### _Nang_ (When - Past)
 
 Introduces past time clauses:
 
-- *Dumating siya nang umalis ako.*  
+- _Dumating siya nang umalis ako._  
   (He/She arrived when I left.)
-- *Nang makita ko siya, natuwa ako.*  
+- _Nang makita ko siya, natuwa ako._  
   (When I saw him/her, I was happy.)
 
-::: warning *Nang* vs. *Ng*
-Don't confuse *nang* (when/how) with *ng* (case marker). They're pronounced the same but have different functions.
+::: warning _Nang_ vs. _Ng_
+Don't confuse _nang_ (when/how) with _ng_ (case marker). They're pronounced the same but have different functions.
 
-- *nang* = when (time) or how (manner)
-- *ng* = case marker for non-topic nouns
-:::
+- _nang_ = when (time) or how (manner)
+- _ng_ = case marker for non-topic nouns
+  :::
 
-#### *Habang* (While)
+#### _Habang_ (While)
 
 Simultaneous actions:
 
-- *Kumakain ako habang nanonood ng TV.*  
+- _Kumakain ako habang nanonood ng TV._  
   (I eat while watching TV.)
-- *Natulog siya habang naglalakbay.*  
+- _Natulog siya habang naglalakbay._  
   (He/She slept while traveling.)
 
-#### *Pagkatapos* (After)
+#### _Pagkatapos_ (After)
 
 Sequential actions:
 
-- *Pagkatapos kumain, naglinis ako.*  
+- _Pagkatapos kumain, naglinis ako._  
   (After eating, I cleaned.)
-- *Pagkatapos ng klase, umuwi siya.*  
+- _Pagkatapos ng klase, umuwi siya._  
   (After class, he/she went home.)
 
-#### *Bago* (Before)
+#### _Bago_ (Before)
 
 Preceding action:
 
-- *Maghugas ng kamay bago kumain.*  
+- _Maghugas ng kamay bago kumain._  
   (Wash hands before eating.)
-- *Nag-aral ako bago ang pagsusulit.*  
+- _Nag-aral ako bago ang pagsusulit._  
   (I studied before the exam.)
 
-#### *Hanggang* (Until)
+#### _Hanggang_ (Until)
 
 Duration limit:
 
-- *Maghintay ka hanggang dumating ako.*  
+- _Maghintay ka hanggang dumating ako._  
   (Wait until I arrive.)
-- *Maglalaro ako hanggang mag-alas sais.*  
+- _Maglalaro ako hanggang mag-alas sais._  
   (I'll play until six o'clock.)
 
-#### *Noong* (When - Past Specific Time)
+#### _Noong_ (When - Past Specific Time)
 
 Refers to specific past time:
 
-- *Noong bata pa ako, mahilig akong maglaro.*  
+- _Noong bata pa ako, mahilig akong maglaro._  
   (When I was still young, I loved to play.)
-- *Noong 1990, ipinanganak ako.*  
+- _Noong 1990, ipinanganak ako._  
   (In 1990, I was born.)
 
 ### Purpose Conjunctions (So That)
 
-#### *Para* (So That/In Order To)
+#### _Para_ (So That/In Order To)
 
 Expresses purpose:
 
-- *Nag-aaral ako para pumasa.*  
+- _Nag-aaral ako para pumasa._  
   (I study so that I can pass.)
-- *Kumain ako para may lakas.*  
+- _Kumain ako para may lakas._  
   (I ate so that I'd have strength.)
-- *Para sa iyo ito.*  
+- _Para sa iyo ito._  
   (This is for you.)
 
-#### *Upang* (In Order To - Formal)
+#### _Upang_ (In Order To - Formal)
 
-Formal alternative to *para*:
+Formal alternative to _para_:
 
-- *Upang makarating sa oras, umalis na siya.*  
+- _Upang makarating sa oras, umalis na siya._  
   (In order to arrive on time, he/she left.)
 
 ### Concessive Conjunctions (Although)
 
-#### *Kahit* (Although/Even If/Even Though)
+#### _Kahit_ (Although/Even If/Even Though)
 
 Expresses concession:
 
-- *Kahit umuulan, pumunta pa rin ako.*  
+- _Kahit umuulan, pumunta pa rin ako._  
   (Although it's raining, I still went.)
-- *Kahit pagod, nagtrabaho pa siya.*  
+- _Kahit pagod, nagtrabaho pa siya._  
   (Even though tired, he/she still worked.)
-- *Kahit sino*  
+- _Kahit sino_  
   (Anyone/Whoever)
 
-#### *Bagaman* / *Bagamat* (Although - Formal)
+#### _Bagaman_ / _Bagamat_ (Although - Formal)
 
 Formal concessive:
 
-- *Bagaman mayaman siya, simple lang ang pamumuhay niya.*  
+- _Bagaman mayaman siya, simple lang ang pamumuhay niya._  
   (Although he/she is rich, his/her lifestyle is simple.)
 
 ### Comparison Conjunctions
 
-#### *Kaysa* (Than)
+#### _Kaysa_ (Than)
 
 Used in comparisons:
 
-- *Mas maganda ito kaysa doon.*  
+- _Mas maganda ito kaysa doon._  
   (This is more beautiful than that.)
-- *Mas gusto ko ang kape kaysa sa tsaa.*  
+- _Mas gusto ko ang kape kaysa sa tsaa._  
   (I prefer coffee to tea.)
 
-#### *Parang* (Like/As If)
+#### _Parang_ (Like/As If)
 
 Similarity or appearance:
 
-- *Parang uulan.*  
+- _Parang uulan._  
   (It looks like it will rain.)
-- *Kumanta siya na parang propesyonal.*  
+- _Kumanta siya na parang propesyonal._  
   (He/She sang like a professional.)
 
 ## Correlative Conjunctions
 
 These work in pairs.
 
-### *Kung... Ay* (If... Then)
+### _Kung... Ay_ (If... Then)
 
-- *Kung uulan ay magdala ng payong.*  
+- _Kung uulan ay magdala ng payong._  
   (If it rains, then bring an umbrella.)
 
-### *Hindi lang... Kundi pati* (Not Only... But Also)
+### _Hindi lang... Kundi pati_ (Not Only... But Also)
 
-- *Hindi lang maganda kundi pati matalino.*  
+- _Hindi lang maganda kundi pati matalino._  
   (Not only beautiful but also intelligent.)
 
-### *Parehong... At* (Both... And)
+### _Parehong... At_ (Both... And)
 
-- *Parehong mabait at matalino si Maria.*  
+- _Parehong mabait at matalino si Maria._  
   (Maria is both kind and intelligent.)
 
-### *Maging... Man* (Whether... Or)
+### _Maging... Man_ (Whether... Or)
 
-- *Maging umuulan man o maaraw, pupunta ako.*  
+- _Maging umuulan man o maaraw, pupunta ako._  
   (Whether it's raining or sunny, I'll go.)
 
 ## Transitional Expressions
@@ -280,73 +280,73 @@ Link ideas and provide logical flow.
 
 ### Addition
 
-| Tagalog | English |
-| ------- | ------- |
-| *bukod dito* | besides this |
-| *dagdag pa* | furthermore |
-| *higit pa rito* | moreover |
+| Tagalog         | English      |
+| --------------- | ------------ |
+| _bukod dito_    | besides this |
+| _dagdag pa_     | furthermore  |
+| _higit pa rito_ | moreover     |
 
 Examples:
 
-- *Matalino siya. Bukod dito, mabait pa.*  
+- _Matalino siya. Bukod dito, mabait pa._  
   (He/She is intelligent. Besides this, he/she is also kind.)
 
 ### Contrast
 
-| Tagalog | English |
-| ------- | ------- |
-| *sa kabila nito* | despite this |
-| *gayunman* | nevertheless |
-| *subalit* | however |
-| *sa kabilang dako* | on the contrary |
-| *sa kabilang banda* | on the other hand |
+| Tagalog             | English           |
+| ------------------- | ----------------- |
+| _sa kabila nito_    | despite this      |
+| _gayunman_          | nevertheless      |
+| _subalit_           | however           |
+| _sa kabilang dako_  | on the contrary   |
+| _sa kabilang banda_ | on the other hand |
 
 Examples:
 
-- *Mahal ito. Gayunman, bibili pa rin ako.*  
+- _Mahal ito. Gayunman, bibili pa rin ako._  
   (This is expensive. Nevertheless, I'll still buy it.)
 
 ### Result
 
-| Tagalog | English |
-| ------- | ------- |
-| *kaya naman* | therefore |
-| *dahil dito* | because of this |
-| *sa gayon* | thus |
-| *kaya nga* | that's why |
+| Tagalog      | English         |
+| ------------ | --------------- |
+| _kaya naman_ | therefore       |
+| _dahil dito_ | because of this |
+| _sa gayon_   | thus            |
+| _kaya nga_   | that's why      |
 
 Examples:
 
-- *Nawala ang susi. Dahil dito, hindi ako makapasok.*  
+- _Nawala ang susi. Dahil dito, hindi ako makapasok._  
   (The key was lost. Because of this, I can't enter.)
 
 ### Sequence
 
-| Tagalog | English |
-| ------- | ------- |
-| *una* | first |
-| *pangalawa* | second |
-| *pangatlo* | third |
-| *sa wakas* | finally |
-| *sa huli* | lastly |
+| Tagalog     | English |
+| ----------- | ------- |
+| _una_       | first   |
+| _pangalawa_ | second  |
+| _pangatlo_  | third   |
+| _sa wakas_  | finally |
+| _sa huli_   | lastly  |
 
 Examples:
 
-- *Una, maghanda ng sangkap. Pangalawa, lutuin ang karne.*  
+- _Una, maghanda ng sangkap. Pangalawa, lutuin ang karne._  
   (First, prepare the ingredients. Second, cook the meat.)
 
 ### Example/Clarification
 
-| Tagalog | English |
-| ------- | ------- |
-| *halimbawa* | for example |
-| *tulad ng* | like/such as |
-| *ibig sabihin* | that means |
-| *sa madaling salita* | in other words |
+| Tagalog              | English        |
+| -------------------- | -------------- |
+| _halimbawa_          | for example    |
+| _tulad ng_           | like/such as   |
+| _ibig sabihin_       | that means     |
+| _sa madaling salita_ | in other words |
 
 Examples:
 
-- *Maraming prutas dito. Halimbawa, mansanas at saging.*  
+- _Maraming prutas dito. Halimbawa, mansanas at saging._  
   (There are many fruits here. For example, apples and bananas.)
 
 ## Discourse Markers
@@ -355,25 +355,25 @@ Particles that structure conversation.
 
 ### Starting Points
 
-- *Kasi...* (Well, you see...)
-- *Alam mo...* (You know...)
-- *Eh...* (Well...)
+- _Kasi..._ (Well, you see...)
+- _Alam mo..._ (You know...)
+- _Eh..._ (Well...)
 
 ### Emphasis
 
-- *Talaga* (Really)
-- *Siyempre* (Of course)
+- _Talaga_ (Really)
+- _Siyempre_ (Of course)
 
 ### Hesitation
 
-- *Eh...* (Uh...)
-- *Ano...* (Um...)
+- _Eh..._ (Uh...)
+- _Ano..._ (Um...)
 
 Examples:
 
-- *Eh, hindi ko alam eh.*  
+- _Eh, hindi ko alam eh._  
   (Well, I don't know.)
-- *Talaga namang maganda yan.*  
+- _Talaga namang maganda yan._  
   (That's really beautiful indeed.)
 
 ## Complex Sentence Patterns
@@ -382,12 +382,12 @@ Examples:
 
 Combine different connectors:
 
-- *Kumain ako at uminom, pero hindi pa ako busog kasi gutom na gutom ako.*  
+- _Kumain ako at uminom, pero hindi pa ako busog kasi gutom na gutom ako._  
   (I ate and drank, but I'm not full yet because I was very hungry.)
 
 ### Nested Clauses
 
-- *Sabi niya na pupunta daw siya kung hindi uulan.*  
+- _Sabi niya na pupunta daw siya kung hindi uulan._  
   (He/She said that he/she will go if it doesn't rain.)
 
 ## Position of Connectors
@@ -396,18 +396,18 @@ Combine different connectors:
 
 Many connectors can start sentences:
 
-- *Dahil umuulan, nagdala ako ng payong.*  
+- _Dahil umuulan, nagdala ako ng payong._  
   (Because it's raining, I brought an umbrella.)
-- *Kung gusto mo, halika.*  
+- _Kung gusto mo, halika._  
   (If you want, come.)
 
 ### Medial Position
 
 Connectors typically appear between clauses:
 
-- *Kumain ako at natulog.*  
+- _Kumain ako at natulog._  
   (I ate and slept.)
-- *Gusto ko pero mahal.*  
+- _Gusto ko pero mahal._  
   (I want it but it's expensive.)
 
 ## Punctuation with Connectors
@@ -415,72 +415,72 @@ Connectors typically appear between clauses:
 ### Comma Usage
 
 - Use commas before coordinating conjunctions in longer sentences:
-  - *Maganda ang bahay, at mura pa.*
+  - _Maganda ang bahay, at mura pa._
 - Use commas after initial subordinating clauses:
-  - *Kung uulan, magdala ng payong.*
+  - _Kung uulan, magdala ng payong._
 
 ### No Comma Needed
 
 - Short coordinated phrases often don't need commas:
-  - *Kumain at uminom ako.*
+  - _Kumain at uminom ako._
 
 ## Common Connector Combinations
 
-| Combination | Meaning | Example |
-| ----------- | ------- | ------- |
-| *kasi naman* | because (emphasis) | *Kasi naman, hindi mo sinabi.* |
-| *pero naman* | but (complaint) | *Pero naman, ang mahal!* |
-| *kung saka-sakali* | if by chance | *Kung saka-sakali, tawagan mo ako.* |
-| *kung gayon* | if so/in that case | *Kung gayon, aalis na ako.* |
-| *kaya nga* | that's why (emphasis) | *Kaya nga, sabi ko na eh.* |
+| Combination        | Meaning               | Example                             |
+| ------------------ | --------------------- | ----------------------------------- |
+| _kasi naman_       | because (emphasis)    | _Kasi naman, hindi mo sinabi._      |
+| _pero naman_       | but (complaint)       | _Pero naman, ang mahal!_            |
+| _kung saka-sakali_ | if by chance          | _Kung saka-sakali, tawagan mo ako._ |
+| _kung gayon_       | if so/in that case    | _Kung gayon, aalis na ako._         |
+| _kaya nga_         | that's why (emphasis) | _Kaya nga, sabi ko na eh._          |
 
 ## Regional Variations
 
 ::: details Dialectal Differences
-Some regions prefer certain connectors over others. For example, *kasi* is universal in casual speech, while *sapagkat* is rare in everyday conversation. Regional languages may also influence connector usage.
+Some regions prefer certain connectors over others. For example, _kasi_ is universal in casual speech, while _sapagkat_ is rare in everyday conversation. Regional languages may also influence connector usage.
 :::
 
 ## Common Errors
 
-### Confusing *Nang* and *Ng*
+### Confusing _Nang_ and _Ng_
 
-- Incorrect: *Tumakbo siya ng mabilis.* (incorrect - *ng* is a case marker)
-- Correct: *Tumakbo siya nang mabilis.* (He/She ran fast - manner)
-- Also correct: *Nang dumating siya, umalis ako.* (When he/she arrived, I left - temporal)
+- Incorrect: _Tumakbo siya ng mabilis._ (incorrect - _ng_ is a case marker)
+- Correct: _Tumakbo siya nang mabilis._ (He/She ran fast - manner)
+- Also correct: _Nang dumating siya, umalis ako._ (When he/she arrived, I left - temporal)
 
-### Overusing *Kasi*
+### Overusing _Kasi_
 
-While *kasi* is common, varying connectors improves writing:
+While _kasi_ is common, varying connectors improves writing:
 
-- Repetitive: *Umuwi ako kasi pagod ako kasi maraming ginawa.*
-- Better: *Umuwi ako dahil pagod na ako mula sa maraming ginawa.*
+- Repetitive: _Umuwi ako kasi pagod ako kasi maraming ginawa._
+- Better: _Umuwi ako dahil pagod na ako mula sa maraming ginawa._
 
 ### Comma Splices
 
 Don't join independent clauses with just a comma:
 
-- Incorrect: *Kumain ako, natulog ako.*
-- Correct: *Kumain ako at natulog ako.* or *Kumain ako. Natulog ako.*
+- Incorrect: _Kumain ako, natulog ako._
+- Correct: _Kumain ako at natulog ako._ or _Kumain ako. Natulog ako._
 
 ## Formal vs. Informal Usage
 
-| Informal | Formal | English |
-| -------- | ------ | ------- |
-| *kasi* | *dahil* / *sapagkat* | because |
-| *pero* | *ngunit* / *subalit* | but |
-| *para* | *upang* | in order to |
-| *kahit* | *bagaman* | although |
+| Informal | Formal               | English     |
+| -------- | -------------------- | ----------- |
+| _kasi_   | _dahil_ / _sapagkat_ | because     |
+| _pero_   | _ngunit_ / _subalit_ | but         |
+| _para_   | _upang_              | in order to |
+| _kahit_  | _bagaman_            | although    |
 
 ## Summary
 
 Tagalog connectors serve to:
 
-1. Link words, phrases, and clauses (*at*, *o*, *pero*)
-2. Express cause and effect (*kasi*, *dahil*, *kaya*)
-3. Indicate time relationships (*nang*, *habang*, *pagkatapos*)
-4. Show conditions (*kung*, *kapag*)
-5. Express purpose (*para*, *upang*)
-6. Indicate concession (*kahit*, *bagaman*)
+1. Link words, phrases, and clauses (_at_, _o_, _pero_)
+2. Express cause and effect (_kasi_, _dahil_, _kaya_)
+3. Indicate time relationships (_nang_, _habang_, _pagkatapos_)
+4. Show conditions (_kung_, _kapag_)
+5. Express purpose (_para_, _upang_)
+6. Indicate concession (_kahit_, _bagaman_)
 7. Structure discourse and organize ideas
 
 Key points:
@@ -488,7 +488,7 @@ Key points:
 - Choose formality level appropriate to context
 - Use commas correctly with connectors
 - Vary connector usage for better flow
-- Distinguish *nang* (when) from *ng* (case marker)
+- Distinguish _nang_ (when) from _ng_ (case marker)
 
 Mastering connectors enables more complex and nuanced expression in Tagalog.
 

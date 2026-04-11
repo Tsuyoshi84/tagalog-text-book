@@ -10,138 +10,138 @@ Critical phrases for urgent situations, seeking help, and communicating during e
 
 ## Calling for Help
 
-| Tagalog | English |
-| ------- | ------- |
-| *Tulong!* | Help! |
-| *Saklolo!* | Help! (older term, still understood) |
-| *Tulungan ninyo ako!* | Help me! |
-| *May emergency!* | There's an emergency! |
-| *Mabilis!* | Hurry!/Quick! |
-| *Bilisan ninyo!* | Hurry up! |
-| *Pulis!* | Police! |
-| *Tawag ng pulis!* | Call the police! |
-| *Tawag ng ambulansya!* | Call an ambulance! |
-| *Sunog!* | Fire! |
-| *May sunog!* | There's a fire! |
+| Tagalog                | English                              |
+| ---------------------- | ------------------------------------ |
+| _Tulong!_              | Help!                                |
+| _Saklolo!_             | Help! (older term, still understood) |
+| _Tulungan ninyo ako!_  | Help me!                             |
+| _May emergency!_       | There's an emergency!                |
+| _Mabilis!_             | Hurry!/Quick!                        |
+| _Bilisan ninyo!_       | Hurry up!                            |
+| _Pulis!_               | Police!                              |
+| _Tawag ng pulis!_      | Call the police!                     |
+| _Tawag ng ambulansya!_ | Call an ambulance!                   |
+| _Sunog!_               | Fire!                                |
+| _May sunog!_           | There's a fire!                      |
 
 ## Medical Emergencies
 
-| Tagalog | English |
-| ------- | ------- |
-| *May sakit ako.* | I'm sick. |
-| *Masakit.* | It hurts. |
-| *Masakit ang tiyan ko.* | My stomach hurts. |
-| *Masakit ang ulo ko.* | My head hurts. |
-| *Masakit ang dibdib ko.* | My chest hurts. |
-| *Hindi ako makahinga.* | I can't breathe. |
-| *Nahihilo ako.* | I'm dizzy. |
-| *Nasusuka ako.* | I'm nauseous./I'm vomiting. |
-| *Nilalagnat ako.* | I have a fever. |
-| *May sugat.* | There's a wound./I'm injured. |
-| *Dumudugo.* | It's bleeding. |
-| *Naaksidente ako.* | I had an accident. |
-| *Kailangan kong pumunta sa ospital.* | I need to go to the hospital. |
-| *Saan ang pinakamalapit na ospital?* | Where is the nearest hospital? |
-| *Saan ang clinic?* | Where is the clinic? |
+| Tagalog                              | English                        |
+| ------------------------------------ | ------------------------------ |
+| _May sakit ako._                     | I'm sick.                      |
+| _Masakit._                           | It hurts.                      |
+| _Masakit ang tiyan ko._              | My stomach hurts.              |
+| _Masakit ang ulo ko._                | My head hurts.                 |
+| _Masakit ang dibdib ko._             | My chest hurts.                |
+| _Hindi ako makahinga._               | I can't breathe.               |
+| _Nahihilo ako._                      | I'm dizzy.                     |
+| _Nasusuka ako._                      | I'm nauseous./I'm vomiting.    |
+| _Nilalagnat ako._                    | I have a fever.                |
+| _May sugat._                         | There's a wound./I'm injured.  |
+| _Dumudugo._                          | It's bleeding.                 |
+| _Naaksidente ako._                   | I had an accident.             |
+| _Kailangan kong pumunta sa ospital._ | I need to go to the hospital.  |
+| _Saan ang pinakamalapit na ospital?_ | Where is the nearest hospital? |
+| _Saan ang clinic?_                   | Where is the clinic?           |
 
 ## Medical Information
 
-| Tagalog | English |
-| ------- | ------- |
-| *Allergic ako sa...* | I'm allergic to... |
-| *May diabetes ako.* | I have diabetes. |
-| *May alta presyon ako.* | I have high blood pressure. |
-| *May asthma ako.* | I have asthma. |
-| *Umiinom ako ng gamot.* | I'm taking medication. |
-| *Kailangan ko ng gamot.* | I need medicine. |
-| *Saan ang botika?* | Where is the pharmacy? |
-| *May reseta ba?* | Do you have a prescription? |
-| *Buntis ako.* | I'm pregnant. |
+| Tagalog                  | English                     |
+| ------------------------ | --------------------------- |
+| _Allergic ako sa..._     | I'm allergic to...          |
+| _May diabetes ako._      | I have diabetes.            |
+| _May alta presyon ako._  | I have high blood pressure. |
+| _May asthma ako._        | I have asthma.              |
+| _Umiinom ako ng gamot._  | I'm taking medication.      |
+| _Kailangan ko ng gamot._ | I need medicine.            |
+| _Saan ang botika?_       | Where is the pharmacy?      |
+| _May reseta ba?_         | Do you have a prescription? |
+| _Buntis ako._            | I'm pregnant.               |
 
 ## Crime and Safety
 
-| Tagalog | English |
-| ------- | ------- |
-| *Nanakawan ako.* | I was robbed. |
-| *Ninakaw ang bag ko.* | My bag was stolen. |
-| *Ninakaw ang pitaka ko.* | My wallet was stolen. |
-| *Ninakaw ang cellphone ko.* | My cellphone was stolen. |
-| *Nawawala ang...* | ...is missing. |
-| *Nawawala ang anak ko.* | My child is missing. |
-| *Nakita ninyo ba ang...?* | Did you see...? |
-| *Holdaper!* | Robber!/Hold-upper! (Taglish term) |
-| *Magnanakaw!* | Thief! |
-| *Huwag kang lalapit!* | Don't come closer! |
-| *Umalis ka!* | Go away! |
-| *Tigilan mo ako!* | Stop bothering me! |
+| Tagalog                     | English                            |
+| --------------------------- | ---------------------------------- |
+| _Nanakawan ako._            | I was robbed.                      |
+| _Ninakaw ang bag ko._       | My bag was stolen.                 |
+| _Ninakaw ang pitaka ko._    | My wallet was stolen.              |
+| _Ninakaw ang cellphone ko._ | My cellphone was stolen.           |
+| _Nawawala ang..._           | ...is missing.                     |
+| _Nawawala ang anak ko._     | My child is missing.               |
+| _Nakita ninyo ba ang...?_   | Did you see...?                    |
+| _Holdaper!_                 | Robber!/Hold-upper! (Taglish term) |
+| _Magnanakaw!_               | Thief!                             |
+| _Huwag kang lalapit!_       | Don't come closer!                 |
+| _Umalis ka!_                | Go away!                           |
+| _Tigilan mo ako!_           | Stop bothering me!                 |
 
 ## Seeking Assistance
 
-| Tagalog | English |
-| ------- | ------- |
-| *Kailangan ko ng tulong.* | I need help. |
-| *May problema ako.* | I have a problem. |
-| *Pwede mo ba akong tulungan?* | Can you help me? |
-| *Paano ko kayo makokontak?* | How can I contact you? |
-| *Ano ang numero ninyo?* | What is your number? |
-| *Saan ako makakahingi ng tulong?* | Where can I ask for help? |
-| *Ligtas ba rito?* | Is it safe here? |
-| *Delikado ba?* | Is it dangerous? |
+| Tagalog                           | English                   |
+| --------------------------------- | ------------------------- |
+| _Kailangan ko ng tulong._         | I need help.              |
+| _May problema ako._               | I have a problem.         |
+| _Pwede mo ba akong tulungan?_     | Can you help me?          |
+| _Paano ko kayo makokontak?_       | How can I contact you?    |
+| _Ano ang numero ninyo?_           | What is your number?      |
+| _Saan ako makakahingi ng tulong?_ | Where can I ask for help? |
+| _Ligtas ba rito?_                 | Is it safe here?          |
+| _Delikado ba?_                    | Is it dangerous?          |
 
 ## At the Police Station
 
-| Tagalog | English |
-| ------- | ------- |
-| *Gusto kong mag-report.* | I want to report something. |
-| *Gusto kong mag-file ng kaso.* | I want to file a case. |
-| *Kailangan ko ng police report.* | I need a police report. |
-| *Sino ang nag-report?* | Who reported it? |
-| *Kailan ito nangyari?* | When did this happen? |
-| *Saan ito nangyari?* | Where did this happen? |
-| *May nakita ka ba?* | Did you see anything? |
-| *May witness ba?* | Is there a witness? |
-| *Sino ang may sala?* | Who is at fault? |
+| Tagalog                          | English                     |
+| -------------------------------- | --------------------------- |
+| _Gusto kong mag-report._         | I want to report something. |
+| _Gusto kong mag-file ng kaso._   | I want to file a case.      |
+| _Kailangan ko ng police report._ | I need a police report.     |
+| _Sino ang nag-report?_           | Who reported it?            |
+| _Kailan ito nangyari?_           | When did this happen?       |
+| _Saan ito nangyari?_             | Where did this happen?      |
+| _May nakita ka ba?_              | Did you see anything?       |
+| _May witness ba?_                | Is there a witness?         |
+| _Sino ang may sala?_             | Who is at fault?            |
 
 ## Natural Disasters
 
-| Tagalog | English |
-| ------- | ------- |
-| *Lindol!* | Earthquake! |
-| *May lindol!* | There's an earthquake! |
-| *Baha!* | Flood! |
-| *Bumabaha.* | It's flooding. |
-| *Bagyo!* | Typhoon!/Storm! |
-| *May bagyo.* | There's a typhoon. |
-| *Lumikas na.* | Evacuate now. |
-| *Saan ang evacuation center?* | Where is the evacuation center? |
-| *Ligtas ba rito?* | Is it safe here? |
-| *Pumunta sa mataas na lugar.* | Go to higher ground. |
-| *Huwag lumabas.* | Don't go outside. |
+| Tagalog                       | English                         |
+| ----------------------------- | ------------------------------- |
+| _Lindol!_                     | Earthquake!                     |
+| _May lindol!_                 | There's an earthquake!          |
+| _Baha!_                       | Flood!                          |
+| _Bumabaha._                   | It's flooding.                  |
+| _Bagyo!_                      | Typhoon!/Storm!                 |
+| _May bagyo._                  | There's a typhoon.              |
+| _Lumikas na._                 | Evacuate now.                   |
+| _Saan ang evacuation center?_ | Where is the evacuation center? |
+| _Ligtas ba rito?_             | Is it safe here?                |
+| _Pumunta sa mataas na lugar._ | Go to higher ground.            |
+| _Huwag lumabas._              | Don't go outside.               |
 
 ## Accidents
 
-| Tagalog | English |
-| ------- | ------- |
-| *May aksidente!* | There's an accident! |
-| *May nasagasaan.* | Someone was run over. |
-| *May nabangga.* | There was a collision. |
-| *May nahulog.* | Someone fell. |
-| *May nalunod.* | Someone drowned. |
-| *May nasunog.* | Someone was burned. |
-| *Buhay pa ba?* | Is he/she still alive? |
-| *Gumagalaw pa ba?* | Is he/she still moving? |
-| *Huwag mo siyang galaw-galawin.* | Don't move him/her. |
+| Tagalog                          | English                 |
+| -------------------------------- | ----------------------- |
+| _May aksidente!_                 | There's an accident!    |
+| _May nasagasaan._                | Someone was run over.   |
+| _May nabangga._                  | There was a collision.  |
+| _May nahulog._                   | Someone fell.           |
+| _May nalunod._                   | Someone drowned.        |
+| _May nasunog._                   | Someone was burned.     |
+| _Buhay pa ba?_                   | Is he/she still alive?  |
+| _Gumagalaw pa ba?_               | Is he/she still moving? |
+| _Huwag mo siyang galaw-galawin._ | Don't move him/her.     |
 
 ## Important Contact Information
 
-| Tagalog | English |
-| ------- | ------- |
-| *Ano ang numero ng emergency?* | What is the emergency number? |
-| *Kailangan kong tumawag sa embassy.* | I need to call the embassy. |
-| *Saan ang embassy?* | Where is the embassy? |
-| *Kailangan ko ng interpreter.* | I need an interpreter. |
-| *Hindi ako marunong mag-Tagalog.* | I don't speak Tagalog. |
-| *May nagsasalita ba ng Ingles?* | Does anyone speak English? |
+| Tagalog                              | English                       |
+| ------------------------------------ | ----------------------------- |
+| _Ano ang numero ng emergency?_       | What is the emergency number? |
+| _Kailangan kong tumawag sa embassy._ | I need to call the embassy.   |
+| _Saan ang embassy?_                  | Where is the embassy?         |
+| _Kailangan ko ng interpreter._       | I need an interpreter.        |
+| _Hindi ako marunong mag-Tagalog._    | I don't speak Tagalog.        |
+| _May nagsasalita ba ng Ingles?_      | Does anyone speak English?    |
 
 ::: warning ⚠️ Emergency Numbers
 In the Philippines, the national emergency hotline is **911**. This connects to police, fire, and medical services. Keep this number accessible at all times.

@@ -27,16 +27,16 @@ Taglish is not "broken" language but a legitimate linguistic practice among bili
 
 English nouns are frequently inserted into Tagalog sentences with Tagalog grammar markers.
 
-- *Kumain ako ng sandwich kanina.*  
+- _Kumain ako ng sandwich kanina._  
   (I ate a sandwich earlier.)
 
-- *Nasaan ang cellphone ko?*  
+- _Nasaan ang cellphone ko?_  
   (Where is my cellphone?)
 
-- *Maganda ang laptop na binili mo.*  
+- _Maganda ang laptop na binili mo._  
   (The laptop you bought is nice.)
 
-- *Pupunta ako sa mall mamaya.*  
+- _Pupunta ako sa mall mamaya._  
   (I'm going to the mall later.)
 
 ---
@@ -45,19 +45,19 @@ English nouns are frequently inserted into Tagalog sentences with Tagalog gramma
 
 English verb roots receive Tagalog affixes for aspect and focus.
 
-- *Nag-text ako sa kanya.*  
+- _Nag-text ako sa kanya._  
   (I texted him/her.)
 
-- *Mag-download ka ng app.*  
+- _Mag-download ka ng app._  
   (Download an app.)
 
-- *I-check mo ang email.*  
+- _I-check mo ang email._  
   (Check the email.)
 
-- *Na-cancel ang meeting.*  
+- _Na-cancel ang meeting._  
   (The meeting was cancelled.)
 
-- *Nag-jogging siya kaninang umaga.*  
+- _Nag-jogging siya kaninang umaga._  
   (He/she jogged this morning.)
 
 ---
@@ -66,16 +66,16 @@ English verb roots receive Tagalog affixes for aspect and focus.
 
 English adjectives describe Tagalog nouns using Tagalog linking structures.
 
-- *Ang ganda ng view!*  
+- _Ang ganda ng view!_  
   (The view is so beautiful!)
 
-- *Sobrang busy ako ngayon.*  
+- _Sobrang busy ako ngayon._  
   (I'm very busy right now.)
 
-- *Ang cute ng baby.*  
+- _Ang cute ng baby._  
   (The baby is so cute.)
 
-- *Feeling ko stressed ako.*  
+- _Feeling ko stressed ako._  
   (I feel stressed.)
 
 ---
@@ -84,66 +84,66 @@ English adjectives describe Tagalog nouns using Tagalog linking structures.
 
 Complete phrases alternate between Tagalog and English within the same sentence.
 
-- *Kasi I forgot na may deadline pala today.*  
+- _Kasi I forgot na may deadline pala today._  
   (Because I forgot that there's actually a deadline today.)
 
-- *Actually, okay lang naman.*  
+- _Actually, okay lang naman._  
   (Actually, it's okay.)
 
-- *Sabi ko sa kanya, "Just text me kapag free ka na."*  
+- _Sabi ko sa kanya, "Just text me kapag free ka na."_  
   (I told him/her, "Just text me when you're free.")
 
-- *Wait lang, tatawag ako kay Mom.*  
+- _Wait lang, tatawag ako kay Mom._  
   (Wait, I'll call Mom.)
 
 ## Commonly Borrowed English Words
 
 ### Technology and Modern Life
 
-| English | Tagalog Usage | Example |
-| ------- | ------------- | ------- |
-| cellphone | *cellphone* | *Nasaan ang cellphone mo?* (Where is your cellphone?) |
-| computer | *computer* | *Gumagamit ako ng computer.* (I use a computer.) |
-| internet | *internet* | *Walang internet dito.* (There's no internet here.) |
-| email | *email* | *Send mo sa email ko.* (Send it to my email.) |
-| chat | *mag-chat* | *Nag-chat kami kagabi.* (We chatted last night.) |
-| selfie | *selfie* | *Kuha tayo ng selfie.* (Let's take a selfie.) |
-| download | *mag-download* | *I-download mo yung file.* (Download the file.) |
-| online | *online* | *Online ako ngayon.* (I'm online now.) |
+| English   | Tagalog Usage  | Example                                               |
+| --------- | -------------- | ----------------------------------------------------- |
+| cellphone | _cellphone_    | _Nasaan ang cellphone mo?_ (Where is your cellphone?) |
+| computer  | _computer_     | _Gumagamit ako ng computer._ (I use a computer.)      |
+| internet  | _internet_     | _Walang internet dito._ (There's no internet here.)   |
+| email     | _email_        | _Send mo sa email ko._ (Send it to my email.)         |
+| chat      | _mag-chat_     | _Nag-chat kami kagabi._ (We chatted last night.)      |
+| selfie    | _selfie_       | _Kuha tayo ng selfie._ (Let's take a selfie.)         |
+| download  | _mag-download_ | _I-download mo yung file._ (Download the file.)       |
+| online    | _online_       | _Online ako ngayon._ (I'm online now.)                |
 
 ### Business and Work
 
-| English | Tagalog Usage | Example |
-| ------- | ------------- | ------- |
-| meeting | *meeting* | *May meeting ako bukas.* (I have a meeting tomorrow.) |
-| deadline | *deadline* | *Ano ang deadline?* (What's the deadline?) |
-| project | *project* | *Natapos ko na ang project.* (I finished the project.) |
-| boss | *boss* | *Nasaan ang boss natin?* (Where's our boss?) |
-| schedule | *schedule* | *Ano ang schedule mo?* (What's your schedule?) |
-| report | *report* | *Ipasa mo ang report.* (Submit the report.) |
-| office | *office* | *Pupunta ako sa office.* (I'm going to the office.) |
+| English  | Tagalog Usage | Example                                                |
+| -------- | ------------- | ------------------------------------------------------ |
+| meeting  | _meeting_     | _May meeting ako bukas._ (I have a meeting tomorrow.)  |
+| deadline | _deadline_    | _Ano ang deadline?_ (What's the deadline?)             |
+| project  | _project_     | _Natapos ko na ang project._ (I finished the project.) |
+| boss     | _boss_        | _Nasaan ang boss natin?_ (Where's our boss?)           |
+| schedule | _schedule_    | _Ano ang schedule mo?_ (What's your schedule?)         |
+| report   | _report_      | _Ipasa mo ang report._ (Submit the report.)            |
+| office   | _office_      | _Pupunta ako sa office._ (I'm going to the office.)    |
 
 ### Everyday Items
 
-| English | Tagalog Usage | Example |
-| ------- | ------------- | ------- |
-| bag | *bag* | *Maganda ang bag mo.* (Your bag is nice.) |
-| mall | *mall* | *Tara sa mall.* (Let's go to the mall.) |
-| parking | *parking* | *Wala akong makitang parking.* (I can't find parking.) |
-| elevator | *elevator* | *Sumakay tayo sa elevator.* (Let's take the elevator.) |
-| delivery | *delivery* | *May delivery ba?* (Is there delivery?) |
-| driver | *driver* | *Saan ang driver?* (Where's the driver?) |
+| English  | Tagalog Usage | Example                                                |
+| -------- | ------------- | ------------------------------------------------------ |
+| bag      | _bag_         | _Maganda ang bag mo._ (Your bag is nice.)              |
+| mall     | _mall_        | _Tara sa mall._ (Let's go to the mall.)                |
+| parking  | _parking_     | _Wala akong makitang parking._ (I can't find parking.) |
+| elevator | _elevator_    | _Sumakay tayo sa elevator._ (Let's take the elevator.) |
+| delivery | _delivery_    | _May delivery ba?_ (Is there delivery?)                |
+| driver   | _driver_      | _Saan ang driver?_ (Where's the driver?)               |
 
 ### Emotions and Reactions
 
-| English | Tagalog Usage | Example |
-| ------- | ------------- | ------- |
-| excited | *excited* | *Excited ako!* (I'm excited!) |
-| happy | *happy* | *Happy ako ngayon.* (I'm happy now.) |
-| stressed | *stressed* | *Sobrang stressed ako.* (I'm very stressed.) |
-| boring | *boring* | *Boring dito.* (It's boring here.) |
-| love | *love* | *Love ko yan!* (I love that!) |
-| cute | *cute* | *Ang cute!* (How cute!) |
+| English  | Tagalog Usage | Example                                      |
+| -------- | ------------- | -------------------------------------------- |
+| excited  | _excited_     | _Excited ako!_ (I'm excited!)                |
+| happy    | _happy_       | _Happy ako ngayon._ (I'm happy now.)         |
+| stressed | _stressed_    | _Sobrang stressed ako._ (I'm very stressed.) |
+| boring   | _boring_      | _Boring dito._ (It's boring here.)           |
+| love     | _love_        | _Love ko yan!_ (I love that!)                |
+| cute     | _cute_        | _Ang cute!_ (How cute!)                      |
 
 ## Taglish in Different Settings
 
@@ -151,13 +151,13 @@ Complete phrases alternate between Tagalog and English within the same sentence.
 
 Taglish is most common in informal settings among friends, family, and peers.
 
-- *Grabe, ang traffic! Hindi ako maka-move.*  
+- _Grabe, ang traffic! Hindi ako maka-move._  
   (Wow, the traffic is bad! I can't move.)
 
-- *Check mo yung Instagram ko, nag-post ako.*  
+- _Check mo yung Instagram ko, nag-post ako._  
   (Check my Instagram, I posted.)
 
-- *Sorry, late ako. May emergency kasi.*  
+- _Sorry, late ako. May emergency kasi._  
   (Sorry, I'm late. There was an emergency.)
 
 ---
@@ -166,13 +166,13 @@ Taglish is most common in informal settings among friends, family, and peers.
 
 Professional settings use Taglish for efficiency and clarity, especially for technical terms.
 
-- *Puwede bang i-forward mo sa akin ang email?*  
+- _Puwede bang i-forward mo sa akin ang email?_  
   (Can you forward the email to me?)
 
-- *Nag-meeting kami tungkol sa project implementation.*  
+- _Nag-meeting kami tungkol sa project implementation._  
   (We had a meeting about the project implementation.)
 
-- *Please confirm kung available ka sa schedule.*  
+- _Please confirm kung available ka sa schedule._  
   (Please confirm if you're available in the schedule.)
 
 ---
@@ -181,28 +181,28 @@ Professional settings use Taglish for efficiency and clarity, especially for tec
 
 Online communication heavily features Taglish with abbreviations and informal spelling.
 
-- *OMG! Nakita ko siya sa mall!*  
+- _OMG! Nakita ko siya sa mall!_  
   (Oh my God! I saw him/her at the mall!)
 
-- *HAHAHA natawa ako!*  
+- _HAHAHA natawa ako!_  
   (HAHAHA I laughed!)
 
-- *Tara foodtrip tayo!*  
+- _Tara foodtrip tayo!_  
   (Let's go on a food trip!)
 
 ## Taglish Grammar Patterns
 
 ### Marker Retention
 
-Tagalog grammatical markers (*ang*, *ng*, *sa*) are retained with English nouns.
+Tagalog grammatical markers (_ang_, _ng_, _sa_) are retained with English nouns.
 
-- *Binili ko ang laptop.*  
+- _Binili ko ang laptop._  
   (I bought the laptop.)
 
-- *Pumunta ako sa office.*  
+- _Pumunta ako sa office._  
   (I went to the office.)
 
-- *Regalo ko ang bag.*  
+- _Regalo ko ang bag._  
   (The bag is my gift.)
 
 ---
@@ -211,27 +211,27 @@ Tagalog grammatical markers (*ang*, *ng*, *sa*) are retained with English nouns.
 
 Tagalog affixes attach directly to English verb roots.
 
-| English Root | Taglish Form | Meaning | Example |
-| ------------ | ------------ | ------- | ------- |
-| text | *nag-text* | texted | *Nag-text ako kagabi.* (I texted last night.) |
-| post | *mag-post* | will post | *Mag-post ako mamaya.* (I'll post later.) |
-| search | *mag-search* | will search | *Mag-search ka sa Google.* (Search on Google.) |
-| check | *i-check* | check (object focus) | *I-check mo ang result.* (Check the result.) |
-| load | *mag-load* | will load | *Mag-load ako ng credits.* (I'll load phone credits.) |
+| English Root | Taglish Form | Meaning              | Example                                               |
+| ------------ | ------------ | -------------------- | ----------------------------------------------------- |
+| text         | _nag-text_   | texted               | _Nag-text ako kagabi._ (I texted last night.)         |
+| post         | _mag-post_   | will post            | _Mag-post ako mamaya._ (I'll post later.)             |
+| search       | _mag-search_ | will search          | _Mag-search ka sa Google._ (Search on Google.)        |
+| check        | _i-check_    | check (object focus) | _I-check mo ang result._ (Check the result.)          |
+| load         | _mag-load_   | will load            | _Mag-load ako ng credits._ (I'll load phone credits.) |
 
 ---
 
 ### Linking Patterns
 
-The Tagalog linker *na* (or *-ng*) connects Tagalog and English elements.
+The Tagalog linker _na_ (or _-ng_) connects Tagalog and English elements.
 
-- *Ang cute ng baby.*  
+- _Ang cute ng baby._  
   (The baby is so cute.)
 
-- *Maganda yung design na ginawa mo.*  
+- _Maganda yung design na ginawa mo._  
   (The design you made is beautiful.)
 
-- *Masarap yung cookies na binili ko.*  
+- _Masarap yung cookies na binili ko._  
   (The cookies I bought are delicious.)
 
 ## Regional and Social Variation
@@ -255,37 +255,37 @@ While Taglish is normal in casual and semi-formal settings, formal writing, acad
 
 ### Daily Conversation
 
-- *Friend, punta ka ba sa birthday party ni Anna? May gift ka na ba?*  
+- _Friend, punta ka ba sa birthday party ni Anna? May gift ka na ba?_  
   (Friend, are you going to Anna's birthday party? Do you have a gift already?)
 
-- *Wala pa eh. Baka mag-mall na lang ako bukas para bumili.*  
+- _Wala pa eh. Baka mag-mall na lang ako bukas para bumili._  
   (Not yet. Maybe I'll just go to the mall tomorrow to buy one.)
 
 ---
 
 ### Planning
 
-- *So, ano ang plan natin this weekend?*  
+- _So, ano ang plan natin this weekend?_  
   (So, what's our plan this weekend?)
 
-- *Gusto ko mag-beach! Tara, overnight tayo.*  
+- _Gusto ko mag-beach! Tara, overnight tayo._  
   (I want to go to the beach! Come on, let's stay overnight.)
 
 ---
 
 ### Work Discussion
 
-- *Na-submit mo na ba yung report sa boss?*  
+- _Na-submit mo na ba yung report sa boss?_  
   (Did you already submit the report to the boss?)
 
-- *Oo, nag-email na ako kanina. Sana okay yung format.*  
+- _Oo, nag-email na ako kanina. Sana okay yung format._  
   (Yes, I already emailed earlier. I hope the format is okay.)
 
 ---
 
 ### Social Media
 
-- *OMG! Super ganda ng sunset! Nag-picture ako ng marami!*  
+- _OMG! Super ganda ng sunset! Nag-picture ako ng marami!_  
   (Oh my God! The sunset is super beautiful! I took many pictures!)
 
 ::: tip Learning Taglish

@@ -10,84 +10,84 @@ Tagalog idioms express ideas through figurative language that differs from liter
 
 ## Body and Physical Idioms
 
-### *Mabigat ang kamay*
+### _Mabigat ang kamay_
 
 Literal: Heavy hand
 
 Meaning: Someone who hits hard or is physically violent.
 
-- *Mabigat ang kamay ng tatay niya.*  
+- _Mabigat ang kamay ng tatay niya._  
   (His father has a heavy hand. / His father is harsh with punishment.)
 
 ---
 
-### *Mahaba ang pisi*
+### _Mahaba ang pisi_
 
 Literal: Long rope
 
 Meaning: Someone is patient or has a long fuse.
 
-- *Mahaba ang pisi ng guro namin.*  
+- _Mahaba ang pisi ng guro namin._  
   (Our teacher has a long rope. / Our teacher is very patient.)
 
 ---
 
-### *Makati ang dila*
+### _Makati ang dila_
 
 Literal: Itchy tongue
 
 Meaning: Talkative, gossipy, or cannot keep a secret.
 
-- *Makati ang dila ng kapitbahay namin.*  
+- _Makati ang dila ng kapitbahay namin._  
   (Our neighbor has an itchy tongue. / Our neighbor is a gossip.)
 
 ---
 
-### *Maitim ang budhi*
+### _Maitim ang budhi_
 
 Literal: Black conscience
 
 Meaning: Evil intentions or immoral character.
 
-- *Maitim ang budhi ng taong iyon.*  
+- _Maitim ang budhi ng taong iyon._  
   (That person has a black conscience. / That person has evil intentions.)
 
 ---
 
-### *Makapal ang mukha*
+### _Makapal ang mukha_
 
 Literal: Thick face
 
 Meaning: Shameless, brazen, or insensitive to embarrassment.
 
-- *Makapal ang mukha niya na humingi pa ng tulong.*  
+- _Makapal ang mukha niya na humingi pa ng tulong._  
   (He has a thick face to still ask for help. / He's shameless to still ask for help.)
 
 ## Nature and Animal Idioms
 
-### *Balat-sibuyas*
+### _Balat-sibuyas_
 
 Literal: Onion skin
 
 Meaning: Oversensitive, easily hurt or offended.
 
-- *Balat-sibuyas siya kaya mag-ingat ka sa sasabihin mo.*  
+- _Balat-sibuyas siya kaya mag-ingat ka sa sasabihin mo._  
   (She is onion-skinned, so be careful what you say. / She's very sensitive.)
 
 ---
 
-### *Isang kahig, isang tuka*
+### _Isang kahig, isang tuka_
 
 Literal: One scratch, one peck
 
 Meaning: Living hand-to-mouth, barely surviving economically.
 
-- *Isang kahig, isang tuka lang ang buhay nila.*  
+- _Isang kahig, isang tuka lang ang buhay nila._  
   (Their life is one scratch, one peck. / They live hand-to-mouth.)
 
 ---
 
-### *Panis na kamatis*
+### _Panis na kamatis_
 
 Literal: Rotten tomato
 
@@ -99,149 +99,149 @@ This idiom is outdated and offensive; avoid using it.
 
 ---
 
-### *Butas ang bulsa*
+### _Butas ang bulsa_
 
 Literal: Hole in the pocket
 
 Meaning: Poor, without money.
 
-- *Butas ang bulsa ko ngayon.*  
+- _Butas ang bulsa ko ngayon._  
   (My pocket has a hole. / I'm broke right now.)
 
 ## Food and Eating Idioms
 
-### *Kumain ng lupa*
+### _Kumain ng lupa_
 
 Literal: Ate earth
 
 Meaning: Died and was buried.
 
-- *Kumain na ng lupa ang aking lolo.*  
+- _Kumain na ng lupa ang aking lolo._  
   (My grandfather ate earth. / My grandfather passed away.)
 
 ---
 
-### *Maghalo ang balat sa tinalupan*
+### _Maghalo ang balat sa tinalupan_
 
 Literal: Skin mixed with the peeling
 
 Meaning: Total destruction or confusion, everything mixed up.
 
-- *Naghalo na ang balat sa tinalupan sa gulo.*  
+- _Naghalo na ang balat sa tinalupan sa gulo._  
   (Skin mixed with peeling in the chaos. / Everything was in total confusion.)
 
 ## Social and Behavioral Idioms
 
-### *Magsunog ng kilay*
+### _Magsunog ng kilay_
 
 Literal: Burn the eyebrow
 
 Meaning: Study very hard, work intensely.
 
-- *Magsusunog siya ng kilay para sa eksamen.*  
+- _Magsusunog siya ng kilay para sa eksamen._  
   (He will burn his eyebrow for the exam. / He will study very hard for the exam.)
 
 ---
 
-### *Walang utang na loob*
+### _Walang utang na loob_
 
 Literal: Without debt of gratitude
 
 Meaning: Ungrateful person who forgets kindness received.
 
-- *Walang utang na loob siya sa mga tumulong sa kanya.*  
+- _Walang utang na loob siya sa mga tumulong sa kanya._  
   (He has no debt of gratitude to those who helped him. / He's ungrateful.)
 
 ---
 
-### *Utak-pulbura*
+### _Utak-pulbura_
 
 Literal: Gunpowder brain
 
 Meaning: Hot-tempered, quick to anger.
 
-- *Utak-pulbura ang ate ko.*  
+- _Utak-pulbura ang ate ko._  
   (My older sister has a gunpowder brain. / My older sister is hot-tempered.)
 
 ---
 
-### *Bigyan ng jacket*
+### _Bigyan ng jacket_
 
 Literal: Give a jacket
 
 Meaning: Reject or turn down someone romantically (modern slang).
 
-- *Binigyan niya ng jacket ang manliligaw.*  
+- _Binigyan niya ng jacket ang manliligaw._  
   (She gave the suitor a jacket. / She rejected the suitor.)
 
 ---
 
-### *Ilagay sa lugar*
+### _Ilagay sa lugar_
 
 Literal: Put in place
 
 Meaning: Put someone in their place, teach someone a lesson.
 
-- *Kailangan niya ilagay sa lugar ang bastos na kaibigan.*  
+- _Kailangan niya ilagay sa lugar ang bastos na kaibigan._  
   (He needs to put the rude friend in place. / He needs to teach the rude friend a lesson.)
 
 ## Success and Failure Idioms
 
-### *Nakatikim ng alat*
+### _Nakatikim ng alat_
 
 Literal: Tasted salt
 
 Meaning: Experienced failure, hardship, or difficulty.
 
-- *Nakatikim na siya ng alat ng kabiguan.*  
+- _Nakatikim na siya ng alat ng kabiguan._  
   (He has tasted the salt of failure. / He has experienced failure.)
 
 ---
 
-### *Napakain sa kangkungan*
+### _Napakain sa kangkungan_
 
 Literal: Fed in the water spinach field
 
 Meaning: Deceived, fooled, or misled.
 
-- *Napakain siya sa kangkungan ng mga mandaraya.*  
+- _Napakain siya sa kangkungan ng mga mandaraya._  
   (He was fed in the water spinach field by the cheaters. / He was deceived by the cheaters.)
 
 ## Wisdom and Proverbs
 
-### *Ang hindi lumingon sa pinanggalingan, hindi makararating sa paroroonan*
+### _Ang hindi lumingon sa pinanggalingan, hindi makararating sa paroroonan_
 
 Literal: One who does not look back to where one came from will not reach one's destination.
 
 Meaning: Remember one's roots and origins; gratitude for the past guides the future.
 
-- *Ang hindi lumingon sa pinanggalingan, hindi makararating sa paroroonan.*  
+- _Ang hindi lumingon sa pinanggalingan, hindi makararating sa paroroonan._  
   (This is commonly stated as-is, serving as advice or reminder.)
 
 ---
 
-### *Nasa Diyos ang awa, nasa tao ang gawa*
+### _Nasa Diyos ang awa, nasa tao ang gawa_
 
 Literal: Mercy is with God, action is with man.
 
 Meaning: God provides opportunities, but people must take action and work hard.
 
-- *Nasa Diyos ang awa, nasa tao ang gawa.*  
+- _Nasa Diyos ang awa, nasa tao ang gawa._  
   (Often stated as a complete saying to encourage effort.)
 
 ---
 
-### *Kapag may tiyaga, may nilaga*
+### _Kapag may tiyaga, may nilaga_
 
 Literal: When there is patience, there is boiled meat.
 
 Meaning: Patience and perseverance lead to rewards.
 
-- *Kapag may tiyaga, may nilaga.*  
+- _Kapag may tiyaga, may nilaga._  
   (Persistence brings rewards.)
 
 ::: tip Usage Note
-Many Filipino idioms use body parts (*kamay*, *dila*, *mukha*) and food references (*kamatis*, *lupa*, *alat*) to create vivid imagery. Context determines whether an idiom sounds casual or formal.
+Many Filipino idioms use body parts (_kamay_, _dila_, _mukha_) and food references (_kamatis_, _lupa_, _alat_) to create vivid imagery. Context determines whether an idiom sounds casual or formal.
 :::
 
 ::: warning Cultural Sensitivity

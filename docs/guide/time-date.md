@@ -12,32 +12,32 @@ Expressing time and date in Tagalog involves a mix of native Tagalog and Spanish
 
 ### Hours
 
-Hours are expressed using Spanish numbers with *alas*:
+Hours are expressed using Spanish numbers with _alas_:
 
-| Time | Tagalog |
-| ---- | ------- |
-| 1:00 | *ala una* |
-| 2:00 | *alas dos* |
-| 3:00 | *alas tres* |
-| 4:00 | *alas kwatro* |
-| 5:00 | *alas singko* |
-| 6:00 | *alas seis* |
-| 7:00 | *alas siyete* |
-| 8:00 | *alas otso* |
-| 9:00 | *alas nuwebe* |
-| 10:00 | *alas diyes* |
-| 11:00 | *alas onse* |
-| 12:00 | *alas dose* |
+| Time  | Tagalog       |
+| ----- | ------------- |
+| 1:00  | _ala una_     |
+| 2:00  | _alas dos_    |
+| 3:00  | _alas tres_   |
+| 4:00  | _alas kwatro_ |
+| 5:00  | _alas singko_ |
+| 6:00  | _alas seis_   |
+| 7:00  | _alas siyete_ |
+| 8:00  | _alas otso_   |
+| 9:00  | _alas nuwebe_ |
+| 10:00 | _alas diyes_  |
+| 11:00 | _alas onse_   |
+| 12:00 | _alas dose_   |
 
 Examples:
 
-- *Alas tres ng hapon.*  
+- _Alas tres ng hapon._  
   (Three o'clock in the afternoon.)
-- *Ala una ng umaga.*  
+- _Ala una ng umaga._  
   (One o'clock in the morning.)
 
-::: tip *Alas* vs. *Ala*
-Use *ala* for one o'clock (*ala una*) and *alas* for all other hours.
+::: tip _Alas_ vs. _Ala_
+Use _ala_ for one o'clock (_ala una_) and _alas_ for all other hours.
 :::
 
 ### Minutes
@@ -46,109 +46,109 @@ Minutes are expressed using Spanish numbers:
 
 #### Exact Minutes
 
-- *Alas dos y medya* / *Alas dos y trenta*  
+- _Alas dos y medya_ / _Alas dos y trenta_  
   (2:30)
-- *Alas tres y kinse*  
+- _Alas tres y kinse_  
   (3:15)
-- *Alas kwatro y bente*  
+- _Alas kwatro y bente_  
   (4:20)
 
 #### Quarter Hours
 
-| Time Pattern | Tagalog |
-| ------------ | ------- |
-| Quarter past | *y kinse* |
-| Half past | *y medya* / *y trenta* |
-| Quarter to | *menos kinse* |
+| Time Pattern | Tagalog                |
+| ------------ | ---------------------- |
+| Quarter past | _y kinse_              |
+| Half past    | _y medya_ / _y trenta_ |
+| Quarter to   | _menos kinse_          |
 
 Examples:
 
-- *Alas dos y kinse.*  
+- _Alas dos y kinse._  
   (2:15 / Quarter past two.)
-- *Alas tres y medya.*  
+- _Alas tres y medya._  
   (3:30 / Half past three.)
-- *Alas kwatro menos kinse.*  
+- _Alas kwatro menos kinse._  
   (3:45 / Quarter to four.)
 
 #### Before and After
 
-- *y* - and/past (adds minutes)
-- *menos* - minus/to (subtracts minutes from next hour)
+- _y_ - and/past (adds minutes)
+- _menos_ - minus/to (subtracts minutes from next hour)
 
 Examples:
 
-- *Alas tres y diyes.*  
+- _Alas tres y diyes._  
   (3:10 / Ten past three.)
-- *Alas singko menos singko.*  
+- _Alas singko menos singko._  
   (4:55 / Five to five.)
 
 ### Time of Day
 
 Specify parts of the day using:
 
-| Tagalog | Time Range |
-| ------- | ---------- |
-| *madaling araw* | 3 AM to 6 AM |
-| *ng umaga* | 6 AM to noon |
-| *ng tanghali* | 11 AM to 1 PM |
-| *ng hapon* | 1 PM to 6 PM |
-| *ng gabi* | 6 PM onward |
-| *ng hatinggabi* | around 12 midnight |
+| Tagalog         | Time Range         |
+| --------------- | ------------------ |
+| _madaling araw_ | 3 AM to 6 AM       |
+| _ng umaga_      | 6 AM to noon       |
+| _ng tanghali_   | 11 AM to 1 PM      |
+| _ng hapon_      | 1 PM to 6 PM       |
+| _ng gabi_       | 6 PM onward        |
+| _ng hatinggabi_ | around 12 midnight |
 
 Examples:
 
-- *Alas siyete ng umaga.*  
+- _Alas siyete ng umaga._  
   (7:00 in the morning.)
-- *Alas dose ng tanghali.*  
+- _Alas dose ng tanghali._  
   (12:00 noon.)
-- *Alas tres ng hapon.*  
+- _Alas tres ng hapon._  
   (3:00 in the afternoon.)
-- *Alas otso ng gabi.*  
+- _Alas otso ng gabi._  
   (8:00 in the evening.)
 
 ::: info Time-of-Day Usage
-*Tanghali* refers to the midday period including lunch time, not just 12:00 exactly. *Madaling araw* specifically denotes the pre-dawn hours when most people are still asleep.
+_Tanghali_ refers to the midday period including lunch time, not just 12:00 exactly. _Madaling araw_ specifically denotes the pre-dawn hours when most people are still asleep.
 :::
 
 ### Asking About Time
 
-- *Anong oras na?*  
+- _Anong oras na?_  
   (What time is it?)
-- *Anong oras ka darating?*  
+- _Anong oras ka darating?_  
   (What time are you arriving?)
-- *Ilang oras ang byahe?*  
+- _Ilang oras ang byahe?_  
   (How many hours is the trip?)
 
 Responses:
 
-- *Alas tres na.*  
+- _Alas tres na._  
   (It's three o'clock already.)
-- *Mamayang alas singko.*  
+- _Mamayang alas singko._  
   (Later at five o'clock.)
 
 ## Days of the Week
 
 Days of the week are derived from Spanish:
 
-| Tagalog | Meaning |
-| ------- | ------- |
-| *Lunes* | Monday |
-| *Martes* | Tuesday |
-| *Miyerkules* | Wednesday |
-| *Huwebes* | Thursday |
-| *Biyernes* | Friday |
-| *Sabado* | Saturday |
-| *Linggo* | Sunday |
+| Tagalog      | Meaning   |
+| ------------ | --------- |
+| _Lunes_      | Monday    |
+| _Martes_     | Tuesday   |
+| _Miyerkules_ | Wednesday |
+| _Huwebes_    | Thursday  |
+| _Biyernes_   | Friday    |
+| _Sabado_     | Saturday  |
+| _Linggo_     | Sunday    |
 
 ### Using Days
 
-- *Ngayong Lunes.*  
+- _Ngayong Lunes._  
   (This Monday.)
-- *Susunod na Biyernes.*  
+- _Susunod na Biyernes._  
   (Next Friday.)
-- *Noong Sabado.*  
+- _Noong Sabado._  
   (Last Saturday.)
-- *Tuwing Linggo.*  
+- _Tuwing Linggo._  
   (Every Sunday.)
 
 ::: info Day Names
@@ -157,47 +157,47 @@ All day names are capitalized in Tagalog, following Spanish convention.
 
 ### Relative Days
 
-| Tagalog | Meaning |
-| ------- | ------- |
-| *ngayon* | today |
-| *bukas* | tomorrow |
-| *kahapon* | yesterday |
-| *kamakalawa* | day before yesterday |
-| *samakalawa* | day after tomorrow |
+| Tagalog      | Meaning              |
+| ------------ | -------------------- |
+| _ngayon_     | today                |
+| _bukas_      | tomorrow             |
+| _kahapon_    | yesterday            |
+| _kamakalawa_ | day before yesterday |
+| _samakalawa_ | day after tomorrow   |
 
 Examples:
 
-- *Pupunta ako bukas.*  
+- _Pupunta ako bukas._  
   (I will go tomorrow.)
-- *Dumating siya kahapon.*  
+- _Dumating siya kahapon._  
   (He/She arrived yesterday.)
 
 ## Months
 
 Months are derived from Spanish and are capitalized:
 
-| Tagalog | Meaning |
-| ------- | ------- |
-| *Enero* | January |
-| *Pebrero* | February |
-| *Marso* | March |
-| *Abril* | April |
-| *Mayo* | May |
-| *Hunyo* | June |
-| *Hulyo* | July |
-| *Agosto* | August |
-| *Setyembre* | September |
-| *Oktubre* | October |
-| *Nobyembre* | November |
-| *Disyembre* | December |
+| Tagalog     | Meaning   |
+| ----------- | --------- |
+| _Enero_     | January   |
+| _Pebrero_   | February  |
+| _Marso_     | March     |
+| _Abril_     | April     |
+| _Mayo_      | May       |
+| _Hunyo_     | June      |
+| _Hulyo_     | July      |
+| _Agosto_    | August    |
+| _Setyembre_ | September |
+| _Oktubre_   | October   |
+| _Nobyembre_ | November  |
+| _Disyembre_ | December  |
 
 ### Using Months
 
-- *Ipinanganak ako noong Enero.*  
+- _Ipinanganak ako noong Enero._  
   (I was born in January.)
-- *Bakasyon namin sa Abril.*  
+- _Bakasyon namin sa Abril._  
   (Our vacation is in April.)
-- *Tuwing Disyembre, malamig ang panahon.*  
+- _Tuwing Disyembre, malamig ang panahon._  
   (Every December, the weather is cold.)
 
 ## Dates
@@ -206,63 +206,63 @@ Dates use Spanish numbers with the month name:
 
 ### Full Date Format
 
-- *Ika-15 ng Enero, 2024*  
+- _Ika-15 ng Enero, 2024_  
   (January 15, 2024)
-- *Enero 15, 2024*  
+- _Enero 15, 2024_  
   (January 15, 2024)
 
 ### Ordinal Date Form
 
-Use *ika-* prefix for ordinal dates:
+Use _ika-_ prefix for ordinal dates:
 
-- *ika-unang araw ng Enero*  
+- _ika-unang araw ng Enero_  
   (first day of January)
-- *ika-dalawampu't lima ng Pebrero*  
+- _ika-dalawampu't lima ng Pebrero_  
   (25th of February)
 
 ### Asking About Dates
 
-- *Anong petsa ngayon?*  
+- _Anong petsa ngayon?_  
   (What is the date today?)
-- *Kailan ka ipinanganak?*  
+- _Kailan ka ipinanganak?_  
   (When were you born?)
 
 Responses:
 
-- *Ika-10 ng Marso.*  
+- _Ika-10 ng Marso._  
   (March 10th.)
-- *Enero 5, 1990.*  
+- _Enero 5, 1990._  
   (January 5, 1990.)
 
 ## Years
 
 Years use Spanish numbers:
 
-- *1990* - *mil nuwesyentos nobenta*
-- *2000* - *dos mil*
-- *2024* - *dos mil bente kwatro*
+- _1990_ - _mil nuwesyentos nobenta_
+- _2000_ - _dos mil_
+- _2024_ - _dos mil bente kwatro_
 
 Examples:
 
-- *Ipinanganak ako noong 1995.*  
+- _Ipinanganak ako noong 1995._  
   (I was born in 1995.)
-- *Taong 2024 ngayon.*  
+- _Taong 2024 ngayon._  
   (It's the year 2024 now.)
 
 ## Seasons
 
 The Philippines has two main seasons:
 
-| Tagalog | Period |
-| ------- | ------ |
-| *tag-ulan* / *panahon ng tag-ulan* | June to November |
-| *tag-init* / *tag-araw* | December to May |
+| Tagalog                            | Period           |
+| ---------------------------------- | ---------------- |
+| _tag-ulan_ / _panahon ng tag-ulan_ | June to November |
+| _tag-init_ / _tag-araw_            | December to May  |
 
 Examples:
 
-- *Umuulan nang malakas sa tag-ulan.*  
+- _Umuulan nang malakas sa tag-ulan._  
   (It rains heavily during the rainy season.)
-- *Mainit sa tag-init.*  
+- _Mainit sa tag-init._  
   (It's hot during summer.)
 
 ::: info Philippine Climate
@@ -275,181 +275,181 @@ The Philippines has a tropical climate with two main seasons rather than four di
 
 Common time units and duration expressions:
 
-| Tagalog | Meaning |
-| ------- | ------- |
-| *segundo* | second |
-| *minuto* | minute |
-| *oras* | hour |
-| *araw* | day |
-| *linggo* | week |
-| *buwan* | month |
-| *taon* | year |
-| *siglo* | century |
-| *sandali* | a moment |
-| *ilang minuto* | a few minutes |
-| *kalahating oras* | half an hour |
-| *buong araw* | whole day |
+| Tagalog           | Meaning       |
+| ----------------- | ------------- |
+| _segundo_         | second        |
+| _minuto_          | minute        |
+| _oras_            | hour          |
+| _araw_            | day           |
+| _linggo_          | week          |
+| _buwan_           | month         |
+| _taon_            | year          |
+| _siglo_           | century       |
+| _sandali_         | a moment      |
+| _ilang minuto_    | a few minutes |
+| _kalahating oras_ | half an hour  |
+| _buong araw_      | whole day     |
 
 Examples with native numbers:
 
-- *tatlong araw* (three days)
-- *limang linggo* (five weeks)
-- *anim na buwan* (six months)
-- *dalawang taon* (two years)
+- _tatlong araw_ (three days)
+- _limang linggo_ (five weeks)
+- _anim na buwan_ (six months)
+- _dalawang taon_ (two years)
 
 Usage examples:
 
-- *Maghintay ka ng sandali.*  
+- _Maghintay ka ng sandali._  
   (Wait a moment.)
-- *Tumagal ng dalawang oras ang pelikula.*  
+- _Tumagal ng dalawang oras ang pelikula._  
   (The movie lasted two hours.)
-- *Mag-aaral ako ng isang taon.*  
+- _Mag-aaral ako ng isang taon._  
   (I will study for one year.)
 
 ### Frequency
 
-| Tagalog | Meaning |
-| ------- | ------- |
-| *tuwing araw* / *araw-araw* | every day |
-| *minsan* | once/sometimes |
-| *dalawang beses* | twice |
-| *madalas* | often |
-| *bihira* | rarely |
-| *lagi* / *palagi* | always |
-| *hindi kailanman* | never |
+| Tagalog                     | Meaning        |
+| --------------------------- | -------------- |
+| _tuwing araw_ / _araw-araw_ | every day      |
+| _minsan_                    | once/sometimes |
+| _dalawang beses_            | twice          |
+| _madalas_                   | often          |
+| _bihira_                    | rarely         |
+| _lagi_ / _palagi_           | always         |
+| _hindi kailanman_           | never          |
 
 Examples:
 
-- *Nag-eehersisyo ako araw-araw.*  
+- _Nag-eehersisyo ako araw-araw._  
   (I exercise every day.)
-- *Minsan lang ako kumakain ng dessert.*  
+- _Minsan lang ako kumakain ng dessert._  
   (I only eat dessert sometimes.)
-- *Laging late si Juan.*  
+- _Laging late si Juan._  
   (Juan is always late.)
 
 ### Past, Present, Future
 
-| Time Reference | Tagalog | Example |
-| -------------- | ------- | ------- |
-| Just now | *kanina* / *kanina lang* | *Dumating siya kanina.* (He/She arrived earlier.) |
-| A while ago | *kanina* | *Kumain ako kanina.* (I ate a while ago.) |
-| Now | *ngayon* | *Kumakain ako ngayon.* (I am eating now.) |
-| Later | *mamaya* | *Kakain ako mamaya.* (I will eat later.) |
-| Soon | *maya-maya* | *Darating siya maya-maya.* (He/She will arrive soon.) |
+| Time Reference | Tagalog                  | Example                                               |
+| -------------- | ------------------------ | ----------------------------------------------------- |
+| Just now       | _kanina_ / _kanina lang_ | _Dumating siya kanina._ (He/She arrived earlier.)     |
+| A while ago    | _kanina_                 | _Kumain ako kanina._ (I ate a while ago.)             |
+| Now            | _ngayon_                 | _Kumakain ako ngayon._ (I am eating now.)             |
+| Later          | _mamaya_                 | _Kakain ako mamaya._ (I will eat later.)              |
+| Soon           | _maya-maya_              | _Darating siya maya-maya._ (He/She will arrive soon.) |
 
 Examples:
 
-- *Natulog ako kanina.*  
+- _Natulog ako kanina._  
   (I slept earlier.)
-- *Busy ako ngayon.*  
+- _Busy ako ngayon._  
   (I am busy now.)
-- *Babalik ako mamaya.*  
+- _Babalik ako mamaya._  
   (I will return later.)
 
 ## Time-Related Adverbs
 
 ### Specific Time Adverbs
 
-| Tagalog | Meaning |
-| ------- | ------- |
-| *maaga* | early |
-| *huli* | late |
-| *maagang-maaga* | very early |
-| *tuwina* | always |
-| *kadalasan* | usually |
-| *paminsan-minsan* | occasionally |
+| Tagalog           | Meaning      |
+| ----------------- | ------------ |
+| _maaga_           | early        |
+| _huli_            | late         |
+| _maagang-maaga_   | very early   |
+| _tuwina_          | always       |
+| _kadalasan_       | usually      |
+| _paminsan-minsan_ | occasionally |
 
 Examples:
 
-- *Gumising ako nang maaga.*  
+- _Gumising ako nang maaga._  
   (I woke up early.)
-- *Dumating siya nang huli.*  
+- _Dumating siya nang huli._  
   (He/She arrived late.)
 
 ### Time Connectors
 
-- *pagkatapos* - after/afterwards
-- *bago* - before
-- *habang* - while
-- *nang* - when (past)
-- *kung* - when (future/conditional)
-- *kapag* - whenever
+- _pagkatapos_ - after/afterwards
+- _bago_ - before
+- _habang_ - while
+- _nang_ - when (past)
+- _kung_ - when (future/conditional)
+- _kapag_ - whenever
 
 Examples:
 
-- *Kumain ako pagkatapos maglinis.*  
+- _Kumain ako pagkatapos maglinis._  
   (I ate after cleaning.)
-- *Maghugas ng kamay bago kumain.*  
+- _Maghugas ng kamay bago kumain._  
   (Wash hands before eating.)
-- *Natulog ako habang naglalakbay.*  
+- _Natulog ako habang naglalakbay._  
   (I slept while traveling.)
 
 ## Age
 
-Age expressions use Spanish numbers with *taon* (year) or *anyos* (years old):
+Age expressions use Spanish numbers with _taon_ (year) or _anyos_ (years old):
 
 ### Asking Age
 
-- *Ilang taon ka na?*  
+- _Ilang taon ka na?_  
   (How old are you?)
-- *Ilan na ang edad mo?*  
+- _Ilan na ang edad mo?_  
   (What is your age?)
 
 ### Stating Age
 
-- *Bente anyos ako.*  
+- _Bente anyos ako._  
   (I am twenty years old.)
-- *Dose anyos pa lang siya.*  
+- _Dose anyos pa lang siya._  
   (He/She is only twelve years old.)
-- *Trenta taon na ako.*  
+- _Trenta taon na ako._  
   (I am already thirty years old.)
 
 ::: tip Age Particles
-*Pa lang* (only) and *na* (already) express whether one considers the age young or old in context.
+_Pa lang_ (only) and _na_ (already) express whether one considers the age young or old in context.
 :::
 
 ## Common Time Phrases
 
 Useful expressions for daily conversation:
 
-- *Wala akong oras.*  
+- _Wala akong oras._  
   (I don't have time.)
-- *May panahon ka ba?*  
+- _May panahon ka ba?_  
   (Do you have time?)
-- *Matagal na.*  
+- _Matagal na._  
   (Long time ago. / It's been a long time.)
-- *Sandali lang.*  
+- _Sandali lang._  
   (Just a moment.)
-- *Malapit na.*  
+- _Malapit na._  
   (Soon. / Almost there.)
 
 ## Appointments and Schedules
 
 ### Making Appointments
 
-- *Anong oras tayo magkikita?*  
+- _Anong oras tayo magkikita?_  
   (What time shall we meet?)
-- *Puwede ba sa alas tres?*  
+- _Puwede ba sa alas tres?_  
   (Is three o'clock okay?)
-- *Sige, sa Lunes alas dos.*  
+- _Sige, sa Lunes alas dos._  
   (Okay, Monday at two o'clock.)
 
 ### Schedule Terms
 
-| Tagalog | Meaning |
-| ------- | ------- |
-| *iskedyul* | schedule |
-| *tipanan* | appointment |
-| *pulong* | meeting |
-| *deadline* | deadline |
-| *sa oras* | on time |
-| *huli* | late |
+| Tagalog    | Meaning     |
+| ---------- | ----------- |
+| _iskedyul_ | schedule    |
+| _tipanan_  | appointment |
+| _pulong_   | meeting     |
+| _deadline_ | deadline    |
+| _sa oras_  | on time     |
+| _huli_     | late        |
 
 Examples:
 
-- *May pulong ako bukas.*  
+- _May pulong ako bukas._  
   (I have a meeting tomorrow.)
-- *Dumating ako sa oras.*  
+- _Dumating ako sa oras._  
   (I arrived on time.)
 
 See also: [Numbers](./numbers.md), [Connectors](./connectors.md), [Phrases: Greetings](../phrases/greetings.md), [Phrases: Daily Conversation](../phrases/daily-conversation.md)

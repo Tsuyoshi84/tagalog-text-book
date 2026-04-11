@@ -12,27 +12,27 @@ Tagalog grammar categorizes words into several parts of speech, each serving spe
 
 Tagalog has nine main parts of speech:
 
-| Part of Speech | Tagalog Term | Function | Example |
-| -------------- | ------------ | -------- | ------- |
-| Verb | *pandiwa* | Express actions or states | *kumain* (ate), *maganda* (beautiful) |
-| Noun | *pangngalan* | Name persons, places, things | *bahay* (house), *tao* (person) |
-| Adjective | *pang-uri* | Describe or modify nouns | *malaki* (big), *mabait* (kind) |
-| Pronoun | *panghalip* | Replace nouns | *siya* (he/she), *ako* (I) |
-| Adverb | *pang-abay* | Modify verbs, adjectives | *mabilis* (quickly), *doon* (there) |
-| Preposition | *pang-ukol* | Show relationships | *sa* (to/at/in), *mula* (from) |
-| Conjunction | *pangatnig* | Connect words/clauses | *at* (and), *pero* (but) |
-| Particle | *partikulo* | Grammatical markers | *ang*, *ng*, *na* |
-| Interjection | *pandamdam* | Express emotions | *Ay!* (Oh!), *Naku!* (Oh my!) |
+| Part of Speech | Tagalog Term | Function                     | Example                               |
+| -------------- | ------------ | ---------------------------- | ------------------------------------- |
+| Verb           | _pandiwa_    | Express actions or states    | _kumain_ (ate), _maganda_ (beautiful) |
+| Noun           | _pangngalan_ | Name persons, places, things | _bahay_ (house), _tao_ (person)       |
+| Adjective      | _pang-uri_   | Describe or modify nouns     | _malaki_ (big), _mabait_ (kind)       |
+| Pronoun        | _panghalip_  | Replace nouns                | _siya_ (he/she), _ako_ (I)            |
+| Adverb         | _pang-abay_  | Modify verbs, adjectives     | _mabilis_ (quickly), _doon_ (there)   |
+| Preposition    | _pang-ukol_  | Show relationships           | _sa_ (to/at/in), _mula_ (from)        |
+| Conjunction    | _pangatnig_  | Connect words/clauses        | _at_ (and), _pero_ (but)              |
+| Particle       | _partikulo_  | Grammatical markers          | _ang_, _ng_, _na_                     |
+| Interjection   | _pandamdam_  | Express emotions             | _Ay!_ (Oh!), _Naku!_ (Oh my!)         |
 
-## Verbs (*Pandiwa*)
+## Verbs (_Pandiwa_)
 
 Verbs in Tagalog are complex, featuring a focus system, aspect marking, and extensive affixation. They express actions, states, or occurrences.
 
 ### Types of Verbs
 
-- **Action verbs**: *kumain* (ate), *tumakbo* (ran)
-- **State verbs**: *mahal* (love), *gusto* (like/want)
-- **Existential verbs**: *may* (have/there is), *wala* (none/there is not)
+- **Action verbs**: _kumain_ (ate), _tumakbo_ (ran)
+- **State verbs**: _mahal_ (love), _gusto_ (like/want)
+- **Existential verbs**: _may_ (have/there is), _wala_ (none/there is not)
 
 ### Verb Characteristics
 
@@ -44,103 +44,103 @@ Tagalog verbs conjugate for:
 
 Examples:
 
-- *Kumain ako.*  
+- _Kumain ako._  
   (I ate.) - completed aspect, actor focus
-- *Kinain ko ang tinapay.*  
+- _Kinain ko ang tinapay._  
   (I ate the bread.) - completed aspect, object focus
 
 ::: tip Adjectives as Predicates
-In Tagalog, adjectives often function as predicates, appearing at the beginning of the sentence like verbs: *Maganda ang bahay.* (The house is beautiful.)
+In Tagalog, adjectives often function as predicates, appearing at the beginning of the sentence like verbs: _Maganda ang bahay._ (The house is beautiful.)
 :::
 
 See also: [Verbs](./verbs/index.md)
 
-## Nouns (*Pangngalan*)
+## Nouns (_Pangngalan_)
 
 Nouns name people, places, things, or concepts. Tagalog nouns generally do not inflect for number or gender.
 
 ### Types of Nouns
 
-- **Common nouns**: *bahay* (house), *libro* (book)
-- **Proper nouns**: *Juan*, *Manila*, *Pilipinas*
-- **Abstract nouns**: *pag-ibig* (love), *kalayaan* (freedom)
+- **Common nouns**: _bahay_ (house), _libro_ (book)
+- **Proper nouns**: _Juan_, _Manila_, _Pilipinas_
+- **Abstract nouns**: _pag-ibig_ (love), _kalayaan_ (freedom)
 
 ### Articles and Markers
 
 Nouns are preceded by particles that indicate their grammatical function:
 
-| Marker | Use | Example |
-| ------ | --- | ------- |
-| *ang* | Topic marker (common noun) | *ang bahay* (the house) |
-| *si* | Topic marker (proper noun) | *si Maria* (Maria) |
-| *ng* | Non-topic marker (common) | *ng tao* (of person) |
-| *ni* | Non-topic marker (proper) | *ni Juan* (of Juan) |
+| Marker | Use                        | Example                 |
+| ------ | -------------------------- | ----------------------- |
+| _ang_  | Topic marker (common noun) | _ang bahay_ (the house) |
+| _si_   | Topic marker (proper noun) | _si Maria_ (Maria)      |
+| _ng_   | Non-topic marker (common)  | _ng tao_ (of person)    |
+| _ni_   | Non-topic marker (proper)  | _ni Juan_ (of Juan)     |
 
 Examples:
 
-- *Maganda ang bahay.*  
+- _Maganda ang bahay._  
   (The house is beautiful.)
-- *Bumili si Maria ng libro.*  
+- _Bumili si Maria ng libro._  
   (Maria bought a book.)
 
 See also: [Nouns](./nouns.md)
 
-## Adjectives (*Pang-uri*)
+## Adjectives (_Pang-uri_)
 
 Adjectives describe or modify nouns and can function as predicates in Tagalog sentences.
 
 ### Adjective Forms
 
-Most adjectives are formed with the prefix *ma-*:
+Most adjectives are formed with the prefix _ma-_:
 
-- *maganda* (beautiful)
-- *mabait* (kind)
-- *malaki* (big)
+- _maganda_ (beautiful)
+- _mabait_ (kind)
+- _malaki_ (big)
 
 ### Usage Patterns
 
 #### As Predicates
 
-- *Maganda ang dalaga.*  
+- _Maganda ang dalaga._  
   (The lady is beautiful.)
 
 #### As Modifiers
 
 When modifying nouns, adjectives use linkers:
 
-- *magandang dalaga*  
+- _magandang dalaga_  
   (beautiful lady)
-- *mabuting tao*  
+- _mabuting tao_  
   (good person)
 
 See also: [Adjectives](./adjectives.md)
 
-## Pronouns (*Panghalip*)
+## Pronouns (_Panghalip_)
 
 Pronouns replace nouns and can be personal, demonstrative, or interrogative.
 
 ### Personal Pronouns
 
-| Person | Topic (*Ang*) | Genitive (*Ng*) | Oblique (*Sa*) | English |
-| ------ | ------------- | --------------- | -------------- | ------- |
-| 1st singular | *ako* | *ko* | *akin* | I, my, me |
-| 2nd singular | *ikaw*, *ka* | *mo* | *iyo* | you, your |
-| 3rd singular | *siya* | *niya* | *kanya* | he/she, his/her |
-| 1st plural (inclusive) | *tayo* | *natin* | *atin* | we (incl.) |
-| 1st plural (exclusive) | *kami* | *namin* | *amin* | we (excl.) |
-| 2nd plural | *kayo* | *ninyo* | *inyo* | you (plural) |
-| 3rd plural | *sila* | *nila* | *kanila* | they, their |
+| Person                 | Topic (_Ang_) | Genitive (_Ng_) | Oblique (_Sa_) | English         |
+| ---------------------- | ------------- | --------------- | -------------- | --------------- |
+| 1st singular           | _ako_         | _ko_            | _akin_         | I, my, me       |
+| 2nd singular           | _ikaw_, _ka_  | _mo_            | _iyo_          | you, your       |
+| 3rd singular           | _siya_        | _niya_          | _kanya_        | he/she, his/her |
+| 1st plural (inclusive) | _tayo_        | _natin_         | _atin_         | we (incl.)      |
+| 1st plural (exclusive) | _kami_        | _namin_         | _amin_         | we (excl.)      |
+| 2nd plural             | _kayo_        | _ninyo_         | _inyo_         | you (plural)    |
+| 3rd plural             | _sila_        | _nila_          | _kanila_       | they, their     |
 
 Examples:
 
-- *Kumain ako.*  
+- _Kumain ako._  
   (I ate.)
-- *Binili ko ang libro.*  
+- _Binili ko ang libro._  
   (I bought the book.)
 
 See also: [Pronouns](./pronouns.md)
 
-## Adverbs (*Pang-abay*)
+## Adverbs (_Pang-abay_)
 
 Adverbs modify verbs, adjectives, or other adverbs, expressing manner, time, place, or degree.
 
@@ -148,146 +148,146 @@ Adverbs modify verbs, adjectives, or other adverbs, expressing manner, time, pla
 
 #### Manner
 
-- *mabilis* (quickly)
-- *dahan-dahan* (slowly)
+- _mabilis_ (quickly)
+- _dahan-dahan_ (slowly)
 
 #### Time
 
-- *ngayon* (now)
-- *bukas* (tomorrow)
-- *kahapon* (yesterday)
+- _ngayon_ (now)
+- _bukas_ (tomorrow)
+- _kahapon_ (yesterday)
 
 #### Place
 
-- *dito* (here)
-- *doon* (there)
-- *sa loob* (inside)
+- _dito_ (here)
+- _doon_ (there)
+- _sa loob_ (inside)
 
 #### Degree
 
-- *napaka-* (very)
-- *medyo* (somewhat)
-- *masyadong* (too)
+- _napaka-_ (very)
+- _medyo_ (somewhat)
+- _masyadong_ (too)
 
 Examples:
 
-- *Tumakbo siya nang mabilis.*  
+- _Tumakbo siya nang mabilis._  
   (He/She ran quickly.)
-- *Napakaganda ng bahay.*  
+- _Napakaganda ng bahay._  
   (The house is very beautiful.)
-- *Pupunta ako bukas.*  
+- _Pupunta ako bukas._  
   (I will go tomorrow.)
 
-## Prepositions (*Pang-ukol*)
+## Prepositions (_Pang-ukol_)
 
 Prepositions show relationships between words, typically indicating location, direction, or time.
 
 ### Common Prepositions
 
-| Preposition | Meaning | Example |
-| ----------- | ------- | ------- |
-| *sa* | to, at, in, on | *sa bahay* (at/in the house) |
-| *mula* | from | *mula sa Manila* (from Manila) |
-| *para sa* | for | *para sa iyo* (for you) |
-| *tungkol sa* | about | *tungkol sa libro* (about the book) |
-| *kasama* | with (companion) | *kasama ko* (with me) |
+| Preposition  | Meaning          | Example                             |
+| ------------ | ---------------- | ----------------------------------- |
+| _sa_         | to, at, in, on   | _sa bahay_ (at/in the house)        |
+| _mula_       | from             | _mula sa Manila_ (from Manila)      |
+| _para sa_    | for              | _para sa iyo_ (for you)             |
+| _tungkol sa_ | about            | _tungkol sa libro_ (about the book) |
+| _kasama_     | with (companion) | _kasama ko_ (with me)               |
 
 Examples:
 
-- *Pumunta ako sa tindahan.*  
+- _Pumunta ako sa tindahan._  
   (I went to the store.)
-- *Galing siya mula sa Maynila.*  
+- _Galing siya mula sa Maynila._  
   (He/She came from Manila.)
 
-::: info *Sa* Versatility
-The preposition *sa* is highly versatile and context-dependent. Its specific meaning depends on the verb and noun it connects.
+::: info _Sa_ Versatility
+The preposition _sa_ is highly versatile and context-dependent. Its specific meaning depends on the verb and noun it connects.
 :::
 
-## Conjunctions (*Pangatnig*)
+## Conjunctions (_Pangatnig_)
 
 Conjunctions connect words, phrases, or clauses.
 
 ### Coordinating Conjunctions
 
-- *at* (and)
-- *o* (or)
-- *pero* / *ngunit* (but)
-- *kaya* (so)
+- _at_ (and)
+- _o_ (or)
+- _pero_ / _ngunit_ (but)
+- _kaya_ (so)
 
 ### Subordinating Conjunctions
 
-- *kasi* / *dahil* (because)
-- *kung* (if)
-- *para* (so that)
-- *kahit* (although)
+- _kasi_ / _dahil_ (because)
+- _kung_ (if)
+- _para_ (so that)
+- _kahit_ (although)
 
 Examples:
 
-- *Kumain ako at natulog.*  
+- _Kumain ako at natulog._  
   (I ate and slept.)
-- *Umuwi ako kasi pagod na ako.*  
+- _Umuwi ako kasi pagod na ako._  
   (I went home because I was tired.)
-- *Pupunta ako kung may panahon.*  
+- _Pupunta ako kung may panahon._  
   (I will go if I have time.)
 
 See also: [Connectors](./connectors.md)
 
-## Particles (*Partikulo*)
+## Particles (_Partikulo_)
 
 Particles are grammatical markers that indicate relationships between words and phrases. They are crucial to Tagalog grammar.
 
 ### Case Markers
 
-- *ang* - topic marker (definite)
-- *ng* - non-topic marker / possessive
-- *sa* - locative / directional
+- _ang_ - topic marker (definite)
+- _ng_ - non-topic marker / possessive
+- _sa_ - locative / directional
 
 ### Linkers
 
-- *na* - after vowels
-- *-ng* - after consonants
+- _na_ - after vowels
+- _-ng_ - after consonants
 
 These connect modifiers to nouns or clauses to each other.
 
 ### Other Particles
 
-- *ay* - inverted sentence marker
-- *ba* - question particle
-- *po* / *ho* - politeness markers
-- *na* - already / now (different from linker *na*)
-- *pa* - still / yet / more
+- _ay_ - inverted sentence marker
+- _ba_ - question particle
+- _po_ / _ho_ - politeness markers
+- _na_ - already / now (different from linker _na_)
+- _pa_ - still / yet / more
 
 Examples:
 
-- *Kumain na ako.*  
+- _Kumain na ako._  
   (I already ate.)
-- *Kumakain pa siya.*  
+- _Kumakain pa siya._  
   (He/She is still eating.)
-- *Kumain ka na ba?*  
+- _Kumain ka na ba?_  
   (Have you eaten yet?)
 
 See also: [Particles](./particles/index.md)
 
-## Interjections (*Pandamdam*)
+## Interjections (_Pandamdam_)
 
 Interjections express emotions or reactions and stand apart from sentence structure.
 
 Common interjections:
 
-- *Ay!* (Oh!)
-- *Naku!* (Oh my!)
-- *Aba!* (Well!)
-- *Sayang!* (What a waste!)
-- *Grabe!* (Wow! / Intense!)
-- *Talaga?* (Really?)
+- _Ay!_ (Oh!)
+- _Naku!_ (Oh my!)
+- _Aba!_ (Well!)
+- _Sayang!_ (What a waste!)
+- _Grabe!_ (Wow! / Intense!)
+- _Talaga?_ (Really?)
 
 Examples:
 
-- *Ay, napakaganda!*  
+- _Ay, napakaganda!_  
   (Oh, so beautiful!)
-- *Naku, malaki ang problema!*  
+- _Naku, malaki ang problema!_  
   (Oh my, the problem is big!)
-- *Grabe, ang galing mo!*  
+- _Grabe, ang galing mo!_  
   (Wow, you're so good!)
 
 See also: [Emotional Expressions](../expressions/emotional-expressions.md), [Common Expressions](../expressions/common-expressions.md)
@@ -298,23 +298,23 @@ See also: [Emotional Expressions](../expressions/emotional-expressions.md), [Com
 
 Reduplication is common in Tagalog for various functions:
 
-- **Intensity**: *mabilis* → *mabilis-bilis* (quite fast)
-- **Plurality/Repetition**: *bata* → *bata-bata* (children/childish)
-- **Ongoing aspect**: *kain* → *kakain* (will eat)
+- **Intensity**: _mabilis_ → _mabilis-bilis_ (quite fast)
+- **Plurality/Repetition**: _bata_ → _bata-bata_ (children/childish)
+- **Ongoing aspect**: _kain_ → _kakain_ (will eat)
 
 ### Affixation
 
 Affixes modify root words to create new meanings:
 
-- **Prefixes**: *mag-*, *um-*, *ma-*
-- **Infixes**: *-um-*, *-in-*
-- **Suffixes**: *-an*, *-in*, *-han*
+- **Prefixes**: _mag-_, _um-_, _ma-_
+- **Infixes**: _-um-_, _-in-_
+- **Suffixes**: _-an_, _-in_, _-han_
 
 Examples:
 
-- *kain* (eat) → *kumain* (ate) - infix
-- *kain* (eat) → *kakain* (will eat) - reduplication
-- *kain* (eat) → *pagkain* (food) - prefix + suffix
+- _kain_ (eat) → _kumain_ (ate) - infix
+- _kain_ (eat) → _kakain_ (will eat) - reduplication
+- _kain_ (eat) → _pagkain_ (food) - prefix + suffix
 
 ## Function Words vs. Content Words
 
@@ -341,7 +341,7 @@ Understanding Tagalog parts of speech provides the foundation for constructing s
 Key points:
 
 1. Verbs use affixation for focus and aspect
-2. Nouns require appropriate markers (*ang*, *ng*, *sa*)
+2. Nouns require appropriate markers (_ang_, _ng_, _sa_)
 3. Adjectives can function as predicates
 4. Pronouns have different forms for different grammatical roles
 5. Particles are essential for grammatical relationships

@@ -6,81 +6,81 @@ outline: [2, 3]
 
 # Greetings
 
-Tagalog greetings vary by time of day, formality level, and relationship between speakers. Polite particles like *po* and *ho* are commonly added when addressing elders or showing respect.
+Tagalog greetings vary by time of day, formality level, and relationship between speakers. Polite particles like _po_ and _ho_ are commonly added when addressing elders or showing respect.
 
 ## Basic Greetings
 
-| Tagalog | English |
-| ------- | ------- |
-| *Kumusta?* | How are you? |
-| *Kumusta ka?* | How are you? (informal) |
-| *Kumusta po kayo?* | How are you? (formal/respectful) |
-| *Mabuti naman.* | I'm fine. |
-| *Mabuti naman, salamat.* | I'm fine, thank you. |
-| *Okay lang.* | I'm okay. |
+| Tagalog                  | English                          |
+| ------------------------ | -------------------------------- |
+| _Kumusta?_               | How are you?                     |
+| _Kumusta ka?_            | How are you? (informal)          |
+| _Kumusta po kayo?_       | How are you? (formal/respectful) |
+| _Mabuti naman._          | I'm fine.                        |
+| _Mabuti naman, salamat._ | I'm fine, thank you.             |
+| _Okay lang._             | I'm okay.                        |
 
 ## Time-Based Greetings
 
-| Tagalog | English |
-| ------- | ------- |
-| *Magandang umaga.* | Good morning. |
-| *Magandang umaga po.* | Good morning. (formal) |
-| *Magandang tanghali.* | Good noon. |
-| *Magandang hapon.* | Good afternoon. |
-| *Magandang gabi.* | Good evening. |
-| *Magandang gabi po.* | Good evening. (formal) |
+| Tagalog               | English                |
+| --------------------- | ---------------------- |
+| _Magandang umaga._    | Good morning.          |
+| _Magandang umaga po._ | Good morning. (formal) |
+| _Magandang tanghali._ | Good noon.             |
+| _Magandang hapon._    | Good afternoon.        |
+| _Magandang gabi._     | Good evening.          |
+| _Magandang gabi po._  | Good evening. (formal) |
 
 ## Introductions
 
-| Tagalog | English |
-| ------- | ------- |
-| *Ako si Maria.* | I am Maria. |
-| *Ano ang pangalan mo?* | What is your name? |
-| *Ano po ang pangalan ninyo?* | What is your name? (formal) |
-| *Ikinagagalak kong makilala ka.* | Pleased to meet you. |
-| *Ikinagagalak ko pong makilala kayo.* | Pleased to meet you. (formal) |
-| *Saan ka galing?* | Where are you from? |
-| *Taga-saan ka?* | Where are you from? (colloquial) |
+| Tagalog                               | English                          |
+| ------------------------------------- | -------------------------------- |
+| _Ako si Maria._                       | I am Maria.                      |
+| _Ano ang pangalan mo?_                | What is your name?               |
+| _Ano po ang pangalan ninyo?_          | What is your name? (formal)      |
+| _Ikinagagalak kong makilala ka._      | Pleased to meet you.             |
+| _Ikinagagalak ko pong makilala kayo._ | Pleased to meet you. (formal)    |
+| _Saan ka galing?_                     | Where are you from?              |
+| _Taga-saan ka?_                       | Where are you from? (colloquial) |
 
 ## Partings
 
-| Tagalog | English |
-| ------- | ------- |
-| *Paalam.* | Goodbye. |
-| *Paalam po.* | Goodbye. (formal) |
-| *Sige.* | Okay/Bye. (casual) |
-| *Ingat.* | Take care. |
-| *Ingat ka.* | Take care. (informal) |
-| *Hanggang sa muli.* | Until we meet again. |
-| *Kita tayo bukas.* | See you tomorrow. |
-| *Mamaya na lang.* | See you later. |
+| Tagalog             | English               |
+| ------------------- | --------------------- |
+| _Paalam._           | Goodbye.              |
+| _Paalam po._        | Goodbye. (formal)     |
+| _Sige._             | Okay/Bye. (casual)    |
+| _Ingat._            | Take care.            |
+| _Ingat ka._         | Take care. (informal) |
+| _Hanggang sa muli._ | Until we meet again.  |
+| _Kita tayo bukas._  | See you tomorrow.     |
+| _Mamaya na lang._   | See you later.        |
 
 ## Gratitude and Apologies
 
-| Tagalog | English |
-| ------- | ------- |
-| *Salamat.* | Thank you. |
-| *Salamat po.* | Thank you. (formal) |
-| *Maraming salamat.* | Thank you very much. |
-| *Walang anuman.* | You're welcome. |
-| *Pasensya na.* | Sorry/Excuse me. |
-| *Pasensya na po.* | Sorry/Excuse me. (formal) |
-| *Patawad.* | I'm sorry. (seeking forgiveness) |
-| *Sori.* / *Sorry.* | Sorry. (borrowed English word, common in casual speech) |
+| Tagalog             | English                                                 |
+| ------------------- | ------------------------------------------------------- |
+| _Salamat._          | Thank you.                                              |
+| _Salamat po._       | Thank you. (formal)                                     |
+| _Maraming salamat._ | Thank you very much.                                    |
+| _Walang anuman._    | You're welcome.                                         |
+| _Pasensya na._      | Sorry/Excuse me.                                        |
+| _Pasensya na po._   | Sorry/Excuse me. (formal)                               |
+| _Patawad._          | I'm sorry. (seeking forgiveness)                        |
+| _Sori._ / _Sorry._  | Sorry. (borrowed English word, common in casual speech) |
 
 ## Polite Expressions
 
-| Tagalog | English |
-| ------- | ------- |
-| *Excuse me po.* | Excuse me. (getting attention) |
-| *Paumanhin po.* | Excuse me/Pardon me. (formal apology) |
-| *Pwede po?* | May I? (asking permission) |
-| *Oo, sige.* | Yes, go ahead. |
+| Tagalog         | English                               |
+| --------------- | ------------------------------------- |
+| _Excuse me po._ | Excuse me. (getting attention)        |
+| _Paumanhin po._ | Excuse me/Pardon me. (formal apology) |
+| _Pwede po?_     | May I? (asking permission)            |
+| _Oo, sige._     | Yes, go ahead.                        |
 
 ::: tip 💡 Cultural Note
-Adding *po* and *ho* shows respect and is expected when speaking to elders, authority figures, or strangers. Omitting these particles when appropriate can be considered rude.[^po]
+Adding _po_ and _ho_ shows respect and is expected when speaking to elders, authority figures, or strangers. Omitting these particles when appropriate can be considered rude.[^po]
 :::
 
-[^po]: The particle *po* is more formal than *ho*, though both indicate respect. *Po* is preferred in most situations.
+[^po]: The particle _po_ is more formal than _ho_, though both indicate respect. _Po_ is preferred in most situations.
 
 See also: [Cultural Etiquette](../culture/etiquette.md), [Daily Conversation](./daily-conversation.md)
