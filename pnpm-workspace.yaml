@@ -4,7 +4,7 @@ enableGlobalVirtualStore: true
 ignorePatchFailures: false
 minimumReleaseAge: 1440
 optimisticRepeatInstall: true
-# resolutionMode: "lowest-direct"
+resolutionMode: "lowest-direct"
 trustPolicy: "no-downgrade"
 trustPolicyIgnoreAfter: 10080
 # verifyDepsBeforeRun: "install"
