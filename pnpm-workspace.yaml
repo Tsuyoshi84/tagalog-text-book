@@ -3,7 +3,7 @@ enableGlobalVirtualStore: true
 # enablePrePostScripts: false
 ignorePatchFailures: false
 minimumReleaseAge: 1440
-# optimisticRepeatInstall: true
+optimisticRepeatInstall: true
 # resolutionMode: "lowest-direct"
 trustPolicy: "no-downgrade"
 trustPolicyIgnoreAfter: 10080
