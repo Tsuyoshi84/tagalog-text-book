@@ -17,7 +17,7 @@ The goal is to make a **clear, accurate, and organized grammar reference** that 
 - `docs/expressions/` – Idioms, Taglish, and emotional/common expressions.
 - `docs/reference/` – Cheat sheets, affix/root lists, pronunciation, resources.
 - `docs/culture/` – Etiquette, regional differences, language history.
-Authoritative layout and updates: see `docs/index.md`.
+  Authoritative layout and updates: see `docs/index.md`.
 
 ---
 
@@ -65,18 +65,20 @@ Explain **focus system**, **affixation**, and **aspect**:
 
 ```md
 #### Actor
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *kumain* | ate |
-| Imperfective | *kumakain* | is eating |
-| Contemplative | *kakain* | will eat |
+
+| Aspect        | Conjugation | English   |
+| ------------- | ----------- | --------- |
+| Perfective    | _kumain_    | ate       |
+| Imperfective  | _kumakain_  | is eating |
+| Contemplative | _kakain_    | will eat  |
 
 #### Patient
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *kinain* | was eaten |
-| Imperfective | *kinakain* | is being eaten |
-| Contemplative | *kakainin* | will be eaten |
+
+| Aspect        | Conjugation | English        |
+| ------------- | ----------- | -------------- |
+| Perfective    | _kinain_    | was eaten      |
+| Imperfective  | _kinakain_  | is being eaten |
+| Contemplative | _kakainin_  | will be eaten  |
 ```
 
 Notes:
@@ -92,10 +94,10 @@ Organized by everyday context (greetings, travel, etc.). Use a two-column table 
 Preferred format:
 
 ```md
-| Tagalog | English |
-| ------- | ------- |
-| *Kumusta ka?* | How are you? |
-| *Magkano ito?* | How much is this? |
+| Tagalog        | English           |
+| -------------- | ----------------- |
+| _Kumusta ka?_  | How are you?      |
+| _Magkano ito?_ | How much is this? |
 ```
 
 Guidelines:
@@ -125,7 +127,7 @@ Cultural notes relevant to communication:
 
 ## ✏️ Writing Style Rules
 
-- Always use **Tagalog in italics** (*kumain*, *maganda*, *bahay*).
+- Always use **Tagalog in italics** (_kumain_, _maganda_, _bahay_).
 - Translate Tagalog examples into English below each line.
 - Use **tables** for structured comparisons.
 - Use **Oxford commas**.
@@ -190,10 +192,12 @@ AI agents (Copilot, Cursor, ChatGPT, CodeRabbit, etc.) must:
 
 ```md
 ## Object-Focus Verbs
+
 Object-focus verbs highlight the object as the topic.
 
 Example:
-- *Kinain ni Maria ang mangga.*  
+
+- _Kinain ni Maria ang mangga._  
   (The mango was eaten by Maria.)
 ```
 
@@ -242,16 +246,16 @@ Immediately follow with a level‑1 heading (`#`), even if it repeats the title.
 Use bullet or list form for inline examples; ensure Tagalog is italicized and translation is directly below.
 
 ```md
-- *Kinain ni Maria ang mangga.*  
+- _Kinain ni Maria ang mangga._  
   (Maria ate the mango.)
 ```
 
 For phrase pages, prefer a two-column table:
 
 ```md
-| Tagalog | English |
-| ------- | ------- |
-| *Magkano ito?* | How much is this? |
+| Tagalog        | English           |
+| -------------- | ----------------- |
+| _Magkano ito?_ | How much is this? |
 ```
 
 ### 3. Admonition / Container Usage
@@ -260,19 +264,19 @@ Use for concise rules, contrasts, or important notes. Never for large multi‑se
 
 ```md
 ::: tip Rule
-Actor-focus highlights the doer (*Kumain si Ana.* – Ana ate.)
+Actor-focus highlights the doer (_Kumain si Ana._ – Ana ate.)
 :::
 
 ::: info Variation
-The infix *-um-* appears after the first consonant: *kain* → *kumain*.
+The infix _-um-_ appears after the first consonant: _kain_ → _kumain_.
 :::
 
 ::: warning Common Error
-Do not mix *mag-* with an *-in-* object-focus pattern in the same verb form.
+Do not mix _mag-_ with an _-in-_ object-focus pattern in the same verb form.
 :::
 
 ::: details Irregular Roots
-Some roots drop a syllable when affixed (e.g., *tanggap* → *tinanggap*).
+Some roots drop a syllable when affixed (e.g., _tanggap_ → _tinanggap_).
 :::
 ```
 
@@ -283,10 +287,10 @@ Allowed types: `tip`, `info`, `warning`, `danger`, `details`. Keep titles short 
 Use tables for systematic contrasts (focus, aspect, pronouns, affix functions). Keep headers concise.
 
 ```md
-| Focus Type | Sample Verb | Root | Completed (Perfective) | Ongoing (Imperfective) | Contemplated (Potential) | English |
-| ---------- | ----------- | ---- | ---------------------- | ---------------------- | ------------------------ | ------- |
-| Actor      | *Kumain*    | kain | *Kumain*               | *Kumakain*             | *Kakain*                 | to eat |
-| Object     | *Kinain*    | kain | *Kinain*               | *Kinakain*             | *Kakainin*               | to eat (object focus) |
+| Focus Type | Sample Verb | Root | Completed (Perfective) | Ongoing (Imperfective) | Contemplated (Potential) | English               |
+| ---------- | ----------- | ---- | ---------------------- | ---------------------- | ------------------------ | --------------------- |
+| Actor      | _Kumain_    | kain | _Kumain_               | _Kumakain_             | _Kakain_                 | to eat                |
+| Object     | _Kinain_    | kain | _Kinain_               | _Kinakain_             | _Kakainin_               | to eat (object focus) |
 ```
 
 Guidelines:
@@ -299,11 +303,11 @@ Guidelines:
 ### 5. Affix Function Table Pattern
 
 ```md
-| Affix | Focus | Aspect Handling | Example | English |
-| ----- | ----- | --------------- | ------- | ------- |
-| *-um-* (infix) | Actor | Infix after first consonant; reduplicate first syllable for ongoing | *Kumakain* | is eating |
-| *mag-* | Actor | Prefix; reduplication for ongoing | *Magluluto* | will cook |
-| *-in-* (suffix) | Object | Suffix; reduplicate first syllable for ongoing | *Kakainin* | will be eaten |
+| Affix           | Focus  | Aspect Handling                                                     | Example     | English       |
+| --------------- | ------ | ------------------------------------------------------------------- | ----------- | ------------- |
+| _-um-_ (infix)  | Actor  | Infix after first consonant; reduplicate first syllable for ongoing | _Kumakain_  | is eating     |
+| _mag-_          | Actor  | Prefix; reduplication for ongoing                                   | _Magluluto_ | will cook     |
+| _-in-_ (suffix) | Object | Suffix; reduplicate first syllable for ongoing                      | _Kakainin_  | will be eaten |
 ```
 
 ### 6. Verb List Pattern (Project)
@@ -314,18 +318,20 @@ The verb list uses grouped sections by root with per‑focus tables. Preferred s
 ### root (English gloss)
 
 #### FocusName
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *form* | gloss |
-| Imperfective | *form* | gloss |
-| Contemplative | *form* | gloss |
+
+| Aspect        | Conjugation | English |
+| ------------- | ----------- | ------- |
+| Perfective    | _form_      | gloss   |
+| Imperfective  | _form_      | gloss   |
+| Contemplative | _form_      | gloss   |
 
 #### AnotherFocus
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *form* | gloss |
-| Imperfective | *form* | gloss |
-| Contemplative | *form* | gloss |
+
+| Aspect        | Conjugation | English |
+| ------------- | ----------- | ------- |
+| Perfective    | _form_      | gloss   |
+| Imperfective  | _form_      | gloss   |
+| Contemplative | _form_      | gloss   |
 ```
 
 Guidelines:
@@ -339,7 +345,7 @@ Guidelines:
 Keep main flow clean; place cultural nuance in a footnote.
 
 ```md
-*Po* adds politeness in formal contexts.[^po]
+_Po_ adds politeness in formal contexts.[^po]
 [^po]: Common in addressing elders or strangers respectfully.
 ```
 

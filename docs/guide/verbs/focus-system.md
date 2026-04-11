@@ -8,7 +8,7 @@ outline: [2, 3]
 
 ## Overview
 
-The Tagalog focus system marks which participant of the clause is highlighted (topic) while expressing semantic roles. Focus is mainly shown through verb affixes. Selecting a focus changes which noun phrase is emphasized and adjusts particles (*ang*, *si*, *ng*, *sa*). Roles (actor, patient, location, beneficiary, instrument, goal) remain; the chosen affix promotes one role to topical subject.
+The Tagalog focus system marks which participant of the clause is highlighted (topic) while expressing semantic roles. Focus is mainly shown through verb affixes. Selecting a focus changes which noun phrase is emphasized and adjusts particles (_ang_, _si_, _ng_, _sa_). Roles (actor, patient, location, beneficiary, instrument, goal) remain; the chosen affix promotes one role to topical subject.
 
 See also: [Verb Affixes](./affixes.md), [Verb Aspect](./aspect.md), [Verb Conjugation](./conjugation.md)
 
@@ -16,65 +16,65 @@ See also: [Verb Affixes](./affixes.md), [Verb Aspect](./aspect.md), [Verb Conjug
 
 ### Actor Focus (AF)
 
-Emphasizes the performer. Common affixes: *-um-*, *mag-*, *ma-*, *mang-*.
+Emphasizes the performer. Common affixes: _-um-_, _mag-_, _ma-_, _mang-_.
 
 Example:
 
-- *Kumain si Jose ng mangga.*  
+- _Kumain si Jose ng mangga._  
   (Jose ate a mango.)
-- *Magsusulat si Ana ng liham.*  
+- _Magsusulat si Ana ng liham._  
   (Ana will write a letter.)
-- *Maglilinis ang bata ng kwarto.*  
+- _Maglilinis ang bata ng kwarto._  
   (The child will clean a room.)
 
 ### Object / Patient Focus (PF)
 
-Emphasizes the affected entity. Common affixes: *-in-*, *i-*, *-an* (patient variant with certain roots), *ipa-* (causative when object is caused).
+Emphasizes the affected entity. Common affixes: _-in-_, _i-_, _-an_ (patient variant with certain roots), _ipa-_ (causative when object is caused).
 
 Example:
 
-- *Kinain ni Jose ang mangga.*  
+- _Kinain ni Jose ang mangga._  
   (The mango was eaten by Jose.)
-- *Isusulat ni Ana ang liham.*  
+- _Isusulat ni Ana ang liham._  
   (The letter will be written by Ana.)
-- *Lilinisin ng bata ang kwarto.*  
+- _Lilinisin ng bata ang kwarto._  
   (The room will be cleaned by the child.)
 
 ### Locative Focus (LF)
 
-Emphasizes place or spatial target. Common affixes: *-an*, *pag- -an*, *i- + -an*.
+Emphasizes place or spatial target. Common affixes: _-an_, _pag- -an_, _i- + -an_.
 
 Example:
 
-- *Pinaglutuan ni Maria ang kalan.*  
+- _Pinaglutuan ni Maria ang kalan._  
   (The stove was where Maria cooked.)
-- *Susulatan ni Ana ang sobre.*  
+- _Susulatan ni Ana ang sobre._  
   (The envelope will be written on by Ana.)
-- *Paglilinisan ng bata ang kwarto.*  
+- _Paglilinisan ng bata ang kwarto._  
   (The room will be the place cleaned by the child.)
 
 ### Benefactive Focus (BF)
 
-Emphasizes beneficiary or recipient. Common affixes: *ipag-*, *pag- -an*, *i-*.
+Emphasizes beneficiary or recipient. Common affixes: _ipag-_, _pag- -an_, _i-_.
 
 Example:
 
-- *Ipinagluto ni Maria ng adobo ang kanyang mga anak.*  
+- _Ipinagluto ni Maria ng adobo ang kanyang mga anak._  
   (Maria cooked adobo for her children.)
-- *Ipagsusulat ni Ana ang kaibigan ng liham.*  
+- _Ipagsusulat ni Ana ang kaibigan ng liham._  
   (The friend will be written a letter by Ana.)
 
 ### Instrumental Focus (IF)
 
-Emphasizes tool or means. Common affixes: *ipang-*, *pang-*, *maipang-*.
+Emphasizes tool or means. Common affixes: _ipang-_, _pang-_, _maipang-_.
 
 Example:
 
-- *Ipinangsulat ni Ana ang pluma.*  
+- _Ipinangsulat ni Ana ang pluma._  
   (The pen was what Ana used to write.)
-- *Ipinangkain ni Jose ang kutsara.*  
+- _Ipinangkain ni Jose ang kutsara._  
   (The spoon was what Jose used to eat.)
-- *Ipinanglinis ng bata ang walis.*  
+- _Ipinanglinis ng bata ang walis._  
   (The broom was what the child used to clean.)
 
 ### Goal / Directional Focus
@@ -86,74 +86,74 @@ Emphasizes the destination or direction of an action. This is not a distinct foc
 
 Example (Locative Focus highlighting the destination):
 
-- *Dadalhan ni Maria ng gulay ang tindahan.*  
+- _Dadalhan ni Maria ng gulay ang tindahan._  
   (The store will be brought vegetables to by Maria. / Maria will bring vegetables to the store.)
 
 Example (Patient Focus highlighting the object moved):
 
-- *Ihahatid ni Jose ang bata sa paaralan.*  
+- _Ihahatid ni Jose ang bata sa paaralan._  
   (The child will be brought to the school by Jose. / Jose will bring the child to school.)
 
 ## Common Affix Patterns by Focus
 
-| Focus | Affixes | Sample Root | Example | Notes |
-|-------|---------|-------------|---------|-------|
-| Actor | -um-, mag-, ma-, mang- | kain | *kumain* | Actor highlighted |
-| Patient | -in-, i-, -an | kain | *kinain*, *kakainin* | Patient highlighted |
-| Locative | -an, pag- -an | luto | *lutuan*, *nilutuan* | Location highlighted |
-| Benefactive | ipag-, pag- -an, i- | luto | *ipagluto* | Beneficiary highlighted |
-| Instrumental | ipang-, pang- | sulat | *ipangsulat* | Instrument highlighted |
+| Focus        | Affixes                | Sample Root | Example              | Notes                   |
+| ------------ | ---------------------- | ----------- | -------------------- | ----------------------- |
+| Actor        | -um-, mag-, ma-, mang- | kain        | _kumain_             | Actor highlighted       |
+| Patient      | -in-, i-, -an          | kain        | _kinain_, _kakainin_ | Patient highlighted     |
+| Locative     | -an, pag- -an          | luto        | _lutuan_, _nilutuan_ | Location highlighted    |
+| Benefactive  | ipag-, pag- -an, i-    | luto        | _ipagluto_           | Beneficiary highlighted |
+| Instrumental | ipang-, pang-          | sulat       | _ipangsulat_         | Instrument highlighted  |
 
 ## Actor vs Patient Focus Comparison
 
-| Feature | Actor Focus | Patient Focus |
-|---------|-------------|---------------|
-| Affixes | -um-, mag- | -in-, i- |
-| Topic | Actor | Patient |
-| Actor Marker | *si*, *ang* | *ni*, *ng* |
-| Object Marker | *ng* | *ang* |
-| Example | *Kumain si Ana ng tinapay.*  (Ana ate bread.) | *Kinain ni Ana ang tinapay.*  (The bread was eaten by Ana.) |
+| Feature       | Actor Focus                                  | Patient Focus                                              |
+| ------------- | -------------------------------------------- | ---------------------------------------------------------- |
+| Affixes       | -um-, mag-                                   | -in-, i-                                                   |
+| Topic         | Actor                                        | Patient                                                    |
+| Actor Marker  | _si_, _ang_                                  | _ni_, _ng_                                                 |
+| Object Marker | _ng_                                         | _ang_                                                      |
+| Example       | _Kumain si Ana ng tinapay._ (Ana ate bread.) | _Kinain ni Ana ang tinapay._ (The bread was eaten by Ana.) |
 
-## Sentence Pattern Examples (*sulat* root)
+## Sentence Pattern Examples (_sulat_ root)
 
-| Focus | Form | Example | English |
-|-------|------|---------|---------|
-| Actor | *sumulat* | *Sumulat si Pedro ng liham.* | Pedro wrote a letter. |
-| Patient | *sinulat* | *Sinulat ni Pedro ang liham.* | The letter was written by Pedro. |
-| Benefactive | *ipinagsulat* | *Ipinagsulat ni Pedro ng liham ang kaibigan.* | Pedro wrote a letter for the friend. |
-| Instrumental | *ipinangsulat* | *Ipinangsulat ni Pedro ang lapis.* | The pencil was what Pedro used to write. |
-| Locative | *sinulatan* | *Sinulatan ni Pedro ang pisara.* | The board was written on by Pedro. |
+| Focus        | Form           | Example                                       | English                                  |
+| ------------ | -------------- | --------------------------------------------- | ---------------------------------------- |
+| Actor        | _sumulat_      | _Sumulat si Pedro ng liham._                  | Pedro wrote a letter.                    |
+| Patient      | _sinulat_      | _Sinulat ni Pedro ang liham._                 | The letter was written by Pedro.         |
+| Benefactive  | _ipinagsulat_  | _Ipinagsulat ni Pedro ng liham ang kaibigan._ | Pedro wrote a letter for the friend.     |
+| Instrumental | _ipinangsulat_ | _Ipinangsulat ni Pedro ang lapis._            | The pencil was what Pedro used to write. |
+| Locative     | _sinulatan_    | _Sinulatan ni Pedro ang pisara._              | The board was written on by Pedro.       |
 
 ## Focus Selection Guidelines
 
-1. The discourse topic is identified.  
-2. One focus affix is chosen.  
-3. Affix precedes aspect morphology.  
-4. Topic uses *ang* / *si*. Others use *ng* or *sa*.  
+1. The discourse topic is identified.
+2. One focus affix is chosen.
+3. Affix precedes aspect morphology.
+4. Topic uses _ang_ / _si_. Others use _ng_ or _sa_.
 5. Patient focus is favored when affected entity is central.
 
 ## Common Pitfalls
 
-- Overuse of actor focus when patient emphasis is intended.  
-- Mixing *-um-* and *-in-* in one form.  
-- Assuming *-an* is always locative.  
-- Omitting *ni* with patient focus.  
+- Overuse of actor focus when patient emphasis is intended.
+- Mixing _-um-_ and _-in-_ in one form.
+- Assuming _-an_ is always locative.
+- Omitting _ni_ with patient focus.
 - Instrument focus without instrument noun.
 
 ## Practice Sentences
 
 Identify focus type:
 
-- *Binili ni Carla ang aklat.*  (The book was bought by Carla.)
-- *Bumili si Carla ng aklat.*  (Carla bought a book.)
-- *Ibibili ni Carla ng aklat ang kapatid.*  (Carla will buy a book for the sibling.)
-- *Binilhan ni Carla ang tindahan ng aklat.*  (The store was where Carla bought a book.)
-- *Ipinambili ni Carla ang pera ng aklat.*  (The money was what Carla used to buy a book.)
+- _Binili ni Carla ang aklat._ (The book was bought by Carla.)
+- _Bumili si Carla ng aklat._ (Carla bought a book.)
+- _Ibibili ni Carla ng aklat ang kapatid._ (Carla will buy a book for the sibling.)
+- _Binilhan ni Carla ang tindahan ng aklat._ (The store was where Carla bought a book.)
+- _Ipinambili ni Carla ang pera ng aklat._ (The money was what Carla used to buy a book.)
 
 Answers: patient, actor, benefactive, locative, instrumental.
 
 ## See Also
 
-- [Affixes](./affixes.md)  
-- [Aspect](./aspect.md)  
+- [Affixes](./affixes.md)
+- [Aspect](./aspect.md)
 - [Conjugation](./conjugation.md)

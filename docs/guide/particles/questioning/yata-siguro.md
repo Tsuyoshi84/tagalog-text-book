@@ -4,281 +4,281 @@ description: "Detailed explanation of the Tagalog particles yata and siguro whic
 outline: [2, 3]
 ---
 
-# Particles: *Yata* / *Siguro*
+# Particles: _Yata_ / _Siguro_
 
-The particles *yata* and *siguro* express uncertainty, guessing, and epistemic modality in Tagalog. They indicate that the speaker is not completely certain about the information being conveyed, similar to "probably," "maybe," "I think," or "perhaps" in English. While both particles serve similar functions, they have subtle differences in usage, formality, and tone that are important for natural Tagalog speech.
+The particles _yata_ and _siguro_ express uncertainty, guessing, and epistemic modality in Tagalog. They indicate that the speaker is not completely certain about the information being conveyed, similar to "probably," "maybe," "I think," or "perhaps" in English. While both particles serve similar functions, they have subtle differences in usage, formality, and tone that are important for natural Tagalog speech.
 
 ::: tip Quick Summary
-*Yata* and *siguro* express uncertainty and guesses about information. Both mean "probably," "maybe," or "I think," but *yata* is more common in casual speech and implies inference from observation, while *siguro* is slightly more formal and can express stronger doubt or estimation. Position and context determine subtle differences in meaning.
+_Yata_ and _siguro_ express uncertainty and guesses about information. Both mean "probably," "maybe," or "I think," but _yata_ is more common in casual speech and implies inference from observation, while _siguro_ is slightly more formal and can express stronger doubt or estimation. Position and context determine subtle differences in meaning.
 :::
 
 ## Core Meanings
 
-Both *yata* and *siguro* center around epistemic uncertainty—the speaker's degree of confidence in the statement.
+Both _yata_ and _siguro_ center around epistemic uncertainty—the speaker's degree of confidence in the statement.
 
 ### 1. Uncertainty and Guessing ("Probably," "Maybe")
 
 The primary function is to express that the speaker is not certain about the information:
 
-- *Umuulan yata.*  
+- _Umuulan yata._  
   (It's probably raining. - I think so but not certain)
-- *Pupunta siguro siya.*  
+- _Pupunta siguro siya._  
   (He/she will probably go. - uncertain prediction)
-- *Lunes yata bukas.*  
+- _Lunes yata bukas._  
   (Tomorrow is probably Monday. - not completely sure)
 
 ::: info Epistemic Modality
-Both particles express epistemic modality—they indicate the speaker's judgment about the likelihood or probability of a statement being true. This is different from expressing surprise (*pala*) or seeking confirmation (*ba*).
+Both particles express epistemic modality—they indicate the speaker's judgment about the likelihood or probability of a statement being true. This is different from expressing surprise (_pala_) or seeking confirmation (_ba_).
 :::
 
 ### 2. Inference from Observation ("I Think," "It Seems")
 
 Used when the speaker makes an educated guess based on evidence:
 
-- *Matanda na yata siya.*  
+- _Matanda na yata siya._  
   (He/she is probably old now. - based on time passed)
-- *Masarap siguro yan.*  
+- _Masarap siguro yan._  
   (That's probably delicious. - based on appearance)
-- *Wala yata dito si Maria.*  
+- _Wala yata dito si Maria._  
   (Maria is probably not here. - looked around and didn't see her)
 
 ### 3. Hedging and Softening Statements ("I Guess")
 
 Softens statements to make them less direct or absolute:
 
-- *Okay lang yata yan.*  
+- _Okay lang yata yan._  
   (That's probably okay. - not pushing hard)
-- *Pwede siguro.*  
+- _Pwede siguro._  
   (It's probably possible. - not committing)
-- *Tama yata ako.*  
+- _Tama yata ako._  
   (I'm probably right. - humble assertion)
 
 ### 4. Polite Disagreement or Correction
 
 Expresses disagreement without being confrontational:
 
-- *Mali yata yan.*  
+- _Mali yata yan._  
   (That's probably wrong. - soft correction)
-- *Hindi siguro.*  
+- _Hindi siguro._  
   (Probably not. - polite disagreement)
-- *Iba yata ang sagot.*  
+- _Iba yata ang sagot._  
   (The answer is probably different. - gentle correction)
 
 ### 5. Estimation and Approximation
 
 Used for approximate quantities, times, or measurements:
 
-- *Sampung tao yata ang nandoon.*  
+- _Sampung tao yata ang nandoon._  
   (There are probably ten people there. - rough estimate)
-- *Alas tres siguro ako darating.*  
+- _Alas tres siguro ako darating._  
   (I'll probably arrive at three o'clock. - approximate time)
-- *Limang kilo yata ito.*  
+- _Limang kilo yata ito._  
   (This is probably five kilos. - estimation)
 
-## Differences Between *Yata* and *Siguro*
+## Differences Between _Yata_ and _Siguro_
 
 While both express uncertainty, there are subtle but important differences:
 
 ### Formality Level
 
-| Aspect | *Yata* | *Siguro* |
-| ------ | ------ | -------- |
-| Formality | More casual, colloquial | Slightly more formal, neutral |
+| Aspect    | _Yata_                                 | _Siguro_                        |
+| --------- | -------------------------------------- | ------------------------------- |
+| Formality | More casual, colloquial                | Slightly more formal, neutral   |
 | Common in | Everyday conversation, informal speech | Both casual and formal contexts |
-| Tone | Familiar, conversational | Standard, polite |
+| Tone      | Familiar, conversational               | Standard, polite                |
 
-- *Umuulan yata.* (casual observation)
-- *Umuulan siguro.* (neutral observation)
+- _Umuulan yata._ (casual observation)
+- _Umuulan siguro._ (neutral observation)
 
 ### Strength of Uncertainty
 
-| Aspect | *Yata* | *Siguro* |
-| ------ | ------ | -------- |
+| Aspect          | _Yata_                                  | _Siguro_                                      |
+| --------------- | --------------------------------------- | --------------------------------------------- |
 | Certainty level | Moderate uncertainty (60-70% confident) | Can express stronger doubt (40-60% confident) |
-| Implication | Leaning toward yes, probably true | More open uncertainty, could go either way |
+| Implication     | Leaning toward yes, probably true       | More open uncertainty, could go either way    |
 
-- *Tama yata ako.* (I'm probably right - fairly confident)
-- *Tama siguro ako.* (I'm maybe right - less confident)
+- _Tama yata ako._ (I'm probably right - fairly confident)
+- _Tama siguro ako._ (I'm maybe right - less confident)
 
 ### Basis of Inference
 
-| Aspect | *Yata* | *Siguro* |
-| ------ | ------ | -------- |
-| Source | Often based on direct observation or experience | Can be based on reasoning, hearsay, or speculation |
-| Feeling | "It seems to me based on what I see/know" | "Based on thinking about it, possibly" |
+| Aspect  | _Yata_                                          | _Siguro_                                           |
+| ------- | ----------------------------------------------- | -------------------------------------------------- |
+| Source  | Often based on direct observation or experience | Can be based on reasoning, hearsay, or speculation |
+| Feeling | "It seems to me based on what I see/know"       | "Based on thinking about it, possibly"             |
 
-- *Sarado yata ang tindahan.* (The store is probably closed - I see it's dark)
-- *Sarado siguro ang tindahan ngayon.* (The store is probably closed now - reasoning about time)
+- _Sarado yata ang tindahan._ (The store is probably closed - I see it's dark)
+- _Sarado siguro ang tindahan ngayon._ (The store is probably closed now - reasoning about time)
 
 ### Regional and Usage Patterns
 
-- *Yata* is very common in Metro Manila and urban Tagalog
-- *Siguro* is used across all regions and social contexts
-- Native speakers often prefer *yata* in rapid, casual speech
-- *Siguro* appears more in formal writing and planned speech
+- _Yata_ is very common in Metro Manila and urban Tagalog
+- _Siguro_ is used across all regions and social contexts
+- Native speakers often prefer _yata_ in rapid, casual speech
+- _Siguro_ appears more in formal writing and planned speech
 
 ::: tip Choosing Between Them
-In most contexts, both are acceptable and the difference is subtle. When in doubt, use *siguro* as it works in all contexts. Use *yata* when speaking casually or making observations about what you directly perceive.
+In most contexts, both are acceptable and the difference is subtle. When in doubt, use _siguro_ as it works in all contexts. Use _yata_ when speaking casually or making observations about what you directly perceive.
 :::
 
 ## Usage Patterns and Sentence Positions
 
-Both *yata* and *siguro* are enclitic and follow similar placement patterns.
+Both _yata_ and _siguro_ are enclitic and follow similar placement patterns.
 
 ### After Predicates (Most Common)
 
 Places the uncertainty marker on the main assertion:
 
-- *Masarap yata ang pagkain.*  
+- _Masarap yata ang pagkain._  
   (The food is probably delicious.)
-- *Maganda siguro ang pelikula.*  
+- _Maganda siguro ang pelikula._  
   (The movie is probably good.)
-- *Mahirap yata ang exam.*  
+- _Mahirap yata ang exam._  
   (The exam is probably difficult.)
 
 ### After Verbs
 
 Expresses uncertainty about actions:
 
-- *Dumating yata si Juan.*  
+- _Dumating yata si Juan._  
   (Juan probably arrived.)
-- *Uuwi siguro siya bukas.*  
+- _Uuwi siguro siya bukas._  
   (He/she will probably go home tomorrow.)
-- *Bumili yata ng kotse si Ana.*  
+- _Bumili yata ng kotse si Ana._  
   (Ana probably bought a car.)
 
 ### After Nouns and Pronouns
 
 Uncertainty about identity or classification:
 
-- *Doktor yata siya.*  
+- _Doktor yata siya._  
   (He/she is probably a doctor.)
-- *Siya siguro ang may-ari.*  
+- _Siya siguro ang may-ari._  
   (He/she is probably the owner.)
-- *Lunes yata bukas.*  
+- _Lunes yata bukas._  
   (Tomorrow is probably Monday.)
 
 ### After Time and Location Words
 
 Uncertain about when or where:
 
-- *Bukas yata ang deadline.*  
+- _Bukas yata ang deadline._  
   (The deadline is probably tomorrow.)
-- *Doon siguro siya nakatira.*  
+- _Doon siguro siya nakatira._  
   (He/she probably lives there.)
-- *Ngayon yata ang meeting.*  
+- _Ngayon yata ang meeting._  
   (The meeting is probably now.)
 
 ### After Quantity Words
 
 Estimates and approximations:
 
-- *Sampu yata sila.*  
+- _Sampu yata sila._  
   (There are probably ten of them.)
-- *Mahal siguro ito.*  
+- _Mahal siguro ito._  
   (This is probably expensive.)
-- *Marami yata ang tao.*  
+- _Marami yata ang tao._  
   (There are probably many people.)
 
 ### In Negative Statements
 
 Expresses uncertainty about negation:
 
-- *Wala yata siya dito.*  
+- _Wala yata siya dito._  
   (He/she is probably not here.)
-- *Hindi siguro siya pupunta.*  
+- _Hindi siguro siya pupunta._  
   (He/she probably won't go.)
-- *Walang tao yata sa bahay.*  
+- _Walang tao yata sa bahay._  
   (There's probably no one at home.)
 
 ### Beginning of Sentence (Less Common)
 
 Sometimes placed at the beginning for emphasis on uncertainty:
 
-- *Yata ay umuulan.*  
+- _Yata ay umuulan._  
   (Probably it's raining. - formal structure)
-- *Siguro ay hindi siya darating.*  
+- _Siguro ay hindi siya darating._  
   (Perhaps he/she won't come. - formal)
 
 ::: info Position Note
-While *yata* and *siguro* can begin sentences with the *ay* inversion structure, this is formal and less common in everyday speech. The standard enclitic position is more natural.
+While _yata_ and _siguro_ can begin sentences with the _ay_ inversion structure, this is formal and less common in everyday speech. The standard enclitic position is more natural.
 :::
 
 ## Common Particle Combinations
 
 Both particles frequently combine with others to create nuanced meanings.
 
-### *Yata* / *Siguro* + *Ba* (Probably? - Uncertain Question)
+### _Yata_ / _Siguro_ + _Ba_ (Probably? - Uncertain Question)
 
 Asks a question while expressing uncertainty:
 
-- *Umuulan yata ba?*  
+- _Umuulan yata ba?_  
   (Is it probably raining? - uncertain question)
-- *Tama siguro ba ako?*  
+- _Tama siguro ba ako?_  
   (Am I probably right? - seeking confirmation with doubt)
-- *Dito yata ba tayo?*  
+- _Dito yata ba tayo?_  
   (Are we probably here? - uncertain about location)
 
-### *Hindi* + *Yata* / *Siguro* (Probably Not)
+### _Hindi_ + _Yata_ / _Siguro_ (Probably Not)
 
 Expresses negative uncertainty:
 
-- *Hindi yata siya pupunta.*  
+- _Hindi yata siya pupunta._  
   (He/she probably won't go.)
-- *Hindi siguro totoo yan.*  
+- _Hindi siguro totoo yan._  
   (That's probably not true.)
-- *Hindi yata ako makakasama.*  
+- _Hindi yata ako makakasama._  
   (I probably can't join.)
 
-### *Yata* / *Siguro* + *Kasi* (Probably Because)
+### _Yata_ / _Siguro_ + _Kasi_ (Probably Because)
 
 Gives uncertain reason:
 
-- *Wala yata siya kasi may sakit.*  
+- _Wala yata siya kasi may sakit._  
   (He/she's probably not here because sick.)
-- *Mahal siguro kasi imported.*  
+- _Mahal siguro kasi imported._  
   (It's probably expensive because it's imported.)
 
-### *Oo* + *Yata* / *Siguro* (Probably Yes)
+### _Oo_ + _Yata_ / _Siguro_ (Probably Yes)
 
 Uncertain affirmation:
 
-- *Oo yata.*  
+- _Oo yata._  
   (Probably yes. / I think so.)
-- *Oo siguro.*  
+- _Oo siguro._  
   (Maybe yes. / Perhaps.)
 
-### *Yata* / *Siguro* + *Nga* (Probably Indeed)
+### _Yata_ / _Siguro_ + _Nga_ (Probably Indeed)
 
 Adds emphasis to the uncertainty:
 
-- *Tama yata nga.*  
+- _Tama yata nga._  
   (It's probably indeed correct.)
-- *Siya siguro nga ang may gawa.*  
+- _Siya siguro nga ang may gawa._  
   (It's probably indeed him/her who did it.)
 
-### *Baka* + *Yata* / *Siguro* (Maybe Probably - Strong Uncertainty)
+### _Baka_ + _Yata_ / _Siguro_ (Maybe Probably - Strong Uncertainty)
 
 Layers uncertainty markers (less common, very uncertain):
 
-- *Baka yata hindi siya darating.*  
+- _Baka yata hindi siya darating._  
   (Maybe he/she probably won't come. - very uncertain)
-- *Baka siguro bukas.*  
+- _Baka siguro bukas._  
   (Maybe probably tomorrow. - highly uncertain)
 
 ::: warning Redundancy
-While *baka* + *yata*/*siguro* is grammatically possible, it's often redundant since both express uncertainty. Use one uncertainty marker in most cases.
+While _baka_ + _yata_/_siguro_ is grammatically possible, it's often redundant since both express uncertainty. Use one uncertainty marker in most cases.
 :::
 
-### Question Word + *Yata* / *Siguro*
+### Question Word + _Yata_ / _Siguro_
 
 Uncertain questions:
 
-- *Sino yata yan?*  
+- _Sino yata yan?_  
   (Who's that probably? - wondering)
-- *Ano siguro ang mangyayari?*  
+- _Ano siguro ang mangyayari?_  
   (What will probably happen?)
-- *Saan yata siya pumunta?*  
+- _Saan yata siya pumunta?_  
   (Where did he/she probably go?)
 
 ## Nuances and Tone
@@ -289,168 +289,168 @@ Context and intonation affect how these particles are perceived.
 
 The same sentence can express different degrees of confidence:
 
-- *Totoo siguro.* (Maybe true. - 50% confident)
-- *Totoo yata.* (Probably true. - 65% confident)
-- *Totoo.* (It's true. - 100% confident)
+- _Totoo siguro._ (Maybe true. - 50% confident)
+- _Totoo yata._ (Probably true. - 65% confident)
+- _Totoo._ (It's true. - 100% confident)
 
 ### Humble and Polite Tone
 
-Using *yata* or *siguro* shows humility and avoids being too assertive:
+Using _yata_ or _siguro_ shows humility and avoids being too assertive:
 
-- *Maganda yata ang suggestion mo.*  
+- _Maganda yata ang suggestion mo._  
   (Your suggestion is probably good. - humble praise)
-- *Mali siguro ako.*  
+- _Mali siguro ako._  
   (I'm probably wrong. - humble admission)
 
 ### Tentative Offers and Suggestions
 
 Softens suggestions to make them less pushy:
 
-- *Kumain na tayo yata.*  
+- _Kumain na tayo yata._  
   (We should probably eat now. - gentle suggestion)
-- *Umuwi na siguro ako.*  
+- _Umuwi na siguro ako._  
   (I should probably go home. - tentative decision)
 
-### Observation Tone with *Yata*
+### Observation Tone with _Yata_
 
-*Yata* often has an observational quality:
+_Yata_ often has an observational quality:
 
-- *Pagod yata siya.*  
+- _Pagod yata siya._  
   (He/she is probably tired. - observing behavior)
-- *Masaya yata ang party.*  
+- _Masaya yata ang party._  
   (The party is probably fun. - hearing sounds or seeing people)
 
-### Reasoning Tone with *Siguro*
+### Reasoning Tone with _Siguro_
 
-*Siguro* often involves logical reasoning:
+_Siguro_ often involves logical reasoning:
 
-- *Mahal siguro yan kasi imported.*  
+- _Mahal siguro yan kasi imported._  
   (That's probably expensive because it's imported. - reasoning)
-- *Hindi siguro siya darating kasi umulan.*  
+- _Hindi siguro siya darating kasi umulan._  
   (He/she probably won't come because it rained. - logical deduction)
 
 ## Common Mistakes
 
-### ❌ Mistake 1: Confusing with *Pala* (Discovery)
+### ❌ Mistake 1: Confusing with _Pala_ (Discovery)
 
-*Yata*/*siguro* express uncertainty; *pala* expresses discovery:
+_Yata_/_siguro_ express uncertainty; _pala_ expresses discovery:
 
-- ❌ *Umuulan yata.* (when you just looked outside and saw rain)
-- ✅ *Umuulan pala!* (Oh, it's raining! - just discovered)
-- ✅ *Umuulan yata.* (It's probably raining. - uncertain, haven't confirmed)
-- 💡 Use *yata*/*siguro* when uncertain; use *pala* when you just discovered something for certain.
+- ❌ _Umuulan yata._ (when you just looked outside and saw rain)
+- ✅ _Umuulan pala!_ (Oh, it's raining! - just discovered)
+- ✅ _Umuulan yata._ (It's probably raining. - uncertain, haven't confirmed)
+- 💡 Use _yata_/_siguro_ when uncertain; use _pala_ when you just discovered something for certain.
 
 ### ❌ Mistake 2: Overusing with Certain Information
 
-Don't use *yata*/*siguro* for facts you know:
+Don't use _yata_/_siguro_ for facts you know:
 
-- ❌ *Lunes yata ngayon.* (when you know it's Monday)
-- ✅ *Lunes ngayon.* (It's Monday today.)
-- ✅ *Lunes yata bukas.* (Tomorrow is probably Monday. - not sure)
+- ❌ _Lunes yata ngayon._ (when you know it's Monday)
+- ✅ _Lunes ngayon._ (It's Monday today.)
+- ✅ _Lunes yata bukas._ (Tomorrow is probably Monday. - not sure)
 - 💡 Only use when genuinely uncertain. Using with known facts sounds odd.
 
 ### ❌ Mistake 3: Wrong Position in Sentence
 
 Position matters for natural flow:
 
-- ❌ *Yata maganda ang bahay.*
-- ✅ *Maganda yata ang bahay.* (The house is probably beautiful.)
-- ❌ *Ang bahay maganda yata.* (awkward word order)
+- ❌ _Yata maganda ang bahay._
+- ✅ _Maganda yata ang bahay._ (The house is probably beautiful.)
+- ❌ _Ang bahay maganda yata._ (awkward word order)
 - 💡 Follow enclitic patterns - place after the word or phrase being modified.
 
 ### ❌ Mistake 4: Using Both Together Redundantly
 
 Using both particles together is redundant:
 
-- ❌ *Umuulan yata siguro.*
-- ✅ *Umuulan yata.* or *Umuulan siguro.*
+- ❌ _Umuulan yata siguro._
+- ✅ _Umuulan yata._ or _Umuulan siguro._
 - 💡 Choose one uncertainty marker. Using both is redundant and unnatural.
 
-### ❌ Mistake 5: Confusing with *Baka* (Might)
+### ❌ Mistake 5: Confusing with _Baka_ (Might)
 
-*Baka* expresses possibility/might; *yata*/*siguro* express probability:
+_Baka_ expresses possibility/might; _yata_/_siguro_ express probability:
 
-- *Baka umuulan.* (It might be raining. - possibility, lower certainty)
-- *Umuulan yata.* (It's probably raining. - higher certainty based on observation)
-- *Umuulan siguro.* (It's probably raining. - estimation)
-- 💡 *Baka* = might (30-40%); *yata*/*siguro* = probably (50-70%)
+- _Baka umuulan._ (It might be raining. - possibility, lower certainty)
+- _Umuulan yata._ (It's probably raining. - higher certainty based on observation)
+- _Umuulan siguro._ (It's probably raining. - estimation)
+- 💡 _Baka_ = might (30-40%); _yata_/_siguro_ = probably (50-70%)
 
 ### ❌ Mistake 6: Using in Commands
 
-Don't use *yata*/*siguro* in direct commands:
+Don't use _yata_/_siguro_ in direct commands:
 
-- ❌ *Kumain ka yata.* (doesn't make sense)
-- ✅ *Kumain ka.* (Eat.)
-- ✅ *Kumain ka na yata.* (You've probably eaten. - statement about past action)
+- ❌ _Kumain ka yata._ (doesn't make sense)
+- ✅ _Kumain ka._ (Eat.)
+- ✅ _Kumain ka na yata._ (You've probably eaten. - statement about past action)
 - 💡 These particles express uncertainty about statements, not commands.
 
 ## Comparisons with Similar Particles
 
-### *Yata* / *Siguro* vs. *Pala*
+### _Yata_ / _Siguro_ vs. _Pala_
 
 Different functions related to knowledge:
 
-| Aspect | *Yata* / *Siguro* | *Pala* |
-| ------ | ----------------- | ------ |
-| Function | Uncertainty, guessing | Discovery, realization |
-| Certainty | Uncertain (probably) | Certain (just learned) |
-| Knowledge state | Don't know for sure | Just found out |
-| Example | *Umuulan yata.* (It's probably raining. - uncertain) | *Umuulan pala!* (Oh, it's raining! - discovered) |
+| Aspect          | _Yata_ / _Siguro_                                    | _Pala_                                           |
+| --------------- | ---------------------------------------------------- | ------------------------------------------------ |
+| Function        | Uncertainty, guessing                                | Discovery, realization                           |
+| Certainty       | Uncertain (probably)                                 | Certain (just learned)                           |
+| Knowledge state | Don't know for sure                                  | Just found out                                   |
+| Example         | _Umuulan yata._ (It's probably raining. - uncertain) | _Umuulan pala!_ (Oh, it's raining! - discovered) |
 
-- *Matanda yata siya.* (He/she is probably old. - guessing)
-- *Matanda pala siya.* (Oh, he/she is old. - just discovered)
+- _Matanda yata siya._ (He/she is probably old. - guessing)
+- _Matanda pala siya._ (Oh, he/she is old. - just discovered)
 
-### *Yata* / *Siguro* vs. *Baka*
+### _Yata_ / _Siguro_ vs. _Baka_
 
 Different degrees and types of uncertainty:
 
-| Aspect | *Yata* / *Siguro* | *Baka* |
-| ------ | ----------------- | ------ |
-| Meaning | Probably (50-70% certain) | Might, maybe (30-50% certain) |
-| Certainty | Moderate to high uncertainty | High uncertainty |
-| Basis | Often observational or reasoned | Possibility without strong evidence |
-| Example | *Darating yata siya.* (He/she will probably come.) | *Baka darating siya.* (He/she might come.) |
+| Aspect    | _Yata_ / _Siguro_                                  | _Baka_                                     |
+| --------- | -------------------------------------------------- | ------------------------------------------ |
+| Meaning   | Probably (50-70% certain)                          | Might, maybe (30-50% certain)              |
+| Certainty | Moderate to high uncertainty                       | High uncertainty                           |
+| Basis     | Often observational or reasoned                    | Possibility without strong evidence        |
+| Example   | _Darating yata siya._ (He/she will probably come.) | _Baka darating siya._ (He/she might come.) |
 
-- *Umuulan siguro.* (It's probably raining. - fairly confident)
-- *Baka umuulan.* (It might be raining. - less confident)
+- _Umuulan siguro._ (It's probably raining. - fairly confident)
+- _Baka umuulan._ (It might be raining. - less confident)
 
-### *Yata* / *Siguro* vs. *Kaya*
+### _Yata_ / _Siguro_ vs. _Kaya_
 
 Different types of uncertainty:
 
-| Aspect | *Yata* / *Siguro* | *Kaya* |
-| ------ | ----------------- | ------ |
-| Function | Stating uncertain belief | Wondering, speculating |
-| Form | Statement with uncertainty | Question or wondering |
-| Example | *Darating siguro siya.* (He/she will probably come. - statement) | *Darating kaya siya?* (I wonder if he/she will come? - speculation) |
+| Aspect   | _Yata_ / _Siguro_                                                | _Kaya_                                                              |
+| -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Function | Stating uncertain belief                                         | Wondering, speculating                                              |
+| Form     | Statement with uncertainty                                       | Question or wondering                                               |
+| Example  | _Darating siguro siya._ (He/she will probably come. - statement) | _Darating kaya siya?_ (I wonder if he/she will come? - speculation) |
 
-- *Totoo yata ito.* (This is probably true. - uncertain statement)
-- *Totoo kaya ito?* (I wonder if this is true? - speculative question)
+- _Totoo yata ito._ (This is probably true. - uncertain statement)
+- _Totoo kaya ito?_ (I wonder if this is true? - speculative question)
 
-### *Yata* / *Siguro* vs. *Nga*
+### _Yata_ / _Siguro_ vs. _Nga_
 
 Different types of certainty:
 
-| Aspect | *Yata* / *Siguro* | *Nga* |
-| ------ | ----------------- | ----- |
-| Function | Uncertainty | Confirmation, emphasis |
-| Certainty | Uncertain | Certain, emphatic |
-| Example | *Maganda yata.* (It's probably beautiful. - uncertain) | *Maganda nga.* (It's indeed beautiful. - confirming) |
+| Aspect    | _Yata_ / _Siguro_                                      | _Nga_                                                |
+| --------- | ------------------------------------------------------ | ---------------------------------------------------- |
+| Function  | Uncertainty                                            | Confirmation, emphasis                               |
+| Certainty | Uncertain                                              | Certain, emphatic                                    |
+| Example   | _Maganda yata._ (It's probably beautiful. - uncertain) | _Maganda nga._ (It's indeed beautiful. - confirming) |
 
-- *Tama yata ako.* (I'm probably right. - uncertain)
-- *Tama nga ako.* (I'm indeed right. - confirming)
+- _Tama yata ako._ (I'm probably right. - uncertain)
+- _Tama nga ako._ (I'm indeed right. - confirming)
 
-### *Siguro* vs. *Marahil*
+### _Siguro_ vs. _Marahil_
 
 Both mean "perhaps," but different registers:
 
-| Aspect | *Siguro* | *Marahil* |
-| ------ | -------- | --------- |
-| Register | Everyday, conversational | Formal, literary |
-| Usage | Spoken and written | Mostly written, formal speech |
-| Example | *Uulan siguro bukas.* (It will probably rain tomorrow.) | *Uulan marahil bukas.* (Perhaps it will rain tomorrow. - formal) |
+| Aspect   | _Siguro_                                                | _Marahil_                                                        |
+| -------- | ------------------------------------------------------- | ---------------------------------------------------------------- |
+| Register | Everyday, conversational                                | Formal, literary                                                 |
+| Usage    | Spoken and written                                      | Mostly written, formal speech                                    |
+| Example  | _Uulan siguro bukas._ (It will probably rain tomorrow.) | _Uulan marahil bukas._ (Perhaps it will rain tomorrow. - formal) |
 
-*Marahil* is rare in casual conversation; *siguro* is standard.
+_Marahil_ is rare in casual conversation; _siguro_ is standard.
 
 ## Cultural Context
 
@@ -458,9 +458,9 @@ Understanding cultural aspects helps with appropriate usage.
 
 ### Indirect Communication Style
 
-Filipino culture values indirect communication, and *yata*/*siguro* support this:
+Filipino culture values indirect communication, and _yata_/_siguro_ support this:
 
-- **Softening disagreements**: Using *yata*/*siguro* makes corrections less confrontational
+- **Softening disagreements**: Using _yata_/_siguro_ makes corrections less confrontational
 - **Avoiding absoluteness**: Leaving room for others' opinions shows respect
 - **Humble assertions**: Not appearing too confident shows modesty
 - **Face-saving**: Uncertainty markers allow retreat if wrong
@@ -469,22 +469,22 @@ Filipino culture values indirect communication, and *yata*/*siguro* support this
 
 Expressing uncertainty is often more polite than stating facts directly:
 
-- Direct: *Mali ka.* (You're wrong. - confrontational)
-- Indirect: *Mali yata yan.* (That's probably wrong. - softer)
-- Very indirect: *Hindi siguro tama yan.* (That's probably not correct. - very gentle)
+- Direct: _Mali ka._ (You're wrong. - confrontational)
+- Indirect: _Mali yata yan._ (That's probably wrong. - softer)
+- Very indirect: _Hindi siguro tama yan._ (That's probably not correct. - very gentle)
 
 ### Epistemic Humility
 
-Using *yata*/*siguro* demonstrates humility about one's knowledge:
+Using _yata_/_siguro_ demonstrates humility about one's knowledge:
 
 - Shows awareness of limits of knowledge
 - Avoids appearing arrogant or know-it-all
 - Creates space for dialogue and correction
-- Reflects Filipino value of *pagpapakumbaba* (humility)
+- Reflects Filipino value of _pagpapakumbaba_ (humility)
 
 ### Social Harmony
 
-These particles help maintain *pakikisama* (smooth interpersonal relations):
+These particles help maintain _pakikisama_ (smooth interpersonal relations):
 
 - Reduces potential for conflict through softened statements
 - Allows face-saving for both speaker and listener
@@ -493,13 +493,13 @@ These particles help maintain *pakikisama* (smooth interpersonal relations):
 
 ### Regional and Generational Usage
 
-- Younger urban speakers use *yata* very frequently in casual speech
-- Older speakers may use *siguro* more in formal contexts
-- *Yata* is strongly associated with Metro Manila Tagalog
+- Younger urban speakers use _yata_ very frequently in casual speech
+- Older speakers may use _siguro_ more in formal contexts
+- _Yata_ is strongly associated with Metro Manila Tagalog
 - Both particles are understood and used across all Tagalog regions
 
 ::: info Filipino Communication
-The frequent use of *yata* and *siguro* in Filipino conversation reflects a cultural preference for indirect, humble, and harmony-preserving communication. Mastering these particles is essential for culturally appropriate speech.
+The frequent use of _yata_ and _siguro_ in Filipino conversation reflects a cultural preference for indirect, humble, and harmony-preserving communication. Mastering these particles is essential for culturally appropriate speech.
 :::
 
 ## Practice Patterns
@@ -510,38 +510,38 @@ Focus on basic uncertainty expressions with common verbs and adjectives.
 
 #### Pattern 1: Simple Observations
 
-- *Umuulan yata.*  
+- _Umuulan yata._  
   (It's probably raining.)
-- *Mainit siguro bukas.*  
+- _Mainit siguro bukas._  
   (Tomorrow is probably hot.)
-- *Masarap yata ito.*  
+- _Masarap yata ito._  
   (This is probably delicious.)
 
 #### Pattern 2: About People
 
-- *Matanda yata siya.*  
+- _Matanda yata siya._  
   (He/she is probably old.)
-- *Guro siguro si Ana.*  
+- _Guro siguro si Ana._  
   (Ana is probably a teacher.)
-- *Masaya yata si Juan.*  
+- _Masaya yata si Juan._  
   (Juan is probably happy.)
 
 #### Pattern 3: Simple Negatives
 
-- *Wala yata siya.*  
+- _Wala yata siya._  
   (He/she is probably not here.)
-- *Hindi siguro totoo.*  
+- _Hindi siguro totoo._  
   (It's probably not true.)
-- *Walang tao yata.*  
+- _Walang tao yata._  
   (There's probably no one.)
 
 #### Pattern 4: Basic Estimations
 
-- *Sampung tao yata.*  
+- _Sampung tao yata._  
   (Probably ten people.)
-- *Mahal siguro ito.*  
+- _Mahal siguro ito._  
   (This is probably expensive.)
-- *Malaki yata ang bahay.*  
+- _Malaki yata ang bahay._  
   (The house is probably big.)
 
 ### Intermediate Level
@@ -550,47 +550,47 @@ Add time, location, and more complex expressions.
 
 #### Pattern 1: Time and Schedule
 
-- *Bukas yata ang deadline.*  
+- _Bukas yata ang deadline._  
   (The deadline is probably tomorrow.)
-- *Alas tres siguro ang meeting.*  
+- _Alas tres siguro ang meeting._  
   (The meeting is probably at three.)
-- *Lunes yata bukas.*  
+- _Lunes yata bukas._  
   (Tomorrow is probably Monday.)
 
 #### Pattern 2: Location Uncertainty
 
-- *Doon yata siya nakatira.*  
+- _Doon yata siya nakatira._  
   (He/she probably lives there.)
-- *Sa kusina siguro si Mama.*  
+- _Sa kusina siguro si Mama._  
   (Mom is probably in the kitchen.)
-- *Dito yata ang entrance.*  
+- _Dito yata ang entrance._  
   (The entrance is probably here.)
 
 #### Pattern 3: Polite Corrections
 
-- *Mali yata yan.*  
+- _Mali yata yan._  
   (That's probably wrong.)
-- *Iba siguro ang sagot.*  
+- _Iba siguro ang sagot._  
   (The answer is probably different.)
-- *Hindi yata ganyan.*  
+- _Hindi yata ganyan._  
   (It's probably not like that.)
 
 #### Pattern 4: Reasons and Explanations
 
-- *Wala yata siya kasi may sakit.*  
+- _Wala yata siya kasi may sakit._  
   (He/she's probably not here because sick.)
-- *Mahal siguro kasi imported.*  
+- _Mahal siguro kasi imported._  
   (It's probably expensive because imported.)
-- *Sarado yata kasi holiday.*  
+- _Sarado yata kasi holiday._  
   (It's probably closed because holiday.)
 
 #### Pattern 5: Uncertain Questions
 
-- *Uuwi yata ba siya?*  
+- _Uuwi yata ba siya?_  
   (Is he/she probably going home?)
-- *Tama siguro ba ako?*  
+- _Tama siguro ba ako?_  
   (Am I probably right?)
-- *Dito yata ba tayo?*  
+- _Dito yata ba tayo?_  
   (Are we probably here?)
 
 ### Advanced Level
@@ -599,163 +599,163 @@ Master subtle nuances, complex combinations, and natural conversation flow.
 
 #### Pattern 1: Layered Inference
 
-- *Pagod yata siya kasi ang tahimik niya.*  
+- _Pagod yata siya kasi ang tahimik niya._  
   (He/she is probably tired because he/she is so quiet.)
-- *Hindi siguro siya pupunta kasi umulan.*  
+- _Hindi siguro siya pupunta kasi umulan._  
   (He/she probably won't come because it rained.)
-- *Gutom na yata ako, kumakalam na ang tiyan ko.*  
+- _Gutom na yata ako, kumakalam na ang tiyan ko._  
   (I'm probably hungry now, my stomach is growling.)
 
 #### Pattern 2: Tentative Suggestions
 
-- *Umuwi na yata tayo.*  
+- _Umuwi na yata tayo._  
   (We should probably go home now.)
-- *Kumain na siguro ako.*  
+- _Kumain na siguro ako._  
   (I should probably eat now.)
-- *Tigil na yata muna natin ito.*  
+- _Tigil na yata muna natin ito._  
   (We should probably stop this for now.)
 
 #### Pattern 3: Humble Opinions
 
-- *Maganda yata ang idea mo.*  
+- _Maganda yata ang idea mo._  
   (Your idea is probably good. - humble praise)
-- *Tama siguro siya.*  
+- _Tama siguro siya._  
   (He's/she's probably right. - humble agreement)
-- *Mas okay yata ang ganito.*  
+- _Mas okay yata ang ganito._  
   (This way is probably better. - gentle suggestion)
 
 #### Pattern 4: Complex Observations
 
-- *Malapit na yata siyang dumating kasi nag-text na siya.*  
+- _Malapit na yata siyang dumating kasi nag-text na siya._  
   (He/she is probably about to arrive because he/she already texted.)
-- *Matanda na siguro ang building na ito kasi luma na ang design.*  
+- _Matanda na siguro ang building na ito kasi luma na ang design._  
   (This building is probably old because the design is dated.)
 
 #### Pattern 5: Natural Conversation Flow
 
-- *Kumain ka na ba? Hindi pa. Gutom ka na yata. Oo, gutom na ako.*  
+- _Kumain ka na ba? Hindi pa. Gutom ka na yata. Oo, gutom na ako._  
   (Have you eaten? Not yet. You're probably hungry. Yes, I'm hungry.)
-- *Nasaan si Maria? Umuwi na yata. Bakit? May sakit siguro.*  
+- _Nasaan si Maria? Umuwi na yata. Bakit? May sakit siguro._  
   (Where's Maria? She probably went home. Why? She's probably sick.)
 
 #### Pattern 6: Hedging Disagreements
 
-- *Maganda ang suggestion mo, pero hindi siguro practical.*  
+- _Maganda ang suggestion mo, pero hindi siguro practical._  
   (Your suggestion is good, but it's probably not practical.)
-- *Naiintindihan kita, pero mali yata ang approach.*  
+- _Naiintindihan kita, pero mali yata ang approach._  
   (I understand you, but the approach is probably wrong.)
 
 #### Pattern 7: Epistemic Stance in Discussion
 
-- *Sa tingin ko, tama yata ang theory na yan.*  
+- _Sa tingin ko, tama yata ang theory na yan._  
   (I think that theory is probably correct.)
-- *Base sa data, totoo siguro ang hypothesis.*  
+- _Base sa data, totoo siguro ang hypothesis._  
   (Based on the data, the hypothesis is probably true.)
 
 #### Pattern 8: Combining Multiple Uncertainty Markers
 
 Use appropriately without redundancy:
 
-- *Hindi ko alam, baka wala na siya. Umuwi na yata.*  
+- _Hindi ko alam, baka wala na siya. Umuwi na yata._  
   (I don't know, he/she might not be here anymore. He/she probably went home.)
 
 ## Summary
 
-Key points about *yata* and *siguro*:
+Key points about _yata_ and _siguro_:
 
 - **Primary function**: Express uncertainty, probability, and epistemic modality ("probably," "maybe," "I think")
 - **Certainty level**: Moderate uncertainty (50-70% confident)
 - **Position**: Enclitic - follows the word or phrase being modified
-- **Key differences**: 
-  - *Yata*: More casual, observational, slightly more confident
-  - *Siguro*: More formal, reasoning-based, can express stronger doubt
-- **Common combinations**: *hindi yata*/*siguro* (probably not), *oo yata*/*siguro* (probably yes), with question words
+- **Key differences**:
+  - _Yata_: More casual, observational, slightly more confident
+  - _Siguro_: More formal, reasoning-based, can express stronger doubt
+- **Common combinations**: _hindi yata_/_siguro_ (probably not), _oo yata_/_siguro_ (probably yes), with question words
 - **Cultural role**: Supports indirect communication, humility, and social harmony
-- **Contrast with**: *pala* (discovery), *baka* (might), *kaya* (wonder)
+- **Contrast with**: _pala_ (discovery), _baka_ (might), _kaya_ (wonder)
 - **Learning focus**: Start with simple observations, then add time/location contexts, then master subtle differences
 
 ::: tip Mastery Approach
-Listen carefully to how native speakers use *yata* and *siguro* to express different levels of uncertainty. Pay attention to when they choose one over the other. The key is understanding that these particles reflect the speaker's confidence level and the basis for their belief (observation vs. reasoning). Practice using them to soften statements and show humility in your speech.
+Listen carefully to how native speakers use _yata_ and _siguro_ to express different levels of uncertainty. Pay attention to when they choose one over the other. The key is understanding that these particles reflect the speaker's confidence level and the basis for their belief (observation vs. reasoning). Practice using them to soften statements and show humility in your speech.
 :::
 
 ## Practice Exercises
 
 ### Exercise 1: Add Appropriate Uncertainty Markers
 
-Add *yata* or *siguro* where appropriate (both may be acceptable):
+Add _yata_ or _siguro_ where appropriate (both may be acceptable):
 
-1. *Umuulan ___.*  
-   → *Umuulan yata.* or *Umuulan siguro.* (It's probably raining.)
-2. *Wala ___ siya dito.*  
-   → *Wala yata siya dito.* or *Wala siguro siya dito.* (He/she's probably not here.)
-3. *Lunes ___ bukas.*  
-   → *Lunes yata bukas.* or *Lunes siguro bukas.* (Tomorrow is probably Monday.)
+1. _Umuulan \_\_\_._  
+   → _Umuulan yata._ or _Umuulan siguro._ (It's probably raining.)
+2. _Wala \_\_\_ siya dito._  
+   → _Wala yata siya dito._ or _Wala siguro siya dito._ (He/she's probably not here.)
+3. _Lunes \_\_\_ bukas._  
+   → _Lunes yata bukas._ or _Lunes siguro bukas._ (Tomorrow is probably Monday.)
 
-### Exercise 2: Distinguish from *Pala*
+### Exercise 2: Distinguish from _Pala_
 
-Choose *yata*/*siguro* (uncertainty) or *pala* (discovery):
+Choose _yata_/_siguro_ (uncertainty) or _pala_ (discovery):
 
-1. *Umuulan ___!* (You just looked outside and saw rain)  
-   → *Umuulan pala!* (Oh, it's raining! - discovery)
-2. *Umuulan ___.* (You hear sounds but haven't checked)  
-   → *Umuulan yata.* or *Umuulan siguro.* (It's probably raining. - uncertain)
-3. *Matanda ___ siya.* (You're guessing based on appearance)  
-   → *Matanda yata siya.* or *Matanda siguro siya.* (He/she is probably old.)
-4. *Matanda ___ siya!* (You just found out their age)  
-   → *Matanda pala siya!* (Oh, he/she is old! - discovered)
+1. _Umuulan \_\_\_!_ (You just looked outside and saw rain)  
+   → _Umuulan pala!_ (Oh, it's raining! - discovery)
+2. _Umuulan \_\_\_._ (You hear sounds but haven't checked)  
+   → _Umuulan yata._ or _Umuulan siguro._ (It's probably raining. - uncertain)
+3. _Matanda \_\_\_ siya._ (You're guessing based on appearance)  
+   → _Matanda yata siya._ or _Matanda siguro siya._ (He/she is probably old.)
+4. _Matanda \_\_\_ siya!_ (You just found out their age)  
+   → _Matanda pala siya!_ (Oh, he/she is old! - discovered)
 
 ### Exercise 3: Polite Corrections
 
-Soften these direct corrections using *yata* or *siguro*:
+Soften these direct corrections using _yata_ or _siguro_:
 
-1. *Mali ka.* → *Mali yata yan.* (That's probably wrong.)
-2. *Hindi tama ang sagot.* → *Hindi siguro tama ang sagot.* (The answer is probably not correct.)
-3. *Bukas ang deadline.* → *Bukas yata ang deadline.* (The deadline is probably tomorrow.)
+1. _Mali ka._ → _Mali yata yan._ (That's probably wrong.)
+2. _Hindi tama ang sagot._ → _Hindi siguro tama ang sagot._ (The answer is probably not correct.)
+3. _Bukas ang deadline._ → _Bukas yata ang deadline._ (The deadline is probably tomorrow.)
 
 ### Exercise 4: Express Different Certainty Levels
 
 Arrange from least to most certain:
 
-1. *Baka totoo.* (It might be true. - 30-40%)
-2. *Totoo siguro.* (It's probably true. - 50-60%)
-3. *Totoo yata.* (It's probably true. - 60-70%)
-4. *Totoo.* (It's true. - 100%)
+1. _Baka totoo._ (It might be true. - 30-40%)
+2. _Totoo siguro._ (It's probably true. - 50-60%)
+3. _Totoo yata._ (It's probably true. - 60-70%)
+4. _Totoo._ (It's true. - 100%)
 
 ### Exercise 5: Create Natural Conversations
 
-Practice using *yata*/*siguro* in context:
+Practice using _yata_/_siguro_ in context:
 
-1. A: *Nasaan si Juan?*  
-   B: *Umuwi na yata.* / *Umuwi na siguro.*  
+1. A: _Nasaan si Juan?_  
+   B: _Umuwi na yata._ / _Umuwi na siguro._  
    (Where's Juan? He probably went home.)
 
-2. A: *Uuwi ka ba ng maaga?*  
-   B: *Oo siguro.* / *Oo yata.*  
+2. A: _Uuwi ka ba ng maaga?_  
+   B: _Oo siguro._ / _Oo yata._  
    (Will you go home early? Probably yes.)
 
-3. A: *Umulan ba?*  
-   B: *Hindi yata.* / *Hindi siguro.*  
+3. A: _Umulan ba?_  
+   B: _Hindi yata._ / _Hindi siguro._  
    (Did it rain? Probably not.)
 
 ### Exercise 6: Identify the Difference
 
 Explain the difference:
 
-1. *Pagod yata siya.* vs. *Pagod siguro siya.*  
+1. _Pagod yata siya._ vs. _Pagod siguro siya._  
    → First is more observational and casual; second is more neutral reasoning.
 
-2. *Umuulan yata.* vs. *Baka umuulan.*  
+2. _Umuulan yata._ vs. _Baka umuulan._  
    → First expresses probability (60-70%); second expresses possibility (30-40%).
 
 ### Exercise 7: Position Practice
 
-Place *yata* or *siguro* in the correct position:
+Place _yata_ or _siguro_ in the correct position:
 
-1. *Maganda ang bahay. [yata]*  
-   → *Maganda yata ang bahay.* (The house is probably beautiful.)
-2. *Pumunta siya. [siguro]*  
-   → *Pumunta siguro siya.* (He/she probably went.)
-3. *Mahal ito. [yata]*  
-   → *Mahal yata ito.* (This is probably expensive.)
+1. _Maganda ang bahay. [yata]_  
+   → _Maganda yata ang bahay._ (The house is probably beautiful.)
+2. _Pumunta siya. [siguro]_  
+   → _Pumunta siguro siya._ (He/she probably went.)
+3. _Mahal ito. [yata]_  
+   → _Mahal yata ito._ (This is probably expensive.)
 
 See also: [Particle: Pala](../emphasis/pala.md), [Particle: Ba](./ba.md), [Particles Index](../index.md), [Questions](../../questions.md)

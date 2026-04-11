@@ -4,438 +4,438 @@ description: "Detailed explanation of the Tagalog particle muna which means 'for
 outline: [2, 3]
 ---
 
-# Particle: *Muna*
+# Particle: _Muna_
 
-The particle *muna* is an essential temporal particle in Tagalog that expresses prioritization, temporary actions, and the concept of "for now," "first," or "before something else." It indicates that an action is performed with the expectation that something else will follow later. Understanding *muna* is crucial for expressing sequences, priorities, and temporary decisions in natural Tagalog conversation.
+The particle _muna_ is an essential temporal particle in Tagalog that expresses prioritization, temporary actions, and the concept of "for now," "first," or "before something else." It indicates that an action is performed with the expectation that something else will follow later. Understanding _muna_ is crucial for expressing sequences, priorities, and temporary decisions in natural Tagalog conversation.
 
 ::: tip Quick Summary
-*Muna* primarily indicates that an action is done first or temporarily before moving to something else. It expresses prioritization ("this first, then that") and temporary states ("for now, but will change"). Unlike *na* (already) or *pa* (still), *muna* focuses on sequence and priority.
+_Muna_ primarily indicates that an action is done first or temporarily before moving to something else. It expresses prioritization ("this first, then that") and temporary states ("for now, but will change"). Unlike _na_ (already) or _pa_ (still), _muna_ focuses on sequence and priority.
 :::
 
 ## Core Meanings
 
-*Muna* carries several related meanings centered around prioritization, sequence, and temporary action.
+_Muna_ carries several related meanings centered around prioritization, sequence, and temporary action.
 
 ### 1. Prioritization ("First," "Before Something Else")
 
-The most common function of *muna* is to indicate that an action should be done first before another:
+The most common function of _muna_ is to indicate that an action should be done first before another:
 
-- *Kumain muna tayo.*  
+- _Kumain muna tayo._  
   (Let's eat first. - before doing something else)
-- *Matulog muna ako.*  
+- _Matulog muna ako._  
   (I'll sleep first. - before other activities)
-- *Mag-aral ka muna.*  
+- _Mag-aral ka muna._  
   (Study first. - before playing or other things)
 
 ::: info Prioritization Nuance
-*Muna* implies a deliberate sequence: do this first, then proceed to something else. It marks intentional ordering of actions.
+_Muna_ implies a deliberate sequence: do this first, then proceed to something else. It marks intentional ordering of actions.
 :::
 
 ### 2. Temporary State ("For Now," "In the Meantime")
 
-*Muna* indicates a temporary condition or provisional decision:
+_Muna_ indicates a temporary condition or provisional decision:
 
-- *Dito muna ako.*  
+- _Dito muna ako._  
   (I'll be here for now. - will move later)
-- *Ito muna ang gagawin ko.*  
+- _Ito muna ang gagawin ko._  
   (This is what I'll do for now. - might change)
-- *Ganito muna tayo.*  
+- _Ganito muna tayo._  
   (We'll do it this way for now. - temporary approach)
 
 ### 3. Pause Before Continuation ("Wait First")
 
-*Muna* suggests pausing before proceeding:
+_Muna_ suggests pausing before proceeding:
 
-- *Sandali muna.*  
+- _Sandali muna._  
   (Wait a moment first.)
-- *Tigil muna.*  
+- _Tigil muna._  
   (Stop for now. - will resume later)
-- *Hinto muna tayo.*  
+- _Hinto muna tayo._  
   (Let's pause first.)
 
 ### 4. Softening Requests ("Just Real Quick")
 
-*Muna* softens requests by implying brevity or minimal imposition:
+_Muna_ softens requests by implying brevity or minimal imposition:
 
-- *Tingnan mo muna ito.*  
+- _Tingnan mo muna ito._  
   (Just take a look at this first. - won't take long)
-- *Pakinggan mo muna.*  
+- _Pakinggan mo muna._  
   (Just listen first. - then decide)
-- *Subukan mo muna.*  
+- _Subukan mo muna._  
   (Just try it first. - low commitment)
 
 ### 5. Deferral ("Later for That")
 
-*Muna* defers one action while prioritizing another:
+_Muna_ defers one action while prioritizing another:
 
-- *Bukas na lang yan, ito muna.*  
+- _Bukas na lang yan, ito muna._  
   (That can wait until tomorrow, this first.)
-- *Mamaya na yan, kumain ka muna.*  
+- _Mamaya na yan, kumain ka muna._  
   (That's for later, eat first.)
-- *Huwag muna yan.*  
+- _Huwag muna yan._  
   (Not that for now. - postpone it)
 
 ## Usage Patterns and Sentence Positions
 
-*Muna* is enclitic and typically follows the word or phrase it modifies.
+_Muna_ is enclitic and typically follows the word or phrase it modifies.
 
 ### After Verbs (Action Priority)
 
 Indicates the action should be done first:
 
-- *Kumain muna ako bago umalis.*  
+- _Kumain muna ako bago umalis._  
   (I'll eat first before leaving.)
-- *Mag-ayos ka muna ng kwarto.*  
+- _Mag-ayos ka muna ng kwarto._  
   (Tidy your room first.)
-- *Magpahinga muna tayo.*  
+- _Magpahinga muna tayo._  
   (Let's rest first.)
 
 ### After Time Expressions
 
 Emphasizes temporary duration:
 
-- *Ngayon muna.*  
+- _Ngayon muna._  
   (Just for now.)
-- *Sandali muna.*  
+- _Sandali muna._  
   (Just a moment first.)
-- *Bukas muna ako aalis.*  
+- _Bukas muna ako aalis._  
   (I'll leave tomorrow first. - then return or do something else)
 
 ### After Location Words
 
 Indicates temporary location:
 
-- *Dito muna ako.*  
+- _Dito muna ako._  
   (I'll be here for now.)
-- *Sa bahay muna tayo.*  
+- _Sa bahay muna tayo._  
   (Let's be at home first.)
-- *Doon muna siya.*  
+- _Doon muna siya._  
   (He/she is there for now.)
 
 ### In Imperatives (Priority Commands)
 
 Gives instructions with sequence in mind:
 
-- *Umupo ka muna.*  
+- _Umupo ka muna._  
   (Sit down first.)
-- *Maghugas ka muna ng kamay.*  
+- _Maghugas ka muna ng kamay._  
   (Wash your hands first.)
-- *Tahimik muna kayo.*  
+- _Tahimik muna kayo._  
   (Be quiet for now.)
 
 ### With Negation (Postponement)
 
 Expresses deferral or "not yet":
 
-- *Huwag muna.*  
+- _Huwag muna._  
   (Not yet. / Don't do it for now.)
-- *Ayoko muna.*  
+- _Ayoko muna._  
   (I don't want to yet. - maybe later)
-- *Hindi muna ako pupunta.*  
+- _Hindi muna ako pupunta._  
   (I won't go yet. - will go later)
 
 ## Common Particle Combinations
 
-*Muna* frequently combines with other particles to create nuanced meanings.
+_Muna_ frequently combines with other particles to create nuanced meanings.
 
-### *Muna* + *Ba* (First? - Question)
+### _Muna_ + _Ba_ (First? - Question)
 
 Asks about priority or sequence:
 
-- *Kumain ka ba muna?*
+- _Kumain ka ba muna?_
   (Will you eat first?)
-- *Dito ba muna tayo?*
+- _Dito ba muna tayo?_
   (Should we be here first?)
-- *Ano ba muna ang gagawin natin?*
+- _Ano ba muna ang gagawin natin?_
   (What should we do first?)
 
-### *Muna* + *Ako/Ka/Siya* (I/You/He/She First)
+### _Muna_ + _Ako/Ka/Siya_ (I/You/He/She First)
 
 Specifies who should go first:
 
-- *Ako muna.*  
+- _Ako muna._  
   (Me first.)
-- *Ikaw muna.*  
+- _Ikaw muna._  
   (You first.)
-- *Sila muna.*  
+- _Sila muna._  
   (They first.)
 
 ::: tip Polite Usage
-*Ikaw muna* (you first) is a common polite gesture in Filipino culture, showing deference to others.
+_Ikaw muna_ (you first) is a common polite gesture in Filipino culture, showing deference to others.
 :::
 
-### *Huwag/Ayaw* + *Muna* (Don't/Don't Want Yet)
+### _Huwag/Ayaw_ + _Muna_ (Don't/Don't Want Yet)
 
 Defers or postpones action:
 
-- *Huwag muna.*  
+- _Huwag muna._  
   (Not yet. / Don't do it yet.)
-- *Ayoko muna.*  
+- _Ayoko muna._  
   (I don't want to yet.)
-- *Wag muna tayong umalis.*  
+- _Wag muna tayong umalis._  
   (Let's not leave yet.)
 
-### *Sandali/Konti* + *Muna* (Wait a Bit First)
+### _Sandali/Konti_ + _Muna_ (Wait a Bit First)
 
 Requests brief pause or delay:
 
-- *Sandali muna.*  
+- _Sandali muna._  
   (Wait a moment first.)
-- *Konti muna.*  
+- _Konti muna._  
   (Just a little bit first.)
-- *Tigil muna.*  
+- _Tigil muna._  
   (Stop for now.)
 
-### *Ito/Iyan/Iyon* + *Muna* (This/That First)
+### _Ito/Iyan/Iyon_ + _Muna_ (This/That First)
 
 Prioritizes specific items or actions:
 
-- *Ito muna.*  
+- _Ito muna._  
   (This one first.)
-- *Iyan muna ang gawin mo.*  
+- _Iyan muna ang gawin mo._  
   (Do that first.)
-- *Iyon muna natin asikasuhin.*  
+- _Iyon muna natin asikasuhin._  
   (Let's take care of that first.)
 
-### *Dito/Diyan/Doon* + *Muna* (Here/There For Now)
+### _Dito/Diyan/Doon_ + _Muna_ (Here/There For Now)
 
 Indicates temporary location:
 
-- *Dito muna tayo.*  
+- _Dito muna tayo._  
   (We'll be here for now.)
-- *Diyan ka muna.*  
+- _Diyan ka muna._  
   (You stay there for now.)
-- *Doon muna ako titira.*  
+- _Doon muna ako titira._  
   (I'll stay there for now.)
 
 ## Nuances and Tone
 
-The meaning of *muna* shifts based on context and intonation.
+The meaning of _muna_ shifts based on context and intonation.
 
 ### Neutral Priority
 
 Standard sequencing without emotion:
 
-- *Kumain muna tayo.*  
+- _Kumain muna tayo._  
   (Let's eat first. - matter of fact)
 
 ### Patient Deferral
 
 Gently postponing without rejecting:
 
-- *Mamaya na yan, ito muna.*  
+- _Mamaya na yan, ito muna._  
   (That's for later, this first. - patient)
-- *Huwag muna, may ginagawa ako.*  
+- _Huwag muna, may ginagawa ako._  
   (Not yet, I'm doing something. - polite postponement)
 
 ### Urgent Priority
 
 With stronger intonation, emphasizes immediate need:
 
-- *Kumain ka muna!*  
+- _Kumain ka muna!_  
   (Eat first! - urgent, important)
-- *Makinig ka muna!*  
+- _Makinig ka muna!_  
   (Listen first! - demanding attention)
 
 ### Tentative/Provisional
 
 Expressing uncertainty about permanence:
 
-- *Ito muna ang plano.*  
+- _Ito muna ang plano._  
   (This is the plan for now. - might change)
-- *Ganito muna tayo.*  
+- _Ganito muna tayo._  
   (We'll do it this way for now. - tentative)
 
 ### Polite Minimizing
 
 Softening requests by implying brevity:
 
-- *Tingnan mo lang muna.*  
+- _Tingnan mo lang muna._  
   (Just take a quick look first. - won't take long)
-- *Pakinggan mo muna ako.*  
+- _Pakinggan mo muna ako._  
   (Just hear me out first. - minimal ask)
 
 ### Cultural Deference
 
 Offering priority to others:
 
-- *Kayo muna.*  
+- _Kayo muna._  
   (You go first. - showing respect)
-- *Ikaw muna, ako na lang mamaya.*  
+- _Ikaw muna, ako na lang mamaya._  
   (You first, I'll go later. - deference)
 
 ::: warning Context is Key
-The same sentence with *muna* can express simple sequence, urgent priority, or polite deferral depending on tone and situation.
+The same sentence with _muna_ can express simple sequence, urgent priority, or polite deferral depending on tone and situation.
 :::
 
 ## Common Mistakes
 
-### ❌ Mistake 1: Confusing *Muna* with *Na*
+### ❌ Mistake 1: Confusing _Muna_ with _Na_
 
 Mixing up "first/for now" with "already/now":
 
-- ❌ *Kumain na ako.* (when meaning "I'll eat first")
-- ✅ *Kumain muna ako.* (I'll eat first.)
-- ❌ *Kumain muna ako.* (when meaning "I already ate")
-- ✅ *Kumain na ako.* (I already ate.)
-- 💡 *Muna* = first/before something else; *Na* = already done.
+- ❌ _Kumain na ako._ (when meaning "I'll eat first")
+- ✅ _Kumain muna ako._ (I'll eat first.)
+- ❌ _Kumain muna ako._ (when meaning "I already ate")
+- ✅ _Kumain na ako._ (I already ate.)
+- 💡 _Muna_ = first/before something else; _Na_ = already done.
 
-### ❌ Mistake 2: Confusing *Muna* with *Pa*
+### ❌ Mistake 2: Confusing _Muna_ with _Pa_
 
 Mixing up priority with continuation:
 
-- ❌ *Kumakain pa ako.* (when meaning "I'll eat first")
-- ✅ *Kumain muna ako.* (I'll eat first.)
-- ❌ *Kumain muna ako.* (when meaning "I'm still eating")
-- ✅ *Kumakain pa ako.* (I'm still eating.)
-- 💡 *Muna* = prioritize this action; *Pa* = still doing or want more.
+- ❌ _Kumakain pa ako._ (when meaning "I'll eat first")
+- ✅ _Kumain muna ako._ (I'll eat first.)
+- ❌ _Kumain muna ako._ (when meaning "I'm still eating")
+- ✅ _Kumakain pa ako._ (I'm still eating.)
+- 💡 _Muna_ = prioritize this action; _Pa_ = still doing or want more.
 
-### ❌ Mistake 3: Omitting *Muna* When Showing Sequence
+### ❌ Mistake 3: Omitting _Muna_ When Showing Sequence
 
-Forgetting *muna* when sequence matters:
+Forgetting _muna_ when sequence matters:
 
-- ❌ *Kumain tayo, tapos mag-aral.* (less clear about priority)
-- ✅ *Kumain muna tayo, tapos mag-aral.* (Let's eat first, then study.)
-- 💡 *Muna* makes the sequence explicit and intentional.
+- ❌ _Kumain tayo, tapos mag-aral._ (less clear about priority)
+- ✅ _Kumain muna tayo, tapos mag-aral._ (Let's eat first, then study.)
+- 💡 _Muna_ makes the sequence explicit and intentional.
 
 ### ❌ Mistake 4: Wrong Position in Sentence
 
-*Muna* must follow the word it modifies:
+_Muna_ must follow the word it modifies:
 
-- ❌ *Muna kumain ako.*
-- ✅ *Kumain muna ako.*
-- 💡 *Muna* is enclitic and cannot start a sentence.
+- ❌ _Muna kumain ako._
+- ✅ _Kumain muna ako._
+- 💡 _Muna_ is enclitic and cannot start a sentence.
 
-### ❌ Mistake 5: Using *Muna* for Permanent Actions
+### ❌ Mistake 5: Using _Muna_ for Permanent Actions
 
-Using *muna* when there's no implication of temporariness or sequence:
+Using _muna_ when there's no implication of temporariness or sequence:
 
-- ❌ *Nawasak muna ang gusali.* (inappropriate - demolition is permanent)
-- ✅ *Nawasak ang gusali.* (The building was demolished.)
-- ✅ *Huminto muna ang makina.* (The machine stopped for now. - will start again)
-- ✅ *Sira muna ang printer.* (The printer is broken for now. - will be fixed)
-- 💡 *Muna* implies something will change or continue later.
+- ❌ _Nawasak muna ang gusali._ (inappropriate - demolition is permanent)
+- ✅ _Nawasak ang gusali._ (The building was demolished.)
+- ✅ _Huminto muna ang makina._ (The machine stopped for now. - will start again)
+- ✅ _Sira muna ang printer._ (The printer is broken for now. - will be fixed)
+- 💡 _Muna_ implies something will change or continue later.
 
-### ❌ Mistake 6: Thinking *Muna* Always Means "Wait"
+### ❌ Mistake 6: Thinking _Muna_ Always Means "Wait"
 
-*Muna* is about sequence, not just pausing:
+_Muna_ is about sequence, not just pausing:
 
 - Context matters:
-  - *Sandali muna.* = Wait a moment first. (pause)
-  - *Kumain muna ako.* = I'll eat first. (priority, not waiting)
-  - *Dito muna ako.* = I'll be here for now. (temporary location)
-- 💡 *Muna* focuses on sequence or temporariness, not just delay.
+  - _Sandali muna._ = Wait a moment first. (pause)
+  - _Kumain muna ako._ = I'll eat first. (priority, not waiting)
+  - _Dito muna ako._ = I'll be here for now. (temporary location)
+- 💡 _Muna_ focuses on sequence or temporariness, not just delay.
 
 ## Comparisons with Similar Particles
 
-### *Muna* vs. *Na*
+### _Muna_ vs. _Na_
 
 Different temporal focuses:
 
-| Aspect | *Muna* | *Na* |
-| ------ | ------ | ---- |
-| Core Meaning | First, for now (before something else) | Already, now (completed or changed) |
-| Focus | Sequence and priority | Completion and change |
-| Temporariness | Implies something else will follow | Marks transition to new state |
-| Example | *Kumain muna ako.* (I'll eat first.) | *Kumain na ako.* (I already ate.) |
+| Aspect        | _Muna_                                 | _Na_                                |
+| ------------- | -------------------------------------- | ----------------------------------- |
+| Core Meaning  | First, for now (before something else) | Already, now (completed or changed) |
+| Focus         | Sequence and priority                  | Completion and change               |
+| Temporariness | Implies something else will follow     | Marks transition to new state       |
+| Example       | _Kumain muna ako._ (I'll eat first.)   | _Kumain na ako._ (I already ate.)   |
 
-- *Umuwi muna ako.* (I'll go home first. - will return or do something after)
-- *Umuwi na ako.* (I'm going home now. - leaving, completed decision)
+- _Umuwi muna ako._ (I'll go home first. - will return or do something after)
+- _Umuwi na ako._ (I'm going home now. - leaving, completed decision)
 
-### *Muna* vs. *Pa*
+### _Muna_ vs. _Pa_
 
 Different continuation meanings:
 
-| Aspect | *Muna* | *Pa* |
-| ------ | ------ | ---- |
-| Function | First/for now (prioritization) | Still/yet/more (continuation or incompletion) |
-| Focus | What to do before something else | What continues or hasn't completed |
-| Sequence | Marks order of actions | Marks ongoing state |
-| Example | *Kumain muna ako.* (I'll eat first.) | *Kumakain pa ako.* (I'm still eating.) |
+| Aspect   | _Muna_                               | _Pa_                                          |
+| -------- | ------------------------------------ | --------------------------------------------- |
+| Function | First/for now (prioritization)       | Still/yet/more (continuation or incompletion) |
+| Focus    | What to do before something else     | What continues or hasn't completed            |
+| Sequence | Marks order of actions               | Marks ongoing state                           |
+| Example  | _Kumain muna ako._ (I'll eat first.) | _Kumakain pa ako._ (I'm still eating.)        |
 
-- *Nandito muna ako.* (I'm here for now. - will leave later)
-- *Nandito pa ako.* (I'm still here. - continuing to be here)
+- _Nandito muna ako._ (I'm here for now. - will leave later)
+- _Nandito pa ako._ (I'm still here. - continuing to be here)
 
-### *Muna* vs. *Lang* (Only/Just)
+### _Muna_ vs. _Lang_ (Only/Just)
 
 Different limiting meanings:
 
-| Aspect | *Muna* | *Lang* |
-| ------ | ------ | ------ |
-| Function | First/for now (priority/temporary) | Only/just (limitation) |
-| Focus | Sequence or temporariness | Scope restriction |
-| Future Implication | Something else will follow | Nothing more needed |
-| Example | *Ito muna.* (This first. - then something else) | *Ito lang.* (Just this. - nothing more) |
+| Aspect             | _Muna_                                          | _Lang_                                  |
+| ------------------ | ----------------------------------------------- | --------------------------------------- |
+| Function           | First/for now (priority/temporary)              | Only/just (limitation)                  |
+| Focus              | Sequence or temporariness                       | Scope restriction                       |
+| Future Implication | Something else will follow                      | Nothing more needed                     |
+| Example            | _Ito muna._ (This first. - then something else) | _Ito lang._ (Just this. - nothing more) |
 
-- *Kumain muna ako.* (I'll eat first. - then do other things)
-- *Kumain lang ako.* (I just ate. - that's all I did)
+- _Kumain muna ako._ (I'll eat first. - then do other things)
+- _Kumain lang ako._ (I just ate. - that's all I did)
 
-### *Muna* vs. *Nga* (Emphasis)
+### _Muna_ vs. _Nga_ (Emphasis)
 
 Different functions:
 
-| Aspect | *Muna* | *Nga* |
-| ------ | ------ | ----- |
-| Function | Priority/temporary (sequence) | Emphasis/confirmation (intensity) |
-| Focus | When to do something | Truth or importance |
-| Example | *Kumain muna ako.* (I'll eat first.) | *Kumain nga ako.* (I really did eat.) |
-| Combination | *Kumain muna nga tayo.* (Let's eat first indeed. - both combined) | |
+| Aspect      | _Muna_                                                            | _Nga_                                 |
+| ----------- | ----------------------------------------------------------------- | ------------------------------------- |
+| Function    | Priority/temporary (sequence)                                     | Emphasis/confirmation (intensity)     |
+| Focus       | When to do something                                              | Truth or importance                   |
+| Example     | _Kumain muna ako._ (I'll eat first.)                              | _Kumain nga ako._ (I really did eat.) |
+| Combination | _Kumain muna nga tayo._ (Let's eat first indeed. - both combined) |                                       |
 
-- *Tingnan mo muna.* (Look at it first. - priority)
-- *Tingnan mo nga.* (Please look at it. - polite emphasis)
-- *Tingnan mo muna nga.* (Please look at it first. - polite priority)
+- _Tingnan mo muna._ (Look at it first. - priority)
+- _Tingnan mo nga._ (Please look at it. - polite emphasis)
+- _Tingnan mo muna nga._ (Please look at it first. - polite priority)
 
 ## Cultural Context
 
-Understanding the cultural role of *muna* enhances appropriate usage.
+Understanding the cultural role of _muna_ enhances appropriate usage.
 
 ### Filipino Concept of Time and Sequence
 
-Filipino culture has a flexible approach to scheduling, and *muna* reflects this:
+Filipino culture has a flexible approach to scheduling, and _muna_ reflects this:
 
-- *Muna* allows for adaptive sequencing rather than rigid schedules
+- _Muna_ allows for adaptive sequencing rather than rigid schedules
 - "This first, then we'll see" attitude reflects cultural flexibility
 - Prioritization based on immediate needs rather than fixed plans
 - Shows comfort with provisional decisions
 
 ### Deference and Social Harmony
 
-*Muna* expresses Filipino values of deference and avoiding conflict:
+_Muna_ expresses Filipino values of deference and avoiding conflict:
 
-- *Kayo muna.* (You first.) - shows respect and deference
-- *Ikaw muna.* (You go first.) - polite gesture
+- _Kayo muna._ (You first.) - shows respect and deference
+- _Ikaw muna._ (You go first.) - polite gesture
 - Allows for graceful postponement without outright refusal
-- Softens disagreements: *Huwag muna yan* instead of direct "no"
+- Softens disagreements: _Huwag muna yan_ instead of direct "no"
 
 ### Hospitality and Care
 
-*Muna* appears in expressions of hospitality and concern:
+_Muna_ appears in expressions of hospitality and concern:
 
-- *Kumain ka muna.* (Eat first.) - prioritizing guest comfort
-- *Magpahinga muna kayo.* (Rest first.) - showing care
-- Prioritizing others' needs: *Kayo muna kumain* (You eat first)
+- _Kumain ka muna._ (Eat first.) - prioritizing guest comfort
+- _Magpahinga muna kayo._ (Rest first.) - showing care
+- Prioritizing others' needs: _Kayo muna kumain_ (You eat first)
 - Demonstrates thoughtfulness about proper sequence of care
 
 ### Practical Problem-Solving
 
-*Muna* reflects pragmatic Filipino approach to challenges:
+_Muna_ reflects pragmatic Filipino approach to challenges:
 
-- Break tasks into steps: *Ito muna, tapos yun* (This first, then that)
+- Break tasks into steps: _Ito muna, tapos yun_ (This first, then that)
 - Address immediate needs before long-term plans
 - "For now" solutions are acceptable and practical
 - Shows adaptability and resourcefulness
 
 ### Indirect Communication
 
-*Muna* enables indirect communication valued in Filipino culture:
+_Muna_ enables indirect communication valued in Filipino culture:
 
-- *Ayoko muna* is gentler than direct *Ayoko* (I don't want to)
-- *Huwag muna* postpones without refusing: "not yet" vs. "no"
+- _Ayoko muna_ is gentler than direct _Ayoko_ (I don't want to)
+- _Huwag muna_ postpones without refusing: "not yet" vs. "no"
 - Maintains relationships by avoiding definitive rejections
 - Keeps future options open
 
 ::: info Regional Variations
-*Muna* usage is generally consistent across Tagalog-speaking regions, though frequency may vary based on conversational context and individual speaking styles. These are general observations from conversational patterns rather than formal linguistic studies.
+_Muna_ usage is generally consistent across Tagalog-speaking regions, though frequency may vary based on conversational context and individual speaking styles. These are general observations from conversational patterns rather than formal linguistic studies.
 :::
 
 ## Practice Patterns
@@ -446,47 +446,47 @@ Focus on basic priority and simple "first" statements.
 
 #### Pattern 1: Simple Priority Actions
 
-- *Kumain muna ako.*  
+- _Kumain muna ako._  
   (I'll eat first.)
-- *Mag-aral muna siya.*  
+- _Mag-aral muna siya._  
   (He/she will study first.)
-- *Matulog muna kami.*  
+- _Matulog muna kami._  
   (We'll sleep first.)
 
 #### Pattern 2: Temporary Location
 
-- *Dito muna ako.*  
+- _Dito muna ako._  
   (I'll be here for now.)
-- *Sa bahay muna siya.*  
+- _Sa bahay muna siya._  
   (He/she is at home for now.)
-- *Diyan muna kayo.*  
+- _Diyan muna kayo._  
   (You stay there for now.)
 
 #### Pattern 3: Basic Imperatives (Do This First)
 
-- *Umupo ka muna.*  
+- _Umupo ka muna._  
   (Sit down first.)
-- *Kumain ka muna.*  
+- _Kumain ka muna._  
   (Eat first.)
-- *Makinig muna.*  
+- _Makinig muna._  
   (Listen first.)
 
 #### Pattern 4: Simple Postponement
 
-- *Huwag muna.*  
+- _Huwag muna._  
   (Not yet.)
-- *Mamaya na, ito muna.*  
+- _Mamaya na, ito muna._  
   (Later for that, this first.)
-- *Bukas na yan.*  
+- _Bukas na yan._  
   (That's for tomorrow. - postpone)
 
 #### Pattern 5: Priority Questions
 
-- *Ano muna?*  
+- _Ano muna?_  
   (What first?)
-- *Kumain ka ba muna?*
+- _Kumain ka ba muna?_
   (Will you eat first?)
-- *Saan muna tayo?*  
+- _Saan muna tayo?_  
   (Where should we go first?)
 
 ### Intermediate Level
@@ -495,47 +495,47 @@ Add combinations and more complex sequencing.
 
 #### Pattern 1: Explicit Sequences
 
-- *Kumain muna tayo bago umalis.*  
+- _Kumain muna tayo bago umalis._  
   (Let's eat first before leaving.)
-- *Mag-aral ka muna tapos maglaro.*  
+- _Mag-aral ka muna tapos maglaro._  
   (Study first then play.)
-- *Maghugas ka muna ng kamay bago kumain.*  
+- _Maghugas ka muna ng kamay bago kumain._  
   (Wash your hands first before eating.)
 
 #### Pattern 2: Temporary Plans
 
-- *Ito muna ang gagawin ko.*  
+- _Ito muna ang gagawin ko._  
   (This is what I'll do for now.)
-- *Ganito muna tayo.*  
+- _Ganito muna tayo._  
   (We'll do it this way for now.)
-- *Dito muna ako titira.*  
+- _Dito muna ako titira._  
   (I'll stay here for now.)
 
 #### Pattern 3: Polite Deferrals
 
-- *Ayoko muna, pagod ako.*  
+- _Ayoko muna, pagod ako._  
   (I don't want to yet, I'm tired.)
-- *Hindi muna ako pupunta.*  
+- _Hindi muna ako pupunta._  
   (I won't go yet.)
-- *Mamaya na lang, may ginagawa muna ako.*  
+- _Mamaya na lang, may ginagawa muna ako._  
   (Later instead, I'm doing something first.)
 
 #### Pattern 4: Priority with Reasoning
 
-- *Kumain ka muna para may lakas ka.*  
+- _Kumain ka muna para may lakas ka._  
   (Eat first so you'll have energy.)
-- *Mag-ipon muna tayo bago bumili.*  
+- _Mag-ipon muna tayo bago bumili._  
   (Let's save first before buying.)
-- *Maghintay muna tayo para sigurado.*  
+- _Maghintay muna tayo para sigurado._  
   (Let's wait first to be sure.)
 
 #### Pattern 5: Softened Requests
 
-- *Tingnan mo muna ito.*  
+- _Tingnan mo muna ito._  
   (Just take a look at this first.)
-- *Pakinggan mo muna ako.*  
+- _Pakinggan mo muna ako._  
   (Just hear me out first.)
-- *Subukan mo muna.*  
+- _Subukan mo muna._  
   (Just try it first.)
 
 ### Advanced Level
@@ -544,144 +544,144 @@ Master subtle nuances, cultural contexts, and natural flow.
 
 #### Pattern 1: Multiple Action Sequences
 
-- *Kumain muna tayo, tapos maligo, tapos matulog.*  
+- _Kumain muna tayo, tapos maligo, tapos matulog._  
   (Let's eat first, then shower, then sleep.)
-- *Tapusin mo muna yan bago ka lumabas.*  
+- _Tapusin mo muna yan bago ka lumabas._  
   (Finish that first before you go out.)
-- *Magpahinga ka muna, kausapin natin mamaya.*  
+- _Magpahinga ka muna, kausapin natin mamaya._  
   (Rest first, we'll talk later.)
 
 #### Pattern 2: Cultural Deference
 
-- *Kayo muna po, ako na lang mamaya.*  
+- _Kayo muna po, ako na lang mamaya._  
   (You go first (respectful), I'll go later.)
-- *Ikaw muna, hindi ako nagmamadali.*  
+- _Ikaw muna, hindi ako nagmamadali._  
   (You first, I'm not in a hurry.)
-- *Mga bisita muna, kami na lang.*  
+- _Mga bisita muna, kami na lang._  
   (Guests first, we'll go after.)
 
 #### Pattern 3: Provisional Decisions
 
-- *Ito muna ang plano, pero baka magbago.*  
+- _Ito muna ang plano, pero baka magbago._  
   (This is the plan for now, but it might change.)
-- *Ganito muna habang wala pang mas maganda.*  
+- _Ganito muna habang wala pang mas maganda._  
   (This way for now until there's something better.)
-- *Dito muna tayo hanggang makakuha ng apartment.*  
+- _Dito muna tayo hanggang makakuha ng apartment._  
   (We'll be here for now until we get an apartment.)
 
 #### Pattern 4: Negotiation and Compromise
 
-- *Subukan muna natin ito, kung hindi gumana, iba naman.*  
+- _Subukan muna natin ito, kung hindi gumana, iba naman._  
   (Let's try this first, if it doesn't work, we'll do something else.)
-- *Hayaan mo muna ako, tapos ikaw naman.*  
+- _Hayaan mo muna ako, tapos ikaw naman._  
   (Let me go first, then your turn.)
-- *Gawin muna natin yan, pag-usapan natin ang iba mamaya.*  
+- _Gawin muna natin yan, pag-usapan natin ang iba mamaya._  
   (Let's do that first, we'll discuss the rest later.)
 
 #### Pattern 5: Natural Conversation Flow
 
-- *Kumain ka na ba? Hindi pa. Kumain ka muna.*  
+- _Kumain ka na ba? Hindi pa. Kumain ka muna._  
   (Have you eaten? Not yet. Eat first.)
-- *Ano muna ang gawin ko? Ito muna, yan mamaya.*  
+- _Ano muna ang gawin ko? Ito muna, yan mamaya._  
   (What should I do first? This first, that later.)
-- *Saan muna tayo pupunta? Sa mall muna, tapos sa restaurant.*  
+- _Saan muna tayo pupunta? Sa mall muna, tapos sa restaurant._  
   (Where should we go first? To the mall first, then to the restaurant.)
 
 #### Pattern 6: Idiomatic Expressions
 
-- *Bahala na mamaya, ito muna.*  
+- _Bahala na mamaya, ito muna._  
   (Whatever happens later, this first.)
-- *Tayo muna bago ang iba.*  
+- _Tayo muna bago ang iba._  
   (Us first before others. - prioritizing group)
-- *Dito muna, tignan muna natin.*  
+- _Dito muna, tignan muna natin._  
   (Here for now, let's see first.)
 
 #### Pattern 7: Complex Emotional Contexts
 
-- *Magpahinga ka muna, ang dami mong iniisip.*  
+- _Magpahinga ka muna, ang dami mong iniisip._  
   (Rest first, you're thinking about too much.)
-- *Kalimutan mo muna yan, mag-enjoy ka muna.*  
+- _Kalimutan mo muna yan, mag-enjoy ka muna._  
   (Forget about that for now, just enjoy first.)
-- *Ayusin muna natin ito bago tayo mag-usap ng iba.*  
+- _Ayusin muna natin ito bago tayo mag-usap ng iba._  
   (Let's fix this first before we talk about other things.)
 
 #### Pattern 8: Professional/Formal Contexts
 
-- *Pag-usapan muna natin ang budget bago ang design.*  
+- _Pag-usapan muna natin ang budget bago ang design._  
   (Let's discuss the budget first before the design.)
-- *Ipasa muna ninyo ang requirements bago ang deadline.*  
+- _Ipasa muna ninyo ang requirements bago ang deadline._  
   (Submit the requirements first before the deadline.)
-- *Suriin muna natin ang datos bago tayo magdesisyon.*  
+- _Suriin muna natin ang datos bago tayo magdesisyon._  
   (Let's examine the data first before we decide.)
 
 ## Summary
 
-Key points about *muna*:
+Key points about _muna_:
 
 - **Primary functions**: Prioritization (first, before something else), temporary state (for now), deferral (not yet, later)
 - **Position**: Enclitic - follows the word it modifies
-- **Key difference**: Unlike *na* (already) or *pa* (still), *muna* focuses on sequence and temporary actions
-- **Common combinations**: *ba muna* (first?), *huwag muna* (not yet), *sandali muna* (wait a moment), *ito/dito muna* (this/here for now)
+- **Key difference**: Unlike _na_ (already) or _pa_ (still), _muna_ focuses on sequence and temporary actions
+- **Common combinations**: _ba muna_ (first?), _huwag muna_ (not yet), _sandali muna_ (wait a moment), _ito/dito muna_ (this/here for now)
 - **Cultural role**: Reflects Filipino values of deference, flexibility, indirect communication, and adaptive sequencing
 - **Learning focus**: Master basic "first" priority meaning, then temporary states, then cultural deference patterns
 
 ::: tip Mastery Approach
-The key to mastering *muna* is understanding it marks intentional sequencing and provisional actions. It's not about absolute time (like *na* or *pa*) but about the order and temporary nature of actions. Listen to how native speakers use *muna* to show what should happen before something else, what's temporary, or to politely defer without refusing.
+The key to mastering _muna_ is understanding it marks intentional sequencing and provisional actions. It's not about absolute time (like _na_ or _pa_) but about the order and temporary nature of actions. Listen to how native speakers use _muna_ to show what should happen before something else, what's temporary, or to politely defer without refusing.
 :::
 
 ## Practice Exercises
 
-### Exercise 1: *Muna* vs. *Na* vs. *Pa*
+### Exercise 1: _Muna_ vs. _Na_ vs. _Pa_
 
-Choose the correct particle (*muna*, *na*, or *pa*):
+Choose the correct particle (_muna_, _na_, or _pa_):
 
-1. Kumain ___ ako bago mag-aral. (I'll eat first before studying.) → *muna*
-2. Kumain ___ ako. (I already ate.) → *na*
-3. Kumakain ___ ako. (I'm still eating.) → *pa*
-4. Dito ___ ako titira. (I'll stay here for now.) → *muna*
-5. Nandito ___ ako. (I'm still here.) → *pa*
+1. Kumain \_\_\_ ako bago mag-aral. (I'll eat first before studying.) → _muna_
+2. Kumain \_\_\_ ako. (I already ate.) → _na_
+3. Kumakain \_\_\_ ako. (I'm still eating.) → _pa_
+4. Dito \_\_\_ ako titira. (I'll stay here for now.) → _muna_
+5. Nandito \_\_\_ ako. (I'm still here.) → _pa_
 
-### Exercise 2: Add *Muna* for Priority
+### Exercise 2: Add _Muna_ for Priority
 
 Transform these statements to show priority or sequence:
 
-1. *Kumain ako.* → *Kumain muna ako.* (I'll eat first.)
-2. *Mag-aral siya.* → *Mag-aral muna siya.* (He/she will study first.)
-3. *Dito tayo.* → *Dito muna tayo.* (We'll be here for now.)
-4. *Umupo ka.* → *Umupo ka muna.* (Sit down first.)
+1. _Kumain ako._ → _Kumain muna ako._ (I'll eat first.)
+2. _Mag-aral siya._ → _Mag-aral muna siya._ (He/she will study first.)
+3. _Dito tayo._ → _Dito muna tayo._ (We'll be here for now.)
+4. _Umupo ka._ → _Umupo ka muna._ (Sit down first.)
 
-### Exercise 3: Form Sequences with *Muna*
+### Exercise 3: Form Sequences with _Muna_
 
 Create sentences showing sequence:
 
-1. eat first, then study → *Kumain muna, tapos mag-aral.*
-2. rest first, then work → *Magpahinga muna, tapos magtrabaho.*
-3. listen first, then speak → *Makinig muna, tapos magsalita.*
+1. eat first, then study → _Kumain muna, tapos mag-aral._
+2. rest first, then work → _Magpahinga muna, tapos magtrabaho._
+3. listen first, then speak → _Makinig muna, tapos magsalita._
 
-### Exercise 4: Polite Deferral with *Huwag Muna*
+### Exercise 4: Polite Deferral with _Huwag Muna_
 
 Express postponement politely:
 
-1. Not yet. → *Huwag muna.*
-2. I don't want to yet. → *Ayoko muna.*
-3. Don't leave yet. → *Huwag ka muna umalis.*
+1. Not yet. → _Huwag muna._
+2. I don't want to yet. → _Ayoko muna._
+3. Don't leave yet. → _Huwag ka muna umalis._
 
 ### Exercise 5: Identify the Meaning
 
-Determine what *muna* expresses in each sentence:
+Determine what _muna_ expresses in each sentence:
 
-1. *Kumain muna ako.* (Prioritization - eat first)
-2. *Dito muna ako.* (Temporary state - here for now)
-3. *Sandali muna.* (Pause - wait a moment)
-4. *Tingnan mo muna.* (Softened request - just look at it first)
-5. *Huwag muna.* (Deferral - not yet)
+1. _Kumain muna ako._ (Prioritization - eat first)
+2. _Dito muna ako._ (Temporary state - here for now)
+3. _Sandali muna._ (Pause - wait a moment)
+4. _Tingnan mo muna._ (Softened request - just look at it first)
+5. _Huwag muna._ (Deferral - not yet)
 
 ### Exercise 6: Cultural Deference
 
-Practice showing respect with *muna*:
+Practice showing respect with _muna_:
 
-1. You go first. (polite) → *Kayo muna po.*
-2. You first, I'll go later. → *Ikaw muna, ako na lang mamaya.*
-3. Guests first. → *Mga bisita muna.*
+1. You go first. (polite) → _Kayo muna po._
+2. You first, I'll go later. → _Ikaw muna, ako na lang mamaya._
+3. Guests first. → _Mga bisita muna._
 
 See also: [Particle: Na](./na.md), [Particle: Pa](./pa.md), [Particle: Lang](../limiting/lang-lamang.md), [Particles Index](../index.md), [Sentence Structure](../../sentence-structure.md)

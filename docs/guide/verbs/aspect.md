@@ -17,18 +17,18 @@ Aspect in Tagalog verbs indicates the temporal status of an action relative to i
 The perfective aspect indicates that an action has been completed or reached a definitive endpoint. This aspect corresponds roughly to past tense in English, though the focus is on completion rather than time.
 
 ::: tip Marking
-Completed aspect is often marked by nasal changes in prefixes (*mag-* → *nag-*, *ma-* → *na-*) and infixation of *-in-* for patient focus.
+Completed aspect is often marked by nasal changes in prefixes (_mag-_ → _nag-_, _ma-_ → _na-_) and infixation of _-in-_ for patient focus.
 :::
 
 Examples:
 
-- *Kumain si Ana.*  
+- _Kumain si Ana._  
   (Ana ate.)
-- *Nagluto si Maria ng adobo.*  
+- _Nagluto si Maria ng adobo._  
   (Maria cooked adobo.)
-- *Sinulat ni Pedro ang liham.*  
+- _Sinulat ni Pedro ang liham._  
   (The letter was written by Pedro.)
-- *Binili niya ang libro.*  
+- _Binili niya ang libro._  
   (He/She bought the book.)
 
 ### Imperfective (Ongoing Aspect)
@@ -41,13 +41,13 @@ Ongoing aspect is typically marked by reduplicating the first syllable of the ro
 
 Examples:
 
-- *Kumakain si Ana.*  
+- _Kumakain si Ana._  
   (Ana is eating.)
-- *Nagluluto si Maria ng adobo.*  
+- _Nagluluto si Maria ng adobo._  
   (Maria is cooking adobo.)
-- *Sinusulat ni Pedro ang liham.*  
+- _Sinusulat ni Pedro ang liham._  
   (The letter is being written by Pedro.)
-- *Binibili niya ang libro.*  
+- _Binibili niya ang libro._  
   (He/She is buying the book.)
 
 ### Contemplative (Future/Planned Aspect)
@@ -55,18 +55,18 @@ Examples:
 The contemplative aspect indicates that an action is planned, intended, or will occur in the future. This aspect corresponds to future tense or intention in English.
 
 ::: tip Marking
-Contemplated aspect often uses the base form of affixes (*mag-*, *ma-*) and reduplication patterns that differ from imperfective.
+Contemplated aspect often uses the base form of affixes (_mag-_, _ma-_) and reduplication patterns that differ from imperfective.
 :::
 
 Examples:
 
-- *Kakain si Ana.*  
+- _Kakain si Ana._  
   (Ana will eat.)
-- *Magluluto si Maria ng adobo.*  
+- _Magluluto si Maria ng adobo._  
   (Maria will cook adobo.)
-- *Susulatin ni Pedro ang liham.*  
+- _Susulatin ni Pedro ang liham._  
   (The letter will be written by Pedro.)
-- *Bibilhin niya ang libro.*  
+- _Bibilhin niya ang libro._  
   (He/She will buy the book.)
 
 ## Aspect Formation
@@ -81,9 +81,9 @@ Some verbs use full reduplication to indicate intensity, repetition, or distribu
 
 Examples:
 
-- *takbo-takbo* — running around repeatedly
-- *lakad-lakad* — walking around
-- *kain-kain* — eating here and there
+- _takbo-takbo_ — running around repeatedly
+- _lakad-lakad_ — walking around
+- _kain-kain_ — eating here and there
 
 ### Partial Reduplication
 
@@ -94,35 +94,35 @@ For ongoing aspect: CV + base form after affix
 For contemplated aspect: CV + CV + base form or CV + base form depending on affix
 :::
 
-Examples with root *bili* (buy):
+Examples with root _bili_ (buy):
 
-- *bumibili* — is buying (actor focus, ongoing)
-- *bibilhin* — will buy (patient focus, contemplated)
-- *binibili* — is being bought (patient focus, ongoing)
+- _bumibili_ — is buying (actor focus, ongoing)
+- _bibilhin_ — will buy (patient focus, contemplated)
+- _binibili_ — is being bought (patient focus, ongoing)
 
 ## Aspect Markers with Time Words
 
 Aspect can be reinforced or clarified with time words, though the verb aspect remains essential.
 
-| Time Word | Meaning | Compatible Aspects |
-|-----------|---------|-------------------|
-| *na* | already | Perfective |
-| *pa* | still, yet | Imperfective |
-| *na...na* | now, already | Imperfective, Contemplative |
-| *kahapon* | yesterday | Perfective |
-| *ngayon* | now, today | Imperfective |
-| *bukas* | tomorrow | Contemplative |
-| *mamaya* | later | Contemplative |
+| Time Word | Meaning      | Compatible Aspects          |
+| --------- | ------------ | --------------------------- |
+| _na_      | already      | Perfective                  |
+| _pa_      | still, yet   | Imperfective                |
+| _na...na_ | now, already | Imperfective, Contemplative |
+| _kahapon_ | yesterday    | Perfective                  |
+| _ngayon_  | now, today   | Imperfective                |
+| _bukas_   | tomorrow     | Contemplative               |
+| _mamaya_  | later        | Contemplative               |
 
 Examples:
 
-- *Kumain na si Ana.*  
+- _Kumain na si Ana._  
   (Ana already ate.)
-- *Kumakain pa si Pedro.*  
+- _Kumakain pa si Pedro._  
   (Pedro is still eating.)
-- *Kakain siya bukas.*  
+- _Kakain siya bukas._  
   (He/She will eat tomorrow.)
-- *Nagluto na ako kahapon.*  
+- _Nagluto na ako kahapon._  
   (I already cooked yesterday.)
 
 ## Irregular Aspect Formations
@@ -131,20 +131,20 @@ Some verbs exhibit irregular aspect patterns, particularly with vowel changes or
 
 ::: details Common Irregularities
 
-- Root: *kain* (eat)
-  - Expected contemplative: *kakainin*
-  - Some dialects: *kakain* (simplified)
-- Root: *dating* (arrive)
-  - Perfective: *dumating*
-  - Contemplative: *darating* (drops *du-*)
-:::
+- Root: _kain_ (eat)
+  - Expected contemplative: _kakainin_
+  - Some dialects: _kakain_ (simplified)
+- Root: _dating_ (arrive)
+  - Perfective: _dumating_
+  - Contemplative: _darating_ (drops _du-_)
+    :::
 
 Examples:
 
-- *Narito* (is here — stative, no clear aspect distinction)
-- *Pupunta* (will go — contemplated)
-- *Pumunta* (went — perfective)
-- *Pumupunta* (is going — imperfective)
+- _Narito_ (is here — stative, no clear aspect distinction)
+- _Pupunta_ (will go — contemplated)
+- _Pumunta_ (went — perfective)
+- _Pumupunta_ (is going — imperfective)
 
 ## Progressive and Habitual Distinctions
 
@@ -152,42 +152,42 @@ While the imperfective aspect covers both progressive (currently happening) and 
 
 Progressive examples:
 
-- *Kumakain ako ngayon.*  
+- _Kumakain ako ngayon._  
   (I am eating now.)
-- *Sumusulat siya sa papel.*  
+- _Sumusulat siya sa papel._  
   (He/She is writing on paper.)
 
 Habitual examples:
 
-- *Kumakain ako ng almusal araw-araw.*  
+- _Kumakain ako ng almusal araw-araw._  
   (I eat breakfast every day.)
-- *Nagluluto siya tuwing Linggo.*  
+- _Nagluluto siya tuwing Linggo._  
   (He/She cooks every Sunday.)
 
 ## Aspect in Negative Constructions
 
-Aspect marking remains when verbs are negated with *hindi* (not) or *huwag* (don't).
+Aspect marking remains when verbs are negated with _hindi_ (not) or _huwag_ (don't).
 
 Examples:
 
-- *Hindi kumain si Ana.*  
+- _Hindi kumain si Ana._  
   (Ana did not eat. — perfective negated)
-- *Hindi kumakain si Pedro.*  
+- _Hindi kumakain si Pedro._  
   (Pedro is not eating. — imperfective negated)
-- *Hindi kakain siya.*  
+- _Hindi kakain siya._  
   (He/She will not eat. — contemplative negated)
-- *Huwag kang kumain.*  
+- _Huwag kang kumain._  
   (Don't eat. — imperative with contemplative base)
 
 ## Summary
 
 Aspect is a fundamental feature of Tagalog verbs, expressed through systematic morphological changes. Understanding aspect formation enables accurate expression of temporal relationships and completion status in Tagalog.
 
-| Aspect | Function | Typical Markers |
-|--------|----------|----------------|
-| Perfective | Completed action | Nasal changes (*nag-*, *na-*), *-in-* infix |
-| Imperfective | Ongoing/habitual | First CV reduplication after affix |
-| Contemplative | Future/planned | Base affix with reduplication patterns |
+| Aspect        | Function         | Typical Markers                             |
+| ------------- | ---------------- | ------------------------------------------- |
+| Perfective    | Completed action | Nasal changes (_nag-_, _na-_), _-in-_ infix |
+| Imperfective  | Ongoing/habitual | First CV reduplication after affix          |
+| Contemplative | Future/planned   | Base affix with reduplication patterns      |
 
 ## See Also
 

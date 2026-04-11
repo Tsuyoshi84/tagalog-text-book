@@ -16,21 +16,21 @@ The Tagalog verb system is one of the most distinctive features of the language.
 
 The focus system determines which participant in a sentence is highlighted as the topic. Different affixes mark whether the actor, object, location, beneficiary, instrument, or direction is emphasized. This system fundamentally shapes sentence structure and word order.
 
-- *Kumain si Ana ng tinapay.*  
+- _Kumain si Ana ng tinapay._  
   (Ana ate bread. — actor focus)
-- *Kinain ni Ana ang tinapay.*  
+- _Kinain ni Ana ang tinapay._  
   (The bread was eaten by Ana. — patient focus)
 
 See also: [Focus System](./focus-system.md)
 
 ### Affixation
 
-Verbs are formed by adding affixes (prefixes, infixes, suffixes, or combinations) to root words. Each affix type corresponds to a specific focus and may interact with aspect marking. Common affixes include *-um-*, *mag-*, *-in-*, *-an*, *i-*, and their combinations.
+Verbs are formed by adding affixes (prefixes, infixes, suffixes, or combinations) to root words. Each affix type corresponds to a specific focus and may interact with aspect marking. Common affixes include _-um-_, _mag-_, _-in-_, _-an_, _i-_, and their combinations.
 
-- Root: *sulat* (write)
-- Actor focus: *sumulat* (wrote)
-- Patient focus: *sinulat* (was written)
-- Locative focus: *sinulatan* (was written on)
+- Root: _sulat_ (write)
+- Actor focus: _sumulat_ (wrote)
+- Patient focus: _sinulat_ (was written)
+- Locative focus: _sinulatan_ (was written on)
 
 See also: [Affixes](./affixes.md)
 
@@ -38,11 +38,11 @@ See also: [Affixes](./affixes.md)
 
 Aspect indicates whether an action is completed (perfective), ongoing (imperfective), or contemplated/future (contemplative). Aspect is marked through reduplication, vowel changes, or specific affixes combined with focus markers.
 
-- Completed: *Kumain na si Ana.*  
+- Completed: _Kumain na si Ana._  
   (Ana already ate.)
-- Ongoing: *Kumakain si Ana.*  
+- Ongoing: _Kumakain si Ana._  
   (Ana is eating.)
-- Contemplated: *Kakain si Ana.*  
+- Contemplated: _Kakain si Ana._  
   (Ana will eat.)
 
 See also: [Aspect](./aspect.md)

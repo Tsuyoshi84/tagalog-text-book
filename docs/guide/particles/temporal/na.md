@@ -4,412 +4,412 @@ description: "Detailed explanation of the Tagalog particle na which means 'alrea
 outline: [2, 3]
 ---
 
-# Particle: *Na*
+# Particle: _Na_
 
-The particle *na* is one of the most essential and frequently used particles in Tagalog. It signals completion, change of state, and the concept of "already" or "now." While *na* appears simple, its various meanings and combinations with other particles create nuanced expressions that are crucial for natural Tagalog communication.
+The particle _na_ is one of the most essential and frequently used particles in Tagalog. It signals completion, change of state, and the concept of "already" or "now." While _na_ appears simple, its various meanings and combinations with other particles create nuanced expressions that are crucial for natural Tagalog communication.
 
 ::: tip Quick Summary
-*Na* primarily indicates that an action is completed ("already") or that a situation has changed. It contrasts with *pa* (still/yet) and combines with many other particles to express timing, emphasis, and emotional tone.
+_Na_ primarily indicates that an action is completed ("already") or that a situation has changed. It contrasts with _pa_ (still/yet) and combines with many other particles to express timing, emphasis, and emotional tone.
 :::
 
 ## Core Meanings
 
-*Na* carries several related meanings centered around completion and change of state.
+_Na_ carries several related meanings centered around completion and change of state.
 
 ### 1. Completion ("Already")
 
-The most common function of *na* is to indicate that an action has been completed:
+The most common function of _na_ is to indicate that an action has been completed:
 
-- *Kumain na ako.*  
+- _Kumain na ako._  
   (I already ate.)
-- *Umuwi na siya.*  
+- _Umuwi na siya._  
   (He/she already went home.)
-- *Tapos na ang trabaho.*  
+- _Tapos na ang trabaho._  
   (The work is already finished.)
 
 ::: info Completion Nuance
-*Na* emphasizes that something has transitioned from not-done to done. It marks the boundary between before and after.
+_Na_ emphasizes that something has transitioned from not-done to done. It marks the boundary between before and after.
 :::
 
 ### 2. Change of State ("Now")
 
-*Na* indicates that a situation has changed from a previous state:
+_Na_ indicates that a situation has changed from a previous state:
 
-- *Matanda na siya.*  
+- _Matanda na siya._  
   (He/she is old now. - was young before)
-- *Mahal na ang bigas.*  
+- _Mahal na ang bigas._  
   (Rice is expensive now. - was cheaper before)
-- *Malaki na ang bata.*  
+- _Malaki na ang bata._  
   (The child is big now. - was small before)
 
 ### 3. Immediacy ("Now," "Right Now")
 
-*Na* can express that something should happen immediately:
+_Na_ can express that something should happen immediately:
 
-- *Tara na!*  
+- _Tara na!_  
   (Let's go now!)
-- *Kain na tayo.*  
+- _Kain na tayo._  
   (Let's eat now.)
-- *Alis na ako.*  
+- _Alis na ako._  
   (I'm leaving now.)
 
 ### 4. Sufficiency ("Enough Already")
 
-In some contexts, *na* indicates that something is sufficient or should stop:
+In some contexts, _na_ indicates that something is sufficient or should stop:
 
-- *Tama na.*  
+- _Tama na._  
   (That's enough already.)
-- *Ayaw ko na.*  
+- _Ayaw ko na._  
   (I don't want it anymore.)
-- *Sapat na.*  
+- _Sapat na._  
   (It's sufficient already.)
 
 ## Usage Patterns and Sentence Positions
 
-*Na* is enclitic and typically follows the word or phrase it modifies.
+_Na_ is enclitic and typically follows the word or phrase it modifies.
 
 ### After Verbs (Completed Actions)
 
 Indicates the action has been done:
 
-- *Gumising na ako.*  
+- _Gumising na ako._  
   (I already woke up.)
-- *Bumili na siya ng pagkain.*  
+- _Bumili na siya ng pagkain._  
   (He/she already bought food.)
-- *Nag-aral na kami.*  
+- _Nag-aral na kami._  
   (We already studied.)
 
 ### After Adjectives (Changed State)
 
 Shows a quality has changed:
 
-- *Maganda na ang panahon.*  
+- _Maganda na ang panahon._  
   (The weather is nice now.)
-- *Maayos na ang kotse.*  
+- _Maayos na ang kotse._  
   (The car is fixed now.)
-- *Mabuti na ang kalagayan niya.*  
+- _Mabuti na ang kalagayan niya._  
   (His/her condition is good now.)
 
 ### After Nouns (Identity/Time)
 
 Indicates current state or timing:
 
-- *Gabi na.*  
+- _Gabi na._  
   (It's nighttime now.)
-- *Lunes na bukas.*  
+- _Lunes na bukas._  
   (Tomorrow is Monday already.)
-- *Doktor na siya.*  
+- _Doktor na siya._  
   (He/she is a doctor now.)
 
 ### In Imperatives (Urging Action)
 
 Used to urge immediate action:
 
-- *Kain na!*  
+- _Kain na!_  
   (Eat now!)
-- *Tulog na!*  
+- _Tulog na!_  
   (Go to sleep now!)
-- *Umuwi ka na.*  
+- _Umuwi ka na._  
   (Go home now.)
 
 ### With Time Expressions
 
 Emphasizes that the time has arrived:
 
-- *Alas tres na.*  
+- _Alas tres na._  
   (It's 3 o'clock already.)
-- *Hapon na.*  
+- _Hapon na._  
   (It's afternoon now.)
-- *Bukas na ang deadline.*  
+- _Bukas na ang deadline._  
   (The deadline is tomorrow already.)
 
 ## Common Particle Combinations
 
-*Na* frequently combines with other particles to create nuanced meanings.
+_Na_ frequently combines with other particles to create nuanced meanings.
 
-### *Na* + *Ba* (Already? - Question)
+### _Na_ + _Ba_ (Already? - Question)
 
 Asks if something has been completed:
 
-- *Kumain ka na ba?*  
+- _Kumain ka na ba?_  
   (Have you eaten already?)
-- *Umuwi na ba siya?*  
+- _Umuwi na ba siya?_  
   (Has he/she gone home already?)
-- *Tapos na ba ang pelikula?*  
+- _Tapos na ba ang pelikula?_  
   (Is the movie finished already?)
 
 ::: tip Most Common Question
-*Kumain ka na ba?* (Have you eaten?) is one of the most common greetings in Filipino culture, showing care and concern.
+_Kumain ka na ba?_ (Have you eaten?) is one of the most common greetings in Filipino culture, showing care and concern.
 :::
 
-### *Na* + *Lang* (Just/Only Now)
+### _Na_ + _Lang_ (Just/Only Now)
 
 Indicates something is limited or simplified:
 
-- *Ito na lang.*  
+- _Ito na lang._  
   (Just this.)
-- *Bukas na lang.*  
+- _Bukas na lang._  
   (Just tomorrow. / Tomorrow instead.)
-- *Dito na lang tayo.*  
+- _Dito na lang tayo._  
   (Let's just stay here.)
 
-### *Na* + *Naman* (Again - Mild Complaint)
+### _Na_ + _Naman_ (Again - Mild Complaint)
 
 Expresses mild frustration about repetition:
 
-- *Late ka na naman.*  
+- _Late ka na naman._  
   (You're late again.)
-- *Umuulan na naman.*  
+- _Umuulan na naman._  
   (It's raining again.)
-- *Nakalimutan mo na naman.*  
+- _Nakalimutan mo na naman._  
   (You forgot again.)
 
 ::: info Tone Context
-*Na naman* carries a gentle complaint or resignation. It's not harsh but indicates the speaker notices the pattern.
+_Na naman_ carries a gentle complaint or resignation. It's not harsh but indicates the speaker notices the pattern.
 :::
 
-### *Na* + *Nga* (Already - Emphatic)
+### _Na_ + _Nga_ (Already - Emphatic)
 
 Strongly emphasizes completion or change:
 
-- *Umalis na nga siya.*  
+- _Umalis na nga siya._  
   (He/she already left - confirmed.)
-- *Kumain na nga ako.*  
+- _Kumain na nga ako._  
   (I already ate - for sure.)
-- *Tapos na nga.*  
+- _Tapos na nga._  
   (It's already finished - definitely.)
 
-### *Na* + *Pala* (Oh, Already)
+### _Na_ + _Pala_ (Oh, Already)
 
 Expresses realization about completion:
 
-- *Tapos ka na pala.*  
+- _Tapos ka na pala._  
   (Oh, you're done already.)
-- *Umuwi na pala siya.*  
+- _Umuwi na pala siya._  
   (Oh, he/she went home already.)
-- *Alam mo na pala.*  
+- _Alam mo na pala._  
   (Oh, you know already.)
 
-### *Na* + *Rin/Din* (Also Already)
+### _Na_ + _Rin/Din_ (Also Already)
 
 Indicates something else has also completed:
 
-- *Kumain na rin ako.*  
+- _Kumain na rin ako._  
   (I ate already too.)
-- *Umuwi na din sila.*  
+- _Umuwi na din sila._  
   (They went home already too.)
-- *Alam ko na rin.*  
+- _Alam ko na rin._  
   (I know already too.)
 
-### *Ayaw* + *Na* (Don't Want Anymore)
+### _Ayaw_ + _Na_ (Don't Want Anymore)
 
 Expresses rejection or refusal:
 
-- *Ayaw ko na.*  
+- _Ayaw ko na._  
   (I don't want it anymore.)
-- *Hindi na.*  
+- _Hindi na._  
   (Not anymore. / No longer.)
-- *Sapat na.*  
+- _Sapat na._  
   (Enough already.)
 
 ## Nuances and Tone
 
-The meaning of *na* shifts based on context and intonation.
+The meaning of _na_ shifts based on context and intonation.
 
 ### Neutral Completion
 
 Standard reporting of completed action:
 
-- *Kumain na ako.*  
+- _Kumain na ako._  
   (I already ate. - matter of fact)
 
 ### Urgent/Insistent Tone
 
-With stronger intonation, *na* expresses urgency:
+With stronger intonation, _na_ expresses urgency:
 
-- *Tara na!*  
+- _Tara na!_  
   (Let's go NOW! - urgent)
-- *Bilisan mo na!*  
+- _Bilisan mo na!_  
   (Hurry up already! - impatient)
-- *Gising na!*  
+- _Gising na!_  
   (Wake up now! - insistent)
 
 ### Resignation/Acceptance
 
-In negative contexts, *na* can express giving up:
+In negative contexts, _na_ can express giving up:
 
-- *Ayaw ko na.*  
+- _Ayaw ko na._  
   (I don't want it anymore. - resignation)
-- *Tama na.*  
+- _Tama na._  
   (That's enough already. - accepting limits)
-- *Huwag na.*  
+- _Huwag na._  
   (Don't bother anymore.)
 
 ### Excited/Anticipatory Tone
 
 When something anticipated has arrived:
 
-- *Nandito na siya!*  
+- _Nandito na siya!_  
   (He/she is here already! - excited)
-- *Dumating na!*  
+- _Dumating na!_  
   (It arrived! - anticipation fulfilled)
-- *Pasko na!*  
+- _Pasko na!_  
   (It's Christmas already! - celebration)
 
 ::: warning Context is Key
-The same sentence with *na* can express completion, urgency, or resignation depending on tone and situation.
+The same sentence with _na_ can express completion, urgency, or resignation depending on tone and situation.
 :::
 
 ## Common Mistakes
 
-### ❌ Mistake 1: Confusing *Na* with *Pa*
+### ❌ Mistake 1: Confusing _Na_ with _Pa_
 
-The most common error is mixing up *na* (already) and *pa* (still/yet):
+The most common error is mixing up _na_ (already) and _pa_ (still/yet):
 
-- ❌ *Kumain pa ako.* (when meaning "I already ate")
-- ✅ *Kumain na ako.* (I already ate.)
-- ✅ *Kumakain pa ako.* (I'm still eating.)
-- 💡 *Na* = completed/changed; *Pa* = ongoing/not yet completed.
+- ❌ _Kumain pa ako._ (when meaning "I already ate")
+- ✅ _Kumain na ako._ (I already ate.)
+- ✅ _Kumakain pa ako._ (I'm still eating.)
+- 💡 _Na_ = completed/changed; _Pa_ = ongoing/not yet completed.
 
-### ❌ Mistake 2: Omitting *Na* When Needed
+### ❌ Mistake 2: Omitting _Na_ When Needed
 
-Learners sometimes forget *na* in completion contexts:
+Learners sometimes forget _na_ in completion contexts:
 
-- ❌ *Tapos ang trabaho.* (sounds incomplete)
-- ✅ *Tapos na ang trabaho.* (The work is finished already.)
-- 💡 *Na* is crucial for marking completed states.
+- ❌ _Tapos ang trabaho._ (sounds incomplete)
+- ✅ _Tapos na ang trabaho._ (The work is finished already.)
+- 💡 _Na_ is crucial for marking completed states.
 
 ### ❌ Mistake 3: Wrong Position in Sentence
 
-*Na* must follow the word it modifies:
+_Na_ must follow the word it modifies:
 
-- ❌ *Na kumain ako.*
-- ✅ *Kumain na ako.*
-- 💡 *Na* is enclitic and cannot start a sentence.
+- ❌ _Na kumain ako._
+- ✅ _Kumain na ako._
+- 💡 _Na_ is enclitic and cannot start a sentence.
 
-### ❌ Mistake 4: Using *Na* with Future Tense
+### ❌ Mistake 4: Using _Na_ with Future Tense
 
-*Na* indicates completion or current state, not future:
+_Na_ indicates completion or current state, not future:
 
-- ❌ *Kakain na ako bukas.* (awkward - future but using *na*)
-- ✅ *Kakain ako bukas.* (I will eat tomorrow.)
-- ✅ *Kumain na ako.* (I already ate.)
-- 💡 Use plain future tense for future actions; save *na* for completed or immediate actions.
+- ❌ _Kakain na ako bukas._ (awkward - future but using _na_)
+- ✅ _Kakain ako bukas._ (I will eat tomorrow.)
+- ✅ _Kumain na ako._ (I already ate.)
+- 💡 Use plain future tense for future actions; save _na_ for completed or immediate actions.
 
-### ❌ Mistake 5: Translating *Na* as "Now" Always
+### ❌ Mistake 5: Translating _Na_ as "Now" Always
 
-*Na* doesn't always mean "now" in English:
+_Na_ doesn't always mean "now" in English:
 
-- ❌ Thinking *Matanda na siya* means "He is old now" literally
+- ❌ Thinking _Matanda na siya_ means "He is old now" literally
 - ✅ Understanding it means "He has become old" (change of state)
-- 💡 *Na* marks a transition more than a specific time point.
+- 💡 _Na_ marks a transition more than a specific time point.
 
-### ❌ Mistake 6: Thinking *Na* Contradicts Progressive Aspect
+### ❌ Mistake 6: Thinking _Na_ Contradicts Progressive Aspect
 
-Learners sometimes avoid combining *na* with ongoing forms even when the action has already started:
+Learners sometimes avoid combining _na_ with ongoing forms even when the action has already started:
 
-- ❌ *Kumakain ako ngayon lang.* (unnatural when meaning "I'm eating already.")
-- ✅ *Kumakain na ako.* (I'm already eating. / I've started eating now.)
-- ✅ *Nagsisimula na siyang kumain.* (He/she is starting to eat now.)
-- 💡 *Na* can appear with progressive aspect to show that an ongoing action has begun; use *pa* only for "still doing."
+- ❌ _Kumakain ako ngayon lang._ (unnatural when meaning "I'm eating already.")
+- ✅ _Kumakain na ako._ (I'm already eating. / I've started eating now.)
+- ✅ _Nagsisimula na siyang kumain._ (He/she is starting to eat now.)
+- 💡 _Na_ can appear with progressive aspect to show that an ongoing action has begun; use _pa_ only for "still doing."
 
 ## Comparisons with Similar Particles
 
-### *Na* vs. *Pa*
+### _Na_ vs. _Pa_
 
 These are direct opposites in temporal meaning:
 
-| Aspect | *Na* | *Pa* |
-| ------ | ---- | ---- |
-| Core Meaning | Already, completed, change of state | Still, yet, not yet completed |
-| State | After the change | Before the change or continuing |
-| Example | *Kumain na ako.* (I already ate.) | *Kumakain pa ako.* (I'm still eating.) |
-| Question | *Kumain ka na ba?* (Have you eaten?) | *Kumakain ka pa ba?* (Are you still eating?) |
-| Negative | *Hindi na.* (Not anymore.) | *Hindi pa.* (Not yet.) |
+| Aspect       | _Na_                                 | _Pa_                                         |
+| ------------ | ------------------------------------ | -------------------------------------------- |
+| Core Meaning | Already, completed, change of state  | Still, yet, not yet completed                |
+| State        | After the change                     | Before the change or continuing              |
+| Example      | _Kumain na ako._ (I already ate.)    | _Kumakain pa ako._ (I'm still eating.)       |
+| Question     | _Kumain ka na ba?_ (Have you eaten?) | _Kumakain ka pa ba?_ (Are you still eating?) |
+| Negative     | _Hindi na._ (Not anymore.)           | _Hindi pa._ (Not yet.)                       |
 
-- *Nandito na siya.* (He/she is here already.)
-- *Nandito pa siya.* (He/she is still here.)
+- _Nandito na siya._ (He/she is here already.)
+- _Nandito pa siya._ (He/she is still here.)
 
-### *Na* vs. *Nga*
+### _Na_ vs. _Nga_
 
 Different functions despite both being common particles:
 
-| Aspect | *Na* | *Nga* |
-| ------ | ---- | ----- |
-| Function | Completion, change, timing | Emphasis, confirmation, politeness |
-| Focus | When/whether done | Truth/certainty |
-| Example | *Kumain na ako.* (I already ate.) | *Kumain nga ako.* (I really did eat.) |
-| Combination | *Kumain na nga ako.* (I already ate - for sure.) | |
+| Aspect      | _Na_                                             | _Nga_                                 |
+| ----------- | ------------------------------------------------ | ------------------------------------- |
+| Function    | Completion, change, timing                       | Emphasis, confirmation, politeness    |
+| Focus       | When/whether done                                | Truth/certainty                       |
+| Example     | _Kumain na ako._ (I already ate.)                | _Kumain nga ako._ (I really did eat.) |
+| Combination | _Kumain na nga ako._ (I already ate - for sure.) |                                       |
 
-- *Umalis na siya.* (He/she already left. - timing)
-- *Umalis nga siya.* (He/she did leave. - confirming)
-- *Umalis na nga siya.* (He/she already left - for sure. - both combined)
+- _Umalis na siya._ (He/she already left. - timing)
+- _Umalis nga siya._ (He/she did leave. - confirming)
+- _Umalis na nga siya._ (He/she already left - for sure. - both combined)
 
-### *Na* vs. *Naman*
+### _Na_ vs. _Naman_
 
 Different emphasis patterns:
 
-| Aspect | *Na* | *Naman* |
-| ------ | ---- | ------- |
-| Function | Completion, change | Contrast, softening, mild complaint |
-| Tone | Marks transition | Adds emotional nuance |
-| Example | *Tapos na.* (Already finished.) | *Tapos naman.* (It's finished though.) |
-| Complaint | *Late ka na naman.* (You're late again.) | *Late ka naman.* (You're late though.) |
+| Aspect    | _Na_                                     | _Naman_                                |
+| --------- | ---------------------------------------- | -------------------------------------- |
+| Function  | Completion, change                       | Contrast, softening, mild complaint    |
+| Tone      | Marks transition                         | Adds emotional nuance                  |
+| Example   | _Tapos na._ (Already finished.)          | _Tapos naman._ (It's finished though.) |
+| Complaint | _Late ka na naman._ (You're late again.) | _Late ka naman._ (You're late though.) |
 
-- *Ganda na ng bahay.* (The house is nice now.)
-- *Maganda naman ang bahay.* (The house is nice though.)
+- _Ganda na ng bahay._ (The house is nice now.)
+- _Maganda naman ang bahay._ (The house is nice though.)
 
-### *Na* vs. *Muna*
+### _Na_ vs. _Muna_
 
 Both relate to timing but differently:
 
-| Aspect | *Na* | *Muna* |
-| ------ | ---- | ------ |
-| Function | Already/now completed | First/for now (before something else) |
-| Sequence | Marks completion | Marks priority/temporary action |
-| Example | *Kain na tayo.* (Let's eat now.) | *Kain muna tayo.* (Let's eat first.) |
+| Aspect   | _Na_                             | _Muna_                                |
+| -------- | -------------------------------- | ------------------------------------- |
+| Function | Already/now completed            | First/for now (before something else) |
+| Sequence | Marks completion                 | Marks priority/temporary action       |
+| Example  | _Kain na tayo._ (Let's eat now.) | _Kain muna tayo._ (Let's eat first.)  |
 
-- *Umuwi na ako.* (I'm going home now. - leaving)
-- *Umuwi muna ako.* (I'm going home first. - will return or do something after)
+- _Umuwi na ako._ (I'm going home now. - leaving)
+- _Umuwi muna ako._ (I'm going home first. - will return or do something after)
 
 ## Cultural Context
 
-Understanding the cultural role of *na* enhances appropriate usage.
+Understanding the cultural role of _na_ enhances appropriate usage.
 
 ### Time and Completion
 
-Filipino culture has a flexible relationship with time, and *na* reflects this:
+Filipino culture has a flexible relationship with time, and _na_ reflects this:
 
-- *Na* marks subjective completion rather than clock time
-- "Already" (*na*) is relative to expectations and context
-- The concept of "Filipino time" interacts with *na* usage
+- _Na_ marks subjective completion rather than clock time
+- "Already" (_na_) is relative to expectations and context
+- The concept of "Filipino time" interacts with _na_ usage
 
 ### Care and Concern
 
-*Na* appears in expressions of care:
+_Na_ appears in expressions of care:
 
-- *Kumain ka na ba?* (Have you eaten?) - showing concern
-- *Uwi ka na.* (Go home already.) - expressing care for rest/safety
-- *Pahinga ka na.* (Rest now.) - encouraging self-care
+- _Kumain ka na ba?_ (Have you eaten?) - showing concern
+- _Uwi ka na._ (Go home already.) - expressing care for rest/safety
+- _Pahinga ka na._ (Rest now.) - encouraging self-care
 
 ### Politeness in Urgency
 
-*Na* can soften urgent requests:
+_Na_ can soften urgent requests:
 
-- *Tara na* is gentler than a bare imperative
-- Adding *na* to commands makes them feel more like invitations
+- _Tara na_ is gentler than a bare imperative
+- Adding _na_ to commands makes them feel more like invitations
 - Expresses "it's time" rather than "you must"
 
 ### Change Acceptance
 
-*Na* reflects Filipino acceptance of change:
+_Na_ reflects Filipino acceptance of change:
 
-- *Ganito na ang buhay.* (Life is like this now. - accepting change)
-- *Tanda na natin.* (We're old now. - acknowledging aging)
+- _Ganito na ang buhay._ (Life is like this now. - accepting change)
+- _Tanda na natin._ (We're old now. - acknowledging aging)
 - Shows cultural attitude toward impermanence
 
 ::: info Regional Variations
-*Na* usage frequency and intonation patterns vary by region. Urban Manila speakers use *na* very frequently in casual speech.
+_Na_ usage frequency and intonation patterns vary by region. Urban Manila speakers use _na_ very frequently in casual speech.
 :::
 
 ## Practice Patterns
@@ -420,87 +420,87 @@ Focus on basic completion and simple "already" statements.
 
 #### Pattern 1: Completed Actions
 
-- *Kumain na ako.*  
+- _Kumain na ako._  
   (I already ate.)
-- *Umuwi na siya.*  
+- _Umuwi na siya._  
   (He/she already went home.)
-- *Natulog na kami.*  
+- _Natulog na kami._  
   (We already slept.)
 
-#### Pattern 2: Basic Questions with *Na Ba*
+#### Pattern 2: Basic Questions with _Na Ba_
 
-- *Kumain ka na ba?*  
+- _Kumain ka na ba?_  
   (Have you eaten already?)
-- *Tapos ka na ba?*  
+- _Tapos ka na ba?_  
   (Are you done already?)
-- *Umalis na ba sila?*  
+- _Umalis na ba sila?_  
   (Did they leave already?)
 
 #### Pattern 3: Time Expressions
 
-- *Gabi na.*  
+- _Gabi na._  
   (It's nighttime already.)
-- *Alas dose na.*  
+- _Alas dose na._  
   (It's 12 o'clock already.)
-- *Lunes na.*  
+- _Lunes na._  
   (It's Monday already.)
 
 #### Pattern 4: Simple Imperatives
 
-- *Kain na.*  
+- _Kain na._  
   (Eat now.)
-- *Tulog na.*  
+- _Tulog na._  
   (Sleep now.)
-- *Tara na.*  
+- _Tara na._  
   (Let's go now.)
 
 ### Intermediate Level
 
 Add combinations and change-of-state expressions.
 
-#### Pattern 1: *Na Lang* (Just/Only)
+#### Pattern 1: _Na Lang_ (Just/Only)
 
-- *Ito na lang.*  
+- _Ito na lang._  
   (Just this.)
-- *Bukas na lang tayo magkita.*  
+- _Bukas na lang tayo magkita._  
   (Let's just meet tomorrow.)
-- *Bahay na lang ako.*  
+- _Bahay na lang ako._  
   (I'll just stay home.)
 
 #### Pattern 2: Change of State
 
-- *Matanda na ako.*  
+- _Matanda na ako._  
   (I'm old now.)
-- *Mahal na ang gasolina.*  
+- _Mahal na ang gasolina._  
   (Gas is expensive now.)
-- *Magaling na siya.*  
+- _Magaling na siya._  
   (He/she is well now.)
 
-#### Pattern 3: *Na Naman* (Again)
+#### Pattern 3: _Na Naman_ (Again)
 
-- *Umuulan na naman.*  
+- _Umuulan na naman._  
   (It's raining again.)
-- *Late ka na naman.*  
+- _Late ka na naman._  
   (You're late again.)
-- *Nakalimutan mo na naman.*  
+- _Nakalimutan mo na naman._  
   (You forgot again.)
 
-#### Pattern 4: Negative with *Na*
+#### Pattern 4: Negative with _Na_
 
-- *Hindi na ako pupunta.*  
+- _Hindi na ako pupunta._  
   (I'm not going anymore.)
-- *Ayaw ko na.*  
+- _Ayaw ko na._  
   (I don't want it anymore.)
-- *Wala na.*  
+- _Wala na._  
   (There's none left. / It's gone.)
 
-#### Pattern 5: *Na* with Adjectives
+#### Pattern 5: _Na_ with Adjectives
 
-- *Ganda na ng buhay.*  
+- _Ganda na ng buhay._  
   (Life is good now.)
-- *Maayos na ang lahat.*  
+- _Maayos na ang lahat._  
   (Everything is fine now.)
-- *Malaki na ang anak niya.*  
+- _Malaki na ang anak niya._  
   (His/her child is big now.)
 
 ### Advanced Level
@@ -509,118 +509,118 @@ Master subtle nuances, complex combinations, and natural flow.
 
 #### Pattern 1: Multiple Particle Combinations
 
-- *Kumain na nga ako.*  
+- _Kumain na nga ako._  
   (I already ate - for sure.)
-- *Umuwi na ba talaga siya?*  
+- _Umuwi na ba talaga siya?_  
   (Did he/she really already go home?)
-- *Tapos na rin ang trabaho ko.*  
+- _Tapos na rin ang trabaho ko._  
   (My work is finished already too.)
-- *Alam mo na pala.*  
+- _Alam mo na pala._  
   (Oh, you know already.)
 
 #### Pattern 2: Urgent/Insistent Tone
 
 Practice with appropriate intonation:
 
-- *Bilisan mo na!*  
+- _Bilisan mo na!_  
   (Hurry up already!)
-- *Gising na!*  
+- _Gising na!_  
   (Wake up now!)
-- *Umalis ka na!*  
+- _Umalis ka na!_  
   (Leave now! / Leave already!)
 
 #### Pattern 3: Resignation/Sufficiency
 
-- *Tama na, sapat na yan.*  
+- _Tama na, sapat na yan._  
   (That's enough, that's sufficient already.)
-- *Ayaw ko na, pagod na ako.*  
+- _Ayaw ko na, pagod na ako._  
   (I don't want it anymore, I'm tired already.)
-- *Huwag na, hindi na kailangan.*  
+- _Huwag na, hindi na kailangan._  
   (Don't bother, it's not needed anymore.)
 
 #### Pattern 4: Natural Conversation Flow
 
-- *Kumain ka na ba? Hindi pa. Tara, kain na tayo.*  
+- _Kumain ka na ba? Hindi pa. Tara, kain na tayo._  
   (Have you eaten? Not yet. Come on, let's eat now.)
-- *Tapos ka na? Oo, tapos na. Tara na.*  
+- _Tapos ka na? Oo, tapos na. Tara na._  
   (Are you done? Yes, I'm done. Let's go.)
-- *Umuwi na ba siya? Oo, umuwi na. Kanina pa.*  
+- _Umuwi na ba siya? Oo, umuwi na. Kanina pa._  
   (Did he/she go home? Yes, already. A while ago.)
 
 #### Pattern 5: Idiomatic Expressions
 
-- *Bahala na.*  
+- _Bahala na._  
   (Whatever happens, happens. / Leave it to fate.)
-- *Sige na.*  
+- _Sige na._  
   (Okay, fine. / Go ahead already.)
-- *Heto na.*  
+- _Heto na._  
   (Here it is. / I'm coming.)
-- *Hayaan mo na.*  
+- _Hayaan mo na._  
   (Just let it be. / Forget about it.)
 
 #### Pattern 6: Emotional Nuances
 
-- *Miss kita. Miss na kita.* (I miss you. I miss you so much now. - *na* adds intensity)
-- *Mahal kita. Mahal pa rin kita.* (I love you. I still love you. - contrast with *pa*)
-- *Pagod na ako.* (I'm tired now. - emphasizing current state)
+- _Miss kita. Miss na kita._ (I miss you. I miss you so much now. - _na_ adds intensity)
+- _Mahal kita. Mahal pa rin kita._ (I love you. I still love you. - contrast with _pa_)
+- _Pagod na ako._ (I'm tired now. - emphasizing current state)
 
 ## Summary
 
-Key points about *na*:
+Key points about _na_:
 
 - **Primary functions**: Completion (already), change of state (now), immediacy
 - **Position**: Enclitic - follows the word it modifies
-- **Opposite**: *Pa* (still, yet, not yet)
-- **Common combinations**: *na ba* (already?), *na lang* (just/only), *na naman* (again), *na nga* (already - emphatic)
+- **Opposite**: _Pa_ (still, yet, not yet)
+- **Common combinations**: _na ba_ (already?), _na lang_ (just/only), _na naman_ (again), _na nga_ (already - emphatic)
 - **Cultural role**: Reflects Filipino concepts of time, care, and acceptance of change
 - **Learning focus**: Master basic completion first, then change-of-state, then combinations
 
 ::: tip Mastery Approach
-The key to mastering *na* is understanding it marks transitions and changes rather than specific time points. Listen to how native speakers use it to indicate that situations have shifted from one state to another.
+The key to mastering _na_ is understanding it marks transitions and changes rather than specific time points. Listen to how native speakers use it to indicate that situations have shifted from one state to another.
 :::
 
 ## Practice Exercises
 
-### Exercise 1: *Na* vs. *Pa*
+### Exercise 1: _Na_ vs. _Pa_
 
-Choose the correct particle (*na* or *pa*):
+Choose the correct particle (_na_ or _pa_):
 
-1. Kumain ___ ako. (I already ate.) → *na*
-2. Kumakain ___ siya. (He/she is still eating.) → *pa*
-3. Hindi ___ ako tapos. (I'm not done yet.) → *pa*
-4. Umuwi ___ sila. (They already went home.) → *na*
+1. Kumain \_\_\_ ako. (I already ate.) → _na_
+2. Kumakain \_\_\_ siya. (He/she is still eating.) → _pa_
+3. Hindi \_\_\_ ako tapos. (I'm not done yet.) → _pa_
+4. Umuwi \_\_\_ sila. (They already went home.) → _na_
 
-### Exercise 2: Add *Na* for Completion
+### Exercise 2: Add _Na_ for Completion
 
 Transform these statements to indicate completion:
 
-1. *Gumising ako.* → *Gumising na ako.* (I already woke up.)
-2. *Umalis siya.* → *Umalis na siya.* (He/she already left.)
-3. *Tapos ang trabaho.* → *Tapos na ang trabaho.* (The work is finished already.)
+1. _Gumising ako._ → _Gumising na ako._ (I already woke up.)
+2. _Umalis siya._ → _Umalis na siya._ (He/she already left.)
+3. _Tapos ang trabaho._ → _Tapos na ang trabaho._ (The work is finished already.)
 
-### Exercise 3: Form Questions with *Na Ba*
+### Exercise 3: Form Questions with _Na Ba_
 
 Create questions asking about completion:
 
-1. *Kumain ka ___?* → *Kumain ka na ba?* (Have you eaten?)
-2. *Umuwi ___ siya?* → *Umuwi na ba siya?* (Did he/she go home already?)
-3. *Nag-aral ka ___?* → *Nag-aral ka na ba?* (Did you study already?)
+1. _Kumain ka \_\_\_?_ → _Kumain ka na ba?_ (Have you eaten?)
+2. _Umuwi \_\_\_ siya?_ → _Umuwi na ba siya?_ (Did he/she go home already?)
+3. _Nag-aral ka \_\_\_?_ → _Nag-aral ka na ba?_ (Did you study already?)
 
-### Exercise 4: Use *Na Lang*
+### Exercise 4: Use _Na Lang_
 
-Express "just/only" with *na lang*:
+Express "just/only" with _na lang_:
 
-1. *Ito ___.* → *Ito na lang.* (Just this.)
-2. *Dito ___ tayo.* → *Dito na lang tayo.* (Let's just stay here.)
-3. *Bukas ___.* → *Bukas na lang.* (Just tomorrow.)
+1. _Ito \_\_\_._ → _Ito na lang._ (Just this.)
+2. _Dito \_\_\_ tayo._ → _Dito na lang tayo._ (Let's just stay here.)
+3. _Bukas \_\_\_._ → _Bukas na lang._ (Just tomorrow.)
 
 ### Exercise 5: Identify the Meaning
 
-Determine what *na* expresses in each sentence:
+Determine what _na_ expresses in each sentence:
 
-1. *Kumain na ako.* (Completion - already)
-2. *Matanda na siya.* (Change of state - now old)
-3. *Tara na!* (Immediacy - let's go now)
-4. *Tama na.* (Sufficiency - enough already)
+1. _Kumain na ako._ (Completion - already)
+2. _Matanda na siya._ (Change of state - now old)
+3. _Tara na!_ (Immediacy - let's go now)
+4. _Tama na._ (Sufficiency - enough already)
 
 See also: [Particle: Pa](./pa.md), [Particle: Muna](./muna.md), [Particle: Nga](../emphasis/nga.md), [Particles Index](../index.md), [Sentence Structure](../../sentence-structure.md)

@@ -4,325 +4,325 @@ description: "Detailed explanation of the Tagalog particle nga with usage patter
 outline: [2, 3]
 ---
 
-# Particle: *Nga*
+# Particle: _Nga_
 
-The particle *nga* is one of the most versatile and commonly used particles in Tagalog. It serves multiple functions including emphasis, politeness, confirmation, and softening commands. While often challenging for learners, mastering *nga* is crucial for natural, expressive Tagalog speech.
+The particle _nga_ is one of the most versatile and commonly used particles in Tagalog. It serves multiple functions including emphasis, politeness, confirmation, and softening commands. While often challenging for learners, mastering _nga_ is crucial for natural, expressive Tagalog speech.
 
 ::: tip Quick Summary
-*Nga* primarily adds emphasis ("indeed," "really") or politeness to statements and requests. It can also express confirmation, mild insistence, or soften commands. Position and context determine its specific meaning.
+_Nga_ primarily adds emphasis ("indeed," "really") or politeness to statements and requests. It can also express confirmation, mild insistence, or soften commands. Position and context determine its specific meaning.
 :::
 
 ## Core Meanings
 
-*Nga* carries several related but distinct meanings depending on context, sentence position, and intonation.
+_Nga_ carries several related but distinct meanings depending on context, sentence position, and intonation.
 
 ### 1. Emphasis ("Indeed," "Really")
 
-The most common function of *nga* is to emphasize or intensify a statement:
+The most common function of _nga_ is to emphasize or intensify a statement:
 
-- *Maganda nga ang bahay.*  
+- _Maganda nga ang bahay._  
   (The house is indeed beautiful.)
-- *Kumain nga ako.*  
+- _Kumain nga ako._  
   (I really did eat. / I ate, as a matter of fact.)
-- *Totoo nga!*  
+- _Totoo nga!_  
   (It's really true!)
 
 ::: info Emphasis Nuance
-When used for emphasis, *nga* confirms something that might have been questioned or doubted. It adds weight to the statement.
+When used for emphasis, _nga_ confirms something that might have been questioned or doubted. It adds weight to the statement.
 :::
 
 ### 2. Politeness and Softening
 
-*Nga* softens requests and commands, making them more polite and less direct:
+_Nga_ softens requests and commands, making them more polite and less direct:
 
-- *Paki-abot nga ng asin.*  
+- _Paki-abot nga ng asin._  
   (Please pass the salt. - polite request)
-- *Sandali nga.*  
+- _Sandali nga._  
   (Wait a moment, please.)
-- *Tingnan mo nga ito.*  
+- _Tingnan mo nga ito._  
   (Please take a look at this.)
 
-The polite function transforms direct commands into courteous requests without the formal distance of *po*.
+The polite function transforms direct commands into courteous requests without the formal distance of _po_.
 
 ### 3. Confirmation and Agreement
 
-*Nga* confirms information or agrees with a statement:
+_Nga_ confirms information or agrees with a statement:
 
-- *Oo nga!*  
+- _Oo nga!_  
   (Yes, that's right! / Oh yes, indeed!)
-- *Tama nga.*  
+- _Tama nga._  
   (That's correct indeed.)
-- *Siya nga.*  
+- _Siya nga._  
   (That's him/her indeed. / It's really him/her.)
 
 ### 4. Reminder or "Oh Right"
 
-When combined with *pala*, *nga* expresses sudden realization:
+When combined with _pala_, _nga_ expresses sudden realization:
 
-- *Nga pala, nasaan si Maria?*  
+- _Nga pala, nasaan si Maria?_  
   (Oh right, where is Maria? / By the way, where is Maria?)
-- *Oo nga pala!*  
+- _Oo nga pala!_  
   (Oh that's right!)
 
 ## Usage Patterns and Sentence Positions
 
-*Nga* is enclitic and typically follows the word or phrase it modifies.
+_Nga_ is enclitic and typically follows the word or phrase it modifies.
 
 ### After Verbs
 
 Places emphasis on the action:
 
-- *Pumunta nga ako sa palengke.*  
+- _Pumunta nga ako sa palengke._  
   (I really did go to the market.)
-- *Bumili nga siya ng kotse.*  
+- _Bumili nga siya ng kotse._  
   (He/she indeed bought a car.)
-- *Narinig ko nga.*  
+- _Narinig ko nga._  
   (I did hear it.)
 
 ### After Adjectives
 
 Emphasizes the quality:
 
-- *Mabait nga si Ana.*  
+- _Mabait nga si Ana._  
   (Ana is indeed kind.)
-- *Masarap nga ang pagkain.*  
+- _Masarap nga ang pagkain._  
   (The food is really delicious.)
-- *Malaki nga ang bahay nila.*  
+- _Malaki nga ang bahay nila._  
   (Their house is indeed big.)
 
 ### After Pronouns or Nouns
 
 Confirms or emphasizes the subject:
 
-- *Ako nga ang may kasalanan.*  
+- _Ako nga ang may kasalanan._  
   (I am indeed the one at fault.)
-- *Siya nga ang may-ari.*  
+- _Siya nga ang may-ari._  
   (He/she is indeed the owner.)
 
 ### In Commands (Polite Requests)
 
 Immediately after the verb in imperative sentences:
 
-- *Tuloy nga kayo.*  
+- _Tuloy nga kayo._  
   (Please come in. - polite invitation)
-- *Umupo nga kayo.*  
+- _Umupo nga kayo._  
   (Please sit down.)
-- *Bilisan mo nga.*  
-  (Please hurry up. - softer than without *nga*)
+- _Bilisan mo nga._  
+  (Please hurry up. - softer than without _nga_)
 
-### Beginning of Sentence (with *Pala*)
+### Beginning of Sentence (with _Pala_)
 
-As *nga pala* for "by the way" or "oh right":
+As _nga pala_ for "by the way" or "oh right":
 
-- *Nga pala, kumusta na si Juan?*  
+- _Nga pala, kumusta na si Juan?_  
   (By the way, how is Juan doing?)
-- *Nga pala, may pasalubong ako sa iyo.*  
+- _Nga pala, may pasalubong ako sa iyo._  
   (Oh right, I have a gift for you.)
 
 ## Common Particle Combinations
 
-*Nga* frequently combines with other particles to create nuanced meanings.
+_Nga_ frequently combines with other particles to create nuanced meanings.
 
-### *Nga* + *Pala* (Realization, "By the Way")
+### _Nga_ + _Pala_ (Realization, "By the Way")
 
 Expresses sudden realization or introduces remembered information:
 
-- *Nga pala, bukas ang party.*  
+- _Nga pala, bukas ang party._  
   (By the way, the party is tomorrow.)
-- *Oo nga pala, nakalimutan ko.*  
+- _Oo nga pala, nakalimutan ko._  
   (Oh right, I forgot.)
-- *Siya nga pala, salamat.*  
+- _Siya nga pala, salamat._  
   (Oh by the way, thank you.)
 
 ::: tip Usage Context
-*Nga pala* is extremely common in conversation for topic changes or remembering something.
+_Nga pala_ is extremely common in conversation for topic changes or remembering something.
 :::
 
-### *Na* + *Nga* (Already - Emphatic)
+### _Na_ + _Nga_ (Already - Emphatic)
 
 Emphasizes completion or change of state:
 
-- *Umalis na nga siya.*  
+- _Umalis na nga siya._  
   (He/she already left - confirmed.)
-- *Kumain na nga ako.*  
+- _Kumain na nga ako._  
   (I already ate - for sure.)
-- *Tapos na nga ang trabaho.*  
+- _Tapos na nga ang trabaho._  
   (The work is already finished - definitely.)
 
-### *Nga* + *Ba* (Emphatic Question)
+### _Nga_ + _Ba_ (Emphatic Question)
 
 Adds emphasis to questions:
 
-- *Pumunta nga ba siya?*  
+- _Pumunta nga ba siya?_  
   (Did he/she really go?)
-- *Totoo nga ba ito?*  
+- _Totoo nga ba ito?_  
   (Is this really true?)
 
-### *Oo* + *Nga* (Strong Agreement)
+### _Oo_ + _Nga_ (Strong Agreement)
 
 Strongly affirms a statement:
 
-- *Oo nga!*  
+- _Oo nga!_  
   (Yes, indeed! / That's right!)
-- *Oo nga, tama ka.*  
+- _Oo nga, tama ka._  
   (Yes indeed, you're right.)
 
-### *Sige* + *Nga* (Polite Agreement/Permission)
+### _Sige_ + _Nga_ (Polite Agreement/Permission)
 
 Softly grants permission or agrees:
 
-- *Sige nga.*  
+- _Sige nga._  
   (Okay then. / Go ahead.)
-- *Sige nga, subukan mo.*  
+- _Sige nga, subukan mo._  
   (Okay then, try it.)
 
 ## Nuances and Tone
 
-The meaning of *nga* shifts subtly based on intonation and context.
+The meaning of _nga_ shifts subtly based on intonation and context.
 
 ### Neutral/Confirmatory Tone
 
 Standard emphasis without emotional charge:
 
-- *Maganda nga ang pelikula.*  
+- _Maganda nga ang pelikula._  
   (The movie is indeed good.)
 
 ### Insistent/Assertive Tone
 
-With stronger intonation, *nga* expresses insistence:
+With stronger intonation, _nga_ expresses insistence:
 
-- *Kumain nga ako!*  
+- _Kumain nga ako!_  
   (I DID eat! - defensive or insistent)
-- *Totoo nga!*  
+- _Totoo nga!_  
   (It IS true! - pushing back on doubt)
 
 ### Polite/Gentle Tone
 
-In requests, *nga* softens without formality:
+In requests, _nga_ softens without formality:
 
-- *Paki-ayos nga.*  
+- _Paki-ayos nga._  
   (Please fix it. - courteous)
-- *Tingnan mo nga.*  
+- _Tingnan mo nga._  
   (Please look. - gentle request)
 
 ### Mild Irritation (in Commands)
 
-With certain intonation in imperatives, *nga* can express mild impatience:
+With certain intonation in imperatives, _nga_ can express mild impatience:
 
-- *Tahimik nga!*  
+- _Tahimik nga!_  
   (Be quiet! - slightly annoyed)
-- *Bilisan mo nga!*  
+- _Bilisan mo nga!_  
   (Hurry up! - impatient but not harsh)
 
 ::: warning Context is Key
-The same sentence with *nga* can be polite or irritated depending on tone. Pay attention to intonation patterns.
+The same sentence with _nga_ can be polite or irritated depending on tone. Pay attention to intonation patterns.
 :::
 
 ## Common Mistakes
 
-### ❌ Mistake 1: Omitting *Nga* in Polite Requests
+### ❌ Mistake 1: Omitting _Nga_ in Polite Requests
 
-Learners often forget *nga* when making requests, sounding too direct:
+Learners often forget _nga_ when making requests, sounding too direct:
 
-- ❌ *Paki-abot ng tubig.*
-- ✅ *Paki-abot nga ng tubig.*
-- 💡 Adding *nga* makes the request gentler and more natural.
+- ❌ _Paki-abot ng tubig._
+- ✅ _Paki-abot nga ng tubig._
+- 💡 Adding _nga_ makes the request gentler and more natural.
 
-### ❌ Mistake 2: Using *Nga* with *Po* Redundantly
+### ❌ Mistake 2: Using _Nga_ with _Po_ Redundantly
 
-Using both *nga* and *po* together can sound awkward in some contexts:
+Using both _nga_ and _po_ together can sound awkward in some contexts:
 
-- ❌ *Paki-abot nga po ng tubig po.*  
+- ❌ _Paki-abot nga po ng tubig po._  
   (Too many politeness markers)
-- ✅ *Paki-abot po ng tubig.*  
-  (Formal politeness with *po*)
-- ✅ *Paki-abot nga ng tubig.*  
-  (Casual politeness with *nga*)
-- ✅ *Paki-abot nga po ng tubig.*  
+- ✅ _Paki-abot po ng tubig._  
+  (Formal politeness with _po_)
+- ✅ _Paki-abot nga ng tubig._  
+  (Casual politeness with _nga_)
+- ✅ _Paki-abot nga po ng tubig._  
   (Both acceptable, adds warmth)
 
-💡 *Nga* and *po* serve different politeness functions. *Po* is formal respect; *nga* is gentle/friendly. They can coexist but shouldn't be overused.
+💡 _Nga_ and _po_ serve different politeness functions. _Po_ is formal respect; _nga_ is gentle/friendly. They can coexist but shouldn't be overused.
 
 ### ❌ Mistake 3: Wrong Position in Sentence
 
-*Nga* must follow the word or phrase it modifies:
+_Nga_ must follow the word or phrase it modifies:
 
-- ❌ *Nga kumain ako.*
-- ✅ *Kumain nga ako.*
-- 💡 *Nga* is enclitic and cannot start a sentence (except in *nga pala*).
+- ❌ _Nga kumain ako._
+- ✅ _Kumain nga ako._
+- 💡 _Nga_ is enclitic and cannot start a sentence (except in _nga pala_).
 
-### ❌ Mistake 4: Confusing *Nga* with *Naman*
+### ❌ Mistake 4: Confusing _Nga_ with _Naman_
 
 While both add emphasis, they're not interchangeable:
 
-- *Maganda nga ang bahay.* (The house is indeed beautiful. - confirming)
-- *Maganda naman ang bahay.* (The house is beautiful though. - softer, considering)
-- 💡 *Nga* emphasizes truth/confirmation; *naman* softens or adds contrast.
+- _Maganda nga ang bahay._ (The house is indeed beautiful. - confirming)
+- _Maganda naman ang bahay._ (The house is beautiful though. - softer, considering)
+- 💡 _Nga_ emphasizes truth/confirmation; _naman_ softens or adds contrast.
 
-### ❌ Mistake 5: Using *Nga* in Negative Sentences Incorrectly
+### ❌ Mistake 5: Using _Nga_ in Negative Sentences Incorrectly
 
-*Nga* sounds odd in negative statements without additional particles:
+_Nga_ sounds odd in negative statements without additional particles:
 
-- ❌ *Hindi nga kumain ako.* (awkward alone)
-- ✅ *Hindi nga ako kumain!* (I really didn't eat! - defensive)
-- ✅ *Hindi pa nga ako kumain.* (I haven't eaten yet - with *pa*)
-- 💡 In negatives, *nga* works better with emotional emphasis or other particles.
+- ❌ _Hindi nga kumain ako._ (awkward alone)
+- ✅ _Hindi nga ako kumain!_ (I really didn't eat! - defensive)
+- ✅ _Hindi pa nga ako kumain._ (I haven't eaten yet - with _pa_)
+- 💡 In negatives, _nga_ works better with emotional emphasis or other particles.
 
 ## Comparisons with Similar Particles
 
-### *Nga* vs. *Naman*
+### _Nga_ vs. _Naman_
 
 Both add emphasis but with different nuances:
 
-| Aspect | *Nga* | *Naman* |
-| ------ | ----- | ------- |
-| Function | Confirms, emphasizes truth | Softens, adds contrast or mild complaint |
-| Tone | Assertive, confirmatory | Gentle, considering |
-| Example | *Maganda nga.* (Indeed beautiful.) | *Maganda naman.* (It's beautiful though.) |
-| Requests | Makes requests polite | Makes requests softer/friendlier |
+| Aspect   | _Nga_                              | _Naman_                                   |
+| -------- | ---------------------------------- | ----------------------------------------- |
+| Function | Confirms, emphasizes truth         | Softens, adds contrast or mild complaint  |
+| Tone     | Assertive, confirmatory            | Gentle, considering                       |
+| Example  | _Maganda nga._ (Indeed beautiful.) | _Maganda naman._ (It's beautiful though.) |
+| Requests | Makes requests polite              | Makes requests softer/friendlier          |
 
-- *Tuloy nga kayo.* (Please come in. - polite invitation)
-- *Tuloy naman kayo.* (Come in anyway/at least come in.)
+- _Tuloy nga kayo._ (Please come in. - polite invitation)
+- _Tuloy naman kayo._ (Come in anyway/at least come in.)
 
-### *Nga* vs. *Talaga*
+### _Nga_ vs. _Talaga_
 
-Both emphasize, but *talaga* is stronger:
+Both emphasize, but _talaga_ is stronger:
 
-| Aspect | *Nga* | *Talaga* |
-| ------ | ----- | -------- |
-| Strength | Moderate emphasis | Strong emphasis |
-| Usage | Particle (enclitic) | Adverb (standalone or after verb) |
-| Example | *Maganda nga.* (Indeed beautiful.) | *Maganda talaga!* (Really beautiful!) |
+| Aspect   | _Nga_                              | _Talaga_                              |
+| -------- | ---------------------------------- | ------------------------------------- |
+| Strength | Moderate emphasis                  | Strong emphasis                       |
+| Usage    | Particle (enclitic)                | Adverb (standalone or after verb)     |
+| Example  | _Maganda nga._ (Indeed beautiful.) | _Maganda talaga!_ (Really beautiful!) |
 
-- *Totoo nga.* (It's true indeed.)
-- *Totoo talaga!* (It's really true! - stronger)
+- _Totoo nga._ (It's true indeed.)
+- _Totoo talaga!_ (It's really true! - stronger)
 
-### *Nga* vs. *Lang*
+### _Nga_ vs. _Lang_
 
 Different functions despite both softening:
 
-| Aspect | *Nga* | *Lang* |
-| ------ | ----- | ------ |
-| Function | Emphasis or polite softening | Limiting ("only," "just") |
-| Example | *Sandali nga.* (Wait a moment, please.) | *Sandali lang.* (Just a moment.) |
+| Aspect   | _Nga_                                   | _Lang_                           |
+| -------- | --------------------------------------- | -------------------------------- |
+| Function | Emphasis or polite softening            | Limiting ("only," "just")        |
+| Example  | _Sandali nga._ (Wait a moment, please.) | _Sandali lang._ (Just a moment.) |
 
-- *Tingnan mo nga.* (Please take a look. - polite)
-- *Tingnan mo lang.* (Just take a look. - limiting)
+- _Tingnan mo nga._ (Please take a look. - polite)
+- _Tingnan mo lang._ (Just take a look. - limiting)
 
-### *Nga Pala* vs. *Pala*
+### _Nga Pala_ vs. _Pala_
 
 Combination vs. single particle:
 
-- *Pala* alone expresses surprise/realization: *Nandito ka pala!* (Oh, you're here!)
-- *Nga pala* is a set phrase meaning "by the way" / "oh right": *Nga pala, tara na!* (By the way, let's go!)
+- _Pala_ alone expresses surprise/realization: _Nandito ka pala!_ (Oh, you're here!)
+- _Nga pala_ is a set phrase meaning "by the way" / "oh right": _Nga pala, tara na!_ (By the way, let's go!)
 
 ## Cultural Context
 
-Understanding the cultural role of *nga* helps with appropriate usage.
+Understanding the cultural role of _nga_ helps with appropriate usage.
 
 ### Indirectness and Harmony
 
-Filipino communication culture values indirectness and maintaining harmony. *Nga* aligns with this by:
+Filipino communication culture values indirectness and maintaining harmony. _Nga_ aligns with this by:
 
 - Softening commands to avoid appearing too forceful
 - Making requests gentler and less imposing
@@ -330,22 +330,22 @@ Filipino communication culture values indirectness and maintaining harmony. *Nga
 
 ### Warmth Without Formality
 
-*Nga* occupies a middle ground between casual and formal:
+_Nga_ occupies a middle ground between casual and formal:
 
-- Less formal than *po/ho* but still polite
+- Less formal than _po/ho_ but still polite
 - Creates warmth and friendliness in interaction
 - Preferred in peer or familiar relationships
 
 ### Regional Variations
 
-*Nga* usage intensity varies by region:
+_Nga_ usage intensity varies by region:
 
-- Metro Manila speakers use *nga* frequently in casual conversation
-- Some rural areas use *nga* less often
+- Metro Manila speakers use _nga_ frequently in casual conversation
+- Some rural areas use _nga_ less often
 - Intensity and intonation patterns differ regionally
 
 ::: info Similar Particles in Other Languages
-*Nga* is similar to Cebuano *man* or Ilocano *met* in function, showing the broader Philippine pattern of emphasis particles.
+_Nga_ is similar to Cebuano _man_ or Ilocano _met_ in function, showing the broader Philippine pattern of emphasis particles.
 :::
 
 ## Practice Patterns
@@ -354,157 +354,157 @@ Filipino communication culture values indirectness and maintaining harmony. *Nga
 
 Focus on basic polite requests and simple emphasis.
 
-#### Pattern 1: Polite Requests with *Paki-*
+#### Pattern 1: Polite Requests with _Paki-_
 
-- *Paki-abot nga ng libro.*  
+- _Paki-abot nga ng libro._  
   (Please pass the book.)
-- *Paki-sarado nga ng pinto.*  
+- _Paki-sarado nga ng pinto._  
   (Please close the door.)
-- *Paki-bukas nga ng ilaw.*  
+- _Paki-bukas nga ng ilaw._  
   (Please turn on the light.)
 
 #### Pattern 2: Simple Confirmation
 
-- *Oo nga.*  
+- _Oo nga._  
   (Yes, that's right.)
-- *Tama nga.*  
+- _Tama nga._  
   (That's correct indeed.)
-- *Siya nga.*  
+- _Siya nga._  
   (That's him/her.)
 
 #### Pattern 3: Basic Emphasis
 
-- *Maganda nga ang araw.*  
+- _Maganda nga ang araw._  
   (The day is indeed beautiful.)
-- *Masarap nga ang pagkain.*  
+- _Masarap nga ang pagkain._  
   (The food is really delicious.)
-- *Mabait nga si Ana.*  
+- _Mabait nga si Ana._  
   (Ana is indeed kind.)
 
 ### Intermediate Level
 
 Add particle combinations and context-dependent usage.
 
-#### Pattern 1: *Nga Pala* (By the Way)
+#### Pattern 1: _Nga Pala_ (By the Way)
 
-- *Nga pala, kumusta ka na?*  
+- _Nga pala, kumusta ka na?_  
   (By the way, how are you?)
-- *Nga pala, pupunta ka ba bukas?*  
+- _Nga pala, pupunta ka ba bukas?_  
   (Oh right, are you going tomorrow?)
-- *Nga pala, may pasalubong ako.*  
+- _Nga pala, may pasalubong ako._  
   (By the way, I have a gift.)
 
-#### Pattern 2: *Na Nga* (Already - Emphatic)
+#### Pattern 2: _Na Nga_ (Already - Emphatic)
 
-- *Kumain na nga ako.*  
+- _Kumain na nga ako._  
   (I already ate - confirmed.)
-- *Umuwi na nga sila.*  
+- _Umuwi na nga sila._  
   (They already went home - for sure.)
-- *Tapos na nga ang pelikula.*  
+- _Tapos na nga ang pelikula._  
   (The movie already finished.)
 
-#### Pattern 3: Commands with *Nga*
+#### Pattern 3: Commands with _Nga_
 
-- *Umupo nga kayo.*  
+- _Umupo nga kayo._  
   (Please sit down.)
-- *Tuloy nga kayo.*  
+- _Tuloy nga kayo._  
   (Please come in.)
-- *Kumuha nga ng tubig.*  
+- _Kumuha nga ng tubig._  
   (Please get some water.)
 
 #### Pattern 4: Emphasis in Statements
 
-- *Pumunta nga ako kahapon.*  
+- _Pumunta nga ako kahapon._  
   (I really did go yesterday.)
-- *Nakita ko nga siya.*  
+- _Nakita ko nga siya._  
   (I really saw him/her.)
-- *Sinabi ko nga sa kanya.*  
+- _Sinabi ko nga sa kanya._  
   (I did tell him/her.)
 
 ### Advanced Level
 
 Master subtle tone shifts, complex combinations, and natural flow.
 
-#### Pattern 1: Defensive/Insistent *Nga*
+#### Pattern 1: Defensive/Insistent _Nga_
 
-- *Kumain nga ako!*  
+- _Kumain nga ako!_  
   (I DID eat! - responding to doubt)
-- *Totoo nga!*  
+- _Totoo nga!_  
   (It IS true! - assertive)
-- *Sinabi ko nga sa iyo!*  
+- _Sinabi ko nga sa iyo!_  
   (I DID tell you! - frustrated)
 
 #### Pattern 2: Multiple Particle Combinations
 
-- *Oo nga pala, nakalimutan ko.*  
+- _Oo nga pala, nakalimutan ko._  
   (Oh right, I forgot.)
-- *Kumain na nga ba siya?*  
+- _Kumain na nga ba siya?_  
   (Did he/she really already eat?)
-- *Pupunta pa nga ba tayo?*  
+- _Pupunta pa nga ba tayo?_  
   (Are we really still going?)
 
 #### Pattern 3: Nuanced Politeness Levels
 
-- *Paki-ayos nga.* (Please fix. - friendly)
-- *Paki-ayos nga po.* (Please fix. - respectful and warm)
-- *Paki-ayos po.* (Please fix. - formal respect)
-- *Ayusin mo nga.* (Fix it. - direct but softer than without *nga*)
+- _Paki-ayos nga._ (Please fix. - friendly)
+- _Paki-ayos nga po._ (Please fix. - respectful and warm)
+- _Paki-ayos po._ (Please fix. - formal respect)
+- _Ayusin mo nga._ (Fix it. - direct but softer than without _nga_)
 
 #### Pattern 4: Context-Dependent Tone
 
 Practice saying these with different intonations:
 
-- *Bilisan mo nga.* (Please hurry. / Hurry up! - context determines)
-- *Tingnan mo nga ito.* (Please look at this. / Look at this! - varies)
-- *Sandali nga.* (Wait a moment please. / Hold on! - depends on tone)
+- _Bilisan mo nga._ (Please hurry. / Hurry up! - context determines)
+- _Tingnan mo nga ito._ (Please look at this. / Look at this! - varies)
+- _Sandali nga._ (Wait a moment please. / Hold on! - depends on tone)
 
 #### Pattern 5: Natural Conversation Flow
 
-- *Oo nga, tama ka. Nga pala, san ka pupunta?*  
+- _Oo nga, tama ka. Nga pala, san ka pupunta?_  
   (Yes, you're right. By the way, where are you going?)
-- *Kumain na nga ako kanina, pero gutom na naman ako.*  
+- _Kumain na nga ako kanina, pero gutom na naman ako._  
   (I already ate earlier, but I'm hungry again.)
 
 ## Summary
 
-Key points about *nga*:
+Key points about _nga_:
 
 - **Primary functions**: Emphasis, politeness, confirmation
 - **Position**: Enclitic - follows the word it modifies
 - **Tone**: Varies from polite to insistent depending on intonation
-- **Common combinations**: *nga pala* (by the way), *na nga* (already - emphatic), *oo nga* (yes indeed)
+- **Common combinations**: _nga pala_ (by the way), _na nga_ (already - emphatic), _oo nga_ (yes indeed)
 - **Cultural role**: Creates warmth and softness in Filipino communication
 - **Learning focus**: Master polite requests first, then expand to emphasis and combinations
 
 ::: tip Mastery Approach
-Listen to how native speakers use *nga* in different contexts. The particle's meaning depends heavily on tone and situation, so exposure to real conversation is essential.
+Listen to how native speakers use _nga_ in different contexts. The particle's meaning depends heavily on tone and situation, so exposure to real conversation is essential.
 :::
 
 ## Practice Exercises
 
-### Exercise 1: Add *Nga* for Politeness
+### Exercise 1: Add _Nga_ for Politeness
 
-Transform these direct commands into polite requests using *nga*:
+Transform these direct commands into polite requests using _nga_:
 
-1. *Paki-abot ng tubig.* → *Paki-abot nga ng tubig.*
-2. *Tuloy kayo.* → *Tuloy nga kayo.*
-3. *Umupo ka.* → *Umupo ka nga.*
+1. _Paki-abot ng tubig._ → _Paki-abot nga ng tubig._
+2. _Tuloy kayo._ → _Tuloy nga kayo._
+3. _Umupo ka._ → _Umupo ka nga._
 
 ### Exercise 2: Identify the Function
 
-Determine whether *nga* serves emphasis, politeness, or confirmation:
+Determine whether _nga_ serves emphasis, politeness, or confirmation:
 
-1. *Maganda nga ang bahay.* (Emphasis/Confirmation)
-2. *Paki-kuha nga ng asin.* (Politeness)
-3. *Oo nga!* (Confirmation/Agreement)
-4. *Kumain nga ako kahapon.* (Emphasis)
+1. _Maganda nga ang bahay._ (Emphasis/Confirmation)
+2. _Paki-kuha nga ng asin._ (Politeness)
+3. _Oo nga!_ (Confirmation/Agreement)
+4. _Kumain nga ako kahapon._ (Emphasis)
 
-### Exercise 3: Use *Nga Pala*
+### Exercise 3: Use _Nga Pala_
 
-Create sentences using *nga pala* to introduce remembered information:
+Create sentences using _nga pala_ to introduce remembered information:
 
-1. *Nga pala, bukas ang exam.*
-2. *Nga pala, salamat sa tulong mo.*
-3. *Nga pala, may tanong ako.*
+1. _Nga pala, bukas ang exam._
+2. _Nga pala, salamat sa tulong mo._
+3. _Nga pala, may tanong ako._
 
 See also: [Particle: Naman](./naman.md), [Particle: Pala](./pala.md), [Particles Index](../index.md), [Questions](../../questions.md)

@@ -4,480 +4,480 @@ description: "Detailed explanation of the Tagalog particle pa which means 'still
 outline: [2, 3]
 ---
 
-# Particle: *Pa*
+# Particle: _Pa_
 
-The particle *pa* is an essential temporal particle in Tagalog that expresses continuation, incompletion, and the concept of "still," "yet," or "more." As the direct opposite of *na* (already), *pa* indicates that an action has not yet been completed, a state continues to exist, or additional quantity is desired. Understanding *pa* is crucial for expressing ongoing situations and future expectations in Tagalog.
+The particle _pa_ is an essential temporal particle in Tagalog that expresses continuation, incompletion, and the concept of "still," "yet," or "more." As the direct opposite of _na_ (already), _pa_ indicates that an action has not yet been completed, a state continues to exist, or additional quantity is desired. Understanding _pa_ is crucial for expressing ongoing situations and future expectations in Tagalog.
 
 ::: tip Quick Summary
-*Pa* primarily indicates that an action has not been completed ("yet," "not yet") or that a situation continues ("still"). It contrasts directly with *na* (already) and combines with other particles to express continuation, expectation, and additional quantity.
+_Pa_ primarily indicates that an action has not been completed ("yet," "not yet") or that a situation continues ("still"). It contrasts directly with _na_ (already) and combines with other particles to express continuation, expectation, and additional quantity.
 :::
 
 ## Core Meanings
 
-*Pa* carries several related meanings centered around continuation, incompletion, and addition.
+_Pa_ carries several related meanings centered around continuation, incompletion, and addition.
 
 ### 1. Continuation ("Still")
 
-The most common function of *pa* is to indicate that a state or action continues:
+The most common function of _pa_ is to indicate that a state or action continues:
 
-- *Kumakain pa ako.*  
+- _Kumakain pa ako._  
   (I'm still eating.)
-- *Nandito pa siya.*  
+- _Nandito pa siya._  
   (He/she is still here.)
-- *Umuulan pa.*  
+- _Umuulan pa._  
   (It's still raining.)
 
 ::: info Continuation Nuance
-*Pa* emphasizes that something has not yet changed or ended. It marks ongoing states before a transition happens.
+_Pa_ emphasizes that something has not yet changed or ended. It marks ongoing states before a transition happens.
 :::
 
 ### 2. Incompletion ("Yet," "Not Yet")
 
-*Pa* indicates that an action has not yet been completed:
+_Pa_ indicates that an action has not yet been completed:
 
-- *Hindi pa ako kumain.*  
+- _Hindi pa ako kumain._  
   (I haven't eaten yet.)
-- *Hindi pa siya dumating.*  
+- _Hindi pa siya dumating._  
   (He/she hasn't arrived yet.)
-- *Wala pa ang resulta.*  
+- _Wala pa ang resulta._  
   (The result isn't here yet.)
 
 ### 3. Additional Quantity ("More")
 
-*Pa* expresses the desire for more or additional amount:
+_Pa_ expresses the desire for more or additional amount:
 
-- *Gusto ko pa.*  
+- _Gusto ko pa._  
   (I want more.)
-- *May tubig ka pa ba?*  
+- _May tubig ka pa ba?_  
   (Do you have more water?)
-- *Isa pa.*  
+- _Isa pa._  
   (One more.)
 
 ### 4. Future Expectation ("Will Still")
 
-*Pa* indicates something will happen or continue in the future:
+_Pa_ indicates something will happen or continue in the future:
 
-- *Babalik pa ako.*  
+- _Babalik pa ako._  
   (I will come back.)
-- *Maglalaro pa kami bukas.*  
+- _Maglalaro pa kami bukas._  
   (We will still play tomorrow.)
-- *Makikita mo pa siya.*  
+- _Makikita mo pa siya._  
   (You will still see him/her.)
 
 ### 5. Remaining Time ("Still Have Time")
 
-*Pa* indicates time remaining before something happens:
+_Pa_ indicates time remaining before something happens:
 
-- *Maaga pa.*  
+- _Maaga pa._  
   (It's still early.)
-- *May oras pa.*  
+- _May oras pa._  
   (There's still time.)
-- *Bukas pa ang deadline.*  
+- _Bukas pa ang deadline._  
   (The deadline is still tomorrow.)
 
 ## Usage Patterns and Sentence Positions
 
-*Pa* is enclitic and typically follows the word or phrase it modifies.
+_Pa_ is enclitic and typically follows the word or phrase it modifies.
 
 ### After Verbs (Ongoing Actions)
 
 Indicates the action is still continuing:
 
-- *Natutulog pa ang bata.*
+- _Natutulog pa ang bata._
   (The child is still sleeping.)
-- *Nag-aaral pa ako.*  
+- _Nag-aaral pa ako._  
   (I'm still studying.)
-- *Naghihintay pa kami.*  
+- _Naghihintay pa kami._  
   (We're still waiting.)
 
 ### After Adjectives (Continuing State)
 
 Shows a quality still exists:
 
-- *Mainit pa ang kape.*  
+- _Mainit pa ang kape._  
   (The coffee is still hot.)
-- *Bago pa ang kotse.*  
+- _Bago pa ang kotse._  
   (The car is still new.)
-- *Mabuti pa ang kalagayan niya.*  
+- _Mabuti pa ang kalagayan niya._  
   (His/her condition is still good.)
 
 ### After Nouns (Identity/Existence)
 
 Indicates current identity or existence continues:
 
-- *Estudyante pa siya.*  
+- _Estudyante pa siya._  
   (He/she is still a student.)
-- *Gabi pa.*  
+- _Gabi pa._  
   (It's still nighttime.)
-- *Lunes pa bukas.*  
+- _Lunes pa bukas._  
   (Tomorrow is still Monday.)
 
 ### With Negative Constructions (Not Yet)
 
-Combined with *hindi* or *wala* to express "not yet":
+Combined with _hindi_ or _wala_ to express "not yet":
 
-- *Hindi pa ako tapos.*  
+- _Hindi pa ako tapos._  
   (I'm not done yet.)
-- *Wala pa siya.*  
+- _Wala pa siya._  
   (He/she isn't here yet.)
-- *Hindi pa ako nakakain.*  
+- _Hindi pa ako nakakain._  
   (I haven't eaten yet.)
 
 ### In Requests for More
 
 Used to ask for or express desire for additional quantity:
 
-- *Kaunti pa.*  
+- _Kaunti pa._  
   (A little more.)
-- *Dalawa pa.*  
+- _Dalawa pa._  
   (Two more.)
-- *Kuha ka pa ng tubig.*  
+- _Kuha ka pa ng tubig._  
   (Get more water.)
 
 ### With Time Expressions
 
 Emphasizes remaining time:
 
-- *Alas tres pa.*  
+- _Alas tres pa._  
   (It's still 3 o'clock. / Not until 3 o'clock.)
-- *Matagal pa.*  
+- _Matagal pa._  
   (It's still a long time.)
-- *Sandali pa.*  
+- _Sandali pa._  
   (Still a moment. / Wait a bit more.)
 
 ## Common Particle Combinations
 
-*Pa* frequently combines with other particles to create nuanced meanings.
+_Pa_ frequently combines with other particles to create nuanced meanings.
 
-### *Pa* + *Ba* (Still? - Question)
+### _Pa_ + _Ba_ (Still? - Question)
 
 Asks if something is still continuing:
 
-- *Kumakain ka pa ba?*  
+- _Kumakain ka pa ba?_  
   (Are you still eating?)
-- *Nandito pa ba siya?*  
+- _Nandito pa ba siya?_  
   (Is he/she still here?)
-- *Mahal mo pa ba ako?*  
+- _Mahal mo pa ba ako?_  
   (Do you still love me?)
 
 ::: tip Common Usage
-*Pa ba* questions are common in conversations to check if a state or action continues.
+_Pa ba_ questions are common in conversations to check if a state or action continues.
 :::
 
-### *Pa* + *Rin/Din* (Still Also)
+### _Pa_ + _Rin/Din_ (Still Also)
 
 Emphasizes continuing state with addition:
 
-- *Mahal ko pa rin siya.*  
+- _Mahal ko pa rin siya._  
   (I still love him/her.)
-- *Nandito pa din ako.*  
+- _Nandito pa din ako._  
   (I'm still here too.)
-- *Gusto ko pa rin.*  
+- _Gusto ko pa rin._  
   (I still want it.)
 
 ::: info Emotional Weight
-*Pa rin* often carries emotional significance, especially in expressions of love, loyalty, or persistence.
+_Pa rin_ often carries emotional significance, especially in expressions of love, loyalty, or persistence.
 :::
 
-### *Pa* + *Naman* (Still Though)
+### _Pa_ + _Naman_ (Still Though)
 
 Adds mild contrast or complaint about continuation:
 
-- *Tulog pa naman siya.*  
+- _Tulog pa naman siya._  
   (He/she is still asleep though.)
-- *Mahal pa naman.*  
+- _Mahal pa naman._  
   (It's still expensive though.)
-- *Wala pa naman ang order.*  
+- _Wala pa naman ang order._  
   (The order still isn't here though.)
 
-### *Pa* + *Lang* (Just Still)
+### _Pa_ + _Lang_ (Just Still)
 
 Softens or minimizes the continuation:
 
-- *Sandali pa lang.*  
+- _Sandali pa lang._  
   (Just a moment more.)
-- *Konti pa lang.*  
+- _Konti pa lang._  
   (Just a little more.)
-- *Isang oras pa lang.*  
+- _Isang oras pa lang._  
   (Only one more hour.)
 
-### *Pa* + *Nga* (Still Indeed)
+### _Pa_ + _Nga_ (Still Indeed)
 
 Emphasizes the continuing state:
 
-- *Nandito pa nga siya.*  
+- _Nandito pa nga siya._  
   (He/she is indeed still here.)
-- *Mainit pa nga.*  
+- _Mainit pa nga._  
   (It's still hot indeed.)
-- *Kumakain pa nga ako.*  
+- _Kumakain pa nga ako._  
   (I'm indeed still eating.)
 
-### *Hindi* + *Pa* (Not Yet)
+### _Hindi_ + _Pa_ (Not Yet)
 
 Standard negation pattern for incompletion:
 
-- *Hindi pa.*  
+- _Hindi pa._  
   (Not yet.)
-- *Hindi pa ako handa.*  
+- _Hindi pa ako handa._  
   (I'm not ready yet.)
-- *Hindi pa tapos ang palabas.*  
+- _Hindi pa tapos ang palabas._  
   (The show isn't finished yet.)
 
-### *Wala* + *Pa* (Not Here Yet)
+### _Wala_ + _Pa_ (Not Here Yet)
 
 Indicates something/someone hasn't arrived:
 
-- *Wala pa siya.*  
+- _Wala pa siya._  
   (He/she isn't here yet.)
-- *Wala pa ang package.*  
+- _Wala pa ang package._  
   (The package isn't here yet.)
-- *Wala pa tayong pera.*  
+- _Wala pa tayong pera._  
   (We don't have money yet.)
 
-### *May* + *Pa* (Still Have)
+### _May_ + _Pa_ (Still Have)
 
 Indicates remaining possession or existence:
 
-- *May oras pa tayo.*  
+- _May oras pa tayo._  
   (We still have time.)
-- *May pag-asa pa.*  
+- _May pag-asa pa._  
   (There's still hope.)
-- *May pagkain pa ba?*  
+- _May pagkain pa ba?_  
   (Is there still food?)
 
 ## Nuances and Tone
 
-The meaning of *pa* shifts based on context and intonation.
+The meaning of _pa_ shifts based on context and intonation.
 
 ### Neutral Continuation
 
 Standard reporting of ongoing state:
 
-- *Kumakain pa ako.*  
+- _Kumakain pa ako._  
   (I'm still eating. - matter of fact)
 
 ### Patient/Waiting Tone
 
 Expressing patience while waiting:
 
-- *Sandali pa.*  
+- _Sandali pa._  
   (Just a moment more. - patient)
-- *Hindi pa tapos.*  
+- _Hindi pa tapos._  
   (Not done yet. - informative)
-- *Matagal pa.*  
+- _Matagal pa._  
   (Still a long time. - accepting)
 
 ### Hopeful/Optimistic Tone
 
 Expressing hope for future continuation or possibility:
 
-- *May pag-asa pa.*  
+- _May pag-asa pa._  
   (There's still hope. - optimistic)
-- *Makakaya pa natin.*  
+- _Makakaya pa natin._  
   (We can still do it. - encouraging)
-- *Babalik pa siya.*  
+- _Babalik pa siya._  
   (He/she will come back. - hopeful)
 
 ### Desire for More
 
 Expressing want for additional quantity:
 
-- *Gusto ko pa!*  
+- _Gusto ko pa!_  
   (I want more! - enthusiastic)
-- *Isa pa!*  
+- _Isa pa!_  
   (One more! - requesting)
-- *Kaunti pa.*  
+- _Kaunti pa._  
   (A little more. - desiring)
 
 ### Persistence/Loyalty
 
 Expressing continuing commitment or state:
 
-- *Mahal ko pa rin siya.*  
+- _Mahal ko pa rin siya._  
   (I still love him/her. - loyal)
-- *Nandito pa rin ako.*  
+- _Nandito pa rin ako._  
   (I'm still here. - persistent)
-- *Hindi ako susuko. Laban pa rin.*  
+- _Hindi ako susuko. Laban pa rin._  
   (I won't give up. Still fighting. - determined)
 
 ### Surprise at Continuation
 
 Expressing surprise something is still ongoing:
 
-- *Tulog ka pa?*  
+- _Tulog ka pa?_  
   (You're still sleeping? - surprised)
-- *Nandito ka pa?*  
+- _Nandito ka pa?_  
   (You're still here? - unexpected)
-- *Umuulan pa rin?*  
+- _Umuulan pa rin?_  
   (It's still raining? - surprised)
 
 ::: warning Context is Key
-The same sentence with *pa* can express patience, desire, persistence, or surprise depending on tone and situation.
+The same sentence with _pa_ can express patience, desire, persistence, or surprise depending on tone and situation.
 :::
 
 ## Common Mistakes
 
-### ❌ Mistake 1: Confusing *Pa* with *Na*
+### ❌ Mistake 1: Confusing _Pa_ with _Na_
 
-The most common error is mixing up *pa* (still/yet) and *na* (already):
+The most common error is mixing up _pa_ (still/yet) and _na_ (already):
 
-- ❌ *Kumain na ako.* (when meaning "I'm still eating")
-- ✅ *Kumakain pa ako.* (I'm still eating.)
-- ❌ *Kumain pa ako.* (when meaning "I already ate")
-- ✅ *Kumain na ako.* (I already ate.)
-- 💡 *Pa* = ongoing/not yet; *Na* = completed/already done.
+- ❌ _Kumain na ako._ (when meaning "I'm still eating")
+- ✅ _Kumakain pa ako._ (I'm still eating.)
+- ❌ _Kumain pa ako._ (when meaning "I already ate")
+- ✅ _Kumain na ako._ (I already ate.)
+- 💡 _Pa_ = ongoing/not yet; _Na_ = completed/already done.
 
-### ❌ Mistake 2: Wrong Verb Aspect with *Pa*
+### ❌ Mistake 2: Wrong Verb Aspect with _Pa_
 
-Using completed aspect with *pa* when expressing continuation:
+Using completed aspect with _pa_ when expressing continuation:
 
-- ❌ *Kumain pa ako.* (incorrect aspect for "still eating")
-- ✅ *Kumakain pa ako.* (I'm still eating.)
-- 💡 Use progressive/imperfective aspect with *pa* for ongoing actions.
+- ❌ _Kumain pa ako._ (incorrect aspect for "still eating")
+- ✅ _Kumakain pa ako._ (I'm still eating.)
+- 💡 Use progressive/imperfective aspect with _pa_ for ongoing actions.
 
-### ❌ Mistake 3: Omitting *Hindi* with Negative *Pa*
+### ❌ Mistake 3: Omitting _Hindi_ with Negative _Pa_
 
 Forgetting negation when expressing "not yet":
 
-- ❌ *Pa ako kumain.* (incorrect)
-- ✅ *Hindi pa ako kumain.* (I haven't eaten yet.)
-- 💡 Use *hindi pa* or *wala pa* for "not yet."
+- ❌ _Pa ako kumain._ (incorrect)
+- ✅ _Hindi pa ako kumain._ (I haven't eaten yet.)
+- 💡 Use _hindi pa_ or _wala pa_ for "not yet."
 
 ### ❌ Mistake 4: Wrong Position in Sentence
 
-*Pa* must follow the word it modifies:
+_Pa_ must follow the word it modifies:
 
-- ❌ *Pa kumakain ako.*
-- ✅ *Kumakain pa ako.*
-- 💡 *Pa* is enclitic and cannot start a sentence (except in very informal short responses).
+- ❌ _Pa kumakain ako._
+- ✅ _Kumakain pa ako._
+- 💡 _Pa_ is enclitic and cannot start a sentence (except in very informal short responses).
 
-### ❌ Mistake 5: Using *Pa* with Completed Past
+### ❌ Mistake 5: Using _Pa_ with Completed Past
 
-Using *pa* with actions that are clearly finished:
+Using _pa_ with actions that are clearly finished:
 
-- ❌ *Kumain pa ako kahapon.* (awkward - yesterday but using *pa*)
-- ✅ *Kumain na ako kahapon.* (I already ate yesterday.)
-- ✅ *Kumakain pa ako noon.* (I was still eating then.)
-- 💡 *Pa* indicates ongoing or not-yet states, not completed past actions.
+- ❌ _Kumain pa ako kahapon._ (awkward - yesterday but using _pa_)
+- ✅ _Kumain na ako kahapon._ (I already ate yesterday.)
+- ✅ _Kumakain pa ako noon._ (I was still eating then.)
+- 💡 _Pa_ indicates ongoing or not-yet states, not completed past actions.
 
 ### ❌ Mistake 6: Confusing "More" vs. "Still"
 
 Not distinguishing between continuation and additional quantity:
 
 - Context matters:
-  - *Kumakain pa ako.* = I'm still eating. (continuation)
-  - *Gusto ko pa ng rice.* = I want more rice. (additional)
+  - _Kumakain pa ako._ = I'm still eating. (continuation)
+  - _Gusto ko pa ng rice._ = I want more rice. (additional)
 - 💡 Both meanings are valid; context clarifies which meaning applies.
 
 ## Comparisons with Similar Particles
 
-### *Pa* vs. *Na*
+### _Pa_ vs. _Na_
 
 These are direct opposites in temporal meaning:
 
-| Aspect | *Pa* | *Na* |
-| ------ | ---- | ---- |
-| Core Meaning | Still, yet, not yet, more | Already, completed, now |
-| State | Before completion or continuing | After completion or changed |
-| Example | *Kumakain pa ako.* (I'm still eating.) | *Kumain na ako.* (I already ate.) |
-| Question | *Kumakain ka pa ba?* (Are you still eating?) | *Kumain ka na ba?* (Have you eaten?) |
-| Negative | *Hindi pa.* (Not yet.) | *Hindi na.* (Not anymore.) |
+| Aspect       | _Pa_                                         | _Na_                                 |
+| ------------ | -------------------------------------------- | ------------------------------------ |
+| Core Meaning | Still, yet, not yet, more                    | Already, completed, now              |
+| State        | Before completion or continuing              | After completion or changed          |
+| Example      | _Kumakain pa ako._ (I'm still eating.)       | _Kumain na ako._ (I already ate.)    |
+| Question     | _Kumakain ka pa ba?_ (Are you still eating?) | _Kumain ka na ba?_ (Have you eaten?) |
+| Negative     | _Hindi pa._ (Not yet.)                       | _Hindi na._ (Not anymore.)           |
 
-- *Nandito pa siya.* (He/she is still here.)
-- *Nandito na siya.* (He/she is here already.)
+- _Nandito pa siya._ (He/she is still here.)
+- _Nandito na siya._ (He/she is here already.)
 
-### *Pa* vs. *Muna*
+### _Pa_ vs. _Muna_
 
 Both relate to timing but differently:
 
-| Aspect | *Pa* | *Muna* |
-| ------ | ---- | ------ |
+| Aspect   | _Pa_                                          | _Muna_                                |
+| -------- | --------------------------------------------- | ------------------------------------- |
 | Function | Still/yet/more (continuation or incompletion) | First/for now (before something else) |
-| Focus | Ongoing or not-yet state | Priority or temporary action |
-| Example | *Kumakain pa ako.* (I'm still eating.) | *Kumain muna ako.* (I'll eat first.) |
+| Focus    | Ongoing or not-yet state                      | Priority or temporary action          |
+| Example  | _Kumakain pa ako._ (I'm still eating.)        | _Kumain muna ako._ (I'll eat first.)  |
 
-- *Nandito pa ako.* (I'm still here. - continuing to be here)
-- *Nandito muna ako.* (I'm here first. - will leave later or do something after)
+- _Nandito pa ako._ (I'm still here. - continuing to be here)
+- _Nandito muna ako._ (I'm here first. - will leave later or do something after)
 
-### *Pa* vs. *Rin/Din* (Also)
+### _Pa_ vs. _Rin/Din_ (Also)
 
 Different addition meanings:
 
-| Aspect | *Pa* | *Rin/Din* |
-| ------ | ---- | --------- |
-| Function | More/additional quantity or continuation | Also/too (similarity) |
-| Focus | Quantity or time | Inclusion |
-| Example | *Gusto ko pa.* (I want more.) | *Gusto ko rin.* (I want it too.) |
-| Combined | *Gusto ko pa rin.* (I still want it. - continuing desire) | |
+| Aspect   | _Pa_                                                      | _Rin/Din_                        |
+| -------- | --------------------------------------------------------- | -------------------------------- |
+| Function | More/additional quantity or continuation                  | Also/too (similarity)            |
+| Focus    | Quantity or time                                          | Inclusion                        |
+| Example  | _Gusto ko pa._ (I want more.)                             | _Gusto ko rin._ (I want it too.) |
+| Combined | _Gusto ko pa rin._ (I still want it. - continuing desire) |                                  |
 
-- *Isa pa.* (One more. - additional quantity)
-- *Ako rin.* (Me too. - also)
-- *Mahal ko pa rin siya.* (I still love him/her. - continuing love)
+- _Isa pa._ (One more. - additional quantity)
+- _Ako rin._ (Me too. - also)
+- _Mahal ko pa rin siya._ (I still love him/her. - continuing love)
 
-### *Pa* vs. *Lang* (Only/Just)
+### _Pa_ vs. _Lang_ (Only/Just)
 
 Different limiting meanings:
 
-| Aspect | *Pa* | *Lang* |
-| ------ | ---- | ------ |
-| Function | Still/more (continuation/addition) | Only/just (limitation) |
-| Focus | Ongoing or wanting more | Restricting scope |
-| Example | *Sandali pa.* (Wait a bit more.) | *Sandali lang.* (Just a moment.) |
+| Aspect   | _Pa_                               | _Lang_                           |
+| -------- | ---------------------------------- | -------------------------------- |
+| Function | Still/more (continuation/addition) | Only/just (limitation)           |
+| Focus    | Ongoing or wanting more            | Restricting scope                |
+| Example  | _Sandali pa._ (Wait a bit more.)   | _Sandali lang._ (Just a moment.) |
 
-- *Konti pa.* (A little more. - wanting additional)
-- *Konti lang.* (Just a little. - limiting amount)
+- _Konti pa._ (A little more. - wanting additional)
+- _Konti lang._ (Just a little. - limiting amount)
 
 ## Cultural Context
 
-Understanding the cultural role of *pa* enhances appropriate usage.
+Understanding the cultural role of _pa_ enhances appropriate usage.
 
 ### Continuation and Perseverance
 
-Filipino culture values perseverance and resilience, reflected in *pa* usage:
+Filipino culture values perseverance and resilience, reflected in _pa_ usage:
 
-- *Laban pa rin!* (Still fighting! - perseverance)
-- *May pag-asa pa.* (There's still hope. - optimism)
-- *Kaya pa natin.* (We can still do it. - determination)
+- _Laban pa rin!_ (Still fighting! - perseverance)
+- _May pag-asa pa._ (There's still hope. - optimism)
+- _Kaya pa natin._ (We can still do it. - determination)
 - Shows cultural value of not giving up
 
 ### Hospitality and Generosity
 
-*Pa* expresses Filipino hospitality through offering more:
+_Pa_ expresses Filipino hospitality through offering more:
 
-- *Kain pa.* (Eat more. - generosity)
-- *Kuha ka pa.* (Take more. - hospitality)
-- *May pagkain pa.* (There's still food. - ensuring guests are satisfied)
-- Refusing immediately is polite; host insists with *pa*
+- _Kain pa._ (Eat more. - generosity)
+- _Kuha ka pa._ (Take more. - hospitality)
+- _May pagkain pa._ (There's still food. - ensuring guests are satisfied)
+- Refusing immediately is polite; host insists with _pa_
 
 ### Time Flexibility
 
-Filipino concepts of time flexibility appear in *pa* usage:
+Filipino concepts of time flexibility appear in _pa_ usage:
 
-- *Maaga pa.* (It's still early. - no rush)
-- *Bukas pa.* (Still tomorrow. - not urgent today)
-- *May oras pa.* (Still have time. - relaxed attitude)
+- _Maaga pa._ (It's still early. - no rush)
+- _Bukas pa._ (Still tomorrow. - not urgent today)
+- _May oras pa._ (Still have time. - relaxed attitude)
 - Reflects "Filipino time" and less rigid scheduling
 
 ### Emotional Continuity
 
-*Pa* expresses continuing emotions, important in Filipino relationships:
+_Pa_ expresses continuing emotions, important in Filipino relationships:
 
-- *Mahal ko pa rin siya.* (I still love him/her. - loyalty)
-- *Miss kita pa rin.* (I still miss you. - longing)
-- *Naalala ko pa siya.* (I still remember him/her. - memory)
+- _Mahal ko pa rin siya._ (I still love him/her. - loyalty)
+- _Miss kita pa rin._ (I still miss you. - longing)
+- _Naalala ko pa siya._ (I still remember him/her. - memory)
 - Demonstrates loyalty and depth of feeling
 
 ### Patience and Waiting
 
-*Pa* reflects cultural patience and acceptance:
+_Pa_ reflects cultural patience and acceptance:
 
-- *Sandali pa.* (Just a bit more. - patience)
-- *Hindi pa.* (Not yet. - accepting timing)
-- *Matagal pa.* (Still a long time. - patient waiting)
+- _Sandali pa._ (Just a bit more. - patience)
+- _Hindi pa._ (Not yet. - accepting timing)
+- _Matagal pa._ (Still a long time. - patient waiting)
 - Shows acceptance of processes taking time
 
 ::: info Regional Variations
-*Pa* usage frequency and combinations vary by region. Urban Manila speakers tend to use *pa rin* and *pa naman* very frequently in casual conversation, while some provincial areas may use these combinations more sparingly. The basic *pa* for continuation and *hindi pa* for "not yet" are consistent across all regions.
+_Pa_ usage frequency and combinations vary by region. Urban Manila speakers tend to use _pa rin_ and _pa naman_ very frequently in casual conversation, while some provincial areas may use these combinations more sparingly. The basic _pa_ for continuation and _hindi pa_ for "not yet" are consistent across all regions.
 :::
 
 ## Practice Patterns
@@ -488,96 +488,96 @@ Focus on basic continuation and simple "still" or "not yet" statements.
 
 #### Pattern 1: Ongoing Actions (Still Doing)
 
-- *Kumakain pa ako.*  
+- _Kumakain pa ako._  
   (I'm still eating.)
-- *Nag-aaral pa siya.*  
+- _Nag-aaral pa siya._  
   (He/she is still studying.)
-- *Naglalaro pa kami.*  
+- _Naglalaro pa kami._  
   (We're still playing.)
 
 #### Pattern 2: Basic Negative (Not Yet)
 
-- *Hindi pa ako kumain.*  
+- _Hindi pa ako kumain._  
   (I haven't eaten yet.)
-- *Hindi pa siya dumating.*  
+- _Hindi pa siya dumating._  
   (He/she hasn't arrived yet.)
-- *Wala pa ang resulta.*  
+- _Wala pa ang resulta._  
   (The result isn't here yet.)
 
-#### Pattern 3: Simple Questions with *Pa Ba*
+#### Pattern 3: Simple Questions with _Pa Ba_
 
-- *Kumakain ka pa ba?*  
+- _Kumakain ka pa ba?_  
   (Are you still eating?)
-- *Nandito pa ba siya?*  
+- _Nandito pa ba siya?_  
   (Is he/she still here?)
-- *Mayroon pa ba?*  
+- _Mayroon pa ba?_  
   (Is there still some?)
 
 #### Pattern 4: Requesting More
 
-- *Isa pa.*  
+- _Isa pa._  
   (One more.)
-- *Kaunti pa.*  
+- _Kaunti pa._  
   (A little more.)
-- *Tubig pa.*  
+- _Tubig pa._  
   (More water.)
 
 #### Pattern 5: Time Expressions
 
-- *Maaga pa.*  
+- _Maaga pa._  
   (It's still early.)
-- *May oras pa.*  
+- _May oras pa._  
   (There's still time.)
-- *Bukas pa.*  
+- _Bukas pa._  
   (Still tomorrow. / Not until tomorrow.)
 
 ### Intermediate Level
 
 Add combinations and state continuation expressions.
 
-#### Pattern 1: *Pa Rin* (Still - Emphatic)
+#### Pattern 1: _Pa Rin_ (Still - Emphatic)
 
-- *Mahal ko pa rin siya.*  
+- _Mahal ko pa rin siya._  
   (I still love him/her.)
-- *Nandito pa rin ako.*  
+- _Nandito pa rin ako._  
   (I'm still here.)
-- *Gutom pa rin ako.*  
+- _Gutom pa rin ako._  
   (I'm still hungry.)
 
 #### Pattern 2: Continuing States
 
-- *Estudyante pa siya.*  
+- _Estudyante pa siya._  
   (He/she is still a student.)
-- *Bata pa ako.*  
+- _Bata pa ako._  
   (I'm still young.)
-- *Mainit pa ang ulam.*  
+- _Mainit pa ang ulam._  
   (The food is still hot.)
 
-#### Pattern 3: *Pa Naman* (Still Though)
+#### Pattern 3: _Pa Naman_ (Still Though)
 
-- *Tulog pa naman siya.*  
+- _Tulog pa naman siya._  
   (He/she is still asleep though.)
-- *Mahal pa naman.*  
+- _Mahal pa naman._  
   (It's still expensive though.)
-- *Malayo pa naman.*  
+- _Malayo pa naman._  
   (It's still far though.)
 
-#### Pattern 4: Future with *Pa*
+#### Pattern 4: Future with _Pa_
 
-- *Babalik pa ako.*  
+- _Babalik pa ako._  
   (I will come back.)
-- *Makikita mo pa siya.*  
+- _Makikita mo pa siya._  
   (You will still see him/her.)
-- *Mag-aaral pa kami.*  
+- _Mag-aaral pa kami._  
   (We will still study.)
 
 #### Pattern 5: Remaining Quantity/Time
 
-- *May dalawang araw pa.*  
+- _May dalawang araw pa._  
   (There are still two days.)
-- *May konting pera pa.*  
+- _May konting pera pa._  
   (There's still a little money.)
-- *May pagkain pa ba?*  
+- _May pagkain pa ba?_  
   (Is there still food?)
 
 ### Advanced Level
@@ -586,142 +586,142 @@ Master subtle nuances, complex combinations, and natural flow.
 
 #### Pattern 1: Multiple Particle Combinations
 
-- *Mahal ko pa rin siya kahit ano.*  
+- _Mahal ko pa rin siya kahit ano._  
   (I still love him/her no matter what.)
-- *Nandito pa ba talaga siya?*  
+- _Nandito pa ba talaga siya?_  
   (Is he/she really still here?)
-- *Hindi pa rin ako tapos.*  
+- _Hindi pa rin ako tapos._  
   (I'm still not done.)
-- *Gusto ko pa nga.*  
+- _Gusto ko pa nga._  
   (I really do want more.)
 
 #### Pattern 2: Emotional Expressions
 
-- *Miss kita pa rin.*  
+- _Miss kita pa rin._  
   (I still miss you.)
-- *Naalala ko pa ang lahat.*  
+- _Naalala ko pa ang lahat._  
   (I still remember everything.)
-- *Masakit pa rin.*  
+- _Masakit pa rin._  
   (It still hurts.)
-- *Umaasa pa ako.*  
+- _Umaasa pa ako._  
   (I still have hope.)
 
 #### Pattern 3: Persistence and Determination
 
-- *Laban pa rin!*  
+- _Laban pa rin!_  
   (Still fighting!)
-- *Hindi ako susuko. Kaya ko pa.*  
+- _Hindi ako susuko. Kaya ko pa._  
   (I won't give up. I can still do it.)
-- *May pag-asa pa tayo.*  
+- _May pag-asa pa tayo._  
   (We still have hope.)
-- *Kaya pa natin ito.*  
+- _Kaya pa natin ito._  
   (We can still do this.)
 
 #### Pattern 4: Natural Conversation Flow
 
-- *Kumain ka na ba? Hindi pa. Tara, kain tayo.*  
+- _Kumain ka na ba? Hindi pa. Tara, kain tayo._  
   (Have you eaten? Not yet. Come on, let's eat.)
-- *Nandito pa ba siya? Oo, nandito pa. Tulog pa nga.*  
+- _Nandito pa ba siya? Oo, nandito pa. Tulog pa nga._  
   (Is he/she still here? Yes, still here. Still sleeping actually.)
-- *May oras pa ba tayo? Oo, maaga pa. May oras pa.*  
+- _May oras pa ba tayo? Oo, maaga pa. May oras pa._  
   (Do we still have time? Yes, it's still early. We still have time.)
 
 #### Pattern 5: Idiomatic Expressions
 
-- *Buhay pa ang pag-asa.*  
+- _Buhay pa ang pag-asa._  
   (Hope is still alive.)
-- *May bukas pa.*  
+- _May bukas pa._  
   (There's still tomorrow. - optimistic)
-- *Hindi pa tapos ang laban.*  
+- _Hindi pa tapos ang laban._  
   (The fight isn't over yet.)
-- *Kaya pa, kayang-kaya pa.*  
+- _Kaya pa, kayang-kaya pa._  
   (Can still do it, can definitely still do it.)
 
 #### Pattern 6: Subtle Nuances in Context
 
-- *Gusto kita. Gusto pa rin kita.* (I like you. I still like you. - *pa rin* adds continuity and emotional depth)
-- *Nandito ako. Nandito pa ako.* (I'm here. I'm still here. - *pa* emphasizes continued presence)
-- *May pera ako. May pera pa ako.* (I have money. I still have money. - *pa* indicates remaining amount)
+- _Gusto kita. Gusto pa rin kita._ (I like you. I still like you. - _pa rin_ adds continuity and emotional depth)
+- _Nandito ako. Nandito pa ako._ (I'm here. I'm still here. - _pa_ emphasizes continued presence)
+- _May pera ako. May pera pa ako._ (I have money. I still have money. - _pa_ indicates remaining amount)
 
-#### Pattern 7: Contrast with *Na*
+#### Pattern 7: Contrast with _Na_
 
 Practice distinguishing between the two opposites:
 
-- *Kumain na ako. / Kumakain pa ako.*  
+- _Kumain na ako. / Kumakain pa ako._  
   (I already ate. / I'm still eating.)
-- *Umuwi na siya. / Nandito pa siya.*  
+- _Umuwi na siya. / Nandito pa siya._  
   (He/she already went home. / He/she is still here.)
-- *Tapos na. / Hindi pa tapos.*  
+- _Tapos na. / Hindi pa tapos._  
   (Already finished. / Not finished yet.)
 
 ## Summary
 
-Key points about *pa*:
+Key points about _pa_:
 
 - **Primary functions**: Continuation (still), incompletion (yet, not yet), additional quantity (more)
 - **Position**: Enclitic - follows the word it modifies
-- **Opposite**: *Na* (already, now, completed)
-- **Common combinations**: *pa ba* (still?), *pa rin* (still - emphatic), *pa naman* (still though), *hindi pa* (not yet), *wala pa* (not here yet)
+- **Opposite**: _Na_ (already, now, completed)
+- **Common combinations**: _pa ba_ (still?), _pa rin_ (still - emphatic), _pa naman_ (still though), _hindi pa_ (not yet), _wala pa_ (not here yet)
 - **Cultural role**: Reflects Filipino values of perseverance, hospitality, patience, and emotional continuity
 - **Learning focus**: Master basic continuation first, then incompletion (not yet), then additional quantity meanings
 
 ::: tip Mastery Approach
-The key to mastering *pa* is understanding it marks ongoing states, incompletion, or desire for more, in direct contrast to *na* which marks completion and change. Listen to how native speakers use *pa* to express what hasn't changed yet or what continues to exist.
+The key to mastering _pa_ is understanding it marks ongoing states, incompletion, or desire for more, in direct contrast to _na_ which marks completion and change. Listen to how native speakers use _pa_ to express what hasn't changed yet or what continues to exist.
 :::
 
 ## Practice Exercises
 
-### Exercise 1: *Pa* vs. *Na*
+### Exercise 1: _Pa_ vs. _Na_
 
-Choose the correct particle (*pa* or *na*):
+Choose the correct particle (_pa_ or _na_):
 
-1. Kumakain ___ ako. (I'm still eating.) → *pa*
-2. Kumain ___ siya. (He/she already ate.) → *na*
-3. Hindi ___ ako tapos. (I'm not done yet.) → *pa*
-4. Umuwi ___ sila. (They already went home.) → *na*
-5. Nandito ___ ako. (I'm still here.) → *pa*
+1. Kumakain \_\_\_ ako. (I'm still eating.) → _pa_
+2. Kumain \_\_\_ siya. (He/she already ate.) → _na_
+3. Hindi \_\_\_ ako tapos. (I'm not done yet.) → _pa_
+4. Umuwi \_\_\_ sila. (They already went home.) → _na_
+5. Nandito \_\_\_ ako. (I'm still here.) → _pa_
 
-### Exercise 2: Add *Pa* for Continuation
+### Exercise 2: Add _Pa_ for Continuation
 
 Transform these statements to indicate continuation:
 
-1. *Kumakain ako.* → *Kumakain pa ako.* (I'm still eating.)
-2. *Nag-aaral siya.* → *Nag-aaral pa siya.* (He/she is still studying.)
-3. *Mainit ang kape.* → *Mainit pa ang kape.* (The coffee is still hot.)
-4. *Nandito siya.* → *Nandito pa siya.* (He/she is still here.)
+1. _Kumakain ako._ → _Kumakain pa ako._ (I'm still eating.)
+2. _Nag-aaral siya._ → _Nag-aaral pa siya._ (He/she is still studying.)
+3. _Mainit ang kape._ → _Mainit pa ang kape._ (The coffee is still hot.)
+4. _Nandito siya._ → _Nandito pa siya._ (He/she is still here.)
 
-### Exercise 3: Form Questions with *Pa Ba*
+### Exercise 3: Form Questions with _Pa Ba_
 
 Create questions asking about continuation:
 
-1. *Kumakain ka ___?* → *Kumakain ka pa ba?* (Are you still eating?)
-2. *Nandito ___ siya?* → *Nandito pa ba siya?* (Is he/she still here?)
-3. *May tubig ___ ?* → *May tubig pa ba?* (Is there still water?)
+1. _Kumakain ka \_\_\_?_ → _Kumakain ka pa ba?_ (Are you still eating?)
+2. _Nandito \_\_\_ siya?_ → _Nandito pa ba siya?_ (Is he/she still here?)
+3. _May tubig \_\_\_ ?_ → _May tubig pa ba?_ (Is there still water?)
 
-### Exercise 4: Use *Pa Rin*
+### Exercise 4: Use _Pa Rin_
 
 Express continuing state with emphasis:
 
-1. *Mahal ko ___ siya.* → *Mahal ko pa rin siya.* (I still love him/her.)
-2. *Nandito ___ ako.* → *Nandito pa rin ako.* (I'm still here.)
-3. *Gutom ___ ako.* → *Gutom pa rin ako.* (I'm still hungry.)
+1. _Mahal ko \_\_\_ siya._ → _Mahal ko pa rin siya._ (I still love him/her.)
+2. _Nandito \_\_\_ ako._ → _Nandito pa rin ako._ (I'm still here.)
+3. _Gutom \_\_\_ ako._ → _Gutom pa rin ako._ (I'm still hungry.)
 
-### Exercise 5: Negative with *Pa* (Not Yet)
+### Exercise 5: Negative with _Pa_ (Not Yet)
 
 Form "not yet" statements:
 
-1. *___ ako kumain.* → *Hindi pa ako kumain.* (I haven't eaten yet.)
-2. *___ siya.* → *Wala pa siya.* (He/she isn't here yet.)
-3. *___ tapos ang trabaho.* → *Hindi pa tapos ang trabaho.* (The work isn't done yet.)
+1. _\_\_\_ ako kumain._ → _Hindi pa ako kumain._ (I haven't eaten yet.)
+2. _\_\_\_ siya._ → _Wala pa siya._ (He/she isn't here yet.)
+3. _\_\_\_ tapos ang trabaho._ → _Hindi pa tapos ang trabaho._ (The work isn't done yet.)
 
 ### Exercise 6: Identify the Meaning
 
-Determine what *pa* expresses in each sentence:
+Determine what _pa_ expresses in each sentence:
 
-1. *Kumakain pa ako.* (Continuation - still eating)
-2. *Hindi pa ako kumain.* (Incompletion - not yet eaten)
-3. *Gusto ko pa.* (Additional quantity - want more)
-4. *Babalik pa ako.* (Future expectation - will come back)
-5. *Maaga pa.* (Remaining time - still early)
+1. _Kumakain pa ako._ (Continuation - still eating)
+2. _Hindi pa ako kumain._ (Incompletion - not yet eaten)
+3. _Gusto ko pa._ (Additional quantity - want more)
+4. _Babalik pa ako._ (Future expectation - will come back)
+5. _Maaga pa._ (Remaining time - still early)
 
 See also: [Particle: Na](./na.md), [Particle: Muna](./muna.md), [Particle: Rin/Din](../limiting/din-rin.md), [Particles Index](../index.md), [Sentence Structure](../../sentence-structure.md)

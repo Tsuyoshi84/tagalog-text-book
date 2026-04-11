@@ -18,15 +18,15 @@ Every Tagalog verb is built from a root word, which carries the basic meaning.
 
 Examples:
 
-- *kain* — eat
-- *sulat* — write
-- *luto* — cook
-- *bili* — buy
-- *linis* — clean
+- _kain_ — eat
+- _sulat_ — write
+- _luto_ — cook
+- _bili_ — buy
+- _linis_ — clean
 
 ### Step 2: Select the Focus
 
-Determine which participant should be the topic (marked with *ang* or *si*).
+Determine which participant should be the topic (marked with _ang_ or _si_).
 
 Focus options:
 
@@ -40,35 +40,35 @@ Focus options:
 
 Add the appropriate affix for the chosen focus.
 
-| Focus | Common Affixes |
-|-------|----------------|
-| Actor | *-um-*, *mag-*, *ma-*, *mang-* |
-| Patient | *-in*, *i-* |
-| Locative | *-an*, *pag-...-an* |
-| Benefactive | *ipag-*, *i-* |
-| Instrumental | *ipang-*, *pang-* |
+| Focus        | Common Affixes                 |
+| ------------ | ------------------------------ |
+| Actor        | _-um-_, _mag-_, _ma-_, _mang-_ |
+| Patient      | _-in_, _i-_                    |
+| Locative     | _-an_, _pag-...-an_            |
+| Benefactive  | _ipag-_, _i-_                  |
+| Instrumental | _ipang-_, _pang-_              |
 
 ### Step 4: Apply Aspect Marking
 
 Add the appropriate aspect markers through reduplication or affix changes.
 
-| Aspect | Typical Marking |
-|--------|-----------------|
-| Perfective | Nasal changes (*mag-* → *nag-*), infix *-in-* |
-| Imperfective | First CV syllable reduplication |
-| Contemplative | Base affix with specific reduplication |
+| Aspect        | Typical Marking                               |
+| ------------- | --------------------------------------------- |
+| Perfective    | Nasal changes (_mag-_ → _nag-_), infix _-in-_ |
+| Imperfective  | First CV syllable reduplication               |
+| Contemplative | Base affix with specific reduplication        |
 
 ## Actor Focus Conjugation (-um-)
 
 ### Pattern Rules
 
-1. **Perfective**: Insert *-um-* after the first consonant
-2. **Imperfective**: Insert *-um-* + reduplicate first CV after affix
+1. **Perfective**: Insert _-um-_ after the first consonant
+2. **Imperfective**: Insert _-um-_ + reduplicate first CV after affix
 3. **Contemplative**: Reduplicate first CV of root only
 
 ### Examples
 
-#### Root: *kain* (eat)
+#### Root: _kain_ (eat)
 
 ```text
 1. Identify first consonant: k
@@ -77,13 +77,13 @@ Add the appropriate aspect markers through reduplication or affix changes.
 4. Reduplicate root for contemplative: ka + kain → kakain
 ```
 
-| Aspect | Form | Example Sentence | English |
-|--------|------|------------------|---------|
-| Perfective | *kumain* | *Kumain si Ana ng tinapay.* | Ana ate bread. |
-| Imperfective | *kumakain* | *Kumakain si Ana ng tinapay.* | Ana is eating bread. |
-| Contemplative | *kakain* | *Kakain si Ana ng tinapay.* | Ana will eat bread. |
+| Aspect        | Form       | Example Sentence              | English              |
+| ------------- | ---------- | ----------------------------- | -------------------- |
+| Perfective    | _kumain_   | _Kumain si Ana ng tinapay._   | Ana ate bread.       |
+| Imperfective  | _kumakain_ | _Kumakain si Ana ng tinapay._ | Ana is eating bread. |
+| Contemplative | _kakain_   | _Kakain si Ana ng tinapay._   | Ana will eat bread.  |
 
-#### Root: *sulat* (write)
+#### Root: _sulat_ (write)
 
 ```text
 1. First consonant: s
@@ -92,13 +92,13 @@ Add the appropriate aspect markers through reduplication or affix changes.
 4. Contemplative: su + sulat → susulat
 ```
 
-| Aspect | Form | Example Sentence | English |
-|--------|------|------------------|---------|
-| Perfective | *sumulat* | *Sumulat ang bata ng liham.* | The child wrote a letter. |
-| Imperfective | *sumusulat* | *Sumusulat ang bata ng liham.* | The child is writing a letter. |
-| Contemplative | *susulat* | *Susulat ang bata ng liham.* | The child will write a letter. |
+| Aspect        | Form        | Example Sentence               | English                        |
+| ------------- | ----------- | ------------------------------ | ------------------------------ |
+| Perfective    | _sumulat_   | _Sumulat ang bata ng liham._   | The child wrote a letter.      |
+| Imperfective  | _sumusulat_ | _Sumusulat ang bata ng liham._ | The child is writing a letter. |
+| Contemplative | _susulat_   | _Susulat ang bata ng liham._   | The child will write a letter. |
 
-#### Root: *bili* (buy)
+#### Root: _bili_ (buy)
 
 ```text
 1. First consonant: b
@@ -107,23 +107,23 @@ Add the appropriate aspect markers through reduplication or affix changes.
 4. Contemplative: bi + bili → bibili
 ```
 
-| Aspect | Form | Example Sentence | English |
-|--------|------|------------------|---------|
-| Perfective | *bumili* | *Bumili si Jose ng libro.* | Jose bought a book. |
-| Imperfective | *bumibili* | *Bumibili si Jose ng libro.* | Jose is buying a book. |
-| Contemplative | *bibili* | *Bibili si Jose ng libro.* | Jose will buy a book. |
+| Aspect        | Form       | Example Sentence             | English                |
+| ------------- | ---------- | ---------------------------- | ---------------------- |
+| Perfective    | _bumili_   | _Bumili si Jose ng libro._   | Jose bought a book.    |
+| Imperfective  | _bumibili_ | _Bumibili si Jose ng libro._ | Jose is buying a book. |
+| Contemplative | _bibili_   | _Bibili si Jose ng libro._   | Jose will buy a book.  |
 
 ## Actor Focus Conjugation (mag-)
 
 ### Pattern Rules
 
-1. **Perfective**: Change *mag-* to *nag-*
-2. **Imperfective**: Use *nag-* + reduplicate first CV of root
-3. **Contemplative**: Keep *mag-* + reduplicate first CV of root
+1. **Perfective**: Change _mag-_ to _nag-_
+2. **Imperfective**: Use _nag-_ + reduplicate first CV of root
+3. **Contemplative**: Keep _mag-_ + reduplicate first CV of root
 
 ### Examples
 
-#### Root: *luto* (cook)
+#### Root: _luto_ (cook)
 
 ```text
 1. Perfective: nag + luto → nagluto
@@ -131,13 +131,13 @@ Add the appropriate aspect markers through reduplication or affix changes.
 3. Contemplative: mag + lu + luto → magluluto
 ```
 
-| Aspect | Form | Example Sentence | English |
-|--------|------|------------------|---------|
-| Perfective | *nagluto* | *Nagluto si Maria ng adobo.* | Maria cooked adobo. |
-| Imperfective | *nagluluto* | *Nagluluto si Maria ng adobo.* | Maria is cooking adobo. |
-| Contemplative | *magluluto* | *Magluluto si Maria ng adobo.* | Maria will cook adobo. |
+| Aspect        | Form        | Example Sentence               | English                 |
+| ------------- | ----------- | ------------------------------ | ----------------------- |
+| Perfective    | _nagluto_   | _Nagluto si Maria ng adobo._   | Maria cooked adobo.     |
+| Imperfective  | _nagluluto_ | _Nagluluto si Maria ng adobo._ | Maria is cooking adobo. |
+| Contemplative | _magluluto_ | _Magluluto si Maria ng adobo._ | Maria will cook adobo.  |
 
-#### Root: *linis* (clean)
+#### Root: _linis_ (clean)
 
 ```text
 1. Perfective: nag + linis → naglinis
@@ -145,13 +145,13 @@ Add the appropriate aspect markers through reduplication or affix changes.
 3. Contemplative: mag + li + linis → maglilinis
 ```
 
-| Aspect | Form | Example Sentence | English |
-|--------|------|------------------|---------|
-| Perfective | *naglinis* | *Naglinis ang bata ng kwarto.* | The child cleaned the room. |
-| Imperfective | *naglilinis* | *Naglilinis ang bata ng kwarto.* | The child is cleaning the room. |
-| Contemplative | *maglilinis* | *Maglilinis ang bata ng kwarto.* | The child will clean the room. |
+| Aspect        | Form         | Example Sentence                 | English                         |
+| ------------- | ------------ | -------------------------------- | ------------------------------- |
+| Perfective    | _naglinis_   | _Naglinis ang bata ng kwarto._   | The child cleaned the room.     |
+| Imperfective  | _naglilinis_ | _Naglilinis ang bata ng kwarto._ | The child is cleaning the room. |
+| Contemplative | _maglilinis_ | _Maglilinis ang bata ng kwarto._ | The child will clean the room.  |
 
-#### Root: *trabaho* (work)
+#### Root: _trabaho_ (work)
 
 ```text
 1. Perfective: nag + trabaho → nagtrabaho
@@ -159,23 +159,23 @@ Add the appropriate aspect markers through reduplication or affix changes.
 3. Contemplative: mag + tra + trabaho → magtatrabaho
 ```
 
-| Aspect | Form | Example Sentence | English |
-|--------|------|------------------|---------|
-| Perfective | *nagtrabaho* | *Nagtrabaho siya sa opisina.* | He/She worked at the office. |
-| Imperfective | *nagtatrabaho* | *Nagtatrabaho siya sa opisina.* | He/She is working at the office. |
-| Contemplative | *magtatrabaho* | *Magtatrabaho siya sa opisina.* | He/She will work at the office. |
+| Aspect        | Form           | Example Sentence                | English                          |
+| ------------- | -------------- | ------------------------------- | -------------------------------- |
+| Perfective    | _nagtrabaho_   | _Nagtrabaho siya sa opisina._   | He/She worked at the office.     |
+| Imperfective  | _nagtatrabaho_ | _Nagtatrabaho siya sa opisina._ | He/She is working at the office. |
+| Contemplative | _magtatrabaho_ | _Magtatrabaho siya sa opisina._ | He/She will work at the office.  |
 
 ## Patient Focus Conjugation (-in)
 
 ### Pattern Rules
 
-1. **Perfective**: Insert *-in-* after first consonant (or add *-in* as suffix)
+1. **Perfective**: Insert _-in-_ after first consonant (or add _-in_ as suffix)
 2. **Imperfective**: Use perfective form + reduplicate first CV of root
-3. **Contemplative**: Reduplicate first CV of root + add *-in* suffix
+3. **Contemplative**: Reduplicate first CV of root + add _-in_ suffix
 
 ### Examples
 
-#### Root: *kain* (eat)
+#### Root: _kain_ (eat)
 
 ```text
 1. Perfective: k + in + ain → kinain
@@ -183,13 +183,13 @@ Add the appropriate aspect markers through reduplication or affix changes.
 3. Contemplative: Reduplicate first syllable (ka) → kakain → Suffix -in → kakainin
 ```
 
-| Aspect | Form | Example Sentence | English |
-|--------|------|------------------|---------|
-| Perfective | *kinain* | *Kinain ni Ana ang tinapay.* | The bread was eaten by Ana. |
-| Imperfective | *kinakain* | *Kinakain ni Ana ang tinapay.* | The bread is being eaten by Ana. |
-| Contemplative | *kakainin* | *Kakainin ni Ana ang tinapay.* | The bread will be eaten by Ana. |
+| Aspect        | Form       | Example Sentence               | English                          |
+| ------------- | ---------- | ------------------------------ | -------------------------------- |
+| Perfective    | _kinain_   | _Kinain ni Ana ang tinapay._   | The bread was eaten by Ana.      |
+| Imperfective  | _kinakain_ | _Kinakain ni Ana ang tinapay._ | The bread is being eaten by Ana. |
+| Contemplative | _kakainin_ | _Kakainin ni Ana ang tinapay._ | The bread will be eaten by Ana.  |
 
-#### Root: *sulat* (write)
+#### Root: _sulat_ (write)
 
 ```text
 1. Perfective: s + in + ulat → sinulat
@@ -197,13 +197,13 @@ Add the appropriate aspect markers through reduplication or affix changes.
 3. Contemplative: Reduplicate first syllable (su) → susulat → Suffix -in → susulatin
 ```
 
-| Aspect | Form | Example Sentence | English |
-|--------|------|------------------|---------|
-| Perfective | *sinulat* | *Sinulat ni Pedro ang liham.* | The letter was written by Pedro. |
-| Imperfective | *sinusulat* | *Sinusulat ni Pedro ang liham.* | The letter is being written by Pedro. |
-| Contemplative | *susulatin* | *Susulatin ni Pedro ang liham.* | The letter will be written by Pedro. |
+| Aspect        | Form        | Example Sentence                | English                               |
+| ------------- | ----------- | ------------------------------- | ------------------------------------- |
+| Perfective    | _sinulat_   | _Sinulat ni Pedro ang liham._   | The letter was written by Pedro.      |
+| Imperfective  | _sinusulat_ | _Sinusulat ni Pedro ang liham._ | The letter is being written by Pedro. |
+| Contemplative | _susulatin_ | _Susulatin ni Pedro ang liham._ | The letter will be written by Pedro.  |
 
-#### Root: *bili* (buy)
+#### Root: _bili_ (buy)
 
 ```text
 1. Perfective: b + in + ili → binili
@@ -211,23 +211,23 @@ Add the appropriate aspect markers through reduplication or affix changes.
 3. Contemplative: Reduplicate first syllable (bi) → bibili → Suffix -hin → bibilhin
 ```
 
-| Aspect | Form | Example Sentence | English |
-|--------|------|------------------|---------|
-| Perfective | *binili* | *Binili niya ang libro.* | The book was bought by him/her. |
-| Imperfective | *binibili* | *Binibili niya ang libro.* | The book is being bought by him/her. |
-| Contemplative | *bibilhin* | *Bibilhin niya ang libro.* | The book will be bought by him/her. |
+| Aspect        | Form       | Example Sentence           | English                              |
+| ------------- | ---------- | -------------------------- | ------------------------------------ |
+| Perfective    | _binili_   | _Binili niya ang libro._   | The book was bought by him/her.      |
+| Imperfective  | _binibili_ | _Binibili niya ang libro._ | The book is being bought by him/her. |
+| Contemplative | _bibilhin_ | _Bibilhin niya ang libro._ | The book will be bought by him/her.  |
 
 ## Locative Focus Conjugation (-an)
 
 ### Pattern Rules
 
-1. **Perfective**: Add *ni-* prefix + root + *-an* suffix
-2. **Imperfective**: *ni-* + reduplicate first CV + root + *-an*
-3. **Contemplative**: Reduplicate first CV + root + *-an*
+1. **Perfective**: Add _ni-_ prefix + root + _-an_ suffix
+2. **Imperfective**: _ni-_ + reduplicate first CV + root + _-an_
+3. **Contemplative**: Reduplicate first CV + root + _-an_
 
 ### Examples
 
-#### Root: *luto* (cook)
+#### Root: _luto_ (cook)
 
 ```text
 1. Perfective: ni + luto + an → nilutuan
@@ -235,13 +235,13 @@ Add the appropriate aspect markers through reduplication or affix changes.
 3. Contemplative: lu + luto + an → lulutuan
 ```
 
-| Aspect | Form | Example Sentence | English |
-|--------|------|------------------|---------|
-| Perfective | *nilutuan* | *Nilutuan ni Maria ang kalan.* | The stove was cooked on by Maria. |
-| Imperfective | *nilulutuan* | *Nilulutuan ni Maria ang kalan.* | The stove is being cooked on by Maria. |
-| Contemplative | *lulutuan* | *Lulutuan ni Maria ang kalan.* | The stove will be cooked on by Maria. |
+| Aspect        | Form         | Example Sentence                 | English                                |
+| ------------- | ------------ | -------------------------------- | -------------------------------------- |
+| Perfective    | _nilutuan_   | _Nilutuan ni Maria ang kalan._   | The stove was cooked on by Maria.      |
+| Imperfective  | _nilulutuan_ | _Nilulutuan ni Maria ang kalan._ | The stove is being cooked on by Maria. |
+| Contemplative | _lulutuan_   | _Lulutuan ni Maria ang kalan._   | The stove will be cooked on by Maria.  |
 
-#### Root: *sulat* (write)
+#### Root: _sulat_ (write)
 
 ```text
 1. Perfective: Root + -an → sulatan → Infix -in- → s(in)ulatan
@@ -249,23 +249,23 @@ Add the appropriate aspect markers through reduplication or affix changes.
 3. Contemplative: Root + -an → sulatan → Reduplicate first syllable of root (su) → susulatan
 ```
 
-| Aspect | Form | Example Sentence | English |
-|--------|------|------------------|---------|
-| Perfective | *sinulatan* | *Sinulatan ng bata ang papel.* | The paper was written on by the child. |
-| Imperfective | *sinusulatan* | *Sinusulatan ng bata ang papel.* | The paper is being written on by the child. |
-| Contemplative | *susulatan* | *Susulatan ng bata ang papel.* | The paper will be written on by the child. |
+| Aspect        | Form          | Example Sentence                 | English                                     |
+| ------------- | ------------- | -------------------------------- | ------------------------------------------- |
+| Perfective    | _sinulatan_   | _Sinulatan ng bata ang papel._   | The paper was written on by the child.      |
+| Imperfective  | _sinusulatan_ | _Sinusulatan ng bata ang papel._ | The paper is being written on by the child. |
+| Contemplative | _susulatan_   | _Susulatan ng bata ang papel._   | The paper will be written on by the child.  |
 
 ## Benefactive Focus Conjugation (ipag-)
 
 ### Pattern Rules
 
-1. **Perfective**: Change *ipag-* to *ipinag-*
-2. **Imperfective**: *ipinag-* + reduplicate first CV of root
-3. **Contemplative**: *ipag-* + reduplicate first CV of root
+1. **Perfective**: Change _ipag-_ to _ipinag-_
+2. **Imperfective**: _ipinag-_ + reduplicate first CV of root
+3. **Contemplative**: _ipag-_ + reduplicate first CV of root
 
 ### Examples
 
-#### Root: *luto* (cook)
+#### Root: _luto_ (cook)
 
 ```text
 1. Perfective: ipinag + luto → ipinagluto
@@ -273,13 +273,13 @@ Add the appropriate aspect markers through reduplication or affix changes.
 3. Contemplative: ipag + lu + luto → ipagluluto
 ```
 
-| Aspect | Form | Example Sentence | English |
-|--------|------|------------------|---------|
-| Perfective | *ipinagluto* | *Ipinagluto ni Maria ang anak.* | The child was cooked for by Maria. |
-| Imperfective | *ipinagluluto* | *Ipinagluluto ni Maria ang anak.* | The child is being cooked for by Maria. |
-| Contemplative | *ipagluluto* | *Ipagluluto ni Maria ang anak.* | The child will be cooked for by Maria. |
+| Aspect        | Form           | Example Sentence                  | English                                 |
+| ------------- | -------------- | --------------------------------- | --------------------------------------- |
+| Perfective    | _ipinagluto_   | _Ipinagluto ni Maria ang anak._   | The child was cooked for by Maria.      |
+| Imperfective  | _ipinagluluto_ | _Ipinagluluto ni Maria ang anak._ | The child is being cooked for by Maria. |
+| Contemplative | _ipagluluto_   | _Ipagluluto ni Maria ang anak._   | The child will be cooked for by Maria.  |
 
-#### Root: *bili* (buy)
+#### Root: _bili_ (buy)
 
 ```text
 1. Perfective: ipinag + bili → ipinagbili
@@ -287,27 +287,27 @@ Add the appropriate aspect markers through reduplication or affix changes.
 3. Contemplative: ipag + bi + bili → ipagbibili
 ```
 
-| Aspect | Form | Example Sentence | English |
-|--------|------|------------------|---------|
-| Perfective | *ipinagbili* | *Ipinagbili niya ang kotse.* | He/She sold the car. |
-| Imperfective | *ipinagbibili* | *Ipinagbibili niya ang kotse.* | He/She is selling the car. |
-| Contemplative | *ipagbibili* | *Ipagbibili niya ang kotse.* | He/She will sell the car. |
+| Aspect        | Form           | Example Sentence               | English                    |
+| ------------- | -------------- | ------------------------------ | -------------------------- |
+| Perfective    | _ipinagbili_   | _Ipinagbili niya ang kotse._   | He/She sold the car.       |
+| Imperfective  | _ipinagbibili_ | _Ipinagbibili niya ang kotse._ | He/She is selling the car. |
+| Contemplative | _ipagbibili_   | _Ipagbibili niya ang kotse._   | He/She will sell the car.  |
 
 ## Instrumental Focus Conjugation (ipang-)
 
 ### Pattern Rules
 
-1. **Perfective**: Change *ipang-* to *ipinang-*
-2. **Imperfective**: *ipinang-* + reduplicate (with phonological changes)
-3. **Contemplative**: *ipang-* + reduplicate (with phonological changes)
+1. **Perfective**: Change _ipang-_ to _ipinang-_
+2. **Imperfective**: _ipinang-_ + reduplicate (with phonological changes)
+3. **Contemplative**: _ipang-_ + reduplicate (with phonological changes)
 
 ::: info Phonological Changes
-*ipang-* undergoes assimilation: *ipam-* before *p/b*, *ipan-* before *t/d*, *ipang-* elsewhere
+_ipang-_ undergoes assimilation: _ipam-_ before _p/b_, _ipan-_ before _t/d_, _ipang-_ elsewhere
 :::
 
 ### Examples
 
-#### Root: *sulat* (write)
+#### Root: _sulat_ (write)
 
 ```text
 1. Perfective: ipinang + sulat → ipinangsulat
@@ -315,13 +315,13 @@ Add the appropriate aspect markers through reduplication or affix changes.
 3. Contemplative: ipang + su + sulat → ipangsusulat
 ```
 
-| Aspect | Form | Example Sentence | English |
-|--------|------|------------------|---------|
-| Perfective | *ipinangsulat* | *Ipinangsulat niya ang lapis.* | The pencil was used to write by him/her. |
-| Imperfective | *ipinangsusulat* | *Ipinangsusulat niya ang lapis.* | The pencil is being used to write by him/her. |
-| Contemplative | *ipangsusulat* | *Ipangsusulat niya ang lapis.* | The pencil will be used to write by him/her. |
+| Aspect        | Form             | Example Sentence                 | English                                       |
+| ------------- | ---------------- | -------------------------------- | --------------------------------------------- |
+| Perfective    | _ipinangsulat_   | _Ipinangsulat niya ang lapis._   | The pencil was used to write by him/her.      |
+| Imperfective  | _ipinangsusulat_ | _Ipinangsusulat niya ang lapis._ | The pencil is being used to write by him/her. |
+| Contemplative | _ipangsusulat_   | _Ipangsusulat niya ang lapis._   | The pencil will be used to write by him/her.  |
 
-#### Root: *bili* (buy)
+#### Root: _bili_ (buy)
 
 ```text
 1. Perfective: ipam + bili → ipinambili (p→m before b)
@@ -329,11 +329,11 @@ Add the appropriate aspect markers through reduplication or affix changes.
 3. Contemplative: ipam + bi + bili → ipambibili
 ```
 
-| Aspect | Form | Example Sentence | English |
-|--------|------|------------------|---------|
-| Perfective | *ipinambili* | *Ipinambili niya ang pera.* | The money was used to buy by him/her. |
-| Imperfective | *ipinambibili* | *Ipinambibili niya ang pera.* | The money is being used to buy by him/her. |
-| Contemplative | *ipambibili* | *Ipambibili niya ang pera.* | The money will be used to buy by him/her. |
+| Aspect        | Form           | Example Sentence              | English                                    |
+| ------------- | -------------- | ----------------------------- | ------------------------------------------ |
+| Perfective    | _ipinambili_   | _Ipinambili niya ang pera._   | The money was used to buy by him/her.      |
+| Imperfective  | _ipinambibili_ | _Ipinambibili niya ang pera._ | The money is being used to buy by him/her. |
+| Contemplative | _ipambibili_   | _Ipambibili niya ang pera._   | The money will be used to buy by him/her.  |
 
 ## Complete Conjugation List
 
@@ -343,43 +343,43 @@ For a comprehensive list of common verbs conjugated in all focus types and aspec
 
 ### Vowel-Initial Roots
 
-For roots beginning with a vowel, *-um-* may cause phonological changes.
+For roots beginning with a vowel, _-um-_ may cause phonological changes.
 
-Example: *alis* (leave)
+Example: _alis_ (leave)
 
-- Perfective: *umalis* (left)
-- Imperfective: *umaalis* (is leaving)
-- Contemplative: *aalis* (will leave)
+- Perfective: _umalis_ (left)
+- Imperfective: _umaalis_ (is leaving)
+- Contemplative: _aalis_ (will leave)
 
 ### Roots with Glottal Stops
 
 Glottal stops affect affix placement.
 
-Example: *punta* (go)
+Example: _punta_ (go)
 
-- Actor focus perfective: *pumunta* (went)
-- Actor focus imperfective: *pumupunta* (is going)
-- Actor focus contemplative: *pupunta* (will go)
+- Actor focus perfective: _pumunta_ (went)
+- Actor focus imperfective: _pumupunta_ (is going)
+- Actor focus contemplative: _pupunta_ (will go)
 
 ### CVC Root Pattern
 
 Roots with consonant-vowel-consonant structure may show variations.
 
-Example: *dating* (arrive)
+Example: _dating_ (arrive)
 
-- Perfective: *dumating* (arrived)
-- Imperfective: *dumarating* (is arriving)
-- Contemplative: *darating* (will arrive — drops *du-*)
+- Perfective: _dumating_ (arrived)
+- Imperfective: _dumarating_ (is arriving)
+- Contemplative: _darating_ (will arrive — drops _du-_)
 
 ## Practice Conjugations
 
-Try conjugating these roots in actor focus (*-um-*) and patient focus (*-in*):
+Try conjugating these roots in actor focus (_-um-_) and patient focus (_-in_):
 
-1. *takbo* (run)
-2. *tulog* (sleep)
-3. *basa* (read)
-4. *gawa* (make)
-5. *dala* (bring)
+1. _takbo_ (run)
+2. _tulog_ (sleep)
+3. _basa_ (read)
+4. _gawa_ (make)
+5. _dala_ (bring)
 
 ## Conjugation Checklist
 
@@ -391,7 +391,7 @@ When conjugating a Tagalog verb:
 - [ ] Determine the aspect needed
 - [ ] Apply reduplication rules
 - [ ] Check for phonological changes
-- [ ] Verify the particle usage (*ang*, *ng*, *sa*)
+- [ ] Verify the particle usage (_ang_, _ng_, _sa_)
 
 ## See Also
 

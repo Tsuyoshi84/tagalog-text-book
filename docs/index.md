@@ -21,4 +21,3 @@ features:
   - title: Reference & Cheat Sheets
     details: Quick-access lists for root words, affixes, pronunciation, and grammar rules to support efficient learning and review.
 ---
-

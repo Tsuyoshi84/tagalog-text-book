@@ -16,217 +16,217 @@ This reference list provides common Tagalog verbs with their conjugations across
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *kumain* | ate |
-| Imperfective | *kumakain* | is eating |
-| Contemplative | *kakain* | will eat |
+| Aspect        | Conjugation | English   |
+| ------------- | ----------- | --------- |
+| Perfective    | _kumain_    | ate       |
+| Imperfective  | _kumakain_  | is eating |
+| Contemplative | _kakain_    | will eat  |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *kinain* | was eaten |
-| Imperfective | *kinakain* | is being eaten |
-| Contemplative | *kakainin* | will be eaten |
+| Aspect        | Conjugation | English        |
+| ------------- | ----------- | -------------- |
+| Perfective    | _kinain_    | was eaten      |
+| Imperfective  | _kinakain_  | is being eaten |
+| Contemplative | _kakainin_  | will be eaten  |
 
 ### sulat (write)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *sumulat* | wrote |
-| Imperfective | *sumusulat* | is writing |
-| Contemplative | *susulat* | will write |
+| Aspect        | Conjugation | English    |
+| ------------- | ----------- | ---------- |
+| Perfective    | _sumulat_   | wrote      |
+| Imperfective  | _sumusulat_ | is writing |
+| Contemplative | _susulat_   | will write |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *sinulat* | was written |
-| Imperfective | *sinusulat* | is being written |
-| Contemplative | *susulatin* | will be written |
+| Aspect        | Conjugation | English          |
+| ------------- | ----------- | ---------------- |
+| Perfective    | _sinulat_   | was written      |
+| Imperfective  | _sinusulat_ | is being written |
+| Contemplative | _susulatin_ | will be written  |
 
 #### Locative
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *sinulatan* | was written on |
-| Imperfective | *sinusulatan* | is being written on |
-| Contemplative | *susulatan* | will be written on |
+| Aspect        | Conjugation   | English             |
+| ------------- | ------------- | ------------------- |
+| Perfective    | _sinulatan_   | was written on      |
+| Imperfective  | _sinusulatan_ | is being written on |
+| Contemplative | _susulatan_   | will be written on  |
 
 #### Instrumental
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *ipinangsulat* | was used to write |
-| Imperfective | *ipinangsusulat* | is being used to write |
-| Contemplative | *ipangsusulat* | will be used to write |
+| Aspect        | Conjugation      | English                |
+| ------------- | ---------------- | ---------------------- |
+| Perfective    | _ipinangsulat_   | was used to write      |
+| Imperfective  | _ipinangsusulat_ | is being used to write |
+| Contemplative | _ipangsusulat_   | will be used to write  |
 
 ### bili (buy)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *bumili* | bought |
-| Imperfective | *bumibili* | is buying |
-| Contemplative | *bibili* | will buy |
+| Aspect        | Conjugation | English   |
+| ------------- | ----------- | --------- |
+| Perfective    | _bumili_    | bought    |
+| Imperfective  | _bumibili_  | is buying |
+| Contemplative | _bibili_    | will buy  |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *binili* | was bought |
-| Imperfective | *binibili* | is being bought |
-| Contemplative | *bibilhin* | will be bought |
+| Aspect        | Conjugation | English         |
+| ------------- | ----------- | --------------- |
+| Perfective    | _binili_    | was bought      |
+| Imperfective  | _binibili_  | is being bought |
+| Contemplative | _bibilhin_  | will be bought  |
 
 #### Locative
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *binilhan* | was bought from |
-| Imperfective | *binibilhan* | is being bought from |
-| Contemplative | *bibilhan* | will be bought from |
+| Aspect        | Conjugation  | English              |
+| ------------- | ------------ | -------------------- |
+| Perfective    | _binilhan_   | was bought from      |
+| Imperfective  | _binibilhan_ | is being bought from |
+| Contemplative | _bibilhan_   | will be bought from  |
 
 #### Benefactive
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *ibinili* | was bought for |
-| Imperfective | *ibinibili* | is being bought for |
-| Contemplative | *ibibili* | will be bought for |
+| Aspect        | Conjugation | English             |
+| ------------- | ----------- | ------------------- |
+| Perfective    | _ibinili_   | was bought for      |
+| Imperfective  | _ibinibili_ | is being bought for |
+| Contemplative | _ibibili_   | will be bought for  |
 
 ### luto (cook)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nagluto* | cooked |
-| Imperfective | *nagluluto* | is cooking |
-| Contemplative | *magluluto* | will cook |
+| Aspect        | Conjugation | English    |
+| ------------- | ----------- | ---------- |
+| Perfective    | _nagluto_   | cooked     |
+| Imperfective  | _nagluluto_ | is cooking |
+| Contemplative | _magluluto_ | will cook  |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *niluto* | was cooked |
-| Imperfective | *niluluto* | is being cooked |
-| Contemplative | *lulutuin* | will be cooked |
+| Aspect        | Conjugation | English         |
+| ------------- | ----------- | --------------- |
+| Perfective    | _niluto_    | was cooked      |
+| Imperfective  | _niluluto_  | is being cooked |
+| Contemplative | _lulutuin_  | will be cooked  |
 
 #### Locative
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nilutuan* | was cooked on/at |
-| Imperfective | *nilulutuan* | is being cooked on/at |
-| Contemplative | *lulutuan* | will be cooked on/at |
+| Aspect        | Conjugation  | English               |
+| ------------- | ------------ | --------------------- |
+| Perfective    | _nilutuan_   | was cooked on/at      |
+| Imperfective  | _nilulutuan_ | is being cooked on/at |
+| Contemplative | _lulutuan_   | will be cooked on/at  |
 
 #### Benefactive
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *ipinagluto* | was cooked for |
-| Imperfective | *ipinagluluto* | is being cooked for |
-| Contemplative | *ipagluluto* | will be cooked for |
+| Aspect        | Conjugation    | English             |
+| ------------- | -------------- | ------------------- |
+| Perfective    | _ipinagluto_   | was cooked for      |
+| Imperfective  | _ipinagluluto_ | is being cooked for |
+| Contemplative | _ipagluluto_   | will be cooked for  |
 
 ### linis (clean)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *naglinis* | cleaned |
-| Imperfective | *naglilinis* | is cleaning |
-| Contemplative | *maglilinis* | will clean |
+| Aspect        | Conjugation  | English     |
+| ------------- | ------------ | ----------- |
+| Perfective    | _naglinis_   | cleaned     |
+| Imperfective  | _naglilinis_ | is cleaning |
+| Contemplative | _maglilinis_ | will clean  |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nilinis* | was cleaned |
-| Imperfective | *nililinis* | is being cleaned |
-| Contemplative | *lilinisin* | will be cleaned |
+| Aspect        | Conjugation | English          |
+| ------------- | ----------- | ---------------- |
+| Perfective    | _nilinis_   | was cleaned      |
+| Imperfective  | _nililinis_ | is being cleaned |
+| Contemplative | _lilinisin_ | will be cleaned  |
 
 #### Locative
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nilinisán* | was cleaned at |
-| Imperfective | *nililinisán* | is being cleaned at |
-| Contemplative | *lilinisán* | will be cleaned at |
+| Aspect        | Conjugation   | English             |
+| ------------- | ------------- | ------------------- |
+| Perfective    | _nilinisán_   | was cleaned at      |
+| Imperfective  | _nililinisán_ | is being cleaned at |
+| Contemplative | _lilinisán_   | will be cleaned at  |
 
 ::: details Stress and Meaning
-The accent on the final syllable (*-án*) signals a shift in meaning to locative focus (action done *at* a place). Without it, the verb *nilinisan* would typically mean "cleaned (someone)."
+The accent on the final syllable (_-án_) signals a shift in meaning to locative focus (action done _at_ a place). Without it, the verb _nilinisan_ would typically mean "cleaned (someone)."
 :::
 
 ### basa (read)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *bumasa* | read |
-| Imperfective | *bumabasa* | is reading |
-| Contemplative | *babasa* | will read |
+| Aspect        | Conjugation | English    |
+| ------------- | ----------- | ---------- |
+| Perfective    | _bumasa_    | read       |
+| Imperfective  | _bumabasa_  | is reading |
+| Contemplative | _babasa_    | will read  |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *binasa* | was read |
-| Imperfective | *binabasa* | is being read |
-| Contemplative | *babasahin* | will be read |
+| Aspect        | Conjugation | English       |
+| ------------- | ----------- | ------------- |
+| Perfective    | _binasa_    | was read      |
+| Imperfective  | _binabasa_  | is being read |
+| Contemplative | _babasahin_ | will be read  |
 
 ### gawa (make, do)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *gumawa* | made, did |
-| Imperfective | *gumagawa* | is making, is doing |
-| Contemplative | *gagawa* | will make, will do |
+| Aspect        | Conjugation | English             |
+| ------------- | ----------- | ------------------- |
+| Perfective    | _gumawa_    | made, did           |
+| Imperfective  | _gumagawa_  | is making, is doing |
+| Contemplative | _gagawa_    | will make, will do  |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *ginawa* | was made, was done |
-| Imperfective | *ginagawa* | is being made, is being done |
-| Contemplative | *gagawin* | will be made, will be done |
+| Aspect        | Conjugation | English                      |
+| ------------- | ----------- | ---------------------------- |
+| Perfective    | _ginawa_    | was made, was done           |
+| Imperfective  | _ginagawa_  | is being made, is being done |
+| Contemplative | _gagawin_   | will be made, will be done   |
 
 ### takbo (run)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *tumakbo* | ran |
-| Imperfective | *tumatakbo* | is running |
-| Contemplative | *tatakbo* | will run |
+| Aspect        | Conjugation | English    |
+| ------------- | ----------- | ---------- |
+| Perfective    | _tumakbo_   | ran        |
+| Imperfective  | _tumatakbo_ | is running |
+| Contemplative | _tatakbo_   | will run   |
 
 ### lakad (walk)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *lumakad* | walked |
-| Imperfective | *lumalakad* | is walking |
-| Contemplative | *lalakad* | will walk |
+| Aspect        | Conjugation | English    |
+| ------------- | ----------- | ---------- |
+| Perfective    | _lumakad_   | walked     |
+| Imperfective  | _lumalakad_ | is walking |
+| Contemplative | _lalakad_   | will walk  |
 
 ### tulog (sleep)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *natulog* | slept |
-| Imperfective | *natutulog* | is sleeping |
-| Contemplative | *matutulog* | will sleep |
+| Aspect        | Conjugation | English     |
+| ------------- | ----------- | ----------- |
+| Perfective    | _natulog_   | slept       |
+| Imperfective  | _natutulog_ | is sleeping |
+| Contemplative | _matutulog_ | will sleep  |
 
 ## Motion Verbs
 
@@ -234,59 +234,59 @@ The accent on the final syllable (*-án*) signals a shift in meaning to locative
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *pumunta* | went |
-| Imperfective | *pumupunta* | is going |
-| Contemplative | *pupunta* | will go |
+| Aspect        | Conjugation | English  |
+| ------------- | ----------- | -------- |
+| Perfective    | _pumunta_   | went     |
+| Imperfective  | _pumupunta_ | is going |
+| Contemplative | _pupunta_   | will go  |
 
 ### dating (arrive)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *dumating* | arrived |
-| Imperfective | *dumarating* | is arriving |
-| Contemplative | *darating* | will arrive |
+| Aspect        | Conjugation  | English     |
+| ------------- | ------------ | ----------- |
+| Perfective    | _dumating_   | arrived     |
+| Imperfective  | _dumarating_ | is arriving |
+| Contemplative | _darating_   | will arrive |
 
 ### alis (leave)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *umalis* | left |
-| Imperfective | *umaalis* | is leaving |
-| Contemplative | *aalis* | will leave |
+| Aspect        | Conjugation | English    |
+| ------------- | ----------- | ---------- |
+| Perfective    | _umalis_    | left       |
+| Imperfective  | _umaalis_   | is leaving |
+| Contemplative | _aalis_     | will leave |
 
 ### dala (bring, carry)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nagdala* | brought, carried |
-| Imperfective | *nagdadala* | is bringing, is carrying |
-| Contemplative | *magdadala* | will bring, will carry |
+| Aspect        | Conjugation | English                  |
+| ------------- | ----------- | ------------------------ |
+| Perfective    | _nagdala_   | brought, carried         |
+| Imperfective  | _nagdadala_ | is bringing, is carrying |
+| Contemplative | _magdadala_ | will bring, will carry   |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *dinala* | was brought, was carried |
-| Imperfective | *dinadala* | is being brought, is being carried |
-| Contemplative | *dadalhin* | will be brought, will be carried |
+| Aspect        | Conjugation | English                            |
+| ------------- | ----------- | ---------------------------------- |
+| Perfective    | _dinala_    | was brought, was carried           |
+| Imperfective  | _dinadala_  | is being brought, is being carried |
+| Contemplative | _dadalhin_  | will be brought, will be carried   |
 
 ### balik (return)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *bumalik* | returned |
-| Imperfective | *bumabalik* | is returning |
-| Contemplative | *babalik* | will return |
+| Aspect        | Conjugation | English      |
+| ------------- | ----------- | ------------ |
+| Perfective    | _bumalik_   | returned     |
+| Imperfective  | _bumabalik_ | is returning |
+| Contemplative | _babalik_   | will return  |
 
 ## Communication Verbs
 
@@ -294,65 +294,65 @@ The accent on the final syllable (*-án*) signals a shift in meaning to locative
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nagsabi* | said, told |
-| Imperfective | *nagsasabi* | is saying, is telling |
-| Contemplative | *magsasabi* | will say, will tell |
+| Aspect        | Conjugation | English               |
+| ------------- | ----------- | --------------------- |
+| Perfective    | _nagsabi_   | said, told            |
+| Imperfective  | _nagsasabi_ | is saying, is telling |
+| Contemplative | _magsasabi_ | will say, will tell   |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *sinabi* | was said, was told |
-| Imperfective | *sinasabi* | is being said, is being told |
-| Contemplative | *sasabihin* | will be said, will be told |
+| Aspect        | Conjugation | English                      |
+| ------------- | ----------- | ---------------------------- |
+| Perfective    | _sinabi_    | was said, was told           |
+| Imperfective  | _sinasabi_  | is being said, is being told |
+| Contemplative | _sasabihin_ | will be said, will be told   |
 
 ### tanong (ask, question)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nagtanong* | asked |
-| Imperfective | *nagtatanong* | is asking |
-| Contemplative | *magtatanong* | will ask |
+| Aspect        | Conjugation   | English   |
+| ------------- | ------------- | --------- |
+| Perfective    | _nagtanong_   | asked     |
+| Imperfective  | _nagtatanong_ | is asking |
+| Contemplative | _magtatanong_ | will ask  |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *tinanong* | was asked |
-| Imperfective | *tinatanong* | is being asked |
-| Contemplative | *tatanungin* | will be asked |
+| Aspect        | Conjugation  | English        |
+| ------------- | ------------ | -------------- |
+| Perfective    | _tinanong_   | was asked      |
+| Imperfective  | _tinatanong_ | is being asked |
+| Contemplative | _tatanungin_ | will be asked  |
 
 ### usap (talk, converse)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nag-usap* | talked, conversed |
-| Imperfective | *nag-uusap* | is talking, is conversing |
-| Contemplative | *mag-uusap* | will talk, will converse |
+| Aspect        | Conjugation | English                   |
+| ------------- | ----------- | ------------------------- |
+| Perfective    | _nag-usap_  | talked, conversed         |
+| Imperfective  | _nag-uusap_ | is talking, is conversing |
+| Contemplative | _mag-uusap_ | will talk, will converse  |
 
 ### tawag (call)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *tumawag* | called |
-| Imperfective | *tumatawag* | is calling |
-| Contemplative | *tatawag* | will call |
+| Aspect        | Conjugation | English    |
+| ------------- | ----------- | ---------- |
+| Perfective    | _tumawag_   | called     |
+| Imperfective  | _tumatawag_ | is calling |
+| Contemplative | _tatawag_   | will call  |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *tinawag* | was called |
-| Imperfective | *tinatawag* | is being called |
-| Contemplative | *tatawagin* | will be called |
+| Aspect        | Conjugation | English         |
+| ------------- | ----------- | --------------- |
+| Perfective    | _tinawag_   | was called      |
+| Imperfective  | _tinatawag_ | is being called |
+| Contemplative | _tatawagin_ | will be called  |
 
 ## Perception Verbs
 
@@ -360,49 +360,49 @@ The accent on the final syllable (*-án*) signals a shift in meaning to locative
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nakakita* | saw |
-| Imperfective | *nakakakita* | is seeing, can see |
-| Contemplative | *makakakita* | will see |
+| Aspect        | Conjugation  | English            |
+| ------------- | ------------ | ------------------ |
+| Perfective    | _nakakita_   | saw                |
+| Imperfective  | _nakakakita_ | is seeing, can see |
+| Contemplative | _makakakita_ | will see           |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nakita* | was seen |
-| Imperfective | *nakikita* | is being seen |
-| Contemplative | *makikita* | will be seen |
+| Aspect        | Conjugation | English       |
+| ------------- | ----------- | ------------- |
+| Perfective    | _nakita_    | was seen      |
+| Imperfective  | _nakikita_  | is being seen |
+| Contemplative | _makikita_  | will be seen  |
 
 ### rinig (hear)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nakarinig* | heard |
-| Imperfective | *nakakarinig* | is hearing, can hear |
-| Contemplative | *makakarinig* | will hear |
+| Aspect        | Conjugation   | English              |
+| ------------- | ------------- | -------------------- |
+| Perfective    | _nakarinig_   | heard                |
+| Imperfective  | _nakakarinig_ | is hearing, can hear |
+| Contemplative | _makakarinig_ | will hear            |
 
 ### amoy (smell)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *umamoy* | smelled |
-| Imperfective | *umaamoy* | is smelling |
-| Contemplative | *aamoy* | will smell |
+| Aspect        | Conjugation | English     |
+| ------------- | ----------- | ----------- |
+| Perfective    | _umamoy_    | smelled     |
+| Imperfective  | _umaamoy_   | is smelling |
+| Contemplative | _aamoy_     | will smell  |
 
 ### lasa (taste)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *lumasa* | tasted |
-| Imperfective | *lumalasa* | is tasting |
-| Contemplative | *lalasa* | will taste |
+| Aspect        | Conjugation | English    |
+| ------------- | ----------- | ---------- |
+| Perfective    | _lumasa_    | tasted     |
+| Imperfective  | _lumalasa_  | is tasting |
+| Contemplative | _lalasa_    | will taste |
 
 ## Daily Activity Verbs
 
@@ -410,59 +410,59 @@ The accent on the final syllable (*-án*) signals a shift in meaning to locative
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nagtrabaho* | worked |
-| Imperfective | *nagtatrabaho* | is working |
-| Contemplative | *magtatrabaho* | will work |
+| Aspect        | Conjugation    | English    |
+| ------------- | -------------- | ---------- |
+| Perfective    | _nagtrabaho_   | worked     |
+| Imperfective  | _nagtatrabaho_ | is working |
+| Contemplative | _magtatrabaho_ | will work  |
 
 ### aral (study)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nag-aral* | studied |
-| Imperfective | *nag-aaral* | is studying |
-| Contemplative | *mag-aaral* | will study |
+| Aspect        | Conjugation | English     |
+| ------------- | ----------- | ----------- |
+| Perfective    | _nag-aral_  | studied     |
+| Imperfective  | _nag-aaral_ | is studying |
+| Contemplative | _mag-aaral_ | will study  |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *inaral* | was studied |
-| Imperfective | *inaaaral* | is being studied |
-| Contemplative | *aaralin* | will be studied |
+| Aspect        | Conjugation | English          |
+| ------------- | ----------- | ---------------- |
+| Perfective    | _inaral_    | was studied      |
+| Imperfective  | _inaaaral_  | is being studied |
+| Contemplative | _aaralin_   | will be studied  |
 
 ### laro (play)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *naglaro* | played |
-| Imperfective | *naglalaro* | is playing |
-| Contemplative | *maglalaro* | will play |
+| Aspect        | Conjugation | English    |
+| ------------- | ----------- | ---------- |
+| Perfective    | _naglaro_   | played     |
+| Imperfective  | _naglalaro_ | is playing |
+| Contemplative | _maglalaro_ | will play  |
 
 ### ligo (bathe)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *naligo* | bathed |
-| Imperfective | *naliligo* | is bathing |
-| Contemplative | *maliligo* | will bathe |
+| Aspect        | Conjugation | English    |
+| ------------- | ----------- | ---------- |
+| Perfective    | _naligo_    | bathed     |
+| Imperfective  | _naliligo_  | is bathing |
+| Contemplative | _maliligo_  | will bathe |
 
 ### damit (wear, dress)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nagdamit* | wore, dressed |
-| Imperfective | *nagdadamit* | is wearing, is dressing |
-| Contemplative | *magdadamit* | will wear, will dress |
+| Aspect        | Conjugation  | English                 |
+| ------------- | ------------ | ----------------------- |
+| Perfective    | _nagdamit_   | wore, dressed           |
+| Imperfective  | _nagdadamit_ | is wearing, is dressing |
+| Contemplative | _magdadamit_ | will wear, will dress   |
 
 ## Transactional Verbs
 
@@ -470,73 +470,73 @@ The accent on the final syllable (*-án*) signals a shift in meaning to locative
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nagbigay* | gave |
-| Imperfective | *nagbibigay* | is giving |
-| Contemplative | *magbibigay* | will give |
+| Aspect        | Conjugation  | English   |
+| ------------- | ------------ | --------- |
+| Perfective    | _nagbigay_   | gave      |
+| Imperfective  | _nagbibigay_ | is giving |
+| Contemplative | _magbibigay_ | will give |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *ibinigay* | was given |
-| Imperfective | *ibinibigay* | is being given |
-| Contemplative | *ibibigay* | will be given |
+| Aspect        | Conjugation  | English        |
+| ------------- | ------------ | -------------- |
+| Perfective    | _ibinigay_   | was given      |
+| Imperfective  | _ibinibigay_ | is being given |
+| Contemplative | _ibibigay_   | will be given  |
 
 ### kuha (get, take)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *kumuha* | got, took |
-| Imperfective | *kumukuha* | is getting, is taking |
-| Contemplative | *kukuha* | will get, will take |
+| Aspect        | Conjugation | English               |
+| ------------- | ----------- | --------------------- |
+| Perfective    | _kumuha_    | got, took             |
+| Imperfective  | _kumukuha_  | is getting, is taking |
+| Contemplative | _kukuha_    | will get, will take   |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *kinuha* | was gotten, was taken |
-| Imperfective | *kinukuha* | is being gotten, is being taken |
-| Contemplative | *kukuhain* | will be gotten, will be taken |
+| Aspect        | Conjugation | English                         |
+| ------------- | ----------- | ------------------------------- |
+| Perfective    | _kinuha_    | was gotten, was taken           |
+| Imperfective  | _kinukuha_  | is being gotten, is being taken |
+| Contemplative | _kukuhain_  | will be gotten, will be taken   |
 
 ### bayad (pay)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nagbayad* | paid |
-| Imperfective | *nagbabayad* | is paying |
-| Contemplative | *magbabayad* | will pay |
+| Aspect        | Conjugation  | English   |
+| ------------- | ------------ | --------- |
+| Perfective    | _nagbayad_   | paid      |
+| Imperfective  | _nagbabayad_ | is paying |
+| Contemplative | _magbabayad_ | will pay  |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *binayaran* | was paid |
-| Imperfective | *binabayaran* | is being paid |
-| Contemplative | *babayaran* | will be paid |
+| Aspect        | Conjugation   | English       |
+| ------------- | ------------- | ------------- |
+| Perfective    | _binayaran_   | was paid      |
+| Imperfective  | _binabayaran_ | is being paid |
+| Contemplative | _babayaran_   | will be paid  |
 
 ### hiram (borrow)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *humiram* | borrowed |
-| Imperfective | *humihiram* | is borrowing |
-| Contemplative | *hihiram* | will borrow |
+| Aspect        | Conjugation | English      |
+| ------------- | ----------- | ------------ |
+| Perfective    | _humiram_   | borrowed     |
+| Imperfective  | _humihiram_ | is borrowing |
+| Contemplative | _hihiram_   | will borrow  |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *hiniram* | was borrowed |
-| Imperfective | *hinihiram* | is being borrowed |
-| Contemplative | *hihiramin* | will be borrowed |
+| Aspect        | Conjugation | English           |
+| ------------- | ----------- | ----------------- |
+| Perfective    | _hiniram_   | was borrowed      |
+| Imperfective  | _hinihiram_ | is being borrowed |
+| Contemplative | _hihiramin_ | will be borrowed  |
 
 ## Emotional/Mental State Verbs
 
@@ -544,57 +544,57 @@ The accent on the final syllable (*-án*) signals a shift in meaning to locative
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *umibig* / *nagmahal* | loved |
-| Imperfective | *umiibig* / *nagmamahal* | is loving, loves |
-| Contemplative | *iibig* / *magmamahal* | will love |
+| Aspect        | Conjugation              | English          |
+| ------------- | ------------------------ | ---------------- |
+| Perfective    | _umibig_ / _nagmahal_    | loved            |
+| Imperfective  | _umiibig_ / _nagmamahal_ | is loving, loves |
+| Contemplative | _iibig_ / _magmamahal_   | will love        |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *minahal* | was loved |
-| Imperfective | *minamahal* | is being loved, is loved |
-| Contemplative | *mamahalin* | will be loved |
+| Aspect        | Conjugation | English                  |
+| ------------- | ----------- | ------------------------ |
+| Perfective    | _minahal_   | was loved                |
+| Imperfective  | _minamahal_ | is being loved, is loved |
+| Contemplative | _mamahalin_ | will be loved            |
 
 ### saya (be happy)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *sumaya* / *natuwa* | was happy, became happy |
-| Imperfective | *sumasaya* / *natutuwa* | is happy |
-| Contemplative | *sasaya* / *matutuwa* | will be happy |
+| Aspect        | Conjugation             | English                 |
+| ------------- | ----------------------- | ----------------------- |
+| Perfective    | _sumaya_ / _natuwa_     | was happy, became happy |
+| Imperfective  | _sumasaya_ / _natutuwa_ | is happy                |
+| Contemplative | _sasaya_ / _matutuwa_   | will be happy           |
 
 ### galit (be angry)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nagalit* | got angry |
-| Imperfective | *nagagalit* | is getting angry, gets angry |
-| Contemplative | *magagalit* | will get angry |
+| Aspect        | Conjugation | English                      |
+| ------------- | ----------- | ---------------------------- |
+| Perfective    | _nagalit_   | got angry                    |
+| Imperfective  | _nagagalit_ | is getting angry, gets angry |
+| Contemplative | _magagalit_ | will get angry               |
 
 ### intindi (understand)
 
 #### Actor
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *umintindi* | understood |
-| Imperfective | *umiintindi* | is understanding |
-| Contemplative | *iintindi* | will understand |
+| Aspect        | Conjugation  | English          |
+| ------------- | ------------ | ---------------- |
+| Perfective    | _umintindi_  | understood       |
+| Imperfective  | _umiintindi_ | is understanding |
+| Contemplative | _iintindi_   | will understand  |
 
 #### Patient
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *naintindihan* | was understood |
-| Imperfective | *naiintindihan* | is being understood, understands |
-| Contemplative | *maiintindihan* | will be understood |
+| Aspect        | Conjugation     | English                          |
+| ------------- | --------------- | -------------------------------- |
+| Perfective    | _naintindihan_  | was understood                   |
+| Imperfective  | _naiintindihan_ | is being understood, understands |
+| Contemplative | _maiintindihan_ | will be understood               |
 
 ## Causative Verbs
 
@@ -602,41 +602,41 @@ The accent on the final syllable (*-án*) signals a shift in meaning to locative
 
 #### Actor (Causative)
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nagpakain* | fed someone |
-| Imperfective | *nagpapakain* | is feeding someone |
-| Contemplative | *magpapakain* | will feed someone |
+| Aspect        | Conjugation   | English            |
+| ------------- | ------------- | ------------------ |
+| Perfective    | _nagpakain_   | fed someone        |
+| Imperfective  | _nagpapakain_ | is feeding someone |
+| Contemplative | _magpapakain_ | will feed someone  |
 
 #### Patient (Causative)
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *pinakain* | was fed |
-| Imperfective | *pinapakain* | is being fed |
-| Contemplative | *papakainin* | will be fed |
+| Aspect        | Conjugation  | English      |
+| ------------- | ------------ | ------------ |
+| Perfective    | _pinakain_   | was fed      |
+| Imperfective  | _pinapakain_ | is being fed |
+| Contemplative | _papakainin_ | will be fed  |
 
 ::: details Irregular Contemplative Form
-While the formal rule suggests *pakakainin* (from *pa-* + *kakainin*), the form *papakainin* is more commonly used. It treats *pakain* as a new root and reduplicates its first syllable.
+While the formal rule suggests _pakakainin_ (from _pa-_ + _kakainin_), the form _papakainin_ is more commonly used. It treats _pakain_ as a new root and reduplicates its first syllable.
 :::
 
 ### pa-gawa (have made)
 
 #### Actor (Causative)
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *nagpagawa* | had something made |
-| Imperfective | *nagpapagawa* | is having something made |
-| Contemplative | *magpapagawa* | will have something made |
+| Aspect        | Conjugation   | English                  |
+| ------------- | ------------- | ------------------------ |
+| Perfective    | _nagpagawa_   | had something made       |
+| Imperfective  | _nagpapagawa_ | is having something made |
+| Contemplative | _magpapagawa_ | will have something made |
 
 #### Patient (Causative)
 
-| Aspect | Conjugation | English |
-|--------|-------------|---------|
-| Perfective | *pinagawa* | was made (by order) |
-| Imperfective | *pinagagawa* | is being made (by order) |
-| Contemplative | *pagagawin* | will be made (by order) |
+| Aspect        | Conjugation  | English                  |
+| ------------- | ------------ | ------------------------ |
+| Perfective    | _pinagawa_   | was made (by order)      |
+| Imperfective  | _pinagagawa_ | is being made (by order) |
+| Contemplative | _pagagawin_  | will be made (by order)  |
 
 ## Usage Notes
 

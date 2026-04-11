@@ -4,62 +4,62 @@ description: "Detailed explanation of the Tagalog politeness particles po and ho
 outline: [2, 3]
 ---
 
-# Particles: *Po* / *Ho*
+# Particles: _Po_ / _Ho_
 
-The particles *po* and *ho* are essential politeness markers in Tagalog used to show respect in formal and social interactions. Unlike other particles that modify meaning or timing, *po* and *ho* primarily serve a social function, expressing deference to elders, strangers, and authority figures. Mastering these particles is crucial for appropriate and respectful communication in Filipino culture.
+The particles _po_ and _ho_ are essential politeness markers in Tagalog used to show respect in formal and social interactions. Unlike other particles that modify meaning or timing, _po_ and _ho_ primarily serve a social function, expressing deference to elders, strangers, and authority figures. Mastering these particles is crucial for appropriate and respectful communication in Filipino culture.
 
 ::: tip Quick Summary
-*Po* and *ho* are politeness markers that add respect to any statement or question. *Po* is more formal and widely used, while *ho* is slightly less formal. Both show respect for social hierarchy and are essential in daily Filipino interactions with elders, strangers, and superiors.
+_Po_ and _ho_ are politeness markers that add respect to any statement or question. _Po_ is more formal and widely used, while _ho_ is slightly less formal. Both show respect for social hierarchy and are essential in daily Filipino interactions with elders, strangers, and superiors.
 :::
 
 ## Core Meanings
 
-*Po* and *ho* carry the same core function with subtle differences in formality level.
+_Po_ and _ho_ carry the same core function with subtle differences in formality level.
 
 ### 1. Respect and Politeness
 
 The primary function is to show respect to the person being addressed:
 
-- *Kumusta po kayo?*  
+- _Kumusta po kayo?_  
   (How are you? - respectful)
-- *Salamat ho.*  
+- _Salamat ho._  
   (Thank you. - respectful)
-- *Oo po.*  
+- _Oo po._  
   (Yes. - respectful)
 
 ::: info Respect Nuance
-*Po* and *ho* transform any statement into a respectful form. They are not optional when speaking to elders or in formal situations.
+_Po_ and _ho_ transform any statement into a respectful form. They are not optional when speaking to elders or in formal situations.
 :::
 
 ### 2. Social Distance
 
 These particles acknowledge social hierarchy or unfamiliarity:
 
-- *Sino po kayo?*  
+- _Sino po kayo?_  
   (Who are you? - formal)
-- *Saan ho kayo pupunta?*  
+- _Saan ho kayo pupunta?_  
   (Where are you going? - respectful inquiry)
-- *Pwede po bang magtanong?*  
+- _Pwede po bang magtanong?_  
   (May I ask a question? - polite request)
 
 ### 3. Formality in Professional Settings
 
 Used in business, service, and institutional contexts:
 
-- *Makakatulong po ba ako sa inyo?*  
+- _Makakatulong po ba ako sa inyo?_  
   (May I help you? - service context)
-- *Sandali lang po.*  
+- _Sandali lang po._  
   (Just a moment, please. - professional)
-- *Pasensya na po.*  
+- _Pasensya na po._  
   (Sorry about that. - apologetic respect)
 
-## Differences Between *Po* and *Ho*
+## Differences Between _Po_ and _Ho_
 
 While both serve similar functions, there are subtle distinctions in usage.
 
-### *Po* (More Formal)
+### _Po_ (More Formal)
 
-*Po* is the more common and slightly more formal variant:
+_Po_ is the more common and slightly more formal variant:
 
 - Used in most formal contexts
 - Preferred when maximum respect is needed
@@ -67,14 +67,15 @@ While both serve similar functions, there are subtle distinctions in usage.
 - Default choice when uncertain
 
 Examples:
-- *Magandang umaga po.*  
+
+- _Magandang umaga po._  
   (Good morning. - formal greeting)
-- *Salamat po.*  
+- _Salamat po._  
   (Thank you. - standard polite)
 
-### *Ho* (Less Formal)
+### _Ho_ (Less Formal)
 
-*Ho* is slightly less formal but still respectful:
+_Ho_ is slightly less formal but still respectful:
 
 - Used in semi-formal or familiar-but-respectful contexts
 - Often used with people slightly older but not elderly
@@ -82,187 +83,188 @@ Examples:
 - Can sound warmer and less distant
 
 Examples:
-- *Magandang umaga ho.*  
+
+- _Magandang umaga ho._  
   (Good morning. - warm greeting)
-- *Salamat ho.*  
+- _Salamat ho._  
   (Thank you. - friendly respect)
 
 ::: warning Practical Difference
-The difference between *po* and *ho* is subtle and regional. When in doubt, use *po* as it's universally appropriate. Native speakers often use them interchangeably.
+The difference between _po_ and _ho_ is subtle and regional. When in doubt, use _po_ as it's universally appropriate. Native speakers often use them interchangeably.
 :::
 
 ### Comparison Table
 
-| Aspect | *Po* | *Ho* |
-| ------ | ---- | ---- |
-| Formality | More formal | Slightly less formal |
-| Usage frequency | Very common | Less common |
-| Regional preference | Urban areas, Manila | Some regional areas |
-| Safety | Always appropriate | Usually appropriate |
-| Context | All formal situations | Semi-formal, warmer tone |
+| Aspect              | _Po_                  | _Ho_                     |
+| ------------------- | --------------------- | ------------------------ |
+| Formality           | More formal           | Slightly less formal     |
+| Usage frequency     | Very common           | Less common              |
+| Regional preference | Urban areas, Manila   | Some regional areas      |
+| Safety              | Always appropriate    | Usually appropriate      |
+| Context             | All formal situations | Semi-formal, warmer tone |
 
 ## Usage Patterns and Sentence Positions
 
-*Po* and *ho* have flexible placement in sentences, unlike most other particles.
+_Po_ and _ho_ have flexible placement in sentences, unlike most other particles.
 
 ### End of Sentence (Most Common)
 
 The most natural position is at or near the end:
 
-- *Kumusta ka po?*  
+- _Kumusta ka po?_  
   (How are you?)
-- *Salamat ho.*  
+- _Salamat ho._  
   (Thank you.)
-- *Oo po.*  
+- _Oo po._  
   (Yes.)
-- *Hindi ho.*  
+- _Hindi ho._  
   (No.)
 
 ### After the First Major Phrase
 
 Can appear after the first significant phrase:
 
-- *Kumain na po ako.*  
+- _Kumain na po ako._  
   (I already ate. - respectful)
-- *Pupunta po ako bukas.*  
+- _Pupunta po ako bukas._  
   (I will go tomorrow. - respectful)
-- *Nandito po ako.*  
+- _Nandito po ako._  
   (I am here. - respectful)
 
 ### Multiple Times in Longer Sentences
 
 Can appear multiple times for extra politeness, but avoid overuse:
 
-- *Gusto ko po sanang magtanong.*  
+- _Gusto ko po sanang magtanong._  
   (I would like to ask something. - polite)
-- *Pwede po ba kayong tumulong sa akin?*  
+- _Pwede po ba kayong tumulong sa akin?_  
   (Could you please help me?)
 
 ::: warning Avoid Overuse
-Using *po* or *ho* on every single word sounds awkward. Once or twice per sentence is natural. See Common Mistakes section below.
+Using _po_ or _ho_ on every single word sounds awkward. Once or twice per sentence is natural. See Common Mistakes section below.
 :::
 
 ### In Questions
 
 Essential in questions directed to respected persons:
 
-- *Kumain ka na po ba?*  
+- _Kumain ka na po ba?_  
   (Have you eaten already?)
-- *Nasaan po ang banyo?*  
+- _Nasaan po ang banyo?_  
   (Where is the bathroom?)
-- *Sino po kayo?*  
+- _Sino po kayo?_  
   (Who are you? - respectful)
 
 ### In Commands and Requests
 
 Softens imperatives into polite requests:
 
-- *Umupo po kayo.*  
+- _Umupo po kayo._  
   (Please sit down.)
-- *Sandali lang po.*  
+- _Sandali lang po._  
   (Just a moment, please.)
-- *Tuloy po kayo.*  
+- _Tuloy po kayo._  
   (Please come in.)
 
 ## Common Combinations
 
-*Po* and *ho* frequently combine with other words to create polite expressions.
+_Po_ and _ho_ frequently combine with other words to create polite expressions.
 
-### *Oo* + *Po* / *Ho* (Yes)
+### _Oo_ + _Po_ / _Ho_ (Yes)
 
 The standard respectful affirmation:
 
-- *Oo po.*  
+- _Oo po._  
   (Yes. - respectful)
-- *Oo ho.*  
+- _Oo ho._  
   (Yes. - slightly less formal)
-- *Opo.* (contracted form)  
+- _Opo._ (contracted form)  
   (Yes. - very respectful)
 
 ::: tip Common Contraction
-*Opo* is the contracted, emphasized form of *oo po* and is extremely common. It's often preferred over the two-word form in quick responses.
+_Opo_ is the contracted, emphasized form of _oo po_ and is extremely common. It's often preferred over the two-word form in quick responses.
 :::
 
-### *Salamat* + *Po* / *Ho* (Thank You)
+### _Salamat_ + _Po_ / _Ho_ (Thank You)
 
 Essential polite gratitude:
 
-- *Salamat po.*  
+- _Salamat po._  
   (Thank you.)
-- *Maraming salamat po.*  
+- _Maraming salamat po._  
   (Thank you very much.)
-- *Salamat ho sa tulong ninyo.*  
+- _Salamat ho sa tulong ninyo._  
   (Thank you for your help.)
 
-### *Hindi* + *Po* / *Ho* (No)
+### _Hindi_ + _Po_ / _Ho_ (No)
 
 Respectful negation:
 
-- *Hindi po.*  
+- _Hindi po._  
   (No. - respectful)
-- *Hindi ho.*  
+- _Hindi ho._  
   (No. - respectful)
-- *Hindi ko po alam.*  
+- _Hindi ko po alam._  
   (I don't know. - respectful)
 
-### Greetings + *Po* / *Ho*
+### Greetings + _Po_ / _Ho_
 
 Standard respectful greetings:
 
-- *Magandang umaga po.*  
+- _Magandang umaga po._  
   (Good morning.)
-- *Magandang hapon ho.*  
+- _Magandang hapon ho._  
   (Good afternoon.)
-- *Kumusta po kayo?*  
+- _Kumusta po kayo?_  
   (How are you?)
 
-### *Pasensya* + *Po* / *Ho* (Sorry/Excuse Me)
+### _Pasensya_ + _Po_ / _Ho_ (Sorry/Excuse Me)
 
 Polite apologies and excuses:
 
-- *Pasensya na po.*  
+- _Pasensya na po._  
   (I'm sorry. / Excuse me.)
-- *Pasensya po sa abala.*  
+- _Pasensya po sa abala._  
   (Sorry for the trouble.)
 
-### *Pwede* + *Po* / *Ho* (May I / Can I)
+### _Pwede_ + _Po_ / _Ho_ (May I / Can I)
 
 Polite requests for permission:
 
-- *Pwede po bang magtanong?*  
+- _Pwede po bang magtanong?_  
   (May I ask a question?)
-- *Pwede ho bang dumaan?*  
+- _Pwede ho bang dumaan?_  
   (May I pass through?)
-- *Pwede po ba?*  
+- _Pwede po ba?_  
   (Is it okay? / May I?)
 
 ### With Time and Location
 
 Adding respect to informational responses:
 
-- *Dito po.*  
+- _Dito po._  
   (Here.)
-- *Bukas po.*  
+- _Bukas po._  
   (Tomorrow.)
-- *Alas dos po.*  
+- _Alas dos po._  
   (Two o'clock.)
 
 ## Nuances and Tone
 
-The use of *po* and *ho* creates specific social dynamics and conveys respect.
+The use of _po_ and _ho_ creates specific social dynamics and conveys respect.
 
 ### Showing Respect for Hierarchy
 
 These particles acknowledge social position:
 
-- Younger to older: *always* use *po/ho*
-- Employee to employer: *always* use *po/ho*
-- Student to teacher: *always* use *po/ho*
-- Service provider to customer: *always* use *po/ho*
+- Younger to older: _always_ use _po/ho_
+- Employee to employer: _always_ use _po/ho_
+- Student to teacher: _always_ use _po/ho_
+- Service provider to customer: _always_ use _po/ho_
 
 ### Creating Social Distance (Positive)
 
-*Po/ho* maintains appropriate professional or respectful distance:
+_Po/ho_ maintains appropriate professional or respectful distance:
 
 - First meeting with someone older
 - Formal business contexts
@@ -271,122 +273,127 @@ These particles acknowledge social position:
 
 ### Showing Care and Warmth
 
-Despite creating distance, *po/ho* shows care and consideration:
+Despite creating distance, _po/ho_ shows care and consideration:
 
 - Demonstrates awareness of social norms
 - Shows you value the person
-- Indicates good upbringing (*magalang*)
+- Indicates good upbringing (_magalang_)
 - Creates trust through proper respect
 
 ### Regional and Generational Differences
 
 Usage varies across contexts:
 
-- Metro Manila: Very frequent use of *po*
-- Rural areas: May use *po/ho* more or less depending on region
+- Metro Manila: Very frequent use of _po_
+- Rural areas: May use _po/ho_ more or less depending on region
 - Younger generations: Sometimes less strict but still important
 - Professional settings: Universal expectation regardless of age
 
 ::: info Cultural Insight
-Not using *po/ho* when expected can be perceived as rude (*walang galang* - without respect) or indicate poor upbringing. It's better to overuse than underuse in formal contexts.
+Not using _po/ho_ when expected can be perceived as rude (_walang galang_ - without respect) or indicate poor upbringing. It's better to overuse than underuse in formal contexts.
 :::
 
 ## Common Mistakes
 
-### ❌ Mistake 1: Overusing *Po* in Every Position
+### ❌ Mistake 1: Overusing _Po_ in Every Position
 
-Using *po/ho* excessively sounds unnatural:
+Using _po/ho_ excessively sounds unnatural:
 
-- ❌ *Kumain po ako po ng po kanin po.*
-  (I ate rice. — overly inserting *po* on each word.)
-- ✅ *Kumain po ako ng kanin.*
-  (I ate rice. — natural placement of *po*.)
-- 💡 Use *po* once or twice per sentence, not on every word.
+- ❌ _Kumain po ako po ng po kanin po._
+  (I ate rice. — overly inserting _po_ on each word.)
+- ✅ _Kumain po ako ng kanin._
+  (I ate rice. — natural placement of _po_.)
+- 💡 Use _po_ once or twice per sentence, not on every word.
 
-### ❌ Mistake 2: Omitting *Po* When Speaking to Elders
+### ❌ Mistake 2: Omitting _Po_ When Speaking to Elders
 
-Forgetting to use *po/ho* with elders or authority figures:
+Forgetting to use _po/ho_ with elders or authority figures:
 
-- ❌ *Kumusta ka?*
+- ❌ _Kumusta ka?_
   (How are you? — said to an elder, disrespectful.)
-- ✅ *Kumusta po kayo?*
+- ✅ _Kumusta po kayo?_
   (How are you? — respectful.)
-- 💡 Always use *po/ho* with people older or in positions of authority.
+- 💡 Always use _po/ho_ with people older or in positions of authority.
 
-### ❌ Mistake 3: Using *Po* with Peers
+### ❌ Mistake 3: Using _Po_ with Peers
 
-Overusing *po/ho* with friends creates awkward distance:
+Overusing _po/ho_ with friends creates awkward distance:
 
-- ❌ *Tara na po tayo.*
+- ❌ _Tara na po tayo._
   (Let's go now. — said to a close friend, too formal.)
-- ✅ *Tara na tayo.*
+- ✅ _Tara na tayo._
   (Let's go now. — appropriate for peers.)
-- ✅ *Tara na po tayo.*
+- ✅ _Tara na po tayo._
   (Let's go now. — acceptable when addressing an older friend respectfully.)
-- 💡 Use *po/ho* based on age and relationship, not universally.
+- 💡 Use _po/ho_ based on age and relationship, not universally.
 
-### ❌ Mistake 4: Mixing *Ikaw* with *Po*
+### ❌ Mistake 4: Mixing _Ikaw_ with _Po_
 
-Using informal pronouns with *po* creates inconsistency:
+Using informal pronouns with _po_ creates inconsistency:
 
-- ❌ *Kumain ka na po?*
-  (Have you eaten? — mixing informal *ka* with formal *po*.)
-- ✅ *Kumain na po kayo?*
-  (Have you eaten? — consistent formality with *kayo*.)
-- 💡 When using *po/ho*, pair with formal pronouns (*kayo*, *ninyo*, *inyo*).
+- ❌ _Kumain ka na po?_
+  (Have you eaten? — mixing informal _ka_ with formal _po_.)
+- ✅ _Kumain na po kayo?_
+  (Have you eaten? — consistent formality with _kayo_.)
+- 💡 When using _po/ho_, pair with formal pronouns (_kayo_, _ninyo_, _inyo_).
 
 ### ❌ Mistake 5: Not Adjusting Based on Response
 
 Not matching the formality level of the conversation:
 
-- ❌ Continuing to use *po* after someone says "No need to be formal"
+- ❌ Continuing to use _po_ after someone says "No need to be formal"
 - ✅ Adjust based on social cues and explicit requests
-- 💡 If someone older says *"Huwag na mag-po"* (Don't use po), you can reduce usage while maintaining basic respect.
+- 💡 If someone older says _"Huwag na mag-po"_ (Don't use po), you can reduce usage while maintaining basic respect.
 
 ### ❌ Mistake 6: Wrong Pronoun System
 
 Forgetting to use the full formal pronoun set:
 
-- ❌ *Kumusta po ang araw mo?*
-  (How is your day? — mixing formal *po* with informal *mo*.)
-- ✅ *Kumusta po ang araw ninyo?*
-  (How is your day? — consistent with formal *ninyo*.)
+- ❌ _Kumusta po ang araw mo?_
+  (How is your day? — mixing formal _po_ with informal _mo_.)
+- ✅ _Kumusta po ang araw ninyo?_
+  (How is your day? — consistent with formal _ninyo_.)
 
-| Context | Informal | Formal (with po/ho) |
-| ------- | -------- | ------------------- |
-| You (subject) | *ka* / *ikaw* | *kayo* |
-| Your (possessive) | *mo* / *iyo* | *ninyo* / *inyo* |
-| To you | *sa iyo* | *sa inyo* |
+| Context           | Informal      | Formal (with po/ho) |
+| ----------------- | ------------- | ------------------- |
+| You (subject)     | _ka_ / _ikaw_ | _kayo_              |
+| Your (possessive) | _mo_ / _iyo_  | _ninyo_ / _inyo_    |
+| To you            | _sa iyo_      | _sa inyo_           |
 
-## When to Use *Po* / *Ho*
+## When to Use _Po_ / _Ho_
 
 ### Always Use With:
 
 #### Elders (Anyone Significantly Older)
+
 - Parents, grandparents, aunts, uncles
 - Elderly neighbors and community members
 - Older family friends
 - Anyone who could be your parent's age or older
 
 Examples:
-- *Kumusta po kayo, Lola?*  
+
+- _Kumusta po kayo, Lola?_  
   (How are you, Grandma?)
-- *Salamat po sa pagkain.*  
+- _Salamat po sa pagkain._  
   (Thank you for the food.)
 
 #### Strangers in Public
+
 - People you don't know (any age)
 - Service staff (even if younger)
 - Fellow passengers, shoppers, etc.
 - Anyone you're meeting for the first time
 
 Examples:
-- *Pwede po bang magtanong?*  
+
+- _Pwede po bang magtanong?_  
   (May I ask a question?)
-- *Pasensya po.*  
+- _Pasensya po._  
   (Excuse me.)
 
 #### Authority Figures and Superiors
+
 - Teachers, professors
 - Bosses, managers, supervisors
 - Government officials
@@ -395,12 +402,14 @@ Examples:
 - Doctors, lawyers, professionals (in professional context)
 
 Examples:
-- *Oo po, Sir.*  
+
+- _Oo po, Sir._  
   (Yes, Sir.)
-- *Naiintindihan ko po.*  
+- _Naiintindihan ko po._  
   (I understand.)
 
 #### Formal and Professional Settings
+
 - Job interviews
 - Business meetings
 - Customer service interactions (employee to customer)
@@ -409,57 +418,61 @@ Examples:
 - Academic presentations
 
 Examples:
-- *Magandang umaga po sa inyong lahat.*  
+
+- _Magandang umaga po sa inyong lahat._  
   (Good morning to everyone.)
-- *Mayroon po akong tanong.*  
+- _Mayroon po akong tanong._  
   (I have a question.)
 
 ### Usually Don't Use With:
 
 #### Close Friends of Similar Age
+
 - Childhood friends
 - Classmates
 - Close colleagues of same rank
 - Siblings (unless joking)
 
 #### Younger People (When You Are Significantly Older)
+
 - Children
 - Much younger relatives
 - Younger students (if you're a teacher)
 
 ::: warning Context Matters
-However, even with younger people, use *po/ho* in very formal settings (e.g., you're a witness and they're a young lawyer in court).
+However, even with younger people, use _po/ho_ in very formal settings (e.g., you're a witness and they're a young lawyer in court).
 :::
 
 #### Intimate/Casual Settings
+
 - Within immediate family (varies by family)
 - Very close friendships
 - Between romantic partners
 
 ::: info Family Variation
-Some families expect children to use *po* with parents always; others are more casual at home. Follow family norms.
+Some families expect children to use _po_ with parents always; others are more casual at home. Follow family norms.
 :::
 
 ## Cultural Context
 
-Understanding the cultural roots of *po* and *ho* deepens appropriate usage.
+Understanding the cultural roots of _po_ and _ho_ deepens appropriate usage.
 
-### Filipino Respect Culture (*Paggalang*)
+### Filipino Respect Culture (_Paggalang_)
 
-*Po* and *ho* embody core Filipino values:
+_Po_ and _ho_ embody core Filipino values:
 
-- **Respect for elders** (*paggalang sa nakakatanda*): Age commands respect
+- **Respect for elders** (_paggalang sa nakakatanda_): Age commands respect
 - **Hierarchy awareness**: Social structure is acknowledged and honored
-- **Humility** (*pagpapakumbaba*): Showing you don't consider yourself above others
-- **Good upbringing** (*magandang asal*): Using *po/ho* indicates proper family training
+- **Humility** (_pagpapakumbaba_): Showing you don't consider yourself above others
+- **Good upbringing** (_magandang asal_): Using _po/ho_ indicates proper family training
 
 ::: info Cultural Deep Dive
-*Paggalang* (respect) is one of the most important values in Filipino culture. Proper use of *po/ho* is a visible, immediate demonstration of this value.
+_Paggalang_ (respect) is one of the most important values in Filipino culture. Proper use of _po/ho_ is a visible, immediate demonstration of this value.
 :::
 
-### *Pakikisama* (Social Harmony)
+### _Pakikisama_ (Social Harmony)
 
-Using *po/ho* maintains smooth social relations:
+Using _po/ho_ maintains smooth social relations:
 
 - Prevents offense or perceived rudeness
 - Shows awareness of social dynamics
@@ -468,16 +481,16 @@ Using *po/ho* maintains smooth social relations:
 
 ### Regional and Class Variations
 
-*Po/ho* usage reflects social complexity:
+_Po/ho_ usage reflects social complexity:
 
 - Urban middle-class: Very consistent and expected usage
 - Rural areas: May vary by region and local customs
-- Wealthy/educated families: Often strict about children using *po*
+- Wealthy/educated families: Often strict about children using _po_
 - Working-class contexts: Usage varies but still important with elders
 
 ### Generational Shifts
 
-Modern changes in *po/ho* usage:
+Modern changes in _po/ho_ usage:
 
 - Younger generations sometimes less strict among peers
 - Social media creating more casual norms
@@ -485,19 +498,19 @@ Modern changes in *po/ho* usage:
 - Core rule (elders, strangers, authority) remains unchanged
 
 ::: warning Modern Context
-While some young people are more casual, not using *po/ho* appropriately can still seriously harm your reputation, especially in professional or traditional contexts.
+While some young people are more casual, not using _po/ho_ appropriately can still seriously harm your reputation, especially in professional or traditional contexts.
 :::
 
 ### Comparison with Other Cultures
 
-*Po/ho* is similar to:
+_Po/ho_ is similar to:
 
-- Spanish *usted* (formal "you")
-- Japanese *-san*, *-sama* (honorific suffixes)
+- Spanish _usted_ (formal "you")
+- Japanese _-san_, _-sama_ (honorific suffixes)
 - Korean honorific system
 - Thai formal particles
 
-However, *po/ho* is grammatically unique in its flexible positioning and non-exclusive use (can be used in any sentence position).
+However, _po/ho_ is grammatically unique in its flexible positioning and non-exclusive use (can be used in any sentence position).
 
 ## Practice Patterns
 
@@ -507,43 +520,43 @@ Focus on basic polite expressions and essential contexts.
 
 #### Pattern 1: Simple Affirmations
 
-- *Oo po.*  
+- _Oo po._  
   (Yes.)
-- *Opo.*  
+- _Opo._  
   (Yes. - contracted)
-- *Hindi po.*  
+- _Hindi po._  
   (No.)
 
 #### Pattern 2: Basic Greetings
 
-- *Magandang umaga po.*  
+- _Magandang umaga po._  
   (Good morning.)
-- *Magandang hapon ho.*  
+- _Magandang hapon ho._  
   (Good afternoon.)
-- *Magandang gabi po.*  
+- _Magandang gabi po._  
   (Good evening.)
 
 #### Pattern 3: Gratitude
 
-- *Salamat po.*  
+- _Salamat po._  
   (Thank you.)
-- *Maraming salamat ho.*  
+- _Maraming salamat ho._  
   (Thank you very much.)
 
 #### Pattern 4: Basic Questions
 
-- *Kumusta po kayo?*  
+- _Kumusta po kayo?_  
   (How are you?)
-- *Sino po kayo?*  
+- _Sino po kayo?_  
   (Who are you?)
-- *Saan po kayo nakatira?*  
+- _Saan po kayo nakatira?_  
   (Where do you live?)
 
 #### Pattern 5: Apologies and Excuses
 
-- *Pasensya po.*  
+- _Pasensya po._  
   (I'm sorry. / Excuse me.)
-- *Sorry po.*  
+- _Sorry po._  
   (Sorry.)
 
 ### Intermediate Level
@@ -552,45 +565,45 @@ Add context-specific politeness and proper pronoun usage.
 
 #### Pattern 1: Polite Requests
 
-- *Pwede po bang magtanong?*  
+- _Pwede po bang magtanong?_  
   (May I ask a question?)
-- *Pwede ho ba kayong tumulong?*  
+- _Pwede ho ba kayong tumulong?_  
   (Could you help?)
-- *Paumanhin po.*  
+- _Paumanhin po._  
   (Pardon me. - formal apology)
 
 #### Pattern 2: Formal Pronoun System
 
-- *Kumain na po ba kayo?*  
-  (Have you eaten already? - using formal *kayo*)
-- *Nasaan po ang bahay ninyo?*  
-  (Where is your house? - using formal *ninyo*)
-- *Ano po ang pangalan ninyo?*  
-  (What is your name? - using formal *ninyo*)
+- _Kumain na po ba kayo?_  
+  (Have you eaten already? - using formal _kayo_)
+- _Nasaan po ang bahay ninyo?_  
+  (Where is your house? - using formal _ninyo_)
+- _Ano po ang pangalan ninyo?_  
+  (What is your name? - using formal _ninyo_)
 
 #### Pattern 3: Service Contexts
 
-- *Makakatulong po ba ako?*  
+- _Makakatulong po ba ako?_  
   (May I help you?)
-- *Ano po ang kailangan ninyo?*  
+- _Ano po ang kailangan ninyo?_  
   (What do you need?)
-- *Sandali lang po.*  
+- _Sandali lang po._  
   (Just a moment, please.)
 
 #### Pattern 4: Making Statements Politely
 
-- *Pupunta po ako bukas.*  
+- _Pupunta po ako bukas._  
   (I will go tomorrow.)
-- *Nandito po ako.*  
+- _Nandito po ako._  
   (I am here.)
-- *Hindi ko po alam.*  
+- _Hindi ko po alam._  
   (I don't know.)
 
 #### Pattern 5: Extended Conversations
 
-- *Kumusta po kayo? Mabuti naman po ba?*  
+- _Kumusta po kayo? Mabuti naman po ba?_  
   (How are you? Are you well?)
-- *Salamat po sa inyong tulong. Napakalaking tulong ninyo.*  
+- _Salamat po sa inyong tulong. Napakalaking tulong ninyo._  
   (Thank you for your help. You've been very helpful.)
 
 ### Advanced Level
@@ -599,107 +612,107 @@ Master subtle formality adjustments and complex contexts.
 
 #### Pattern 1: Professional Contexts
 
-- *Magandang umaga po sa inyong lahat. Ako po si Juan at magiging speaker ninyo ngayong araw.*  
+- _Magandang umaga po sa inyong lahat. Ako po si Juan at magiging speaker ninyo ngayong araw._  
   (Good morning everyone. I am Juan and I will be your speaker today.)
-- *Mayroon po akong ilang tanong tungkol sa proposal.*  
+- _Mayroon po akong ilang tanong tungkol sa proposal._  
   (I have some questions about the proposal.)
 
 #### Pattern 2: Polite Disagreement
 
-- *Pasensya na po, pero hindi ko po masyadong naintindihan.*  
+- _Pasensya na po, pero hindi ko po masyadong naintindihan._  
   (I'm sorry, but I didn't quite understand.)
-- *Paumanhin po, pero palagay ko po ay may mali.*  
+- _Paumanhin po, pero palagay ko po ay may mali._  
   (Pardon me, but I think there's a mistake.)
 
 #### Pattern 3: Complex Requests
 
-- *Pwede po ba ninyong ulitin? Hindi ko po narinig nang maayos.*  
+- _Pwede po ba ninyong ulitin? Hindi ko po narinig nang maayos._  
   (Could you repeat that? I didn't hear it clearly.)
-- *Gusto ko po sanang magtanong tungkol sa schedule ninyo.*  
+- _Gusto ko po sanang magtanong tungkol sa schedule ninyo._  
   (I would like to ask about your schedule.)
 
 #### Pattern 4: Formal Introductions
 
-- *Ako po si Maria. Ikinalulugod ko pong makilala kayo.*  
+- _Ako po si Maria. Ikinalulugod ko pong makilala kayo._  
   (I am Maria. I'm pleased to meet you.)
-- *Kapatid po ni Ana, galing po ako sa probinsya.*  
+- _Kapatid po ni Ana, galing po ako sa probinsya._  
   (I'm Ana's sibling, I'm from the province.)
 
 #### Pattern 5: Adjusting Formality Based on Context
 
-Recognize when to use and when to reduce *po/ho*:
+Recognize when to use and when to reduce _po/ho_:
 
-- Starting formal: *Kumusta po kayo?*
-- If they say "Call me Kuya": *Kumusta, Kuya?* (reduce formality)
+- Starting formal: _Kumusta po kayo?_
+- If they say "Call me Kuya": _Kumusta, Kuya?_ (reduce formality)
 - But maintain in professional settings regardless
 
 #### Pattern 6: Cultural Nuances
 
-- *Kain po kayo.* (offering food respectfully)  
+- _Kain po kayo._ (offering food respectfully)  
   (Please eat.)
-- *Tuloy po kayo.* (inviting someone in)  
+- _Tuloy po kayo._ (inviting someone in)  
   (Please come in.)
-- *Ingat po kayo.* (bidding farewell)  
+- _Ingat po kayo._ (bidding farewell)  
   (Take care.)
 
 ## Summary
 
-Key points about *po* and *ho*:
+Key points about _po_ and _ho_:
 
 - **Primary function**: Politeness markers showing respect and deference
-- **Difference**: *Po* is slightly more formal than *ho*; both are appropriate
+- **Difference**: _Po_ is slightly more formal than _ho_; both are appropriate
 - **Position**: Flexible - usually end of sentence or after major phrase
 - **Essential contexts**: Elders, strangers, authority figures, formal settings
-- **Common combinations**: *Opo* (yes), *salamat po* (thank you), *hindi po* (no)
-- **Cultural role**: Embodies Filipino respect culture (*paggalang*) and social harmony
-- **Pronouns**: Use formal pronouns (*kayo*, *ninyo*, *inyo*) when using *po/ho*
+- **Common combinations**: _Opo_ (yes), _salamat po_ (thank you), _hindi po_ (no)
+- **Cultural role**: Embodies Filipino respect culture (_paggalang_) and social harmony
+- **Pronouns**: Use formal pronouns (_kayo_, _ninyo_, _inyo_) when using _po/ho_
 - **Common mistake**: Overuse in a single sentence or omitting when needed
 - **Learning focus**: Master basic polite expressions first, then context-appropriate usage
 
 ::: tip Mastery Approach
-When in doubt, err on the side of using *po/ho* rather than omitting it. Filipinos appreciate the effort to show respect, even if usage isn't perfect. Listen to how native speakers adjust formality in different contexts.
+When in doubt, err on the side of using _po/ho_ rather than omitting it. Filipinos appreciate the effort to show respect, even if usage isn't perfect. Listen to how native speakers adjust formality in different contexts.
 :::
 
 ## Practice Exercises
 
-### Exercise 1: Add *Po* for Respect
+### Exercise 1: Add _Po_ for Respect
 
 Transform these statements into respectful forms:
 
-1. *Kumusta ka?* → *Kumusta po kayo?*
-2. *Salamat.* → *Salamat po.*
-3. *Nasaan ang banyo?* → *Nasaan po ang banyo?*
-4. *Oo.* → *Oo po.* or *Opo.*
+1. _Kumusta ka?_ → _Kumusta po kayo?_
+2. _Salamat._ → _Salamat po._
+3. _Nasaan ang banyo?_ → _Nasaan po ang banyo?_
+4. _Oo._ → _Oo po._ or _Opo._
 
 ### Exercise 2: Identify Appropriate Contexts
 
-Determine if *po/ho* should be used:
+Determine if _po/ho_ should be used:
 
-1. Speaking to your grandmother → YES (*Kumusta po, Lola?*)
-2. Speaking to your best friend of the same age → NO (*Kumusta ka?*)
-3. Speaking to a security guard → YES (*Magandang umaga po.*)
-4. Speaking to your younger sibling → NO (*Tara na.*)
+1. Speaking to your grandmother → YES (_Kumusta po, Lola?_)
+2. Speaking to your best friend of the same age → NO (_Kumusta ka?_)
+3. Speaking to a security guard → YES (_Magandang umaga po._)
+4. Speaking to your younger sibling → NO (_Tara na._)
 
 ### Exercise 3: Fix the Pronoun System
 
 Correct these sentences to match formality:
 
-1. *Kumusta po ang araw mo?* → *Kumusta po ang araw ninyo?*
-2. *Salamat ho sa tulong mo.* → *Salamat ho sa tulong ninyo.*
-3. *Nasaan po ang bahay mo?* → *Nasaan po ang bahay ninyo?*
+1. _Kumusta po ang araw mo?_ → _Kumusta po ang araw ninyo?_
+2. _Salamat ho sa tulong mo._ → _Salamat ho sa tulong ninyo._
+3. _Nasaan po ang bahay mo?_ → _Nasaan po ang bahay ninyo?_
 
 ### Exercise 4: Practice Common Phrases
 
 Memorize and practice these essential polite expressions:
 
-1. *Opo.* (Yes, respectfully)
-2. *Salamat po.* (Thank you)
-3. *Pasensya na po.* (I'm sorry/Excuse me)
-4. *Pwede po bang magtanong?* (May I ask?)
+1. _Opo._ (Yes, respectfully)
+2. _Salamat po._ (Thank you)
+3. _Pasensya na po._ (I'm sorry/Excuse me)
+4. _Pwede po bang magtanong?_ (May I ask?)
 
 ### Exercise 5: Role-Play Scenarios
 
-Practice appropriate *po/ho* usage:
+Practice appropriate _po/ho_ usage:
 
 1. Meeting an elder for the first time
 2. Asking a stranger for directions

@@ -95,32 +95,16 @@
 
 :root {
   --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: linear-gradient(
-    120deg,
-    #a85d32 30%,
-    #d4956c
-  );
+  --vp-home-hero-name-background: linear-gradient(120deg, #a85d32 30%, #d4956c);
 
-  --vp-home-hero-image-background-image: linear-gradient(
-    -45deg,
-    #a85d32 50%,
-    #d4956c 50%
-  );
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #a85d32 50%, #d4956c 50%);
   --vp-home-hero-image-filter: blur(44px);
 }
 
 .dark {
-  --vp-home-hero-name-background: linear-gradient(
-    120deg,
-    #d4956c 30%,
-    #f0b88e
-  );
+  --vp-home-hero-name-background: linear-gradient(120deg, #d4956c 30%, #f0b88e);
 
-  --vp-home-hero-image-background-image: linear-gradient(
-    -45deg,
-    #d4956c 50%,
-    #f0b88e 50%
-  );
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #d4956c 50%, #f0b88e 50%);
 }
 
 /**
