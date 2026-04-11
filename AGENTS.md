@@ -41,6 +41,9 @@ The goal is to make a **clear, accurate, and organized grammar reference** that 
 - Deeper structures require explicit approval to prevent sprawl.
 - Each file must start with frontmatter; use the template in "Recommended Formatting Methods → 1. Frontmatter Template."
 - Add `#` title after frontmatter; use `##` for main sections and `###` for subsections (see "Recommended Formatting Methods → 1").
+- Meaningful `alt` text for images.
+- Semantic heading order without skipping levels.
+- Keep tables readable on narrow viewports (concise headers; avoid excessive columns).
 
 ---
 
@@ -61,25 +64,7 @@ Explain **focus system**, **affixation**, and **aspect**:
 - Include comparison tables for actor-focus vs object-focus.
 - Maintain `guide/verbs/verb-list.md` using the project’s grouped format:
   - Organize by root (e.g., `### kain (eat)`).
-  - Under each root, list one or more focus blocks with a 3‑column table:
-
-```md
-#### Actor
-
-| Aspect        | Conjugation | English   |
-| ------------- | ----------- | --------- |
-| Perfective    | _kumain_    | ate       |
-| Imperfective  | _kumakain_  | is eating |
-| Contemplative | _kakain_    | will eat  |
-
-#### Patient
-
-| Aspect        | Conjugation | English        |
-| ------------- | ----------- | -------------- |
-| Perfective    | _kinain_    | was eaten      |
-| Imperfective  | _kinakain_  | is being eaten |
-| Contemplative | _kakainin_  | will be eaten  |
-```
+  - Under each root, list one or more focus blocks with a 3‑column table; table layout and placeholders: see **Recommended Formatting Methods → 6. Verb List Pattern (Project)**.
 
 Notes:
 
@@ -89,16 +74,7 @@ Notes:
 
 ### 3. `phrases/`
 
-Organized by everyday context (greetings, travel, etc.). Use a two-column table format with one phrase per row.
-
-Preferred format:
-
-```md
-| Tagalog        | English           |
-| -------------- | ----------------- |
-| _Kumusta ka?_  | How are you?      |
-| _Magkano ito?_ | How much is this? |
-```
+Organized by everyday context (greetings, travel, etc.). Use a two-column table format with one phrase per row; see **Recommended Formatting Methods → 2. Tagalog Example Block Pattern** (phrase table).
 
 Guidelines:
 
@@ -151,30 +127,18 @@ Cultural notes relevant to communication:
 
 ---
 
-## 🔍 SEO and Accessibility
-
-- Include descriptive `title` and `description` in every frontmatter.
-- Use clear headings and meaningful section names.
-- Avoid keyword stuffing.
-- Provide meaningful alt text for any images.
-- Keep tables readable on mobile (concise headers; avoid excessive columns).
-- Use semantic heading order without skipping levels.
-
----
-
 ## ⚙️ Build and Deployment
 
 - Root directory: `docs/`
 - Output: `docs/.vitepress/dist`
 - Site config: `docs/.vitepress/config.ts`
-- Deploy targets: **Cloudflare Pages**, **GitHub Pages**, or **Netlify**
 - Recommended: enable link checking and sidebar configuration in VitePress config; fail CI on link errors.
 
 ---
 
 ## 🤖 Agent Behavior
 
-AI agents (Copilot, Cursor, ChatGPT, CodeRabbit, etc.) must:
+Agents working in this repository must:
 
 1. Follow this file as the **single source of truth**.
 2. Automatically generate Markdown pages from this structure.
@@ -206,20 +170,6 @@ Example:
 ```md
 This section will be written later.
 ```
-
----
-
-## 🧾 License
-
-All content is educational and open-source under **CC BY-SA 4.0**.
-Cite any reused materials properly.
-
----
-
-## 🧭 Summary
-
-**Goal:** Build a clear, complete, and consistent Tagalog learning reference site in Markdown using VitePress.
-**Priority:** Accuracy → Structure → Readability → Simplicity.
 
 ---
 
@@ -410,13 +360,4 @@ See also: [Verb Aspect](./aspect.md), [Affixes](./affixes.md)
 - No raw HTML unless needed for width / alt attributes.
 - No first-person narrative.
 
-### 15. Quality Checklist Before Commit
-
-- Frontmatter present; headings follow §1
-- Examples formatted per §2 (Tagalog italic + translation)
-- Tables follow §4–6 where applicable
-- "See also" links included per §12
-
 ---
-
-Adhering to these formatting methods ensures consistent pedagogy, scannability, and ease of maintenance across the Tagalog learning site.
