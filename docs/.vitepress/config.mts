@@ -13,7 +13,13 @@ export default defineConfig({
 	],
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
-		nav: [{ text: "Home", link: "/" }],
+		nav: [
+			{ text: "Home", link: "/" },
+			{ text: "Learning Path", link: "/learning-path" },
+			{ text: "Guide", link: "/guide/" },
+			{ text: "Phrases", link: "/phrases/" },
+			{ text: "Reference", link: "/reference/" },
+		],
 
 		search: {
 			provider: "local",
@@ -23,6 +29,7 @@ export default defineConfig({
 			{
 				text: "Guide",
 				items: [
+					{ text: "Learning Path", link: "/learning-path" },
 					{ text: "Overview", link: "/guide/index" },
 					{ text: "Pronunciation", link: "/guide/pronunciation" },
 					{ text: "Sentence Structure", link: "/guide/sentence-structure" },
@@ -41,6 +48,7 @@ export default defineConfig({
 			},
 			{
 				text: "Verbs",
+				collapsed: true,
 				items: [
 					{ text: "Focus System", link: "/guide/verbs/focus-system" },
 					{ text: "Affixes", link: "/guide/verbs/affixes" },
@@ -51,6 +59,7 @@ export default defineConfig({
 			},
 			{
 				text: "Particles",
+				collapsed: true,
 				items: [
 					{ text: "Overview", link: "/guide/particles/index" },
 					{ text: "Nga", link: "/guide/particles/emphasis/nga" },
@@ -132,6 +141,11 @@ export default defineConfig({
 			},
 		],
 
-		socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
+		socialLinks: [
+			{
+				icon: "github",
+				link: "https://github.com/Tsuyoshi84/tagalog-text-book",
+			},
+		],
 	},
 });

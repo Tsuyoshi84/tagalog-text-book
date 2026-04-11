@@ -48,4 +48,4 @@ Expressions should be learned in context. Pay attention to:
 Start with common expressions and emotional phrases for daily conversation. Idioms require more cultural knowledge and are best learned gradually.
 :::
 
-See also: [Cultural Etiquette](../culture/etiquette.md), [Daily Conversation](../phrases/daily-conversation.md)
+See also: [Learning Path](../learning-path.md), [Cultural Etiquette](../culture/etiquette.md), [Daily Conversation](../phrases/daily-conversation.md)

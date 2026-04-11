@@ -46,4 +46,4 @@ Each phrase follows a consistent format showing the Tagalog expression followed 
 Practice phrases in context by role-playing different scenarios. Focus on pronunciation and natural delivery rather than perfect grammar initially.
 :::
 
-See also: [Expressions](../expressions/index.md), [Cultural Etiquette](../culture/etiquette.md)
+See also: [Learning Path](../learning-path.md), [Expressions](../expressions/index.md), [Cultural Etiquette](../culture/etiquette.md)

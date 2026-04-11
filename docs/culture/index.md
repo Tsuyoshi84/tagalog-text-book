@@ -59,3 +59,5 @@ Cultural awareness enhances language proficiency by:
 - Enabling more authentic and respectful communication
 
 Understanding these cultural elements makes Tagalog learning more meaningful and practical for real-world interactions.
+
+See also: [Learning Path](../learning-path.md), [Guide](../guide/index.md), [Phrases](../phrases/index.md)

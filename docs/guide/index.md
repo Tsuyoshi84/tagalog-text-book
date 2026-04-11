@@ -8,6 +8,8 @@ outline: [2, 3]
 
 This guide provides comprehensive explanations of Tagalog grammar, covering pronunciation, sentence structure, parts of speech, and essential grammar concepts. Each section includes clear examples with English translations to help learners understand and apply Tagalog grammar rules.
 
+For a suggested order through the whole site (grammar, phrases, culture, and reference), see [Learning Path](../learning-path.md).
+
 ## Contents
 
 ### Basic Grammar
@@ -26,13 +28,21 @@ This guide provides comprehensive explanations of Tagalog grammar, covering pron
 
 ### Essential Grammar
 
+::: info Topic markers and discourse particles
+Topic and non-topic markers (_ang_, _ng_, _sa_, _si_ / _ni_, and linkers) are introduced in [sentence structure](./sentence-structure.md) and [parts of speech](./parts-of-speech.md). The [particles](./particles/index.md) section covers **discourse and modal particles** (_nga_, _naman_, _ba_, _na_ / _pa_, etc.) that express tone, emphasis, and timing.
+:::
+
 - [Time and Date](./time-date.md) - Expressing time, days, months, and dates
-- [Particles](./particles/index.md) - Important grammatical particles like _ang_, _ng_, _sa_, and linkers
+- [Particles](./particles/index.md) - Discourse and modal particles (_nga_, _naman_, _ba_, etc.); topic markers _ang_ / _ng_ / _sa_ appear under sentence structure and parts of speech
 - [Questions](./questions.md) - Forming questions and question words
 - [Connectors](./connectors.md) - Conjunctions and linking words
 - [Negation](./negation.md) - Expressing negation in different contexts
 
 ## How to Use This Guide
+
+### Sidebar navigation
+
+The site sidebar lists **Verbs** and **Particles** again under separate headings so subtopics stay one click away. Those entries point to the same pages linked in the lists above; the **Guide** group follows a broad teaching order, while **Verbs** and **Particles** groups favor quick lookup.
 
 Each section focuses on a specific grammar topic with:
 
@@ -45,4 +55,4 @@ Each section focuses on a specific grammar topic with:
 Start with pronunciation and sentence structure to build a foundation, then explore individual parts of speech. Practice with the examples provided in each section.
 :::
 
-See also: [Reference Section](../reference/index.md), [Phrases](../phrases/index.md)
+See also: [Learning Path](../learning-path.md), [Reference Section](../reference/index.md), [Phrases](../phrases/index.md)

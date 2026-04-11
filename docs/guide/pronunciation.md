@@ -6,6 +6,10 @@ outline: [2, 3]
 
 # Tagalog Pronunciation
 
+::: info Reference summary
+For a compact, chart-oriented overview (IPA, stress, quick lookup), see the [pronunciation guide](../reference/pronunciation-guide.md). This chapter introduces sounds and rules in a linear lesson style.
+:::
+
 Tagalog pronunciation is relatively straightforward for English speakers, as it follows consistent phonetic rules. Each letter typically represents one sound, making it easier to read and pronounce words once the basic sounds are learned.
 
 ## Vowels

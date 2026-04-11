@@ -6,7 +6,9 @@ outline: [2, 3]
 
 # Essential Tagalog Particles (Detailed Guide)
 
-This section provides in-depth explanations of Tagalog particles that are particularly challenging for non-native speakers. These particles carry nuanced meanings related to tone, emphasis, timing, and social context that are difficult to translate directly into English.
+This section covers **discourse and modal particles** — small words that shape tone, emphasis, timing, and attitude (_nga_, _naman_, _ba_, _na_, _pa_, etc.). **Topic and non-topic markers** such as _ang_, _ng_, and _sa_, plus personal markers _si_ / _ni_ and linkers, belong to clause structure and noun phrases; they are explained in [sentence structure](../sentence-structure.md) and [parts of speech](../parts-of-speech.md), not on the pages below.
+
+The particles here are particularly challenging for non-native speakers because they carry nuanced meanings related to tone, emphasis, timing, and social context that are difficult to translate directly into English.
 
 ::: tip Learning Strategy
 Master these particles gradually. Start with the most common ones (_nga_, _naman_, _na_, _pa_) before moving to more nuanced particles. Pay attention to context and tone in real conversations.
