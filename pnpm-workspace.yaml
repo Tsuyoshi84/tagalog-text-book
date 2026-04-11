@@ -1,0 +1,2 @@
+configDependencies:
+  '@pnpm/plugin-better-defaults': 0.3.0+sha512-J500v1tfdFlKXkvO0ivkwJlrTiKNa+2Yb6aX01719FPnH2fGuf9we0ObZRB3OoTetWEChLudHglNDYl7Z3+mLQ==
