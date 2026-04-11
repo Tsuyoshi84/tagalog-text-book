@@ -1,7 +1,7 @@
 # blockExoticSubdeps: true
 enableGlobalVirtualStore: true
 # enablePrePostScripts: false
-# ignorePatchFailures: false
+ignorePatchFailures: false
 minimumReleaseAge: 1440
 # optimisticRepeatInstall: true
 # resolutionMode: "lowest-direct"
