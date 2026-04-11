@@ -7,4 +7,4 @@ optimisticRepeatInstall: true
 resolutionMode: "lowest-direct"
 trustPolicy: "no-downgrade"
 trustPolicyIgnoreAfter: 10080
-# verifyDepsBeforeRun: "install"
+verifyDepsBeforeRun: "install"
